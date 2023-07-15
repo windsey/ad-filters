@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-15T12:37:24.103Z
+! Last modified: 2023-07-15T18:23:24.069Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -133,8 +133,10 @@
 ||bdates.fun^
 ||berylnbb.com^
 ||betcss.site^
+||bifyeldv.top^
 ||bkhblj.xyz^
 ||boewgph.icu^
+||bttazsyk.icu^
 ||caider.fun^
 ||chiese.site^
 ||ciadre.fun^
@@ -177,11 +179,13 @@
 ||hypwbv.xyz^
 ||hzhabei.cn^
 ||ipadf.xyz^
+||iplm.cc^
 ||jdcnwd.com^
 ||jhzfwl.cn^
 ||jokerlulm.com^
 ||jpqed.xyz^
 ||jrmrijv.icu^
+||jszavs1.com^
 ||jujcjz.xyz^
 ||kahgjjd.com^
 ||kgeesh.site^
@@ -195,6 +199,7 @@
 ||lwide.xyz^
 ||metaversemolecule.com^
 ||moobtcnse.xyz^
+||ngbthf.xyz^
 ||nieae.xyz^
 ||nryqr.cn^
 ||oifyeldk.top^
@@ -203,9 +208,12 @@
 ||pcvzpj.xyz^
 ||pirxzl.xyz^
 ||plbs9k.icu^
+||pmxalz.xyz^
 ||powedw.com^
 ||pstvvb.xyz^
 ||qifyeldy.top^
+||qqnde.xyz^
+||qselic.top^
 ||rdufuxr.icu^
 ||relafp.xyz^
 ||ronbbf.xyz^
@@ -216,6 +224,7 @@
 ||ssjuxsc.cn^
 ||tgbevv.xyz^
 ||tifyeldi.top^
+||tmwbszn.icu^
 ||tqdctl.xyz^
 ||uejdsw.com^
 ||ulojlvmejkaem.xyz^
@@ -233,13 +242,6 @@
 ||zcvyzsyd.icu^
 ||zerolcp.cn^
 ||zfcdirf.icu^
-||jszavs1.com^
-||tmwbszn.icu^
-||qselic.top^
-||pmxalz.xyz^
-||qqnde.xyz^
-||ngbthf.xyz^
-||iplm.cc^
 ||zfteiv.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
