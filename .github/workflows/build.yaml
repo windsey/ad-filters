@@ -1,0 +1,50 @@
+name: Filter adguard rule
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 5 */6 * * *
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions: write-all
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 1
+
+    - name: Setup node
+      uses: actions/setup-node@v3
+      with:
+        node-version: latest
+        check-latest: true
+
+    - name: Install HostlistCompiler
+      run: sudo npm i -g @adguard/hostlist-compiler
+
+    - name: Download rule files
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "action@github.com"
+        mkdir -p filters
+        for i in $(grep -v '^#' urls); do
+          if [ "${i##*/}" = "filter.txt" ]; then
+            name="${i%/filter.txt}"
+            name="${name##*/}.ori"
+            wget "$i" -O "filters/${name}"
+          else
+            name="${i##*/}"
+            wget "$i" -O "filters/${name/.txt/.ori}"
+          fi
+        done
+        [ -z "$(git diff)" ] || echo "PUSH=1" >> $GITHUB_ENV
+
+    - name: Convert filter rules to adguard format
+      if: ${{ env.PUSH == 1 }}  #sed '/^.\{1024,\}/d'
+      run: cd filters; for f in *.ori; do hostlist-compiler -i $f -o ${f/.ori/.txt}; echo ' '; done
+
+    - name: Push to Repository
+      if: ${{ env.PUSH == 1 }}
+      run: git add filters; git commit -m "Action at $(TZ=GMT-8 date +%Y%m%d\ %H:%M)"; git push
