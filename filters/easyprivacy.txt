@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-16T12:36:59.188Z
+! Last modified: 2023-07-16T18:23:32.694Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -156,7 +156,6 @@
 ||fn-pz.com^
 ||fpapi.io^
 ||fpcdn.io^
-||fpnpmcdn.net^
 ||fptls.com^
 ||fptls2.com^
 ||funnelserv.systems^

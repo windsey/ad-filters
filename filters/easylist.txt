@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-16T12:36:57.350Z
+! Last modified: 2023-07-16T18:23:31.171Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1728,6 +1728,7 @@
 ||adrokt.com^
 ||adrunnr.com^
 ||ads-delivery.b-cdn.net^
+||ads-static.conde.digital^
 ||ads-twitter.com^
 ||ads.rd.linksynergy.com^
 ||ads2550.bid^
