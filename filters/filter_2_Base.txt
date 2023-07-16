@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-16T06:24:46.485Z
+! Last modified: 2023-07-16T12:37:05.859Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4160,8 +4160,6 @@ rgmechanicsgames.com*VPN.exe
 .prebid-bundle.
 -detect-adblock.
 -120-600.
--120x300.
--120x400.
 -120x600-
 -120x600.
 -160-600.
@@ -4786,6 +4784,7 @@ rgmechanicsgames.com*VPN.exe
 ||5937081273.com^
 ||59987d951d.com^
 ||59a3e34c69.com^
+||59e5e13578.com^
 ||59e6ea7248001c.com^
 ||59eb44884d.com^
 ||5advertise.com^
@@ -10711,6 +10710,7 @@ rgmechanicsgames.com*VPN.exe
 ||ctengine.io^
 ||cteripre.com^
 ||ctiavxtakmw.com^
+||ctiotjobkfu.com^
 ||ctm-media.com^
 ||ctmdtrvikipjfv.xyz^
 ||ctnsnet.com^
@@ -20389,6 +20389,7 @@ rgmechanicsgames.com*VPN.exe
 ||orricesoxhlet.com^
 ||orrisesdepute.com^
 ||orrsuxapg.com^
+||orrtweqfaa.com^
 ||orthitepetrous.com^
 ||orthronsmatter.com^
 ||ortostrikehem.xyz^
@@ -29694,7 +29695,6 @@ rgmechanicsgames.com*VPN.exe
 ||ad.kubiccomps.icu^
 ||ad.moe.video^
 ||ad.netmedia.hu^
-||ad.outsidehub.com^
 ||ad.reklamport.com^
 ||ad.video-mech.ru^
 ||ad.wsod.com^
@@ -29718,7 +29718,6 @@ rgmechanicsgames.com*VPN.exe
 ||affiliate.mediatemple.net^
 ||affiliatepluginintegration.cj.com^
 ||ah.pricegrabber.com^
-||ak.imgaft.com^
 ||api.140proof.com^
 ||api.bitp.it^
 ||apps.media-lab.ai^
@@ -29750,8 +29749,6 @@ rgmechanicsgames.com*VPN.exe
 ||get.cryptobrowser.site^
 ||get.davincisgold.com^
 ||get.paradise8.com^
-||get.rubyroyal.com^
-||get.slotocash.com^
 ||get.thisisvegas.com^
 ||gfxa.sheetmusicplus.com^
 ||gg.caixin.com^
@@ -29759,7 +29756,6 @@ rgmechanicsgames.com*VPN.exe
 ||hbid.ams3.cdn.digitaloceanspaces.com^
 ||karma.mdpcdn.com^
 ||link.link.ru^
-||lp.ncdownloader.com^
 ||marketing.888.com^
 ||mbid.marfeelrev.com^
 ||media.netrefer.com^
