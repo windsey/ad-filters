@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-16T02:10:57.511Z
+! Last modified: 2023-07-16T06:24:42.759Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -250,6 +250,7 @@
 ||ewfsef.com^
 ||allcp.xyz^
 ||nqdufv.xyz^
+||jhlazsot.icu^
 ||zfteiv.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^

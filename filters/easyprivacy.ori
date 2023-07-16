@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 9Fv9HdzwueW9KkywibJDtw
-! Version: 202307160140
+! Checksum: kZsktBBEA70JE7iRhlhz5g
+! Version: 202307160602
 ! Title: EasyPrivacy
-! Last modified: 16 Jul 2023 01:40 UTC
+! Last modified: 16 Jul 2023 06:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -416,7 +416,6 @@
 /analyticstracking?
 /analyticstracking_
 /analytix/events
-/analyze.js^
 /anametrix/*
 /anapixel.
 /angular-tag.
@@ -33770,7 +33769,6 @@ arketing.indianadunes.com^
 @@||ucoz.net/cgi/uutils.fcg?$script,third-party
 @@||wargag.ru/public/js/counter.js?
 @@||widget.myrentacar.me^$script,subdocument
-@@||xtool.ru/js/analyze.js$script,domain=xtool.ru
 @@||yandex.ru/metrika/tag.js$script,domain=kuchenland.ru
 @@||yandex.ru/metrika/watch.js$domain=alean.ru|anoncer.net|nabortu.ru|samozapis-spb.ru|tv.yandex.ru|tvrain.ru
 @@||yandex.ru/watch/$xmlhttprequest,domain=anoncer.net
