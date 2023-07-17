@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-17T12:43:55.249Z
+! Last modified: 2023-07-17T18:25:57.875Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -650,7 +650,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
-||s.deepl.com^
+||tmserverside.mango.com^
 ||analytics.tedium.co^
 ||tracking.gnavi.co.jp^
 ||logcollector.note.com^
@@ -724,6 +724,7 @@
 ||astral.nicovideo.jp^
 ||eq-player-log.cdnext.stream.ne.jp^
 ||eq-beacon.stream.co.jp^
+||s.deepl.com^
 ||dorangesource.alicdn.com^
 ||t.9gag.com^
 ||track.ad.nl^
