@@ -1,10 +1,10 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-18T06:24:56.634Z
+! Last modified: 2023-07-18T12:38:48.312Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
-
+||coholy.com^
 ||mv.outbrain.com^
 ||douglaug.net^
 ||casize.com^
@@ -3937,6 +3937,7 @@ rgmechanicsgames.com*VPN.exe
 ||newopenx.detik.com^
 /^https?:\/\/ii\.apl\d+\.me\/js\/pop\.js$/
 ||consent.cookiefirst.com^$badfilter
+||ntuplay.xyz^$badfilter
 ||totaladblock.com^$badfilter
 @@||reports.adguard.com^
 ||nessainy.net^$badfilter
@@ -9937,7 +9938,6 @@ rgmechanicsgames.com*VPN.exe
 ||clickboothlnk.com^
 ||clickcash.com^
 ||clickcdn.co^
-||clickcease.com^
 ||clickco.net^
 ||clickexperts.net^
 ||clickgate.biz^
