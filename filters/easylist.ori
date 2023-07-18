@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: teTcAkybVtXzTFxfTizbmg
-! Version: 202307171801
+! Checksum: K2xWU/AxWz3V24YU5j5wBg
+! Version: 202307180140
 ! Title: EasyList
-! Last modified: 17 Jul 2023 18:01 UTC
+! Last modified: 18 Jul 2023 01:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10184,6 +10184,7 @@ _800x80_
 ##.ad-grid-container
 ##.ad-group
 ##.ad-grp
+##.ad-h
 ##.ad-h-250
 ##.ad-h-60
 ##.ad-halfpage
@@ -10805,6 +10806,7 @@ _800x80_
 ##.ad-units-single-header-wrapper
 ##.ad-update
 ##.ad-us
+##.ad-v
 ##.ad-vert
 ##.ad-vertical
 ##.ad-vertical-container
@@ -55636,6 +55638,7 @@ ultrabookreview.com###postadsside
 ultrabookreview.com###postzzif
 the-scientist.com###preHeader
 playok.com###pread
+adlice.com###preview-div
 talkbass.com###primary-products
 slashfilm.com###primis-container
 thestreamable.com###promo-signup-bottom-sheet
@@ -56229,6 +56232,7 @@ indianexpress.com##.add-first
 ians.in##.add-inner
 businessesview.com.au,holidayview.com.au,realestateview.com.au,ruralview.com.au##.add-item
 zeenews.india.com##.add-placeholder
+ndtv.com##.add-section
 moneycontrol.com##.add-spot
 media4growth.com##.add-text
 brandingmag.com##.add-wrap
@@ -56274,7 +56278,7 @@ games2jolly.com##.ads_310_610_sidebar_new
 metro.co.uk##.ads__index__adWrapper--cz7QL
 glanceoflife.com##.ads_margin
 lightnovelpub.com##.adsbox
-informer.com##.adsbygoogle
+adlice.com,informer.com##.adsbygoogle
 gayvegas.com,looktothestars.org,nintandbox.net,plurk.com,rockpasta.com,thebarentsobserver.com,tolonews.com,webtor.io##.adsense
 temporary-phone-number.com##.adsense-top-728
 101soundboards.com##.adsense_matched_content
