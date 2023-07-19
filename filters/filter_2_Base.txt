@@ -1,10 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-19T12:36:19.031Z
+! Last modified: 2023-07-19T18:22:47.862Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||dtadnetwork.com^
+||letterslamp.online^
 ||furded.com^
 ||evours.com^
 ||cpxckfridcxst.com^
@@ -149,7 +151,6 @@
 ||vltwoizzckpp.com^
 ||eodufofs.com^
 ||mveigehekwhq.com^
-||vgfutxwgq.com^
 ||xdvsijtlhr.com^
 ||fuckthat.xyz^
 ||afrdaqwukxu.com^
@@ -190,8 +191,6 @@
 ||all-ti-cod.com^
 ||major-t-code.com^
 ||covivado.club^
-||ecgopezooczg.com^
-||luqafzbdscd.com^
 ||tintedparticular.com^
 ||itchinglikely.com^
 ||iwistracks.com^
@@ -238,7 +237,6 @@
 ||xlwaluyw.com^
 ||oblongcondition.com^
 ||beqawu.xyz^
-||babchristen.xyz^
 ||wooden-comfort.com^
 ||kmyamhowpj.com^
 ||iuudbgnvgyswen.com^
@@ -365,12 +363,8 @@
 ||camsbanner.wtfgroup.co^
 ||ads.senmanga.com^
 ||fleraprt.com^
-||do.aeoliancorojo.com^
 ||jiphihizi.com^
 ||ep.umobile.pl^
-||ithyourretye.xyz^
-||excellernod.xyz^
-||designslicensedeep.com^
 ||reyormis.site^
 ||fiercedental.com^
 ||hathyneglu.com^
@@ -379,10 +373,7 @@
 ||vlogerads.com^
 ||flat-ads.com^
 ||takechaukr.com^
-||arechassista.top^
 ||advservert.com^
-||ad.kubicad.icu^
-||92291944cd.com^
 ||proverbnoncommittalvault.com^
 ||cloudaaaa.com^
 ||fxhpaoxqyajvmdg.
@@ -395,11 +386,9 @@
 ||androidtvchannels-pa.googleapis.com^
 ||androidtvwatsonfe-pa.googleapis.com^
 ||allsports4free.live^
-||bndmh4.com^
 ||jicypigra.com^
 ||turnipsoft.pubfinity.com^
 ||api.pubfinity.com^
-||978ea72276.com^
 ||clifads.com^
 ||api.clickaine.com^
 ||video-ads-module.ad-tech.nbcuni.com^
@@ -413,13 +402,11 @@
 ||qizjkwx9klim.com^
 ||freewheel-mtgx-tv.akamaized.net^
 ||unspeakablepurebeings.com^
-||untr.xyz^
 ||clickgate09.biz^
 ||bvmcdn.net^
 ||cdncont.com^
 ||heaplap.com^
 ||bbnfcfrvjs.com^
-||aduterra.com^
 ||lukomol.com^
 ||nothingnightingalejuly.com^
 ||stimulateartificial.com^
@@ -444,7 +431,6 @@
 ||purebushesprop.com^
 ||smeartoassessment.com^
 ||dadslimz.com^
-||awfulporetroys.casa^
 ||jqyde7msbro2.com^
 ||fwtrck.com^
 ||lajeshuru.pro^
@@ -468,7 +454,6 @@
 ||adsgig.com^
 ||ads.timesjobsandcareers.com^
 ||tpx.tesseradigital.com^
-||wolverdonfilmes.ml^
 ||spoilphysiqueteenagers.com^
 ||hannode.xyz^
 ||delivery.sexyxxx.biz^
@@ -480,7 +465,6 @@
 ||filterexchangecage.com^
 ||reluctanceleatheroptional.com^
 ||compareproprietary.com^
-||zwyymwy.com^
 ||directpaper.name^
 ||adcheap.network^
 ||temporarilybrancheshideous.com^
@@ -517,11 +501,9 @@
 ||sendmepush.com^
 ||sinsoftu.com^
 ||olineman.pro^
-||oukruque.com^
 ||laratlacrestot.pro^
 ||aleapeact.club^
 ||superonclick.com^
-||psoonsod.com^
 ||adserver.yahoo.com^
 ||chidsimp.com^
 ||zuzodoad.com^
@@ -532,8 +514,6 @@
 ||wachipho.net^
 ||psonstrentie.info^
 ||itad.linetv.tw^
-||jokoshep.com^
-||othepbuttit.com^
 ||getmyfreetraffic.com^
 ||jscdn.yieldbird.com^
 ||hb.headbidder.net^
@@ -565,7 +545,6 @@
 ||banner.dabi.ir^
 ||bundasnovinhas.com^
 ||cdn.adk2.com^
-||newviralmobistore.com^
 ||opt.ximad.com^
 ||tr553.com^
 ||track.bcvc.mobi^
@@ -626,7 +605,6 @@
 ||ads-dot-fbc-web-2018.uc.r.appspot.com^
 ||nugh2om.txxx.com^
 ||d13nu0oomnx5ti.cloudfront.net^
-||centent.steanplay.cc^
 ||dl.crazyporn.xxx^
 ||spyglass.octanime.net^
 ||ad.aceplanet.co.kr^
@@ -28012,6 +27990,7 @@ rgmechanicsgames.com*VPN.exe
 ||vitiumcranker.com^
 ||vitrealmandola.com^
 ||viviendoefelizz.online^
+||vivuple.xyz^
 ||viwthopfoakr.com^
 ||vixoafte.xyz^
 ||vizacasa.xyz^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-19T12:36:12.304Z
+! Last modified: 2023-07-19T18:22:38.643Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9931,6 +9931,7 @@
 ||funnysack.com^
 ||funnyvacant.com^
 ||funtoday.info^
+||furded.com^
 ||furiosocomique.com^
 ||furlsstealbilk.com^
 ||furnacemanagerstates.com^
@@ -24159,6 +24160,7 @@
 ||vitiumcranker.com^
 ||vitrealmandola.com^
 ||viviendoefelizz.online^
+||vivuple.xyz^
 ||viwthopfoakr.com^
 ||vixoafte.xyz^
 ||vizacasa.xyz^
