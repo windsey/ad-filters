@@ -1,10 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-19T06:23:36.138Z
+! Last modified: 2023-07-19T12:36:19.031Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||furded.com^
+||evours.com^
 ||cpxckfridcxst.com^
 ||weaptqsmbshwd.xyz^
 ||coholy.com^
@@ -6118,6 +6120,7 @@ rgmechanicsgames.com*VPN.exe
 ||afterwardspenal.com^
 ||afterwardstationquestions.com^
 ||aftrangale.com^
+||aftrk1.com^
 ||afwpc.com^
 ||agabreloomr.com^
 ||agacelebir.com^

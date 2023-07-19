@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-19T06:23:30.325Z
+! Last modified: 2023-07-19T12:36:13.747Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1000,8 +1000,8 @@
 ||gorgeousedge.com^
 ||gorgeousground.com^
 ||gracefulsock.com^
-||grandioseguide.com^
 ||grandfatherguitar.com^
+||grandioseguide.com^
 ||grandmotherunit.com^
 ||grayoranges.com^
 ||grayreceipt.com^
@@ -3972,6 +3972,7 @@
 ||telemetry.firez.one^
 ||telemetry.tradingview.com^
 ||tgt.maep.ibm.com^
+||thtk.temu.com^
 ||tilanalytics.timesinternet.in^
 ||tms.eharmony.ca^
 ||tms.hft.everyplate.com^

@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: OawxAsiqLQlixdest8ZdGw
-! Version: 202307190602
+! Checksum: lIsTnvR599qe2QslbADh2g
+! Version: 202307191210
 ! Title: EasyPrivacy
-! Last modified: 19 Jul 2023 06:02 UTC
+! Last modified: 19 Jul 2023 12:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2805,6 +2805,7 @@
 /seed.gif?
 /segment/api/*
 /segment/js/*
+/segmentify.js
 /segmentio.js
 /sendLogs?cid
 /sensor.modern.ncl.
@@ -7960,8 +7961,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gorgeousedge.com^
 ||gorgeousground.com^
 ||gracefulsock.com^
-||grandioseguide.com^
 ||grandfatherguitar.com^
+||grandioseguide.com^
 ||grandmotherunit.com^
 ||grayoranges.com^
 ||grayreceipt.com^
@@ -9845,6 +9846,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sayyac.com^$third-party
 ||sayyac.net^$third-party
 ||sitetistik.com^$third-party
+||sortext.com^$third-party
 ||visilabs.net^$third-party
 ||webservis.gen.tr^$third-party
 ||webtemsilcisi.com^$third-party
@@ -14460,6 +14462,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||thisiswhyimbroke.com/api/user/gift-guide-thumbnail-homepage/tracking
 ||thisiswhyimbroke.com/api/user/tracking
 ||thriftbooks.com/scripts/sp.js
+||thtk.temu.com^
 ||tiendeo.*/_statsapi/
 ||tiktok.com/captcha/report
 ||tiktok.com/v1/list
