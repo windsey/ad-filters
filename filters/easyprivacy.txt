@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-19T02:55:57.562Z
+! Last modified: 2023-07-19T06:23:30.325Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1001,6 +1001,7 @@
 ||gorgeousground.com^
 ||gracefulsock.com^
 ||grandioseguide.com^
+||grandfatherguitar.com^
 ||grandmotherunit.com^
 ||grayoranges.com^
 ||grayreceipt.com^
@@ -1534,6 +1535,7 @@
 ||shesubscriptions.com^
 ||shinesavage.com^
 ||shinestuart.com^
+||shirtsidewalk.com^
 ||shiveringspot.com^
 ||shiverscissors.com^
 ||shockinggrass.com^
@@ -3857,6 +3859,7 @@
 ||player-telemetry.vimeo.com^
 ||plenty.vidio.com^
 ||pm.dailykos.com^
+||pm.geniusmonkey.com^
 ||prairiedog.hashnode.com^
 ||privacy-api.9gag.com^
 ||privacyfriendly.netlify.app^
@@ -3959,6 +3962,7 @@
 ||target.nationwide.com^
 ||target.nejm.org^
 ||targeting.washpost.nile.works^
+||tc.geniusmonkey.com^
 ||td.airdroid.com^
 ||ted.dailymail.co.uk^
 ||telegraph.prd.api.max.com^
