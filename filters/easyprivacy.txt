@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-20T06:23:32.779Z
+! Last modified: 2023-07-20T12:37:36.039Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2173,6 +2173,7 @@
 ||collector.appconsent.io^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
+||collector.dmp.cnna.io^
 ||collector.getyourguide.com^
 ||collector.mazeberry.com^
 ||collector.sspinc.io^
@@ -2707,6 +2708,7 @@
 ||t.irtyc.com^
 ||t.jobsyn.org^
 ||t.menepe.com^
+||t.metrilo.com^
 ||t.pointandplace.com^
 ||t.pswec.com^
 ||t.raptorsmartadvisor.com^
@@ -2850,6 +2852,7 @@
 ||tracking.cerdmann.com^
 ||tracking.chilipiper.com^
 ||tracking.dealeranalytics.com^
+||tracking.diginetica.net^
 ||tracking.drum.io^
 ||tracking.dsmmadvantage.com^
 ||tracking.fanbridge.com^
@@ -21348,6 +21351,7 @@ arketing.indianadunes.com^
 ||link.subscribe.ru^
 ||log.ren.tv^
 ||log.rutube.ru^
+||metrika.kontur.ru^
 ||pixels.boxberry.ru^
 ||pulsarback.mail.ru^
 ||radar.imgsmail.ru^
