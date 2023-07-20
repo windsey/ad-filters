@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-20T12:37:36.039Z
+! Last modified: 2023-07-20T18:23:25.419Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2463,6 +2463,7 @@
 ||metrics.scribblelive.com^
 ||metrics.userguiding.com^
 ||metrix.emagister.com^
+||mj-snowplow-static-js.s3.amazonaws.com^
 ||mlweb.dmlab.hu^
 ||mmi.bemobile.ua^
 ||mon.domdog.io^
@@ -2486,6 +2487,7 @@
 ||onespot-tracking.herokuapp.com^
 ||open.delivery.net^
 ||optimeeze.appspot.com^
+||p.metrilo.com^
 ||p.placed.com^
 ||p.typekit.net^
 ||p.yotpo.com^
@@ -3594,6 +3596,7 @@
 ||analytics.global.sky.com^
 ||analytics.hashnode.com^
 ||analytics.kaggle.io^
+||analytics.kooapp.com^
 ||analytics.makeitmeme.com^
 ||analytics.ml.homedepot.ca^
 ||analytics.mouthshut.com^
@@ -3729,6 +3732,7 @@
 ||fathom.tdvm.net^
 ||fdt.kraken.com^
 ||firebaselogging.googleapis.com^
+||fp.heavybit.com^
 ||fp.measure.office.com^
 ||fpa-cdn.adweek.com^
 ||fpa-cdn.arstechnica.com^
