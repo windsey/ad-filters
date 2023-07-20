@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-20T01:38:16.860Z
+! Last modified: 2023-07-20T06:23:38.211Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4099,7 +4099,6 @@ rgmechanicsgames.com*VPN.exe
 .adsdk.
 .adserver.
 .adsremote.
-.advertrecycling.
 .box.ad.
 .clkads.
 .iads.js
@@ -22863,6 +22862,7 @@ rgmechanicsgames.com*VPN.exe
 ||recommendedseizedbewildered.com^
 ||recompensecombinedlooks.com^
 ||reconsiderallowinggunfire.com^
+||record.rizk.com^
 ||recordeditionneedful.com^
 ||recorderbenefactortriggers.com^
 ||recordervesttasting.com^
@@ -23387,7 +23387,6 @@ rgmechanicsgames.com*VPN.exe
 ||rivetrearrange.com^
 ||rivne.space^
 ||rixaka.com^
-||rizk.com^
 ||rjw4obbw.com^
 ||rkfodhkxmf.com^
 ||rkgwzfwjgk.com^
