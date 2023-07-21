@@ -1,10 +1,10 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-21T06:23:37.269Z
+! Last modified: 2023-07-21T12:35:30.882Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
-
+||eemreyrwkqwnv.top^
 ||okueroskynt.com^
 ||li.blogtrottr.com^
 ||jeannvalmvvvr.top^
@@ -562,6 +562,7 @@
 ||piguiqproxy.com^$badfilter
 ||samsungtvads.com^
 
+||zap.cdn.zynga.com^
 ||mv.outbrain.com^
 ||ads.sparkflow.net^
 ||d10fhz7gnk5369.cloudfront.net^

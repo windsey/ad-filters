@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-21T06:23:31.733Z
+! Last modified: 2023-07-21T12:35:24.007Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -154,6 +154,7 @@
 ||firstblackphase.com^
 ||fleraprt.com^
 ||fn-pz.com^
+||fourtimessmelly.com^
 ||fpapi.io^
 ||fpcdn.io^
 ||fptls.com^
@@ -243,6 +244,7 @@
 ||mrpdata.net^
 ||mt48.net^
 ||mxpnl.com^
+||mysingleromance.com^
 ||n0909.com^
 ||native-track.com^
 ||niblewren.co^
@@ -3621,6 +3623,7 @@
 ||analytics4.dashboard.fingerprint.com^
 ||anon-stats.eff.org^
 ||api-js.mixpanel.com^
+||api.privacyguides.net^
 ||appanalysis.banggood.com^
 ||assets.instacart.com^
 ||atrack.allposters.com^
