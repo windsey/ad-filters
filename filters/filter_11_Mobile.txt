@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-21T12:35:25.018Z
+! Last modified: 2023-07-21T18:23:23.878Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -277,7 +277,7 @@
 ||onlineapi.youappi.com^
 ||ssp.otm-r.com^
 ||networksdk.ssacdn.com^
-||ms.applvn.com^
+||ms*.applvn.com^
 ||tapsell.ir^
 ||jioads.akamaized.net^
 ||ajdivotdelbloab24.jio.com^

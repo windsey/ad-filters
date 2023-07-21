@@ -404,7 +404,7 @@
 ||onlineapi.youappi.com^
 ||ssp.otm-r.com^
 ||networksdk.ssacdn.com^
-||ms.applvn.com^
+||ms*.applvn.com^
 ||tapsell.ir^
 ||jioads.akamaized.net^
 ||ajdivotdelbloab24.jio.com^
@@ -1179,7 +1179,7 @@ e1.ru#?##app > div[class] > div[class]:has(> div[class] > a + div > svg[width="6
 bicycling.com#?#section > div[class]:has(> .ad-container)
 zockify.de#?#.embed-responsive:has(> .embed-responsive-item > .vm-placement)
 tagesspiegel.de#?#article div:has(> div[id^="iqadtile"])
-thepioneerwoman.com,roadandtrack.com,womansday.com,harpersbazaar.com,countryliving.com,womenshealthmag.com,autoweek.com#?#section > div[class*="css-"]:has(> div[id^="gpt-ad"])
+cosmopolitan.com,thepioneerwoman.com,roadandtrack.com,womansday.com,harpersbazaar.com,countryliving.com,womenshealthmag.com,autoweek.com#?#section > div[class*="css-"]:has(> div[id^="gpt-ad"])
 elle.com,elledecor.com,runnersworld.com#?#div[class*="css-"]:has(> div.ad-container)
 tmailweb.com#?#.row > div[class^="col-"]:has(> div.d-none > ins.adsbygoogle)
 popularmechanics.com#?#section > div[class*=" "]:has(> div[class]:first-child + .ad-container:last-child)
@@ -2915,15 +2915,20 @@ scmp.com,theinventory.com,avclub.com,clickhole.com,deadspin.com,gizmodo.com,jalo
 ! ##.ads
 memo.onl.jp,daily-sun.com,home.kingsoft.jp,berkem.ru,pixiv.net,cartoonpornvideos.com,m.economictimes.com,beethovenmaster.com,m.mistrzowie.org,m.ura.news,up.ymgt.xyz,google.de,www-bento-de.cdn.ampproject.org,m-economictimes-com.cdn.ampproject.org,m.winfuture.de##.ads
 ! ##.ad
-macwelt.de,pcwelt.de,xataka.com.mx,shikiho.toyokeizai.net,newsee-media.com,rank1-media.com,m.proporn.com,rakuraku-info.jp,sugoren.com,dailynewsonline.jp,yakuji.co.jp,asahi.com,m.winporn.com,slate.com,sankei.com,gameranbu.jp,seiga.nicovideo.jp,m.arukikata.co.jp,setn.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,hatenadiary.org,syosetu.org##.ad
+iyf.tv,macwelt.de,pcwelt.de,xataka.com.mx,shikiho.toyokeizai.net,newsee-media.com,rank1-media.com,m.proporn.com,rakuraku-info.jp,sugoren.com,dailynewsonline.jp,yakuji.co.jp,asahi.com,m.winporn.com,slate.com,sankei.com,gameranbu.jp,seiga.nicovideo.jp,m.arukikata.co.jp,setn.com,hateblo.jp,hatenablog.com,hatenablog.jp,hatenadiary.com,hatenadiary.jp,hatenadiary.org,syosetu.org##.ad
 !
 ! SECTION: Regular rules
 !
+||blogterest.net/regular/?i=$subdocument
+hatimitukarupisu.blogterest.net##.clickclick
+chijoshikakatan.blogterest.net##adroute
+chijoshikakatan.blogterest.net##random_link
+24tv.ua##div[id^="mobileBrandingPlace"]
+24tv.ua##app-video-adv-block
 themanual.com#$?#.b-mem-post--ads { remove: true; }
 wsj.com#?#div[class^="WhatsNewsTheme"] > div[class]:has(div[class] > div[class^="WSJTheme--adWrapper"])
 m.cafef.vn##div[id^="adm-slot-"]
 amp.dantri.com.vn##div[id^="xds-"]
-theinventory.com##.js_mobile-horizontal-ad
 outdoorlife.com#?##empire-unit-footer-close-btn
 outdoorlife.com#?#div[id^="empire-unit-sticky_footer__mobile"]
 aniporn.com##.header__item
@@ -4193,7 +4198,7 @@ inporn.com##.video__wrapper > div.header__item
 number.bunshun.jp##.container-banner-02
 number.bunshun.jp##div[style="text-align:center; border-top: 1px solid #f3f3f3; border-bottom: 1px solid #f3f3f3;"]
 kotaku.com##.ymal-mobile-ad-wrapper
-kotaku.com,gizmodo.com##.js_mobile-horizontal-ad
+avclub.com,deadspin.com,jalopnik.com,jezebel.com,qz.com,thetakeout.com,theinventory.com,kotaku.com,gizmodo.com##.js_mobile-horizontal-ad
 comic.pixiv.net##.w-screen.bg-surface4-default[data-testid="container"]
 laurier.excite.co.jp###exAsideRectangle
 refind2ch.org##.ads_sp_base
@@ -5173,7 +5178,7 @@ m.eprice.com.tw##.ad-320x100-g
 m.eprice.com.tw##.ad-300x250-g
 vz.ru##div[style="margin: 0px auto;width: 300px; padding: 20px 0px;"]
 ||m.8shuku.net/wap/tj1.js
-zaxid.net,24tv.ua##.mobileBrandingPlace
+zaxid.net##.mobileBrandingPlace
 scmp.com##div[class^="wrapper__mobile-wide-ad-container"]
 ichip.ru##.banner-info
 reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##article[id] > a[href^="https://alb.reddit.com/"] ~ *

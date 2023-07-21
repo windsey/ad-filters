@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-21T12:35:33.108Z
+! Last modified: 2023-07-21T18:23:31.528Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -446,7 +446,6 @@
 ||counter.yandro.ru^
 ||track-aws.notsy.io^
 ||track.notsy.io^
-||log.ca.gov.vn^
 ||ad-spire.net^
 ||i.moshimo.com^
 ||r.moshimo.com^
@@ -34093,7 +34092,6 @@ inapps.appsflyersdk.com^
 ||click.oneplus.cn^
 ||mapi-log.qoo*.jp^
 ||events.api.red.wemesh.ca^
-||prod-plague-bacon.miniclippt.com^
 ||logend.cookpad.com^
 ||viva.api.xiaoying.co^
 ||ub-xjp.vvbrd.com^
