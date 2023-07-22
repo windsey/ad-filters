@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-21T18:23:29.326Z
+! Last modified: 2023-07-22T01:37:47.069Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9528,6 +9528,7 @@ rgmechanicsgames.com*VPN.exe
 ||cfcloudcdn.com^
 ||cfehkwjupbrh.com^
 ||cfgr1.com^
+||cfivfadtlr.com^
 ||cfrsoft.com^
 ||cfrtvwybx.com^
 ||cfts1tifqr.com^
@@ -15115,6 +15116,7 @@ rgmechanicsgames.com*VPN.exe
 ||helic3oniusrcharithonia.com^
 ||heligh.com^
 ||helign.com^
+||hellmade.top^
 ||hellnebsh.live^
 ||hellocaterersomeone.com^
 ||helltraffic.com^

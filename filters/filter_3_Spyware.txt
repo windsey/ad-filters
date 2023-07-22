@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-21T18:23:31.528Z
+! Last modified: 2023-07-22T01:37:48.916Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||trafico.prensaiberica.es^
 ||collector-*.px-cloud.net^
 ||ediemidnightzombies.com^
 ||deqik.com^
