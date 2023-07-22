@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-22T06:21:30.528Z
+! Last modified: 2023-07-22T12:33:07.015Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -232,6 +232,7 @@
 ||ossfile001.com^
 ||toastspinner.com^
 ||qwdbsjnql.com^
+||bnfyzszm.icu^
 ||xckj0623.com^
 ||zonyff.xyz^
 ||zxrcfw.com^

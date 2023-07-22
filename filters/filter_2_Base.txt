@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-22T06:21:37.459Z
+! Last modified: 2023-07-22T12:33:14.471Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11288,7 +11288,6 @@ rgmechanicsgames.com*VPN.exe
 ||developmentgoat.com^
 ||developmentnewestrising.com^
 ||deviatemysticallocking.com^
-||devilaboundultimate.com^
 ||devilspanmute.com^
 ||devilwholehorse.com^
 ||devofei.xyz^
@@ -30507,7 +30506,6 @@ rgmechanicsgames.com*VPN.exe
 ||d3rjndf2qggsna.cloudfront.net^
 ||d3rkkddryl936d.cloudfront.net^
 ||d3rlh0lneatqqc.cloudfront.net^
-||d3rp5jatom3eyn.cloudfront.net^
 ||d3rr3d0n31t48m.cloudfront.net^
 ||d3rxqouo2bn71j.cloudfront.net^
 ||d3sdg6egu48sqx.cloudfront.net^
