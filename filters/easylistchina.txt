@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-23T06:22:22.775Z
+! Last modified: 2023-07-23T12:32:45.138Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -249,6 +249,7 @@
 ||nunxhv.com^
 ||dghhot.com^
 ||hiqua.xyz^
+||hubiazhi.com^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
