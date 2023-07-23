@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-23T01:45:06.214Z
+! Last modified: 2023-07-23T06:22:23.914Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -198,6 +198,7 @@
 ||hubty.network^
 ||i218435.net^
 ||ia-dmp.com^
+||iconmediapixel.com^
 ||iconnode.com^
 ||id5-sync.com^
 ||idx.lat^
@@ -2622,6 +2623,7 @@
 ||ssr.streamrail.net^
 ||st.cdnco.us^
 ||st.linkfire.com^
+||staging-pt.ispot.tv^
 ||starman.fathomdns.com^
 ||stas.outbrain.com^
 ||stat.absolutist.com^
