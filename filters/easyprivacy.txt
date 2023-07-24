@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-24T12:37:09.821Z
+! Last modified: 2023-07-24T18:24:51.054Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -21406,6 +21406,7 @@ arketing.indianadunes.com^
 ||ta.sanook.com^
 ||c.gazetevatan.com^
 ||d.haberler.com^
+||d.sondakika.com^
 ||hstats.hepsiburada.com^
 ||stats.birgun.net^
 ||counter.ukr.net^
