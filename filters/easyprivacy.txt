@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-24T06:24:29.896Z
+! Last modified: 2023-07-24T12:37:09.821Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3626,6 +3626,7 @@
 ||assets.instacart.com^
 ||atrack.allposters.com^
 ||ats.alot.com^
+||aurum.tirto.id^
 ||bat.maydream.com^
 ||bats.video.yahoo.com^
 ||beacon.dropbox.com^
@@ -4018,6 +4019,7 @@
 ||trackr.vivenu.com^
 ||treatment.grammarly.com^
 ||tredir.go.com^
+||trk.tirto.id^
 ||trx3.famousfix.com^
 ||ts.delfi.lt^
 ||ua.indianexpress.com^
