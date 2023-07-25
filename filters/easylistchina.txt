@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-25T01:49:47.219Z
+! Last modified: 2023-07-25T06:23:48.890Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -273,6 +273,7 @@
 ||jakid.xyz^
 ||lvrvdn.xyz^
 ||jpvrbt.xyz^
+||wzctuv.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
 ||zxrcfw.com^
