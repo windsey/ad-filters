@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-26T12:35:50.697Z
+! Last modified: 2023-07-26T18:21:42.965Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1307,18 +1307,13 @@
 ||behave.noen.at^
 ||beta.simpel.nl^
 ||bi-eventtracker-*.amazonaws.com^
-||bi-pipeline-collector.stylight.net^
 ||bia.brightinfo.com^
-||bl.impresa.pt^
 ||blue.fox8.com^
 ||blue.thehill.com^
 ||bonfire.spklw.com^
 ||boomerang.dell.com^
-||bournemouthecho-gb.bournemouthecho.co.uk^
-||br.phorm.com^
 ||broker.datazoom.io^
 ||bt.mediaimpact.de^
-||bt.phorm.com^
 ||buf.lemonde.fr^
 ||button.blogs.yandex.
 ||bwb101.goo.ne.jp^
@@ -1333,7 +1328,6 @@
 ||c.opinion.com.ua^
 ||c.pravo.ru^
 ||c.sibnet.ru^
-||c.t-online.de^
 ||c.tbex.ru^
 ||c.wort-suche.com^
 ||c.x.oanda.com^
@@ -1413,8 +1407,6 @@
 ||collector-cdn.github.com^
 ||collector-dev.cdp-dev.cnn.com^
 ||collector-hpn.ghostery.net^
-||collector-medium.lightstep.com^
-||collector.apester.com^
 ||collector.bunchbox.co^
 ||collector.cdp.cnn.com^
 ||collector.githubapp.com^
