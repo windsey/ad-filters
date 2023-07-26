@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-26T06:22:35.318Z
+! Last modified: 2023-07-26T12:35:41.842Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -284,6 +284,9 @@
 ||lmnpd.xyz^
 ||jzxpxj.xyz^
 ||mrqbuf.xyz^
+||sdchb2.com^
+||hslbahu.top^
+||mt4v4.com^
 ||znyjmbh.icu^
 ||u1022.com^
 ||parnett55.xyz^
