@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yFJEG4ldL5HG4Wj2gyBxcw
-! Version: 202307270602
+! Checksum: LbiuffTqcnbY7tmXQeds0g
+! Version: 202307271210
 ! Title: EasyList
-! Last modified: 27 Jul 2023 06:02 UTC
+! Last modified: 27 Jul 2023 12:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1462,7 +1462,6 @@
 /advertisements-
 /advertisements?
 /advertisements_
-/advertisers/*$domain=~ad-maven.com|~ads.pinterest.com|~datalift360.com|~home.tapjoy.com|~panel.rightflow.com|~propelmedia.com|~publisuites.com|~qubeslate.com
 /advertiserwidget.
 /advertising-$image,domain=~abramarketing.com|~advertising-direct.com|~advertising-excellence.com|~advertising-factory.de|~advertising-stands.com.ua|~advertising.amazon.com|~deals-italy.com|~microsoft.com|~outbrain.com|~yellowimages.com
 /advertising/banner_
@@ -14327,6 +14326,7 @@ _800x80_
 ##.banner_ad_full
 ##.banner_ad_leaderboard
 ##.banner_ad_link
+##.banner_ad_wrapper
 ##.banner_ads
 ##.banner_ads1
 ##.banner_ads_300x250
@@ -57815,6 +57815,7 @@ infowars.com##.css-1vj1npn
 healthline.com,medicalnewstoday.com##.css-1wm8u43
 stylist.co.uk##.css-8me5ln
 eviemagazine.com##.css-9n98hk
+nytimes.com##.css-bs95eu
 pgatour.com##.css-cl2hq
 eviemagazine.com##.css-ipk9pc
 nytimes.com##.css-oeful5

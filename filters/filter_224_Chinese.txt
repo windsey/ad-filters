@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-27T06:22:53.508Z
+! Last modified: 2023-07-27T12:36:11.654Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -412,6 +412,7 @@
 ||ssnnn.net^
 ||hghjks2.com^
 ||a9able.com^
+||uxtruz.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
