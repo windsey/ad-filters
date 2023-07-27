@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Bp+raKSkvaAHws4g3fUDJw
-! Version: 202307261751
+! Checksum: kdY/pR6b9+TN2IKVwIDHpg
+! Version: 202307270101
 ! Title: EasyList
-! Last modified: 26 Jul 2023 17:51 UTC
+! Last modified: 27 Jul 2023 01:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18532,6 +18532,7 @@ _800x80_
 ##.searchAd
 ##.searchAdTop
 ##.searchAds
+##.searchCenterBottomAds
 ##.searchResultAd
 ##.searchSponsorItem
 ##.search_results_ad
@@ -21300,6 +21301,7 @@ browsershots.org#@#.advert_area
 ||1ts19.top^
 ||1upload43ver1.monster^
 ||1web.me^
+||1xlite-208883.top^
 ||1xlite-510677.top^
 ||1xroom.com^
 ||200088d4e2.com^
@@ -25633,6 +25635,7 @@ browsershots.org#@#.advert_area
 ||bongacams7.com^
 ||bonnetiere-infrangible-burthening.xyz^
 ||bonnettaking.com^
+||bonnnesfoxily.com^
 ||bonus-app.net^
 ||bonusaward.life^
 ||bonuscontract.com^
@@ -26844,6 +26847,7 @@ browsershots.org#@#.advert_area
 ||cixaxuyu.xyz^
 ||cizare.xyz^
 ||cjduubvrm.com^
+||cjewz.com^
 ||cjf25jklrwqt.com^
 ||cjkfkratwkls.com^
 ||cjqncwfxrfrwbdd.com^
@@ -39104,6 +39108,7 @@ browsershots.org#@#.advert_area
 ||ponyresentment.com^
 ||ponysuggested.com^
 ||ponyvictorymiscarriage.com^
+||pooboqxoh.xyz^
 ||poodledopas.cam^
 ||poogriry.click^
 ||pookapsa.net^
@@ -40707,6 +40712,7 @@ browsershots.org#@#.advert_area
 ||resigndictationhorns.com^
 ||resignedsauna.com^
 ||resilesfuriant.guru^
+||resinyanthdia.com^
 ||resistcorrectly.com^
 ||resistsarcasm.com^
 ||resizerlooch.com^
@@ -43072,6 +43078,7 @@ browsershots.org#@#.advert_area
 ||strumascarman.life^
 ||strungglancedrunning.com^
 ||stthykerewasn.com^
+||stuchoug.com^
 ||stuckencouragedscalpel.com^
 ||stucktimeoutvexed.com^
 ||studads.com^
@@ -45779,6 +45786,7 @@ browsershots.org#@#.advert_area
 ||vocalconferencesinister.com^
 ||vocalreverencepester.com^
 ||vocath.com^
+||vodjnqarncm.com^
 ||vodobyve.pro^
 ||voeunblk.com^
 ||vogmlpzlnrj.com^
@@ -48950,6 +48958,7 @@ browsershots.org#@#.advert_area
 ||1redirc.com^$popup
 ||1ts17.top^$popup
 ||1ueikseq1.com^$popup
+||1xlite-208883.top^$popup
 ||1xlite-510677.top^$popup
 ||21find.com^$popup
 ||22bettracking.online^$popup
@@ -49696,6 +49705,7 @@ browsershots.org#@#.advert_area
 ||dealingdisarrayanniversary.com^$popup
 ||debrium-surbara.com^$popup
 ||decencyjessiebloom.com^$popup
+||deckedsi.com^$popup
 ||declaredpolitics.com^$popup
 ||decorationproducer.com^$popup
 ||dedating.online^$popup
@@ -50417,6 +50427,7 @@ browsershots.org#@#.advert_area
 ||iopiopiop.org.^$popup
 ||iopiopiop.org^$popup
 ||irkantyip.com^$popup
+||ironweaver.top^$popup
 ||irrelevantassassinclaim.com^$popup
 ||irtya.com^$popup
 ||isawthenews.com^$popup
@@ -61934,6 +61945,7 @@ trannygem.com##a[href^="https://landing.transangelsnetwork.com/"]
 datingpornstar.com##a[href^="https://mylinks.fan/"]
 forums.socialmediagirls.com##a[href^="https://secure.chewynet.com/"]
 smutr.com##a[href^="https://smutr.com/?action=trace"]
+allaboutcd.com##a[href^="https://thebreastformstore.com/"]
 forums.socialmediagirls.com##a[href^="https://viralporn.com/"][href*="?utm_"]
 myreadingmanga.info##a[href^="https://www.dlsite.com/"]
 myreadingmanga.info##a[href^="https://www.gaming-adult.com/"]
