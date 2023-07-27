@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: V3ul+TGpkn5vI1yBIYMvsQ
-! Version: 202307271210
+! Checksum: laEKrnG62TP/3l4VkbSNuw
+! Version: 202307271750
 ! Title: EasyPrivacy
-! Last modified: 27 Jul 2023 12:10 UTC
+! Last modified: 27 Jul 2023 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32678,6 +32678,7 @@ arketing.indianadunes.com^
 ||suumo.jp^*/tag/
 ||sy.amebame.com^
 ||sy.ameblo.jp^
+||t.syosetu.org^
 ||track.buyma.com^
 ||tracking.game8.jp^
 ||tracking.gnavi.co.jp^

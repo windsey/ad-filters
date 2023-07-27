@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-27T12:36:09.883Z
+! Last modified: 2023-07-27T18:21:50.062Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -21282,6 +21282,7 @@ arketing.indianadunes.com^
 ||stats.nhk.or.jp^
 ||sy.amebame.com^
 ||sy.ameblo.jp^
+||t.syosetu.org^
 ||track.buyma.com^
 ||tracking.game8.jp^
 ||tracking.gnavi.co.jp^

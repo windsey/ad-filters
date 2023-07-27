@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-27T12:36:11.654Z
+! Last modified: 2023-07-27T18:21:51.895Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -413,6 +413,8 @@
 ||hghjks2.com^
 ||a9able.com^
 ||uxtruz.xyz^
+||8861198.com^
+||xiaoy.name^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
