@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-28T01:24:55.727Z
+! Last modified: 2023-07-28T06:22:43.715Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -320,6 +320,9 @@
 ||liitwrz.icu^
 ||tptp002.cfd^
 ||bzxvtj.xyz^
+||statisfile.com^
+||rtborp.xyz^
+||nnqwe.xyz^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
