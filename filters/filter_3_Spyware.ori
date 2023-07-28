@@ -535,6 +535,7 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||swetrix.org^$third-party
 ||getter.cfd^
 ||plausible.io^$third-party
 ||tgtag.io^$third-party
@@ -4316,6 +4317,7 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||ambiguousdinosaurs.com^$third-party
 ||childlikeexample.com^$third-party
 ||adamantsnail.com^$third-party
 ||healflowers.com^$third-party
@@ -62097,6 +62099,8 @@ inapps.appsflyersdk.com^
 !#endif
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/157508
+@@||js.datadome.co/tags.js$domain=account.samsung.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/157549
 @@||googletagmanager.com/gtm.js$domain=larousse.fr
 ! https://github.com/AdguardTeam/AdguardFilters/issues/157420

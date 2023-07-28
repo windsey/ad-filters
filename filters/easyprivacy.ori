@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: YDw3Q5PTSoOMceLV1t6oKA
-! Version: 202307281210
+! Checksum: YN64EtX8cp4chvtyE9/vZQ
+! Version: 202307281750
 ! Title: EasyPrivacy
-! Last modified: 28 Jul 2023 12:10 UTC
+! Last modified: 28 Jul 2023 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6624,6 +6624,7 @@ _mongo_stats/
 ||surveyscout.com^$third-party
 ||surveywriter.com^$third-party
 ||survicate.com^$third-party
+||swetrix.org^$third-party
 ||swiss-counter.com^$third-party
 ||synergy-e.com^$third-party
 ||synerise.com^$third-party
