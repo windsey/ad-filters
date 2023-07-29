@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-28T18:20:20.639Z
+! Last modified: 2023-07-29T01:25:12.102Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -948,6 +948,7 @@
 ||floodprincipal.com^
 ||flowerstreatment.com^
 ||flowerycreature.com^
+||floweryfact.com^
 ||floweryflavor.com^
 ||floweryoperation.com^
 ||foamyfood.com^

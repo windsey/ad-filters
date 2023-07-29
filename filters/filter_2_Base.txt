@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-28T18:20:26.189Z
+! Last modified: 2023-07-29T01:25:18.756Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -23304,7 +23304,6 @@ rgmechanicsgames.com*VPN.exe
 ||rebillsegomism.com^
 ||rebindskayoes.com^
 ||rebiraert.com^
-||rebrand.ly^
 ||rebrea.com^
 ||rebrew-foofteen.com^
 ||rebrickstowp.com^
