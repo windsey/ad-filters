@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ydq+VgWXP2c3reCkb8fBng
-! Version: 202307290550
+! Checksum: BPCsRG5yyS0W4P/6qy5GwA
+! Version: 202307291201
 ! Title: EasyPrivacy
-! Last modified: 29 Jul 2023 05:50 UTC
+! Last modified: 29 Jul 2023 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10111,6 +10111,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ariane.abtasty.com^
 ||arkoselabs.com/metrics/
 ||asayer.io/tracker.js
+||assets.yumpu.com/release/*/tracking.js
 ||asterpix.com/tagcloudview/
 ||at.cbsi.com^*/event?
 ||atcdn.co.uk/frostbite/
@@ -10509,6 +10510,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d2wa5sea6guof0.cloudfront.net^
 ||dadi.technology^$third-party
 ||dash.getsitecontrol.com^
+||dashboard.nowdialogue.com/api/events/
 ||data.circulate.com^
 ||data.digitalks.az^
 ||data.eetech.com^
@@ -10796,6 +10798,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||geo.query.yahoo.com^$~xmlhttprequest,domain=~mail.yahoo.com
 ||geo.thehindu.com^
 ||geobar.ziffdavisinternational.com^
+||geoip.apps.avada.io^
 ||geoip.instiengage.com^
 ||geoip.nekudo.com^
 ||geolocation.outreach.com^
