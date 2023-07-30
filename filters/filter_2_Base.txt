@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-30T06:21:24.197Z
+! Last modified: 2023-07-30T12:32:42.028Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11831,7 +11831,6 @@ rgmechanicsgames.com*VPN.exe
 ||doublepimp.com^
 ||doublepimpssl.com^
 ||doublerecall.com^
-||doubleverify.com^
 ||doubleview.online^
 ||doubtcigardug.com^
 ||doubtlesshealthydocument.com^
@@ -24223,6 +24222,7 @@ rgmechanicsgames.com*VPN.exe
 ||sacredperpetratorbasketball.com^
 ||sacrip.com^
 ||sadbasindinner.com^
+||sadflannel.com^
 ||sadjklq.com^
 ||sadjune.com^
 ||sadorsagreeng.com^

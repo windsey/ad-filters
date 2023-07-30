@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EyUi/YdkXn2znrTG0mxwOQ
-! Version: 202307300550
+! Checksum: SH0s0A7ZIP5K5Bg+SH97jA
+! Version: 202307301201
 ! Title: EasyList
-! Last modified: 30 Jul 2023 05:50 UTC
+! Last modified: 30 Jul 2023 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20017,6 +20017,7 @@ _800x80_
 ##[data-role="tile-ads-module"]
 ##[data-template-type="nativead"]
 ##[data-testid="ad_testID"]
+##[href="//jjgirls.com/sex/ChaturbateCams"]
 ##[href="//sexcams.plus/"]
 ##[href="https://jdrucker.com/gold"] > img
 ##[href="https://masstortfinancing.com"] img
@@ -41303,6 +41304,7 @@ browsershots.org#@#.advert_area
 ||sacredperpetratorbasketball.com^
 ||sacrip.com^
 ||sadbasindinner.com^
+||sadflannel.com^
 ||sadjklq.com^
 ||sadjune.com^
 ||sadorsagreeng.com^
@@ -54530,6 +54532,7 @@ browsershots.org#@#.advert_area
 ||vodconcepts.com^*/banners/
 ||vs3.com/_special/banners/
 ||vs4.com/req.php?z=
+||vtbe.to/vtu_$script
 ||webcams.com/js/im_popup.php?
 ||webcams.com/misc/iframes_new/
 ||widget.faphouse.com^$third-party
@@ -55579,6 +55582,7 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|9anime.id|adbl
 ||hentaidude.xxx/wp-content/plugins/script-manager/
 ||hentaifox.com/js/ajs.js
 ||hentaifox.com/js/slider.js
+||hentaihere.com/arkNVB/
 ||hentairules.net/gal/new-gallery-dump-small.gif
 ||hentaiworld.tv/banners-script.js
 ||here.xxx/ads.js
@@ -56106,6 +56110,7 @@ post-gazette.com###benn-poll-iframe-container
 safetydetectives.com###best_deals_widget
 dcnewsnow.com,ktla.com###bestreviews-widget
 usnews.com###bfad-slot
+gameophobias.com,hindimearticles.net,solution-hub.com###bfix2
 shellshock.io###big-house-ad
 bentoneveningnews.com,dailyregister.com,dailyrepublicannews.com###billBoardATF
 versus.com###bill_bottom
@@ -62242,6 +62247,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||z.moatads.com^$script,domain=standard.co.uk
 @@||zohopublic.com^*/ADManager_$subdocument,xmlhttprequest,domain=manageengine.com|zohopublic.com
 ! Webcompat fixes (Avoid any potential filters being applied to non-ad domains)
+@@||challenges.cloudflare.com/turnstile/$script
 @@||google.com/recaptcha/$csp,subdocument
 @@||google.com/recaptcha/api.js
 @@||google.com/recaptcha/enterprise.js
