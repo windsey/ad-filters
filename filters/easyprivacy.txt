@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-31T01:35:23.491Z
+! Last modified: 2023-07-31T06:23:43.527Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2177,6 +2177,7 @@
 ||collect.usefathom.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
+||collector-soompi.viki.io^
 ||collector.api.video^
 ||collector.appconsent.io^
 ||collector.automote.co.nz^
