@@ -1840,7 +1840,7 @@ ifeng.com###qrCode
 obi.ru#$#.obi-iphone div.off-canvas-outer > #Main-Content { padding-top: 85px !important; }
 obi.ru#$#.obi-android div.off-canvas-outer > #Main-Content { padding-top: 85px !important; }
 dict.hinkhoj.com##.new_app_ne_div
-analyticsvidhya.com,mega.nz,latestlaws.com,express.co.uk,yan.vn,mobil.n-tv.de,buyon.ru##.download-app
+mi.com,analyticsvidhya.com,mega.nz,latestlaws.com,express.co.uk,yan.vn,mobil.n-tv.de,buyon.ru##.download-app
 tvr.by##.middle-banner-row
 makeup.com.ua##.pwa-notice
 tw.stock.yahoo.com##a[href="https://yahoomode.tumblr.com/yahooapp/#stock"] > img
@@ -2872,6 +2872,7 @@ m.tokopedia.com#$#div[data-testid="divOverlay"] { display: none!important; }
 ! causes some issues: https://github.com/AdguardTeam/AdguardForMac/issues/550
 ~lafenice.io,~kurer-sreda.ru,~chorki.com,~zattoo.com,~zaycev.net,~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 !
+echofm.online##.sc-1bb19780-0
 m.yelp.de#?#div[class*="overlay_"]:has(> a[aria-label="Download the Yelp app"])
 m.yelp.de#$#html { overflow: auto !important; position: static !important; }
 m.avtovokzaly.ru###mobileAppBlock
