@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-01T06:24:47.559Z
+! Last modified: 2023-08-01T12:36:32.266Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -34415,7 +34415,6 @@ inapps.appsflyersdk.com^
 ||viva.api.xiaoying.co^
 ||ub-xjp.vvbrd.com^
 ||rtlog*.tiktokv.com^
-||uts-front.line-apps.com^
 ||nelo2-col.linecorp.com^
 ||msga.cupid.iqiyi.com^
 ||ndct-data.video.iqiyi.com^
