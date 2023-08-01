@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-07-31T18:22:15.420Z
+! Last modified: 2023-08-01T01:43:32.743Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -34233,6 +34233,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||gamestats.easybrain.com^
 ||am.yahoo.co.jp^
 ||b99.yahoo.co.jp^
 ||logs13.xiti.com^
