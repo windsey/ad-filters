@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: WT7eXDtVpExh0B4LZb6NEw
-! Version: 202308011210
+! Checksum: 4kROj9FgTaFBxytHtZJqTQ
+! Version: 202308011750
 ! Title: EasyPrivacy
-! Last modified: 01 Aug 2023 12:10 UTC
+! Last modified: 01 Aug 2023 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1747,7 +1747,6 @@
 /linktracking.
 /livecounter.php?wid=
 /livestats.js
-/livestats.php?
 /livezilla/server.php?request=track&
 /ljcounter/*
 /llbmetrics.
@@ -32678,6 +32677,7 @@ arketing.indianadunes.com^
 ||tsite.jp/static/analytics/
 ||tv-asahi.co.jp/official/logging?
 ||view.fujitv.co.jp^
+||wowow.co.jp/API/new_prg/get_tracking_url.php
 ||x.allabout.co.jp^
 ||yahoo.co.jp/b?p=
 ||yahoo.co.jp/p?
