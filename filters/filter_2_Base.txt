@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-02T01:24:04.568Z
+! Last modified: 2023-08-02T06:22:30.207Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3405,6 +3405,7 @@
 ||xml-v4.adsupplyexchange.com^
 ||xml-v4.adtapmedia.com^
 ||xml-v4.adtube.media^
+||xml-v4.afront.io^
 ||xml-v4.benrif-solutions.com^
 ||xml-v4.clickcpcads.com^
 ||xml-v4.clickmeniaads.com^
@@ -3472,6 +3473,7 @@
 ||xml.adxfactory.com^
 ||xml.adzestocp.com^
 ||xml.adzgame.com^
+||xml.afront.io^
 ||xml.aimkweb.com^
 ||xml.babanetwork.net^
 ||xml.bappaads.com^
@@ -5941,7 +5943,6 @@ rgmechanicsgames.com*VPN.exe
 ||africaewgrhdtb.com^
 ||africawin.com^
 ||afriflatry.co^
-||afront.io^
 ||afshanthough.pro^
 ||afssdmin.com^
 ||afswkdjdma.com^

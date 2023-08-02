@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-02T01:23:57.050Z
+! Last modified: 2023-08-02T06:22:22.779Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -27715,6 +27715,7 @@
 ||montent.powzers.lol^
 ||nontent.powzers.lol^
 ||oontent.powzers.lol^
+||plutonium.cointelegraph.com^
 ||pontent.powzers.lol^
 ||prebid-server.newsbreak.com^
 ||prod-sponsoredads.mkt.zappos.com^
