@@ -535,6 +535,7 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||track.lemmatechnologies.com^
 ||wiseref.com^$third-party
 ||swetrix.org^$third-party
 ||getter.cfd^
@@ -1603,7 +1604,6 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ||adwstats.com^
 ||smallbeginner.com^$third-party
 ||omappapi.com^$third-party
-||lt.logly.co.jp^$third-party
 ||l.logly.co.jp^$third-party
 ||tagmanager.alright.network^$third-party
 ||statad.ru^$third-party
@@ -6042,9 +6042,7 @@ nethunt.com/api/v1/track/email/$image
 ||a-reporting.nytimes.com^
 ||a.hstrck.com^
 ||a.mobify.com^
-||a.oix.net^
 ||a.ria.ru^
-||a1.huiqituan.com^
 ||a3.ogt.jp^
 ||ab.blogs.es^
 ||abc.esprit.de^
@@ -6222,7 +6220,6 @@ nethunt.com/api/v1/track/email/$image
 ||awsync.yandex.ru^
 ||b-aws.aol.com^
 ||b.aol.com^
-||b.grvcdn.com^
 ||b.oix.net^
 ||banstat.nadavi.net^
 ||bat.bing.com^
@@ -6305,7 +6302,6 @@ nethunt.com/api/v1/track/email/$image
 ||clc.stackoverflow.com^
 ||clck.yandex.com^
 ||click.jasmin.com^
-||click.livejasmin.com^
 ||click.mmosite.com^
 ||click.udimg.com^
 ||click2.cafepress.com^
@@ -6322,17 +6318,13 @@ nethunt.com/api/v1/track/email/$image
 ||clkstat.china.cn^
 ||clog.go.com^
 ||clog*.yuanfudao.com^
-||cls.ichotelsgroup.com^
 ||clvk.viki.io^
 ||cmap.alibaba.com^
 ||cmp-cdn.ghostery.com^
 ||cmstrendslog.indiatimes.com^
 ||cmstrendslog.timesnow.tv^
-||cmt.setrowid.com^
 ||cnt.alawar.com^
-||cnt.cerber.rambler.ru^
 ||cnt.hd21.
-||cnt.inforotor.net^
 ||cnt.logoslovo.ru^
 ||cnt.nicemix.com^
 ||cnt.nov.ru^
@@ -6345,9 +6337,6 @@ nethunt.com/api/v1/track/email/$image
 ||cnt.winporn.
 ||cnt.xhamster.com^
 ||cnt.yeptube.
-||cnt2.stroeerdp.de^
-||cntcerber.rambler.ru^
-||code.lockbot.net^
 ||codes.royalad.pl^
 ||collect-elb-*.amazonaws.com^
 ||collect.igodigital.com^
@@ -6520,7 +6509,6 @@ nethunt.com/api/v1/track/email/$image
 ||discovery-script.newspic.kr^
 ||discovery.newspic.kr^
 ||dj4odketdva9s.cloudfront.net^
-||djibeacon.dowjoneson.com^
 ||dmc1acwvwny3.cloudfront.net^
 ||dmp.citiservi.es^
 ||dmtracking2.alibaba.com^
@@ -6973,13 +6961,10 @@ nethunt.com/api/v1/track/email/$image
 ||ncx2.voyage-prive.it^
 ||newlog.overwolf.com^
 ||ng.virgul.com^
-||ngagement-engine.mobify.com^
 ||nil.naver.com^
 ||ninja.onap.io^
 ||nmtracking.netflix.com^
 ||notify-bugs-fra1.rtl.de^
-||ns1.phorm.com^
-||ns2.phorm.com^
 ||ns336739.ip-37-187-249.eu^
 ||o.addthis.com^
 ||odb.outbrain.com^
@@ -61169,6 +61154,9 @@ inapps.appsflyersdk.com^
 !#endif
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/157666
+!+ PLATFORM(ios, ext_safari, ext_android_cb)
+@@||prd.jwpltx.com/*/jwplayer$domain=embed.watchanimesub.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/157996
 @@||data-*.faz.net^$domain=m.faz.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/157641
@@ -62916,8 +62904,6 @@ demae-can.com#%#//scriptlet('remove-attr', 'data-trm-action|data-trm-category|da
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 @@||google-analytics.com/analytics.js$domain=janusnotes.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/67110
-! https://github.com/AdguardTeam/AdguardFilters/issues/66639
-@@||googletagmanager.com/gtm.js$domain=tvnow.de|tvnow.at
 ! https://github.com/AdguardTeam/AdguardFilters/issues/66715
 @@||googletagmanager.com/gtm.js$domain=linline-clinic.ru
 ! https://github.com/AdguardTeam/AdguardFilters/issues/66624
@@ -64001,8 +63987,6 @@ kizi.com#%#window.google_trackConversion = function() {};
 @@||googletagmanager.com/gtm.js^$domain=raiplay.it
 ! https://github.com/AdguardTeam/AdguardFilters/issues/10776
 @@||img.blesk.cz/js/base-cz/gemius.js
-! https://github.com/AdguardTeam/AdguardFilters/issues/10521
-@@||google-analytics.com/analytics.js$domain=mobile.tvnow.de
 ! https://forum.adguard.com/index.php?threads/ucpa-vacances-com.26747/
 @@||googletagmanager.com/gtm.js$domain=ucpa-vacances.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/9914
@@ -64374,8 +64358,6 @@ kizi.com#%#window.google_trackConversion = function() {};
 @@||googletagmanager.com/gtm.js^$domain=costumenational.com
 ! http://forum.adguard.com/showthread.php?9679
 @@||static.chartbeat.com/js/chartbeat_mab.js$domain=usatoday.com
-! http://forum.adguard.com/showthread.php?9779
-@@||cntcerber.rambler.ru/counter.js$domain=id.rambler.ru
 ! http://forum.adguard.com/showthread.php?9564
 @@||omtrdc.net^$domain=geico.com
 ! http://forum.adguard.com/showthread.php?9564
@@ -64901,7 +64883,6 @@ kizi.com#%#window.google_trackConversion = function() {};
 @@||bundesliga.de/js/xtcore.js
 @@||classistatic.de^*/hitcounter.js$domain=mobile.de
 @@||code.etracker.com/t.js?et=$script,domain=apotheken-umschau.de|compo-hobby.de|kaguma.com|krombacher.de
-@@||count.rtl.de/crossdomain.xml$domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||eatsmarter.de^*/webtrekk.js
 @@||edgesuite.net^*/frontend_webtrekk.js$domain=goertz.de
 @@||eltern.de/min.php?*/clickTracking.js
