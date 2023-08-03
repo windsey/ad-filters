@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-03T01:26:12.416Z
+! Last modified: 2023-08-03T06:22:27.353Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -389,6 +389,7 @@
 ||dfgymtx.icu^
 ||xixrdn.xyz^
 ||wsdfame.com^
+||p52q.cn^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
