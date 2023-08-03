@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-03T12:36:05.825Z
+! Last modified: 2023-08-03T18:21:40.091Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -176,6 +176,7 @@
 ||csedasdme.xyz^
 ||cslbahf.top^
 ||cuioxbqi.com^
+||cxsh.cn.com^
 ||cyq3noz.icu^
 ||dadbj.cn^
 ||dadde.cn^
@@ -188,6 +189,7 @@
 ||dehaer.site^
 ||destc8.icu^
 ||dffrahax.com^
+||dfgymtx.icu^
 ||dgayibf.icu^
 ||dghhot.com^
 ||dhjrvj.xyz^
@@ -307,6 +309,7 @@
 ||kljslku.com^
 ||knjmhmk.com^
 ||kodfn.xyz^
+||kqubxdb.cn^
 ||kslbahd.top^
 ||kv8899.com^
 ||kyplpw.com^
@@ -363,6 +366,7 @@
 ||ossfile001.com^
 ||owlinggnomist.com^
 ||p11q.cn^
+||p52q.cn^
 ||parnett55.xyz^
 ||pbtsjh.xyz^
 ||pcqsajr.icu^
@@ -380,6 +384,7 @@
 ||qifyeldy.top^
 ||qpztub.xyz^
 ||qqnde.xyz^
+||qrirud.xyz^
 ||qselic.top^
 ||qwdbsjnql.com^
 ||rabuagc.cn^
@@ -387,6 +392,7 @@
 ||rdufuxr.icu^
 ||relafp.xyz^
 ||remfebd.cn^
+||rhesed.site^
 ||rifyeldz.top^
 ||rilwzsit.icu^
 ||rjzqtz.xyz^
@@ -396,12 +402,14 @@
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
 ||sacfasv.com^
+||sacre.cn^
 ||sbeaje.com^
 ||sdchb2.com^
 ||sfg11rr.com^
 ||shulsbs.cn^
 ||sq59.cn^
 ||ssdfgq7.com^
+||ssdtour.com^
 ||ssjuxsc.cn^
 ||sslbahb.top^
 ||ssnnn.net^
@@ -446,6 +454,7 @@
 ||vxhtxt.xyz^
 ||wddsva0.com^
 ||wnzle.com^
+||wsdfame.com^
 ||wubizigeng.com^
 ||wuye3d.com^
 ||wyq3rum.icu^
@@ -457,6 +466,7 @@
 ||xeynozl.icu^
 ||xiaoxiuapp.com^
 ||xiaoy.name^
+||xixrdn.xyz^
 ||xjzyhp.xyz^
 ||xlvqhx.xyz^
 ||xmxupz.xyz^
@@ -484,16 +494,6 @@
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||ssdtour.com^
-||cxsh.cn.com^
-||rhesed.site^
-||dfgymtx.icu^
-||xixrdn.xyz^
-||wsdfame.com^
-||p52q.cn^
-||kqubxdb.cn^
-||sacre.cn^
-||qrirud.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
