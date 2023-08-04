@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-04T06:22:31.223Z
+! Last modified: 2023-08-04T12:34:30.510Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -49,6 +49,8 @@
 ||criteo.net^
 ||appodeal.com^
 ||a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com^
+||adstrategy.biz.weibo.com^
+||ad.weibo.com^
 ||geoloc.yospace.com^
 ||banner.hpmdnetwork.ru^
 ||hybrid.ai^
