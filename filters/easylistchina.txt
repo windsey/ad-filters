@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-04T01:35:09.754Z
+! Last modified: 2023-08-04T06:22:29.389Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -402,6 +402,8 @@
 ||yjnhndt.com^
 ||eslbahw.top^
 ||vmdlxj.xyz^
+||yuanmengbi.com^
+||oiunga.com^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
