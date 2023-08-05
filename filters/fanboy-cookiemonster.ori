@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: b9AxRxxMdC+8tHntl1G/gw
+! Checksum: cbwTzpUdMvL2M7kILdmf2g
 ! Title: Easylist Cookie List
-! Updated: 2023-08-05 00:40 UTC
+! Updated: 2023-08-05 05:45 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -23316,6 +23316,7 @@ sveip.no##.kake_wrap
 nrk.no##.nrk-masthead__info-banner
 minnemi.no##.popup-overlay
 bighorn.no##.pp-announcement-bar-bottom
+helthjem.no##.schibsted-bar
 nordiskporselen.com##.w3-black
 nitedals.no##.wf-section
 direktesport.no##[aria-label="Informasjonskapsler"]
