@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-05T06:20:44.603Z
+! Last modified: 2023-08-05T12:31:52.515Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -115,6 +115,7 @@
 ||hbnygj.com^
 ||unpkg.com^$badfilter
 -1316632262.cos.
+-1316899192.cos.
 -90mh-gg.
 ://dreemdmbabys.oss-cn-
 ://xingkong6688s.oss-
