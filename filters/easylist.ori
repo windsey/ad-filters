@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wIheztN9OS52rvtcqjHDIQ
-! Version: 202308041750
+! Checksum: DQxJy1dSmeMqOhdS1zVCYw
+! Version: 202308050102
 ! Title: EasyList
-! Last modified: 04 Aug 2023 17:50 UTC
+! Last modified: 05 Aug 2023 01:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -27252,6 +27252,7 @@ browsershots.org#@#.advert_area
 ||confessedensure.com^
 ||confidentexplanationillegal.com^
 ||confideshrinebuff.com^
+||confidethirstyfrightful.com^
 ||configurationluxuriantinclination.com^
 ||confinehindrancethree.com^
 ||confirmationefficiency.com^
@@ -36492,6 +36493,7 @@ browsershots.org#@#.advert_area
 ||myfreshposts.com^
 ||myfreshspot.com^
 ||mygoodlives.com^
+||mygsyv.com^
 ||mygtmn.com^
 ||myhypestories.com^
 ||myimagetracking.com^
@@ -45951,6 +45953,7 @@ browsershots.org#@#.advert_area
 ||vknrfwwxhxaxupqp.pro^
 ||vknvimxmvsndhx.com^
 ||vkosaqcacra.com^
+||vlbbyi.com^
 ||vlitag.com^
 ||vlnk.me^
 ||vlqllpeevoch.com^
@@ -57463,7 +57466,8 @@ chron.com,crypto-news-flash.com,greenwichtime.com,houstonchronicle.com,mysananto
 bigislandnow.com##.adBreak
 m.economictimes.com,someecards.com,trailspace.com##.adContainer
 anews.com.tr##.adControl
-bramptonguardian.com##.adLabelWrapper
+bramptonguardian.com,insideottawavalley.com##.adLabelWrapper
+insideottawavalley.com##.adLabelWrapperManual
 bramptonguardian.com##.adSlot___3IQ8M
 drive.com.au##.adSpacing_drive-ad-spacing__g09um
 healthnfitness.net##.adTrack
@@ -59226,7 +59230,7 @@ advfn.com##.plus500
 thepinknews.com##.pn-ad-container
 thepinknews.com##.pn-remove-ads-container
 freewebarcade.com##.pnum
-bramptonguardian.com##.polarBlock
+bramptonguardian.com,insideottawavalley.com##.polarBlock
 autoexpress.co.uk##.polaris__below-header-ad-wrapper
 bigissue.com##.polaris__simple-grid--full
 compoundsemiconductor.net##.popular__section-newsx
