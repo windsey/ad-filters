@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-06T12:30:50.474Z
+! Last modified: 2023-08-06T18:19:38.750Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -125,6 +125,7 @@
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
 ||1267a.xyz^
+||1378a.xyz^
 ||1379a.xyz^
 ||1u5gy.xyz^
 ||3400.org^
@@ -170,6 +171,7 @@
 ||c9r05q.com^
 ||caider.fun^
 ||canser1.top^
+||canser5.top^
 ||ccnim.xyz^
 ||cdmjur.xyz^
 ||chiese.site^
@@ -192,9 +194,11 @@
 ||dehaer.site^
 ||destc8.icu^
 ||dffrahax.com^
+||dfgpifa.com^
 ||dfgymtx.icu^
 ||dgayibf.icu^
 ||dghhot.com^
+||dghkpp.xyz^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
 ||dojyiu8.com^
@@ -208,6 +212,7 @@
 ||eamqbaqzaewwq.top^
 ||eers0cy.com^
 ||eghyahl.cn^
+||eheb8.cn^
 ||ejolul.xyz^
 ||ekdky.cn^
 ||enhad.xyz^
@@ -231,6 +236,7 @@
 ||fhglcpf.icu^
 ||fjsytjs.cn^
 ||fjtroip.cn^
+||foirkrt.icu^
 ||fszpzd.xyz^
 ||fuliwang.cc^
 ||fvxlhn.xyz^
@@ -259,6 +265,7 @@
 ||hghjks2.com^
 ||hikykhz.icu^
 ||hiqua.xyz^
+||hjgkr0g.xyz^
 ||hjkiguy.com^
 ||hkkeafj.cn^
 ||hlnr9q.icu^
@@ -353,6 +360,7 @@
 ||mifyeldx.top^
 ||misapopait.com^
 ||mmead.xyz^
+||mnhknds.com^
 ||moobtcnse.xyz^
 ||mrqbuf.xyz^
 ||mt4v4.com^
@@ -365,6 +373,7 @@
 ||nieae.xyz^
 ||nifyeldc.top^
 ||njogejt.icu^
+||nmdotj.xyz^
 ||nmkghh.com^
 ||nnfyxd.xyz^
 ||nnqwe.xyz^
@@ -499,6 +508,7 @@
 ||xtbzff.xyz^
 ||xukang09.cn^
 ||xukou.net^
+||yegziyf.cn^
 ||yhhnjg.com^
 ||yjnhndt.com^
 ||ymhyw6.lol^
@@ -518,13 +528,6 @@
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
-||nmdotj.xyz^
-||dfgpifa.com^
-||canser5.top^
-||yegziyf.cn^
-||foirkrt.icu^
-||mnhknds.com^
-||dghkpp.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
@@ -5202,6 +5205,7 @@
 ||market.duowan.com^
 ||mini.hao123.com^
 ||miniye.xjts.cn^
+||mixer.sina.cn^
 ||mm.nwell.net^
 ||money.qz828.com^
 ||nirentang.com^
