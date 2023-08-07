@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-07T06:22:56.955Z
+! Last modified: 2023-08-07T12:35:48.167Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -79,6 +79,7 @@
 ||reqde.afreecatv.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
+||stream.spongead.com^
 ||naverpa-phinf.pstatic.net^
 ||tivan.naver.com^
 ||veta.naver.com^

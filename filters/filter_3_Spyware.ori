@@ -84,8 +84,10 @@ futura-sciences.com#%#//scriptlet('set-constant', 'pa', 'emptyObj')
 futura-sciences.com#%#//scriptlet('set-constant', 'pa.privacy', 'emptyObj')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/157140
 perlego.com#%#(()=>{const t={getExperimentStates:function(){return[]}};window.optimizely={get:function(){return t}}})();
+! https://github.com/AdguardTeam/AdguardFilters/issues/158318
 ! https://github.com/AdguardTeam/AdguardFilters/issues/157248
 northerntool.com#%#//scriptlet('prevent-xhr', 'configure.rapid.js')
+northerntool.com#%#AG_onLoad((function(){"function"===typeof window.Yo?.rum?.initialize&&Yo.rum.initialize()}));
 ! https://github.com/AdguardTeam/AdguardFilters/issues/147282
 clickhole.com,lifehacker.com,splinternews.com,avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,qz.com,theinventory.com,theonion.com,theroot.com,thetakeout.com#%#//scriptlet('set-constant', 'ga', 'noopFunc')
 ! https://github.com/uBlockOrigin/uAssets/issues/16512#issuecomment-1639236636
@@ -535,6 +537,8 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||c.blockdetector.org^$third-party
+||sailthru.com^$third-party
 ||grabifyicu.com^
 ||etracker.p3p.repl.co^
 ||canarytokens.com^$third-party
@@ -4320,6 +4324,7 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||daughterstone.com^$third-party
 ||boundlessveil.com^$third-party
 ||strivesquirrel.com^$third-party
 ||floweryfact.com^$third-party
@@ -5462,116 +5467,6 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ! Ingenious Technologies
 ||affex.org^
 !
-! start: Mail Tracking
-! note that we don't use || prefixes because mail tracking pixels are often proxied by mail providers
-! it's problematic that due to how Gmail proxy work, these domains aren't even exposed on the network level
-! fortunately, extensions can see them (Gmail puts the real URL in the location.hash part of the src)
-!
-! AWeber
-openrate.aweber.com$image
-! Sendpulse
-.pulse-stat.com$image
-! change.org
-click.e.change.org$image
-! Shutterstock
-shutterstockmail.com/pub/as?_ri_=$image
-! Stackcommerce
-track.email.stackcommerce.com/q/$image
-! MailTrack
-mailtrack.io/trace/$image
-mltrk.io/pixel$image
-! HubSpot (getsidekick.com)
-t.sidekickopen$image
-t.sigopn$image
-t.senal$image
-t.signaux$image
-t.signauxtrois.com$image
-t.hubspotemail.net/e2t/o$image
-t.hsms06.com$image
-! Boomerang (boomeranggmail.com)
-mailstat.us/tr$image
-! Cirrus Inisght
-tracking.cirrusinsight.com$image
-! Customer.io
-customeriomail.com/e/o$image
-track.customer.io/e/o$image
-! Yesware
-t.yesware.com
-! SalesforceIQ
-salesforceiq.com/t.png$image
-! RelateIQ
-app.relateiq.com/t.png$image
-! Streak
-mailfoogae.appspot.com$image
-! LaunchBit
-launchbit.com/taz-pixel$image
-! MailChimp
-list-manage.com/track$image
-/track/open.php?u=$image
-! Postmark
-cmail1.com/t$image
-pstmrk.it/open$image
-! iContact
-click.icptrack.com/icp/$image
-! Infusionsoft
-infusionsoft.com/app/emailOpened$image
-! Intercom
-via.intercom.io/o$image
-intercom-mail-100.com/o$image
-intercom-mail.com/q/$image
-intercom-mail.com/via/o?$image
-! Mandrill
-mandrillapp.com/track$image
-! RJ Metrics
-go.rjmetrics.com$image
-! Mixpanel
-api.mixpanel.com/track$image
-! Front App
-web.frontapp.com/api$image
-! ToutApp
-go.toutapp.com$image
-! Outreach
-app.outreach.io$image
-outrch.com/api/mailings/opened$image
-! Mixmax
-track.mixmax.com/api$image
-email.mixmax.com/e/o$image
-! SendGrid
-sendgrid.net/wf/open$image
-/wf/open?upn=$image
-! ExactTarget
-exct.net/open.aspx$image
-! Litmus
-emltrk.com$image
-! dotmailer
-trackedlink.net$image
-! Drip
-dripemail2$image
-! Bananatag
-bl-1.com$image
-! TinyLetter
-tinyletterapp.com$image
-! ContactMonkey
-contactmonkey.com/api/v1/tracker$image
-! Polymail
-welovepg.polymail.io$image
-polymail.io/v2/z$image
-! YAMM
-yamm-track.appspot$image
-! GetResponse
-/open.html?x=$image
-! Close.io
-close.io/email_opened$image
-! Return Path
-returnpath.net/pixel.gif$image
-! NetHunt
-nethunt.com/api/v1/track/email/$image
-! JiveOn tracking
-/mpss/o/*$image
-! Marketo tracking (see https://docs.marketo.com/display/public/DOCS/Configure+Protocols+for+Marketo)
-||mkto-*.com^$third-party
-! end: Mail Tracking
-!
 !+ NOT_PLATFORM(windows, mac, android)
 ||artfut.com^$redirect=nooptext,important
 
@@ -5604,6 +5499,8 @@ nethunt.com/api/v1/track/email/$image
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||track.sp.crdl.io^
+||sli.huffpost.com^
 ||openrate.aweber.com^
 ||tracker.iplocation.net^
 ||e20d8e38992b.o3n.io^
@@ -55542,6 +55439,7 @@ _tracking.php?b=
 /analytics.js$domain=tokyometro.jp|resumes.breakdownexpress.com|techcult.com|inbox.lv|kopeda.com|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de|newsdig.tbs.co.jp|imore.com|city.kushiro.lg.jp|emeraldbridal.com.au|emarat-news.ae|imobie.jp|tikla.com.tr|rusvideos.porn|jrkyushu.co.jp|amiunique.org
 ||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com|euronews.com|newshub.co.nz|fredmeyer.com|viabcp.com|carsales.com.au|falabella.com|aarp.org
 !
+||sealfit.ontraport.net/o?$image
 ||cdn.shopify.com/shopify-email/$image
 ||sendfox.com/trk/open/$image
 ||cdn.iol.pt/js/utils/Modules/IOLAnalytics/dist/iol.analytics.js
@@ -56002,7 +55900,6 @@ scarfilm.org##.footer-col-3
 ||sgqcvfjvr.onet.pl/build/dlApi/dl.aureus.min.js
 blog.livedoor.jp##a[href="http://analyzer.fc2.com"]
 ||sfstatic.net/build/js/basicMetricsTracking.*.js
-||sfstatic.net/build/js/gaControlTracker.*.js
 ||statis.simeji.me/report/
 ||icecat.biz/stats/scripts/live-stats.js
 ||courir.*/beacon?
@@ -59021,7 +58918,125 @@ link.gmapp*.net$image
 !+ PLATFORM(ios)
 ||exactag.com^$domain=saturn.de|mediamarkt.de
 !
+! SECTION: Mail Tracking
+! note that we don't use || prefixes because mail tracking pixels are often proxied by mail providers
+! it's problematic that due to how Gmail proxy work, these domains aren't even exposed on the network level
+! fortunately, extensions can see them (Gmail puts the real URL in the location.hash part of the src)
 !
+! Huffpost
+e.emails.huffpost.com/o/p/$image
+! Refinery29
+jump.refinery29.com$image
+! TucsonTopia
+tucsontopia.com/?mailpoet_router$image
+! AWeber
+openrate.aweber.com$image
+! Sendpulse
+.pulse-stat.com$image
+! change.org
+click.e.change.org$image
+! Shutterstock
+shutterstockmail.com/pub/as?_ri_=$image
+! Stackcommerce
+track.email.stackcommerce.com/q/$image
+! MailTrack
+mailtrack.io/trace/$image
+mltrk.io/pixel$image
+! HubSpot (getsidekick.com)
+t.sidekickopen$image
+t.sigopn$image
+t.senal$image
+t.signaux$image
+t.signauxtrois.com$image
+t.hubspotemail.net/e2t/o$image
+t.hsms06.com$image
+! Boomerang (boomeranggmail.com)
+mailstat.us/tr$image
+! Cirrus Inisght
+tracking.cirrusinsight.com$image
+! Customer.io
+customeriomail.com/e/o$image
+track.customer.io/e/o$image
+! Yesware
+t.yesware.com
+! SalesforceIQ
+salesforceiq.com/t.png$image
+! RelateIQ
+app.relateiq.com/t.png$image
+! Streak
+mailfoogae.appspot.com$image
+! LaunchBit
+launchbit.com/taz-pixel$image
+! MailChimp
+list-manage.com/track$image
+/track/open.php?u=$image
+! Postmark
+cmail1.com/t$image
+pstmrk.it/open$image
+! iContact
+click.icptrack.com/icp/$image
+! Infusionsoft
+infusionsoft.com/app/emailOpened$image
+! Intercom
+via.intercom.io/o$image
+intercom-mail-100.com/o$image
+intercom-mail.com/q/$image
+intercom-mail.com/via/o?$image
+! Mandrill
+mandrillapp.com/track$image
+! RJ Metrics
+go.rjmetrics.com$image
+! Mixpanel
+api.mixpanel.com/track$image
+! Front App
+web.frontapp.com/api$image
+! ToutApp
+go.toutapp.com$image
+! Outreach
+app.outreach.io$image
+outrch.com/api/mailings/opened$image
+! Mixmax
+track.mixmax.com/api$image
+email.mixmax.com/e/o$image
+! SendGrid
+sendgrid.net/wf/open$image
+/wf/open?upn=$image
+! ExactTarget
+exct.net/open.aspx$image
+! Litmus
+emltrk.com$image
+! dotmailer
+trackedlink.net$image
+! Drip
+dripemail2$image
+! Bananatag
+bl-1.com$image
+! TinyLetter
+tinyletterapp.com$image
+! ContactMonkey
+contactmonkey.com/api/v1/tracker$image
+! Polymail
+welovepg.polymail.io$image
+polymail.io/v2/z$image
+! YAMM
+yamm-track.appspot$image
+! GetResponse
+/open.html?x=$image
+! Close.io
+close.io/email_opened$image
+! Return Path
+returnpath.net/pixel.gif$image
+! NetHunt
+nethunt.com/api/v1/track/email/$image
+! JiveOn tracking
+/mpss/o/*$image
+! Marketo tracking (see https://docs.marketo.com/display/public/DOCS/Configure+Protocols+for+Marketo)
+||mkto-*.com^$third-party
+! NOTE: Mail Tracking end ⬆️
+! !SECTION: Mail Tracking
+!
+!
+! SECTION: d3ward.github.io
 ! We're getting tons of questions from users who do not understand why some test on the internet does not show 100%.
 ! We're tired of explaining why this or that domain should not be blocked in reality so there's that
 !
@@ -59052,6 +59067,8 @@ link.gmapp*.net$image
 ||app.bugsnag.com^$domain=d3ward.github.io
 ||browser.sentry-cdn.com^$domain=d3ward.github.io
 ||app.getsentry.com^$domain=d3ward.github.io
+! NOTE: d3ward.github.io end ⬆️
+! !SECTION: d3ward.github.io
 
 !-------------------------------------------------------------------------------!
 !-------------- Fixing filtration errors (false-positive) Cookies --------------!
@@ -61172,7 +61189,9 @@ inapps.appsflyersdk.com^
 @@||x.kinja-static.com/assets/packaged-js/trackers.*.js$domain=clickhole.com|lifehacker.com|splinternews.com|avclub.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|qz.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
 @@||x.kinja-static.com/assets/packaged-js/runtime~trackers.*.js$domain=clickhole.com|lifehacker.com|splinternews.com|avclub.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|qz.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
 !#endif
+! https://github.com/AdguardTeam/AdguardFilters/issues/158318
 ! https://github.com/AdguardTeam/AdguardFilters/issues/157248
+||cdn.yottaa.com/rapid.security.min.*.js$script,redirect=noopjs,domain=northerntool.com
 ||qoe-*.yottaa.net/*/configure.rapid.js$xmlhttprequest,redirect=nooptext,domain=northerntool.com
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
 @@||qoe-*.yottaa.net/*/configure.rapid.js$domain=northerntool.com
@@ -61644,7 +61663,11 @@ goodwillfinds.com#%#//scriptlet("set-constant", "_etmc", "emptyArr")
 @@||cdn.cxense.com/cx.cce.js$domain=milenio.com
 @@||cdn.cxense.com/cx.js$domain=milenio.com
 @@||api.cxense.com/public/widget/data?json=$domain=milenio.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/158202
 ! https://github.com/AdguardTeam/AdguardFilters/issues/133408
+@@||googletagmanager.com/gtm.js$domain=journaldemontreal.com
+@@||content-thumbnail.cxpublic.com/content/dominantthumbnail/$domain=journaldemontreal.com
+@@||scdn.cxense.com/cx.js$domain=journaldemontreal.com
 @@||cdn.cxense.com/cx.cce.js$domain=journaldemontreal.com
 @@||cdn.cxense.com/cx.js$domain=journaldemontreal.com
 @@||api.cxense.com/public/widget/data?json=$domain=journaldemontreal.com

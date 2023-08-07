@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-07T06:23:03.925Z
+! Last modified: 2023-08-07T12:35:55.834Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -654,12 +654,13 @@
 ||tagcommander.com^
 ||wizaly.com^
 ||affex.org^
-||t.yesware.com^
 
 ||tagman.britishairways.com^
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||track.sp.crdl.io^
+||sli.huffpost.com^
 ||openrate.aweber.com^
 ||tracker.iplocation.net^
 ||e20d8e38992b.o3n.io^
@@ -34064,6 +34065,7 @@ directtrack.*.js
 ||webmetrics.nintendo-europe.com^
 ||webstat.freaks4u.com^
 ||trk.freepik.com
+||t.yesware.com^
 ||adeventtracker.spotify.com^
 ||do-not-tracker.org^
 ||eviltracker.net^
