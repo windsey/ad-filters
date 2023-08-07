@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QTOuEKIz0LfOd2MP3cSXIA
-! Version: 202308070110
+! Checksum: cYmrRgV487gVAUiaz6L7hA
+! Version: 202308070602
 ! Title: EasyList
-! Last modified: 07 Aug 2023 01:10 UTC
+! Last modified: 07 Aug 2023 06:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14982,6 +14982,7 @@ _800x80_
 ##.connatix-hodler
 ##.connatix-holder
 ##.connatix-wrapper
+##.connatix-wysiwyg-container
 ##.consoleAd
 ##.cont-ad
 ##.contads_middle
@@ -15344,6 +15345,7 @@ _800x80_
 ##.dfx-adBlock1Wrapper
 ##.dg-gpt-ad-container
 ##.dianomi-ad
+##.dianomi-container
 ##.dianomi-embed
 ##.dianomiScriptContainer
 ##.dianomi_context
