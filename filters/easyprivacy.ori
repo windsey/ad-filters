@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: GleGV4rI5MkEAgIldHKblQ
-! Version: 202308071210
+! Checksum: PdFVwd+3UpBUIWImcoP60Q
+! Version: 202308071750
 ! Title: EasyPrivacy
-! Last modified: 07 Aug 2023 12:10 UTC
+! Last modified: 07 Aug 2023 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3926,6 +3926,7 @@ _WebVitalsReporter_
 /wf/open?upn=$image
 /wizrocketmail.net/r?$image
 ://email.*/e/o/
+://img.promio-connect.com/
 ://parcel-api.delivery-status.*/open/$image
 ://t.order.*/r/?id=$image
 _ad_impression.
@@ -14527,6 +14528,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||xhamsterlive.com/pixel/
 ||xhcdn.com/js/*.track.min.js
 ||xing.com/logjam/
+||xvideos.com/picserror/
 ||xxf.mobi/hit
 ||yahoo.com/_td_api/beacon/
 ||yahoo.com/beacon/
@@ -32572,6 +32574,7 @@ arketing.indianadunes.com^
 ||minkou.jp/js/tracking.js
 ||mixi.net/static/js/build/mixi-analysis.production.js
 ||mng.jiji.com/cookie.html
+||muragon.com/js/normal/gtag-event.js
 ||next.rikunabi.com/api/logRecommendRealtimeI2AV2
 ||nhk.or.jp^*/bc.js
 ||nicovideo.jp/api/counter/
