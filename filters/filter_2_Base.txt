@@ -1,9 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-08T06:22:23.144Z
+! Last modified: 2023-08-08T12:35:01.168Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
+
+||manoirshrine.com^
 ||enwerzaqqbqnj.top^
 ||idydlesswale.info^
 ||lumpyactive.com^
