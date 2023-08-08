@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-08T01:24:32.382Z
+! Last modified: 2023-08-08T06:22:18.122Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -547,6 +547,7 @@
 ||uwgnpkd.cn^
 ||mkjnbg.com^
 ||laljjn.xyz^
+||yjnhkd.com^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||01fen.com^
