@@ -2240,6 +2240,8 @@ motherless.com$$script[tag-content="awentw.com"][min-length="2000"][max-length="
 @@||api.apptentive.com^$app=de.mcdonalds.mcdonaldsinfoapp
 @@||customer.iad-03.braze.com^$app=de.burgerking.kingfinder
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/158370
+@@||imasdk.googleapis.com^$app=ch.iAgentur.i20MinFr
 ! https://play.google.com/store/apps/details?id=fm.tokfm.android
 ! Fixes radio
 @@||imasdk.googleapis.com^$app=fm.tokfm.android
@@ -2946,6 +2948,8 @@ transfermarkt.de,iyf.tv,macwelt.de,pcwelt.de,xataka.com.mx,shikiho.toyokeizai.ne
 !
 ! SECTION: Regular rules
 !
+premierguitar.com##.wrapper__interscroller
+premierguitar.com##div[style="padding-top: 790px;"]
 amazon.com##.pmts-payment-option-list-wrapper > .a-box:not([class*=" "])
 moviepilot.de##div[id^="dfp-mtf-"]
 deccanherald.com##.container > .hide-desktop
@@ -3937,7 +3941,7 @@ mapfan.com##.bottom-ad-mobile
 fashion-press.net##.mobile_only_ad
 yukawanet.com###custom_html-34
 otona-life.com##.ad_minh_sp
-cleverdialer.de##.h5-sticky-ad
+stylight.de,cleverdialer.de##.h5-sticky-ad
 withonline.jp###contents > div[style="text-align:center; margin-top: 10px;"]
 spur.hpplus.jp###ADHeader
 spur.hpplus.jp##.bnr_super

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-08T12:35:02.870Z
+! Last modified: 2023-08-08T18:23:40.441Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1804,25 +1804,20 @@
 ||lb.secureweb24.net^
 ||lcs.modoo.at^
 ||lcs.naver.com^
-||lct.salesforce.com^
 ||lexip.4pcdn.de^
 ||lexip.4players.de^
 ||librato-collector.genius.com^
-||live.ec2.cxo.name^
 ||live.rezync.com^
 ||livecounter.theyosh.nl^
 ||lively-collect-elb-*.amazonaws.com^
-||log-live.direct.ly^
 ||log-player.arte.tv^
 ||log-stats.weathercn.com^
 ||log.adap.tv^
 ||log.ajunews.com^
 ||log.api.zaloapp.com^
 ||log.appdriver.jp^
-||log.cinematoday.jp^
 ||log.cloud.sbs.co.kr^
 ||log.data.disney.com^
-||log.deutschegrammophon.com^
 ||log.ecgh.dk^
 ||log.enuri.com^
 ||log.g-enews.com^
@@ -1892,8 +1887,6 @@
 ||lynn.zgsemi.cn^
 ||m.addthisedge.com^
 ||m.adtiming.com^
-||m.czbiw.com^
-||m.dubcm.com^
 ||m.trb.com^
 ||ma.news.naver.com^
 ||posthog.tarnkappe.info^
@@ -2042,11 +2035,9 @@
 ||pgt1.voyage-prive.es^
 ||phen.fabricmedia.ru^
 ||phiesi.stroeerdp.de^
-||pictures.zooplus.com^
 ||ping.buto.tv^
 ||ping.hungama.com^
 ||ping.smyte.com^
-||ping.tvmaze.com^
 ||pingback.sogou.com^
 ||pings.conviva.com^
 ||pix.boursorama.com^
@@ -2305,7 +2296,6 @@
 ||spanids.reference.com^
 ||spanids.thesaurus.com^
 ||spixel.socy.es^
-||spkrth.scw.systems^
 ||spoods.rce.veeseo.com^
 ||spr.bild.de^
 ||spr.welt.de^

@@ -6659,25 +6659,20 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ||lb.secureweb24.net^
 ||lcs.modoo.at^
 ||lcs.naver.com^
-||lct.salesforce.com^
 ||lexip.4pcdn.de^
 ||lexip.4players.de^
 ||librato-collector.genius.com^
-||live.ec2.cxo.name^
 ||live.rezync.com^
 ||livecounter.theyosh.nl^
 ||lively-collect-elb-*.amazonaws.com^
-||log-live.direct.ly^
 ||log-player.arte.tv^
 ||log-stats.weathercn.com^
 ||log.adap.tv^
 ||log.ajunews.com^
 ||log.api.zaloapp.com^
 ||log.appdriver.jp^
-||log.cinematoday.jp^
 ||log.cloud.sbs.co.kr^
 ||log.data.disney.com^
-||log.deutschegrammophon.com^
 ||log.ecgh.dk^
 ||log.enuri.com^
 ||log.g-enews.com^
@@ -6748,8 +6743,6 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ||lynn.zgsemi.cn^
 ||m.addthisedge.com^
 ||m.adtiming.com^
-||m.czbiw.com^
-||m.dubcm.com^
 ||m.trb.com^
 ||ma.news.naver.com^
 ||posthog.tarnkappe.info^
@@ -6899,11 +6892,9 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ||pgt1.voyage-prive.es^
 ||phen.fabricmedia.ru^
 ||phiesi.stroeerdp.de^
-||pictures.zooplus.com^
 ||ping.buto.tv^
 ||ping.hungama.com^
 ||ping.smyte.com^
-||ping.tvmaze.com^
 ||pingback.sogou.com^
 ||pings.conviva.com^
 ||pix.boursorama.com^
@@ -7164,7 +7155,6 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ||spanids.reference.com^
 ||spanids.thesaurus.com^
 ||spixel.socy.es^
-||spkrth.scw.systems^
 ||spoods.rce.veeseo.com^
 ||spr.bild.de^
 ||spr.welt.de^
@@ -52263,6 +52253,7 @@ _tracking.php?b=
 /analytics.js$domain=tokyometro.jp|resumes.breakdownexpress.com|techcult.com|inbox.lv|kopeda.com|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de|newsdig.tbs.co.jp|imore.com|city.kushiro.lg.jp|emeraldbridal.com.au|emarat-news.ae|imobie.jp|tikla.com.tr|rusvideos.porn|jrkyushu.co.jp|amiunique.org
 ||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com|euronews.com|newshub.co.nz|fredmeyer.com|viabcp.com|carsales.com.au|falabella.com|aarp.org
 !
+||generalblue.com/js/pages/shared/analytics.min.js
 ||m.cdn.yclients.com/utm.marker.js
 ||ltn.com.tw/impression?
 ||muragon.com/js/normal/gtag-event.js
@@ -55749,6 +55740,20 @@ link.gmapp*.net$image
 ! it's problematic that due to how Gmail proxy work, these domains aren't even exposed on the network level
 ! fortunately, extensions can see them (Gmail puts the real URL in the location.hash part of the src)
 !
+! PayPal
+click.emails.paypal.com$image
+! The Atlantic
+data-cdn.theatlantic.com/email.gif
+! Thinkst Applied Research
+whiteclouddrive.com$image
+! Vox
+link.vox.com/img/*/*.gif$image
+! goodgoodgood.co
+newsletter.goodgoodgood.co/link/o/$image
+! Tangle
+outpostemail.notify.readtangle.com$image
+! Wattpad
+wattpad.com/et?c=$image
 ! Nirandfar
 email.nirandfar.com/*/link-tracker?
 ! promio-connect.com
@@ -55961,6 +55966,8 @@ nethunt.com/api/v1/track/email/$image
 ! Bad:  ||example.com^$cookie=flat_r_mb (should be in cookies_specific.txt)
 !
 !
+! Yotpo
+$cookie=yotpo_pixel
 ! consentag.eu Crimtan Holding Limited.
 ! Used for targeting
 $cookie=__tmbid
