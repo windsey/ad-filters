@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-09T12:37:42.565Z
+! Last modified: 2023-08-09T18:23:33.777Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10592,7 +10592,6 @@
 ||get-things-done.net^
 ||get2m5sgstohne.com^
 ||get2nesoft1.ru^
-||getadjacent.com^
 ||getadx.com^
 ||getalltraffic.com^
 ||getapo.com^
@@ -12165,7 +12164,6 @@
 ||hypozoabytes.life^
 ||hyrcanquittor.com^
 ||hyrewusha.pro^
-||hyros.com^
 ||hystericalpotprecede.com^
 ||hystrixcreped.com^
 ||hyyaofjnidwiyg.com^

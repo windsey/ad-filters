@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-09T12:37:49.695Z
+! Last modified: 2023-08-09T18:23:41.303Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -14308,7 +14308,6 @@ rgmechanicsgames.com*VPN.exe
 ||get-things-done.net^
 ||get2m5sgstohne.com^
 ||get2nesoft1.ru^
-||getadjacent.com^
 ||getadx.com^
 ||getalltraffic.com^
 ||getapo.com^
@@ -15851,7 +15850,6 @@ rgmechanicsgames.com*VPN.exe
 ||hypozoabytes.life^
 ||hyrcanquittor.com^
 ||hyrewusha.pro^
-||hyros.com^
 ||hystericalpotprecede.com^
 ||hystrixcreped.com^
 ||hzkachqd.com^
