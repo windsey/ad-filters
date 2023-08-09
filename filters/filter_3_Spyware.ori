@@ -4324,6 +4324,7 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||suspectmark.com^$third-party
 ||daughterstone.com^$third-party
 ||boundlessveil.com^$third-party
 ||strivesquirrel.com^$third-party
@@ -55740,6 +55741,12 @@ link.gmapp*.net$image
 ! it's problematic that due to how Gmail proxy work, these domains aren't even exposed on the network level
 ! fortunately, extensions can see them (Gmail puts the real URL in the location.hash part of the src)
 !
+! Groupe M6
+tracking.newsletter.m6.fr$image
+! Hungryroot
+clicks.hungryroot.com$image
+! Bloomberg
+link.mail.bloombergbusiness.com$image
 ! PayPal
 click.emails.paypal.com$image
 ! The Atlantic
@@ -55850,7 +55857,7 @@ outrch.com/api/mailings/opened$image
 track.mixmax.com/api$image
 email.mixmax.com/e/o$image
 ! SendGrid, Robinhood
-sendgrid.net/wf/open$image
+ct.sendgrid.net%2Fwf%2Fopen%3$image
 /wf/open?upn=$image
 ! ExactTarget
 exct.net/open.aspx$image
@@ -58007,6 +58014,8 @@ inapps.appsflyersdk.com^
 !#endif
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/158619
+@@||captcha-eu-sec.heytapmobile.com^$domain=id.heytap.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/158508
 @@||google-analytics.com/analytics.js$domain=bihann.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/158410
