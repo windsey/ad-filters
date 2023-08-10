@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: UuSAXPqCmlqRYMELexa0dw
-! Version: 202308101210
+! Checksum: lHyhRUUCopgyOuV2zm6Byw
+! Version: 202308101750
 ! Title: EasyPrivacy
-! Last modified: 10 Aug 2023 12:10 UTC
+! Last modified: 10 Aug 2023 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -515,6 +515,7 @@
 /b/ss/*/JS-
 /b/ss?AQB=
 /b/stats?
+/ba_tracking.js
 /baiduStatistics.js
 /banalytics.js
 /base/es5/bundle.js
@@ -32568,8 +32569,6 @@ arketing.indianadunes.com^
 ||next.rikunabi.com/api/logRecommendRealtimeI2AV2
 ||nhk.or.jp^*/bc.js
 ||nicovideo.jp/api/counter/
-||nicovideo.jp/v1/recommend/log/
-||nicovideo.jp/v2/user/actions/watch-events.json
 ||nikkei.com/.resources/tracking/
 ||pvtag.yahoo.co.jp^
 ||pw.gigazine.net^

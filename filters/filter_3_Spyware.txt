@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-10T12:37:54.786Z
+! Last modified: 2023-08-10T18:21:57.488Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2627,23 +2627,19 @@
 ||track.workablemetro.com^
 ||track.zalando.
 ||track.zappos.com^
-||track.zomato.com^
 ||track2.trbo.com^
 ||trackcommon.hujiang.com^
 ||trackdb.go3.tv^
 ||tracker-api.my.com^
 ||tracker.77player.xyz^
 ||tracker.affirm.com^
-||tracker.ampush.io^
 ||tracker.anandtech.com^
 ||tracker.arc.io^
 ||tracker.blutv.com^
-||tracker.brainsins.com^
 ||tracker.calameo.com^
 ||tracker.cartprotector.com^
 ||tracker.cdn-moneysmart.com^
 ||tracker.cdnbye.com^
-||tracker.cpapath.com^
 ||tracker.downdetector.com^
 ||tracker.giftd.ru^
 ||tracker.joongang.co.kr^
@@ -2675,7 +2671,6 @@
 ||tracking.bdi-services.de^
 ||tracking.bloomberg.com^
 ||tracking.bonnier.news^
-||tracking.carprices.com^
 ||tracking.carsales.com.au^
 ||tracking.chacha.com^
 ||tracking.channelsight.com^
@@ -2684,15 +2679,12 @@
 ||tracking.eurosport.com^
 ||tracking.g2crowd.com^
 ||tracking.game8.jp^
-||tracking.gj-mobile-services.de^
 ||tracking.goodgamestudios.com^
 ||tracking.gvm.com.tw^
 ||tracking.hotel.check24.de^
 ||tracking.hsn.com^
 ||tracking.hurlmedia.design^
-||tracking.koego.com^
 ||tracking.komoot.de^
-||tracking.kurier.at^
 ||tracking.lengow.com^
 ||tracking.linda.de^
 ||tracking.live.oe24.at^
@@ -2727,21 +2719,17 @@
 ||tracking.tomshardware.co.uk^
 ||tracking.ukwm.co.uk^
 ||tracking.unrealengine.com^
-||tracking.ustream.tv^
 ||tracking.yourfilehost.com^
 ||tracking*.euroads.fi^
 ||tracking2.channeladvisor.com^
-||trackingapi.cloudapp.net^
 ||trackingapi.kaufda.de^
 ||trackingapi.meinprospekt.de^
-||trackpm.shop2market.com^
 ||tracksrv.zdf.de^
 ||trck.bdi-services.de^
 ||trck.cyberport.de^
 ||trck.spoteffects.net^
 ||treasuredata.com^
 ||triggertag.gorillanation.com^
-||trk.10ru.pt^
 ||trk.i0.cz^
 ||trk.storyly.io^
 ||trk.stroeermediabrands.de^
@@ -2765,7 +2753,6 @@
 ||udbdf-v2.nimo.tv^
 ||udc.msn.com^
 ||uep.gaijin.net^
-||ui.oix.net^
 ||uie.data.cbc.ca^
 ||ut.gamersyde.com^
 ||ut.o2.pl^
@@ -2780,8 +2767,6 @@
 ||videostats.kakao.com^
 ||views.romaniatv.net^
 ||vortex.hulu.com^
-||vra.outbrain.com^
-||vrt.outbrain.com^
 ||vry9.destinia.com^
 ||w.oix.net^
 ||w1jesu6.package12.com^
