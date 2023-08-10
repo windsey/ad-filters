@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-10T01:36:20.902Z
+! Last modified: 2023-08-10T06:23:06.038Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -470,6 +470,8 @@
 ||dalmfn.xyz^
 ||lokngd.com^
 ||pjsbuhl.icu^
+||bupidt.xyz^
+||bhjuy10.com^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||002777.xyz^
