@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-10T06:23:07.048Z
+! Last modified: 2023-08-10T12:37:45.660Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -341,6 +341,7 @@
 ||tncid.app^
 ||track-selectmedia.com^
 ||trackclicks.info^
+||transmapp.com^
 ||triplestat.online^
 ||trk-maiorum.com^
 ||trkbc.com^
@@ -3693,6 +3694,7 @@
 ||dd.auspost.com.au^
 ||dd.nytimes.com^
 ||deliver.ptgncdn.com^
+||digianalytics.airtel.in^
 ||discover-metrics.cloud.seek.com.au^
 ||dp.shoprunner.com^
 ||dtag.breadfinancial.com^
