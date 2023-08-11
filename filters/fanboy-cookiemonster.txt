@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-11T01:13:10.405Z
+! Last modified: 2023-08-11T06:22:12.007Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -208,6 +208,7 @@
 ||cookies.ptj.de^
 ||fc.vodafone.de^
 ||up-cookiemon.wavecdn.net^
+||cmp.histoire-et-civilisations.com^
 ||consent.prismamedia.com^
 ||consentement.ouest-france.fr^
 ||cookies.leadplace.fr^

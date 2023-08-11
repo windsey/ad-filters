@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-11T01:13:09.814Z
+! Last modified: 2023-08-11T06:22:11.365Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -75,6 +75,7 @@
 ||awmonitor.com^
 ||ayc0zsm69431gfebd.info^
 ||bfmio.com^
+||bidgx.com^
 ||bidswitch.net^
 ||bkrtx.com^
 ||bluekai.com^
@@ -228,6 +229,7 @@
 ||lltrck.com^
 ||lmepbq.com^
 ||logicanalytics.io^
+||logtail.com^
 ||lsdm.co^
 ||maggieeatstheangel.com^
 ||matheranalytics.com^
@@ -2236,6 +2238,7 @@
 ||customfingerprints.bablosoft.com^
 ||cws.conviva.com^
 ||d.shareaholic.com^
+||d1tbj6eaenapdy.cloudfront.net^
 ||d2wa5sea6guof0.cloudfront.net^
 ||dash.getsitecontrol.com^
 ||data.circulate.com^
