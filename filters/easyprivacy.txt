@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-11T18:20:59.851Z
+! Last modified: 2023-08-12T01:12:14.820Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -155,6 +155,7 @@
 ||ffe390afd658c19dcbf707e0597b846d.de^
 ||firstblackphase.com^
 ||fleraprt.com^
+||fmhy.net^
 ||fn-pz.com^
 ||fourtimessmelly.com^
 ||fpapi.io^
