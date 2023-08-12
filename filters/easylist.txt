@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-12T01:12:13.401Z
+! Last modified: 2023-08-12T06:20:21.296Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -24392,6 +24392,7 @@
 ||trollwarningpaws.com^
 ||tromairiememasdaq.com^
 ||trombocrack.com^
+||tronads.io^
 ||troncomelets.com^
 ||troolyhonks.com^
 ||troozescript.store^
