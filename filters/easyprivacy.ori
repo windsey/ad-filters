@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: /DnGrHvmppDBkuhdXtCcOg
-! Version: 202308121201
+! Checksum: Ak+zM2BfF6WcPWi8HIh5bw
+! Version: 202308121750
 ! Title: EasyPrivacy
-! Last modified: 12 Aug 2023 12:01 UTC
+! Last modified: 12 Aug 2023 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2223,6 +2223,7 @@
 /perf-vitals.
 /perf-vitals_
 /perflog/*
+/perfmatters/js/analytics.js
 /perfmetrics.js
 /perfops-cc.
 /performance-logger.
@@ -3913,6 +3914,7 @@ _WebVitalsReporter_
 /wizrocketmail.net/r?$image
 ://email.*/e/o/
 ://img.promio-connect.com/
+://omni.soundestlink.com/$image
 ://parcel-api.delivery-status.*/open/$image
 ://t.order.*/r/?id=$image
 _ad_impression.
@@ -9843,6 +9845,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.carbaselive.com^
 ||analytics.chegg.com^
 ||analytics.cincopa.com^
+||analytics.clic2buy.com^
 ||analytics.cloud.coveo.com^
 ||analytics.cmn.com^
 ||analytics.codigo.se^
@@ -32889,6 +32892,7 @@ arketing.indianadunes.com^
 ||at.ua/stat/
 ||counter.ukr.net^
 ||meta.ua/c.asp?
+||obozrevatel.com/pixel.png
 ||piccy.info/c?
 ||piccy.org.ua/c?
 ||remp.nv.ua^
