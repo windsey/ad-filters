@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: SHB40wZwpRqri1+wd+ny6A
-! Version: 202308131201
+! Checksum: 3fvVTvcYp3M7iCEEMaLkGA
+! Version: 202308131750
 ! Title: EasyPrivacy
-! Last modified: 13 Aug 2023 12:01 UTC
+! Last modified: 13 Aug 2023 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3912,6 +3912,7 @@ _WebVitalsReporter_
 /trcksp.
 /wf/open?upn=$image
 /wizrocketmail.net/r?$image
+://2ip.*/member_photo/$third-party
 ://email.*/e/o/
 ://img.promio-connect.com/
 ://omni.soundestlink.com/$image
@@ -6060,6 +6061,7 @@ _mongo_stats/
 ||precisioncounter.com^$third-party
 ||predicta.net^$third-party
 ||predictiveresponse.net^$third-party
+||premiumimpression.com^$third-party
 ||presage.io^$third-party
 ||prfct.co^$third-party
 ||privymktg.com^$third-party
