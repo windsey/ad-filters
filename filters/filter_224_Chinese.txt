@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-14T01:14:48.331Z
+! Last modified: 2023-08-14T06:22:27.592Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -624,6 +624,7 @@
 ||35vc.com^
 ||beclsbx.icu^
 ||rixgpx.xyz^
+||dnightwish.xyz^
 ||zonyff.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
