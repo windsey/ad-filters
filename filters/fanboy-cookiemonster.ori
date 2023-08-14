@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: P8zDzYxNSNVXnj3IRI0jmw
+! Checksum: HRTcXfaGFC+cx3s7h/EGaQ
 ! Title: Easylist Cookie List
-! Updated: 2023-08-13 18:00 UTC
+! Updated: 2023-08-14 01:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -21986,6 +21986,7 @@ tuigroup.com###tui-cc
 ru-geld.de###uca-info
 stadtwerke-herne.de,stadtwerke-witten.de###vinegar-bottle
 suhrkamp.de###whcm
+werksraeder24.de###wr24-cookie-notice
 printer-care.de###wwwschutz_div
 yatego.com###ycwBg
 yatego.com###ycwMo

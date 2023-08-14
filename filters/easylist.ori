@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IViIF85x0StYmsJM7crz5g
-! Version: 202308131750
+! Checksum: D6r9/clIXS3J6ca83Bw/vg
+! Version: 202308140050
 ! Title: EasyList
-! Last modified: 13 Aug 2023 17:50 UTC
+! Last modified: 14 Aug 2023 00:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -63040,6 +63040,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||gumtree.co.za/my/ads.html$~third-party
 @@||hotstar.com/vs/getad.php$domain=hotstar.com
 @@||hp.com/in/*/ads/$script,stylesheet,~third-party
+@@||htlbid.com^*/htlbid.js$domain=hodinkee.com
 @@||hutchgo.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 @@||hw-ads.datpiff.com/news/$image,domain=datpiff.com
 @@||image.shutterstock.com^$image,domain=icons8.com
