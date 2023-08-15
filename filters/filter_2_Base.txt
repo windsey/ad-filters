@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-15T12:32:48.348Z
+! Last modified: 2023-08-15T18:20:55.292Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -562,7 +562,6 @@
 ||stripe.rs-1028-a.com^
 ||piguiqproxy.com^$badfilter
 ||samsungtvads.com^
-
 ||d1o6lu9dr4t13s.cloudfront.net^
 ||adserver.pandora.com^
 ||zap.cdn.zynga.com^
@@ -32156,6 +32155,7 @@ rgmechanicsgames.com*VPN.exe
 ||mafvertizing.crazygames.com^
 ||mail-ads.google.com^
 ||montent.powzers.lol^
+||n.gemini.yahoo.com^
 ||nontent.powzers.lol^
 ||oontent.powzers.lol^
 ||plutonium.cointelegraph.com^
