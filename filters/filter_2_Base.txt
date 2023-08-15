@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-14T18:21:34.273Z
+! Last modified: 2023-08-15T01:14:04.489Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22609,6 +22609,7 @@ rgmechanicsgames.com*VPN.exe
 ||potionutilize.com^
 ||potnormal.com^
 ||potomactatted.life^
+||potoospincher.com^
 ||potorootests.com^
 ||potsaglu.net^
 ||potshumiliationremnant.com^
