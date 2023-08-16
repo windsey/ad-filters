@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-16T12:33:32.823Z
+! Last modified: 2023-08-16T18:21:35.855Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -667,6 +667,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||sanalytics.disneyplus.com^
 ||trcksp.cordial.io^
 ||track.msg.fortune.com^
 ||track.sp.crdl.io^
@@ -2068,11 +2069,9 @@
 ||pixel.honestjohn.co.uk^
 ||pixel.inforsea.com^
 ||pixel.klout.com^
-||pixel.naij.com^
 ||pixel.newscgp.com^
 ||pixel.newsdiscover.com.au^
 ||pixel.nur.kz^
-||pixel.parsely.com^
 ||pixel.pcworld.com^
 ||pixel.playbuzz.com^
 ||pixel.propublica.org^
@@ -2089,7 +2088,6 @@
 ||pixel.yabidos.com^
 ||pixelappcollector.thesun.co.uk^
 ||pixel*.adswizz.com
-||pixel.randi.adswizz.com
 ||pixelhere.com^
 ||pixels.ingbank.com.tr^
 ||pixels.livingsocial.com^
@@ -2099,7 +2097,6 @@
 ||plausible.simplelogin.io^
 ||player-feedback-v1.glomex.com^
 ||player-telemetry.vimeo.com^
-||ploz.mangadex.org^
 ||po.ponant.com^
 ||pos.baidu.com^
 ||prd-collector-anon-video.playbuzz.com^
@@ -15442,7 +15439,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||sanalytics.cnfanart.com^
 ||sanalytics.cnnchile.com^
 ||sanalytics.contracteconnection.com^
-||sanalytics.disneyplus.com^
 ||sanalytics.enterprise.spectrum.com^
 ||sanalytics.esporteinterativo.com.br^
 ||sanalytics.ewz.ch^

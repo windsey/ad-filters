@@ -5511,6 +5511,7 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||sanalytics.disneyplus.com^
 ||trcksp.cordial.io^
 ||track.msg.fortune.com^
 ||track.sp.crdl.io^
@@ -6930,11 +6931,9 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ||pixel.honestjohn.co.uk^
 ||pixel.inforsea.com^
 ||pixel.klout.com^
-||pixel.naij.com^
 ||pixel.newscgp.com^
 ||pixel.newsdiscover.com.au^
 ||pixel.nur.kz^
-||pixel.parsely.com^
 ||pixel.pcworld.com^
 ||pixel.playbuzz.com^
 ||pixel.propublica.org^
@@ -6951,7 +6950,6 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ||pixel.yabidos.com^
 ||pixelappcollector.thesun.co.uk^
 ||pixel*.adswizz.com
-||pixel.randi.adswizz.com
 ||pixelhere.com^
 ||pixels.ingbank.com.tr^
 ||pixels.livingsocial.com^
@@ -6961,7 +6959,6 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ||plausible.simplelogin.io^
 ||player-feedback-v1.glomex.com^
 ||player-telemetry.vimeo.com^
-||ploz.mangadex.org^
 ||po.ponant.com^
 ||pos.baidu.com^
 ||prd-collector-anon-video.playbuzz.com^
@@ -48280,9 +48277,9 @@ _tracking.php?b=
 /analytics.js$domain=tokyometro.jp|resumes.breakdownexpress.com|techcult.com|inbox.lv|kopeda.com|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de|newsdig.tbs.co.jp|imore.com|city.kushiro.lg.jp|emeraldbridal.com.au|emarat-news.ae|imobie.jp|tikla.com.tr|rusvideos.porn|jrkyushu.co.jp|amiunique.org
 ||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com|euronews.com|newshub.co.nz|fredmeyer.com|viabcp.com|carsales.com.au|falabella.com|aarp.org
 !
+||api.testbook.com/api/*/popup
 ||rocketcdn.me/*/tracking.js
 ||gamerant.com/strpixel.png
-||news.samsung.com/us/?noti=
 crea.bunshun.jp##.module-recommend
 ||plus.fifa.com/api/v*/analytics-collector
 ||mangaseek.jp/static/js/riveted.min.js
@@ -51775,6 +51772,12 @@ link.gmapp*.net$image
 ! it's problematic that due to how Gmail proxy work, these domains aren't even exposed on the network level
 ! fortunately, extensions can see them (Gmail puts the real URL in the location.hash part of the src)
 !
+! Samsung News
+news.samsung.com/us/?noti=$image
+news.samsung.com%2Fus%2F%3Fnoti%3D$image
+! Amazon
+amazon.com/gp/r.html?C=*&ref_=pe_*_open$image
+amazon.com%2Fgp%2Fr.html%3FC%3D*%26ref_%3Dpe_*_open$image
 ! Esputnik
 esputnik.com/repository/applications/commons/hidden.png
 ! Athleticsirelandmerchandise
