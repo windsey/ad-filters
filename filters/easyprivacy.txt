@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-16T06:22:16.682Z
+! Last modified: 2023-08-16T12:33:24.832Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1697,6 +1697,7 @@
 ||stiffstem.com^
 ||stingsquirrel.com^
 ||stockingsneeze.com^
+||stomachscience.com^
 ||storescissors.com^
 ||storeslope.com^
 ||storesurprise.com^

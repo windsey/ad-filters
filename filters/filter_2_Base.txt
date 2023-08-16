@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-16T06:22:22.343Z
+! Last modified: 2023-08-16T12:33:31.119Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||dr7.biz^
 ||wuftoars.net^
 ||afdrivovoq.com^
 ||sjolcdkqwiybh.xyz^

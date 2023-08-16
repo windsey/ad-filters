@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-16T06:22:23.786Z
+! Last modified: 2023-08-16T12:33:32.823Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||sdk.fra-*.braze.eu^
 ||ct2.kutinawa.com^
 ||tg1.premiumimpression.com^
 ||ythingy.com^
@@ -602,6 +603,9 @@
 ||vdc.zoomph.com^
 ||w88.go.com^
 ||wa.and.co.uk^
+||ssl.widgets.webengage.com^
+||c.webengage.com^
+||z.webengage.com^
 .ay.delivery^
 ||honorableland.com^
 ||rtc-logger-va.tiktokv.com^

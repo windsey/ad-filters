@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-16T06:22:17.534Z
+! Last modified: 2023-08-16T12:33:25.779Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -79,6 +79,9 @@
 ||reqde.afreecatv.com^
 ||adballoon.afreecatv.com^
 ||deapi.afreecatv.com^
+||startup.mobile.yandex.net^
+||startup.mobile.webvisor.com^
+||startup-mobile.ap.yandex-net.ru^
 ||stream.spongead.com^
 ||naverpa-phinf.pstatic.net^
 ||tivan.naver.com^
@@ -814,9 +817,6 @@
 @@://www.googleadservices.com^|
 @@||auto-api.yelp.com
 /m.realgfporn.com\/[a-z]{1,13}[0-9]{1,13}[a-z]{1,13}.js/
-||startup.mobile.yandex.net^
-||startup.mobile.webvisor.com^
-||startup-mobile.ap.yandex-net.ru^
 ||adcenter-api.cashwalk.co^
 ||ads.viber.com^
 ||ads-d.viber.com^
