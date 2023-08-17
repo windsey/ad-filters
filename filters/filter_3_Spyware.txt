@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-17T06:22:03.350Z
+! Last modified: 2023-08-17T12:33:09.884Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -667,6 +667,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||drfdisvc.walmart.com^
+||beacon.walmart.com^
 ||sanalytics.disneyplus.com^
 ||trcksp.cordial.io^
 ||track.msg.fortune.com^
