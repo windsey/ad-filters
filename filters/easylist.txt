@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-17T12:32:59.284Z
+! Last modified: 2023-08-17T18:21:37.513Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1887,7 +1887,6 @@
 ||adtoma.com^
 ||adtomafusion.com^
 ||adtonement.com^
-||adtonos.com^
 ||adtoox.com^
 ||adtorio.com^
 ||adtotal.pl^

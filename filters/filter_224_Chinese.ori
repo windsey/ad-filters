@@ -1034,6 +1034,9 @@ nfmovies.com#$#a[onclick*="openurl"][target="_blank"] img[src^="/static/"] { pos
 ! Good: example.org#?#main > div.row:has(> div.ad)
 ! Bad: example.org##main > div.ad (should be in specific.txt)
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/157190
+youku.com#$?#.swiper-container-horizontal > div.swiper-wrapper > div.swiper-slide:has(a[href*="/tg.602.com/"]) { remove: true; }
+youku.com#$?#.newswiper_big_swiper_container > div.swiper-container-horizontal > div.swiper-wrapper > div.swiper-slide:has(> a[data-href]:not([data-href^="https://v.youku.com/"]):not([data-scm])) { remove: true; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/158358
 lihkg.com#?#div[data-body-portal] > div[class^="_"] > div[class^="_"] > div[class^="_"] > div[class]:has(> div[class^="_"] ins.adsbygoogle)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/158575
@@ -1062,7 +1065,6 @@ hdmoli.com#?#.row > div.myui-panel:has(div[style^="text-align:"] > a[href][targe
 ! Do not hide .bili-video-card container to not mess up content, related - https://github.com/AdguardTeam/AdguardFilters/issues/147194#issuecomment-1500803042
 ! bilibili.com#?#.bili-video-card.is-rcmd > div > a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bili"]) + .bili-video-card__info:upward(2)
 bilibili.com#$?#.container > div.floor-single-card:has(> div.skeleton) { remove: true; }
-bilibili.com#$?#.container > div[class*="-card"]:has(div[style="display: none !important;"]) { remove: true; }
 bilibili.com#?#.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__wrap
 bilibili.com#?#.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__wrap
 bilibili.com#$?#.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__skeleton { visibility: visible !important; }
@@ -1568,6 +1570,7 @@ $script,third-party,denyallow=sharecast.ws|bunnycdn.ru|bootstrapcdn.com|cdn.ampp
 !
 !
 !
+httpcn.com##a[href^="http://www.okbmf.com/"] > img
 v.youku.com##.advertise-layer
 setn.com##.e_ad
 md.hkgolden.com##.hkg-ad
@@ -4857,6 +4860,7 @@ newduba.cn###jq_youxi
 ||berjzj.xyz^
 ||berylnbb.com^
 ||betcss.site^
+||bfjk360.com^
 ||bftqdd.xyz^
 ||bgdizsay.icu^
 ||bhjuy10.com^
@@ -4908,6 +4912,7 @@ newduba.cn###jq_youxi
 ||dalmfn.xyz^
 ||dasv10rewq.xyz^
 ||dbnwlp.xyz^
+||dcsxv.com^
 ||dd667788dd.com^
 ||dd778899dd.com^
 ||ddush.xyz^
@@ -4923,6 +4928,7 @@ newduba.cn###jq_youxi
 ||dghkpp.xyz^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
+||dnceqzz.icu^
 ||dnightwish.xyz^
 ||dojyiu8.com^
 ||donchen501.cn^
@@ -4964,8 +4970,10 @@ newduba.cn###jq_youxi
 ||feiln.xyz^
 ||fengyukun03.cn^
 ||fhglcpf.icu^
+||fiktvlnc.icu^
 ||fjsytjs.cn^
 ||fjtroip.cn^
+||fmre1.com^
 ||foirkrt.icu^
 ||fszpzd.xyz^
 ||fuliwang.cc^
@@ -4994,6 +5002,7 @@ newduba.cn###jq_youxi
 ||hdpdrandpd.xyz^
 ||hegk01a.top^
 ||hegk03a.top^
+||hfjk3wa.com^
 ||hfqdipw.cn^
 ||hgehse.site^
 ||hgf8hck.com^
@@ -5078,6 +5087,7 @@ newduba.cn###jq_youxi
 ||kl91ccp.com^
 ||kljslku.com^
 ||klufjdo.com^
+||kmjndas.com^
 ||kmnhgna.com^
 ||knjmhmk.com^
 ||kodfn.xyz^
@@ -5198,6 +5208,7 @@ newduba.cn###jq_youxi
 ||qrirud.xyz^
 ||qselic.top^
 ||qslbahy.top^
+||qucncfo.cn^
 ||qwdbsjnql.com^
 ||rabuagc.cn^
 ||rdbousn.cn^
@@ -5214,6 +5225,7 @@ newduba.cn###jq_youxi
 ||ronbbf.xyz^
 ||rpyor0k.xyz^
 ||rssxsjh.icu^
+||rszkhn.xyz^
 ||rtborp.xyz^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
@@ -5248,6 +5260,7 @@ newduba.cn###jq_youxi
 ||tggsd07.com^
 ||thesac2.top^
 ||thesac3.top^
+||thesac4.top^
 ||thesac7.top^
 ||tifyeldi.top^
 ||tknkfd.xyz^
@@ -5354,21 +5367,11 @@ newduba.cn###jq_youxi
 ||ziravd.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
-||bfjk360.com^
-||zzisnvb.cn^
-||thesac4.top^
-||kmjndas.com^
-||dnceqzz.icu^
-||rszkhn.xyz^
-||hfjk3wa.com^
-||fmre1.com^
-||fiktvlnc.icu^
-||qucncfo.cn^
-||dcsxv.com^
 ||zszhln.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
 ||zypzzv.xyz^
+||zzisnvb.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/ky6y.com"]
