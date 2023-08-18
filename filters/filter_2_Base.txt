@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-18T06:21:59.202Z
+! Last modified: 2023-08-18T12:32:48.807Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3750,6 +3750,9 @@
 ||banner.mob.hr^
 ||bannery.navratdoreality.cz^
 ||report.seznamzpravy.cz^
+delfi
+||ap.delfi.ee^
+||ado.delfi.ee^
 ||sab.fast.ge^
 ||a.b.napiszar.com^
 ||ban.bhol.co.il^
@@ -3757,8 +3760,6 @@
 ||st1.bhol.co.il^
 ||pijama.*.elasticbeanstalk.com^
 ||pad.mymovies.it^
-||ap.delfi.ee^
-||ado.delfi.ee^
 ||reklammen.spellchecker.lu^
 ||bn.gogo.mn^
 ||llog.pl^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-18T06:21:55.252Z
+! Last modified: 2023-08-18T12:32:43.388Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -102,6 +102,7 @@
 ||itadapi.ithome.com.tw^
 ||1002.men^
 
+||pixoctopus.pixnet.net^
 ||jsx.luyouwang.com^
 ||kdpic.pchome.com.tw^
 ||one.fsylr.com^
@@ -676,6 +677,10 @@
 ||afgp10l.com^
 ||lzmvcrp.icu^
 ||zglmvz.buzz^
+||yjnkas.com^
+||daeis.cn^
+||nswtojdi.icu^
+||wrpsouf.cn^
 ||zvasuzb.icu^
 ||zxrcfw.com^
 ||zypzzv.xyz^
