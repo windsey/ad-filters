@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-19T01:11:18.391Z
+! Last modified: 2023-08-19T06:20:02.167Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -581,6 +581,9 @@
 ||vlujojf.icu^
 ||zmdjbl.xyz^
 ||leadc4.icu^
+||brendanbc.com^
+||mmtnat.com^
+||ajtdumo.cn^
 ||zszhln.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
