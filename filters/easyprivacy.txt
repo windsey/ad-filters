@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-19T18:19:08.998Z
+! Last modified: 2023-08-20T01:16:51.242Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1350,6 +1350,7 @@
 ||poisedpig.com^
 ||politegoldfish.com^
 ||politeplanes.com^
+||politicalporter.com^
 ||popcornfood.com^
 ||possessivebucket.com^
 ||possibleboats.com^
@@ -2426,6 +2427,7 @@
 ||log-*.previewnetworks.com^
 ||log.aimtell.com^
 ||log.cookieyes.com^
+||log.dpa.com^
 ||log.go.com^
 ||log.invodo.com^
 ||log.mediacategory.com^
