@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-20T12:29:48.288Z
+! Last modified: 2023-08-20T18:19:25.938Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -521,7 +521,6 @@
 ||2lwlh385os.com^
 ||2m3gdt0gc.de^
 ||2m55gqleg.de^
-||2mdn.net^
 ||2mf9kkbhab31.com^
 ||2mke5l187.de^
 ||2mlh2fw7z62i.com^
