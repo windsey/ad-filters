@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-21T01:13:47.730Z
+! Last modified: 2023-08-21T06:22:28.323Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -715,6 +715,8 @@
 ||canser7.top^
 ||tlbjw.com^
 ||hthivr.xyz^
+||ltsubzgmw.xyz^
+||zgkvfu.xyz^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
