@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-21T06:22:28.323Z
+! Last modified: 2023-08-21T12:33:59.518Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -717,6 +717,11 @@
 ||hthivr.xyz^
 ||ltsubzgmw.xyz^
 ||zgkvfu.xyz^
+||uraseszincy.com^
+||iojnask.com^
+||d0lzq.com^
+||cdncloud.asia^
+||xwqtatnw.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
@@ -5691,7 +5696,6 @@
 ||aiwen.cc^
 ||al.newxue.com^
 ||anews7.nvwu.com^
-||api.557400.com^
 ||aqc.gucheng.com^
 ||as1.m.hao123.com^
 ||as1.wenku.baidu.com^
