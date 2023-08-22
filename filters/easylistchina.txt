@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-22T06:22:11.639Z
+! Last modified: 2023-08-22T12:33:51.299Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -628,6 +628,9 @@
 ||3338652.com^
 ||3338637.com^
 ||cao-gao.xyz^
+||kmhnk00.com^
+||hkctmldg.icu^
+||htienlu.top^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||002777.xyz^
