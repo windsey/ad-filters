@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-21T18:20:18.278Z
+! Last modified: 2023-08-22T01:14:48.849Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -114,6 +114,7 @@
 ||cmp.telerama.fr^
 ||cmp.uniconsent.com^
 ||cmp.vg.no^
+||cmpv2.pcworld.com^
 ||consent.23g.io^
 ||consent.amateurphotographer.co.uk^
 ||consent.canalboat.co.uk^
