@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-22T18:21:52.500Z
+! Last modified: 2023-08-23T01:13:55.720Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||ads1-adnow.com^
 ||thaitchy.net^
 ||chuxuwem.tv^
 ||kxuattexg.com^
