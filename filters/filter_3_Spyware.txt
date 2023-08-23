@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-23T06:22:31.889Z
+! Last modified: 2023-08-23T12:33:54.979Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -182,7 +182,6 @@
 ||statsigapi.net^
 ||metaversn.site^
 ||hermes.allo-media.net^
-||c212.net^
 ||imp.xmax.jp^
 ||cdn.kaizenplatform.net^
 ||oaprodlogging.yo-digital.com^
@@ -668,6 +667,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||analytics.elegela.us^
+||analytics.code.illusion.jp^
 ||a.brack.ch^
 ||go.bidfluence.com^
 ||stracker.rmg.ru^
@@ -34671,6 +34672,7 @@ inapps.appsflyersdk.com^
 @@||redirect.appmetrica.yandex.net^
 @@||redirect.appmetrica.yandex.com^
 @@||79423.analytics.edgekey.net^|
+@@||optout.rlcdn.com^
 ||form.info-morimoto-real.jp^$badfilter
 ||connect.telstrawholesale.com^$badfilter
 @@||app.message.sonicwall.com^

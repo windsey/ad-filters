@@ -79,6 +79,8 @@
 ! Bad: example.org###rek (should be in specific.txt)
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/159792
+starblast.io#%#//scriptlet('set-constant', 'ga', 'noopFunc')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159573
 uol.com.br#%#//scriptlet('set-constant', 'YT', 'emptyObj')
 uol.com.br#%#//scriptlet('set-constant', 'YT.ImaManager', 'noopFunc')
@@ -798,7 +800,7 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ||metaversn.site^
 ||hermes.allo-media.net^
 ||cdn.cohesionapps.com^$third-party
-||c212.net^
+||c212.net^$third-party
 ||imp.xmax.jp^
 ||analytics.audionow.de^$third-party
 ||cdn.kaizenplatform.net^
@@ -5522,6 +5524,8 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.elegela.us^
+||analytics.code.illusion.jp^
 ||a.brack.ch^
 ||go.bidfluence.com^
 ||stracker.rmg.ru^
@@ -52623,6 +52627,8 @@ link.gmapp*.net$image
 ! it's problematic that due to how Gmail proxy work, these domains aren't even exposed on the network level
 ! fortunately, extensions can see them (Gmail puts the real URL in the location.hash part of the src)
 !
+! Nirandfar
+email.nirandfar.com/*/link-tracker?$image
 ! Jotform
 events.jotform.com/email/$image
 ! Mailersend
@@ -55006,6 +55012,13 @@ inapps.appsflyersdk.com^
 !#endif
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/159566
+@@||optout.rlcdn.com^
+! https://github.com/AdguardTeam/AdguardFilters/issues/159792
+!#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
+@@||googletagmanager.com/gtag/js$domain=starblast.io
+@@||google-analytics.com/analytics.js$domain=starblast.io
+!#endif
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159812
 @@||wurfl.io/wurfl.js$domain=onlinetouch.nl
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159804

@@ -119,6 +119,7 @@ turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepeti.com,rabota.by,temp-
 ! notifications - part of the functionality
 ! discord.com##div[class^="container"] > nav[class^="wrapper"] + div[class^="base"] > div[class^="notice-"]
 !
+[$path=/maps]yandex.*#?#form.route-form-view > div.card-banner-view
 web.playerapp.tokyo#?#main > aside:has(> div > a[href^="https://itunes.apple.com/app/"])
 instagram.com#%#//scriptlet('set-session-storage-item', 'loggedOutAppSheetIsMinimized', '1')
 myoji-kamon.net##.omamoriAd
@@ -1305,6 +1306,7 @@ tanoshiiosake.jp#%#//scriptlet('remove-class', 'app-appBannerOpen', 'body')
 jreast-timetable.jp,jreast.co.jp###jre_header_appLink
 chess.com##.ready-to-play-banner-component
 m.liputan6.com##.gateway__mobile-app
+keirin.netkeiba.com##.appeal_bnr_wrap
 sp.netkeiba.com##.HeadBnrWrap
 sp.netkeiba.com##.netkeiba_app_link01
 france24.com##.o-self-promo--app
