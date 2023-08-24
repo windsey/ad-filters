@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-24T06:22:35.501Z
+! Last modified: 2023-08-24T12:33:53.872Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -755,6 +755,8 @@
 ||yasg114.com^
 ||itienlo.top^
 ||rvzlobj.cn^
+||txcv68f.com^
+||f1tfmxzg.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
