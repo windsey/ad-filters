@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-24T12:33:58.204Z
+! Last modified: 2023-08-24T18:22:02.577Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10058,6 +10058,7 @@ rgmechanicsgames.com*VPN.exe
 ||comicplanet.net^
 ||comihon.com^
 ||comilar-efferiff.icu^
+||commandmentcolinclub.com^
 ||commercial-i30.com^
 ||commercialvalue.org^
 ||commiseratefacilenotably.com^
@@ -22321,6 +22322,7 @@ rgmechanicsgames.com*VPN.exe
 ||playvideodirect.com^
 ||playwrightgrant.com^
 ||pleasantlyrevenge.com^
+||pleasenudgemillions.com^
 ||pleasetrack.com^
 ||pleastevallege.xyz^
 ||plenitudeagency.com^
