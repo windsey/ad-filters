@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-23T18:19:54.274Z
+! Last modified: 2023-08-24T01:13:37.597Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -29757,6 +29757,7 @@ rgmechanicsgames.com*VPN.exe
 ||waymarkgentiin.com^
 ||waymentriddel.com^
 ||waynagmay.com^
+||wazaki.xyz^
 ||wazbuvdcij.com^
 ||wazensee.net^
 ||wbdds.com^
