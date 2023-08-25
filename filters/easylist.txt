@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-25T06:22:24.852Z
+! Last modified: 2023-08-25T12:33:13.473Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -26813,12 +26813,14 @@
 ||wkyfgxxabvu.xyz^
 ||wl-cornholio.com^
 ||wlafx4trk.com^
+||wlct-two.de^
 ||wledconsi.xyz^
 ||wlfcwkijsknted.xyz^
 ||wlimrvsnusyawk.com^
 ||wliuahugpgo.com^
 ||wlixymxepnroiq.com^
 ||wlt-alice.de^
+||wlt-jupiter.de^
 ||wltsgqnblq.com^
 ||wma.io^
 ||wmbbsat.com^
@@ -27963,6 +27965,7 @@
 ||ohmygosh.info^
 ||1080872514.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
+||1437953666.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||a-delivery.rmbl.ws^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-25T06:22:25.364Z
+! Last modified: 2023-08-25T12:33:13.997Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -665,6 +665,8 @@
 ||lhgwcvw.cn^
 ||neghes.fun^
 ||zgwsnw.xyz^
+||9cc9ckp.com^
+||p2kfynrr.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ||002777.xyz^
