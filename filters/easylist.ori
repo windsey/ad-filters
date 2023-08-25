@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Mbo/rFrUS4u4muYWrnxviQ
-! Version: 202308241750
+! Checksum: JumO8kurgVvfATFj8LAAZA
+! Version: 202308250050
 ! Title: EasyList
-! Last modified: 24 Aug 2023 17:50 UTC
+! Last modified: 25 Aug 2023 00:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1094,12 +1094,6 @@
 /advanced-ads-$domain=~wordpress.org
 /advbanner/*$~image
 /advbanners/*$~image
-/adver.$domain=~adver.biz|~adver.by|~adver.live|~adver.media|~adver.vn
-/adverfisement.
-/adverfisement2.
-/adverserve.
-/adversting/*
-/adversting?
 /advert.$~script,domain=~advert.ae|~advert.club|~advert.com.tr|~advert.ee|~advert.ge|~advert.io|~advert.media|~advert.org.pl|~motortrader.com.my
 /advert01.
 /advert1.
@@ -1115,11 +1109,6 @@
 /advert_$domain=~canalplus.com
 /advertbanner.
 /advertbox.
-/advertise-$~script,domain=~ads.microsoft.com|~advertise-solution.nl|~bingads.microsoft.com
-/advertisements-
-/advertisements?
-/advertisements_
-/advertiserwidget.
 /advertising/banner_
 /advertising/banners/*
 /advertising2.
@@ -1979,8 +1968,6 @@
 /mac-ad?
 /mad_ad.
 /mads.php?
-/magic-ad/*
-/magic-ads/*
 /main/ad/*
 /main/ad_
 /main_ad.
@@ -58101,6 +58088,7 @@ businessinsider.in##.clmb_eoa
 kissanime.com.ru##.close_ad_button
 news18.com##.closestickybtn
 computerweekly.com,techtarget.com,theserverside.com##.cls-hlb-wrapper-desktop
+mayoclinic.org##.cmp-advertisement__wrapper
 boldsky.com,drivespark.com,filmibeat.com,gizbot.com,goodreturns.in,nativeplanet.com##.cmscontent-article1
 boldsky.com,drivespark.com,filmibeat.com,gizbot.com,goodreturns.in,nativeplanet.com##.cmscontent-article2
 boldsky.com,drivespark.com,filmibeat.com,gizbot.com,goodreturns.in,nativeplanet.com,oneindia.com##.cmscontent-left-article
@@ -59257,6 +59245,7 @@ investopedia.com##.partnerlinks
 letsgodigital.org,letsgomobile.org##.partners-bar
 cbn.com##.partners-block
 practicalecommerce.com##.partners-sidebar
+advocate.com##.partners__container
 arrivealive.co.za##.partnersheading
 liveuamap.com##.passby
 writerscafe.org##.pay
