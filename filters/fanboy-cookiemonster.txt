@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-26T06:21:02.211Z
+! Last modified: 2023-08-26T12:30:21.603Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -128,6 +128,7 @@
 ||consent.unilad.com^
 ||cookies.lmt.lv^
 ||fuse.forbes.com^
+||gdpr-api.sharethis.com^
 ||gdpr.internetbrands.com^
 ||mms.cmpsky.com^
 ||privacy.claytonhomes.com^
