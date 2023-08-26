@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-26T12:30:27.720Z
+! Last modified: 2023-08-26T18:20:13.956Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3647,14 +3647,11 @@ rgmechanicsgames.com*VPN.exe
 -adbox-
 -adfliction.
 -adimage-
--adloader-
 -ads-banner.
 -ads-bottom.
 -ads-right.
 -adskin.
--adslots.
 -adsonar.
--advertisment-
 -adverts.min.
 -article-ad-
 -article-ad.
@@ -10159,6 +10156,7 @@ rgmechanicsgames.com*VPN.exe
 ||confiskbriggs.top^
 ||confrontationdrunk.com^
 ||confused-classic.pro^
+||confvtt.com^
 ||congestionbeautycrystal.com^
 ||congestit.com^
 ||congressaffrayghosts.com^
@@ -30727,6 +30725,7 @@ rgmechanicsgames.com*VPN.exe
 ||xxmaqoupnd.com^
 ||xxodleylnfhyi.com^
 ||xxofygygumf.com^
+||xxpghuf.com^
 ||xxxbannerswap.com^
 ||xxxex.com^
 ||xxxiijmp.com^
@@ -31466,6 +31465,7 @@ rgmechanicsgames.com*VPN.exe
 ||promos.fling.com^
 ||pubfeed.linkby.com^
 ||qsearch-a.akamaihd.net^
+||random-affiliate.atimaze.com^
 ||revboostprocdnadsprod.azureedge.net^
 ||rotabanner.kulichki.net^
 ||rotator.tradetracker.net^
