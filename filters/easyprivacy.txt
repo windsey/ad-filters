@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-27T12:30:47.822Z
+! Last modified: 2023-08-27T18:20:03.446Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3582,6 +3582,7 @@
 ||informers.sinoptik.ua^
 ||tracker.prom.ua^
 ||analytics.yomedia.vn^
+||countervov.emitech.vn^
 ||f-emc.ngsp.gov.vn^
 ||tracking.aita.gov.vn^
 ||tracking3.vnncdn.net^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-27T12:30:54.658Z
+! Last modified: 2023-08-27T18:20:09.130Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -32313,6 +32313,7 @@ rgmechanicsgames.com*VPN.exe
 ||ad.kisscartoon.sh^
 ||ad.kisstvshow.ru^
 ||ads-api.twitter.com^
+||adsbb.depositfiles.com^
 ||aontent.powzers.lol^
 ||asgg.ghostbin.me^
 ||b.w3techs.com^
