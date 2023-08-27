@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-27T06:21:12.750Z
+! Last modified: 2023-08-27T12:30:54.658Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -26087,7 +26087,6 @@ rgmechanicsgames.com*VPN.exe
 ||sonnetkeltics.com^
 ||sonniesabreact.website^
 ||sonnyadvertise.com^
-||sonobi.com^
 ||sonsbrunette.com^
 ||sonumal.com^
 ||soocaips.com^
