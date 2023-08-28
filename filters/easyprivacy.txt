@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-28T01:15:41.581Z
+! Last modified: 2023-08-28T06:23:13.296Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2496,6 +2496,7 @@
 ||monorail-edge.shopifysvc.com^
 ||mormont.gamer-network.net^
 ||ms-trackingapi.phenompeople.com^
+||msadsscale.azureedge.net^
 ||munchkin.marketo.net^
 ||mv.treehousei.com^
 ||neocounter.neoworx-blog-tools.net^
@@ -3581,6 +3582,7 @@
 ||tracking.venturify.at^
 ||informers.sinoptik.ua^
 ||tracker.prom.ua^
+||webvitals.luxnet.ua^
 ||analytics.yomedia.vn^
 ||countervov.emitech.vn^
 ||f-emc.ngsp.gov.vn^
