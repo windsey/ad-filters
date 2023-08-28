@@ -545,6 +545,7 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||phenomtrackapi-ir.phenompeople.com^
 ||kiwi.mdldb.net^
 ||agrvt.com^
 ||westats.dev^$third-party
@@ -49071,6 +49072,7 @@ _tracking.php?b=
 /analytics.js$domain=tokyometro.jp|resumes.breakdownexpress.com|techcult.com|inbox.lv|kopeda.com|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de|newsdig.tbs.co.jp|imore.com|city.kushiro.lg.jp|emeraldbridal.com.au|emarat-news.ae|imobie.jp|tikla.com.tr|rusvideos.porn|jrkyushu.co.jp|amiunique.org
 ||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com|euronews.com|newshub.co.nz|fredmeyer.com|viabcp.com|carsales.com.au|falabella.com|aarp.org
 !
+||statics.foxsports.com/static/orion/js/segment-analytics.js
 ||synthira.ru/*.php|$script
 ||imgssl.constantcontact.com/letters/images/sys/S.gif
 thestar.com##.viafoura-engagement-starter
@@ -52617,9 +52619,9 @@ cdn.shopify.com%2Fshopify-email%2F$image
 sendfox.com/trk/open/$image
 sendfox.com%2Ftrk%2Fopen%2F$image
 ! Nirandfar
-email.nirandfar.com/*/link-tracker?$image
+email.nirandfar.com*link-tracker$image
 ! Jotform
-events.jotform.com/email/$image
+events.jotform.com*email$image
 ! Mailersend
 click.mailersend.net$image
 ! Mailerlite
@@ -54347,7 +54349,6 @@ inapps.appsflyersdk.com^
 ||events-stream-svc.usw2.cordial.com^
 ||message-hub-svc.usw2.cordial.com^
 ||stats.fifthstarlabs.io^
-||collector.doordash.com^
 ||events.iap.unity3d.com^
 ||mobilelog.ws.pho.to^
 ||etl.tindersparks.com^
@@ -55006,6 +55007,11 @@ inapps.appsflyersdk.com^
 !#endif
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/160061
+@@||googletagmanager.com/gtm.js$domain=wattpad.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/160224
+@@||googletagmanager.com/gtm.js$domain=orami.co.id
+||googletagmanager.com/gtm.js$script,redirect=google-analytics,domain=orami.co.id,important
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159983
 @@||js.datadome.co/tags.js$domain=auth.garena.com
 @@||api-js.datadome.co/js/|$xmlhttprequest,domain=auth.garena.com

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-28T06:23:13.296Z
+! Last modified: 2023-08-28T12:34:58.085Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3689,7 +3689,9 @@
 ||collect.asics.com^
 ||collect.banggood.com^
 ||collect.hollisterco.com^
+||collect.reagroupdata.com.au^
 ||collect.thunder-io.com^
+||collections-api.realestate.com.au^
 ||collector-px0py5pczn.octopart.com^
 ||collector.cint.com^
 ||collector.fiverr.com^
@@ -3822,6 +3824,7 @@
 ||j927.statnews.com^
 ||jfapiprod.optimonk.com^
 ||jumbo.zomato.com^
+||lexa.realestate.com.au^
 ||link.kogan.com^
 ||lists.ccmbg.com^
 ||log-gateway.zoom.us^
@@ -21068,6 +21071,7 @@ arketing.indianadunes.com^
 ||bmly.impots.gouv.fr^
 ||cdtm.cdiscount.com^
 ||compteur.developpez.com^
+||dd.leboncoin.fr^
 ||e.legalstart.fr^
 ||eum2.caisse-epargne.fr^
 ||events-logs.doctolib.com^
