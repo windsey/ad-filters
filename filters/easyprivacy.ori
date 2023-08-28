@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 5P1LQ+vKvyvpAsKoRx97NA
-! Version: 202308271750
+! Checksum: j25eKgIbgRhMgeJ1QPjgnQ
+! Version: 202308280050
 ! Title: EasyPrivacy
-! Last modified: 27 Aug 2023 17:50 UTC
+! Last modified: 28 Aug 2023 00:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -33332,6 +33332,7 @@ arketing.indianadunes.com^
 @@||tokbox.com/prod/logging/ClientEvent$domain=examroom.ai
 @@||toyota.com/recall/static/js/custom/facebookPixel.js$~third-party
 @@||track.shipstation.com/collections/trackingEvents.js$~third-party
+@@||trackjs.com/agent/$script,domain=delta.com
 @@||trackonomics.net/client/$script,domain=popsugar.com
 @@||travel-assets.com/platform-analytics-prime/$domain=chase.com
 @@||tunein.com/api/v1/comscore$~third-party

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-27T18:20:02.034Z
+! Last modified: 2023-08-28T01:15:40.174Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4692,6 +4692,7 @@
 ||bmcdn4.com^
 ||bmcdn5.com^
 ||bmcdn6.com^
+||bmgipyr.com^
 ||bmhenchlyica.xyz^
 ||bmjlzyjwwmwaw.top^
 ||bmkz57b79pxk.com^

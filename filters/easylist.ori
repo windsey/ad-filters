@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6v6GG8qrYW9Jm3/R49PHmA
-! Version: 202308271750
+! Checksum: p01eMF160zqWrPC3tUt/kw
+! Version: 202308280050
 ! Title: EasyList
-! Last modified: 27 Aug 2023 17:50 UTC
+! Last modified: 28 Aug 2023 00:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -24217,6 +24217,7 @@ browsershots.org#@#.advert_area
 ||bmcdn4.com^
 ||bmcdn5.com^
 ||bmcdn6.com^
+||bmgipyr.com^
 ||bmhenchlyica.xyz^
 ||bmjlzyjwwmwaw.top^
 ||bmkz57b79pxk.com^
@@ -54887,6 +54888,7 @@ browsershots.org#@#.advert_area
 ||cricbuzz.com/api/adverts/
 ||cricketireland.ie//images/sponsors/
 ||cript.to/dlm.png
+||cript.to/z-
 ||crn.com.au/scripts/js_$script
 ||cyberscoop.com/advertising/
 ||d1lxz4vuik53pc.cloudfront.net^$domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.br|amazon.com.mx|amazon.com.tr|amazon.de|amazon.eg|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.nl|amazon.pl|amazon.sa|amazon.se|amazon.sg
@@ -57885,6 +57887,7 @@ mangable.com,tutorial9.net,webdesign.org##.bsarocks
 doge-faucet.com##.bspot
 cricwaves.com##.btm728
 helensburghadvertiser.co.uk,the-gazette.co.uk##.btn
+snaptik.app##.btn-download-hd[data-ad="true"]
 files.im##.btn-success
 sbenny.com##.btnDownload5
 pollunit.com##.btn[href$="?feature=ads"]
@@ -59312,6 +59315,7 @@ forebet.com##.rbannerDiv
 reverso.net##.rcacontent
 bookriot.com##.rcp-wrapper
 just-dice.com##.realcontent
+shareus.io##.recent-purchased
 bettycrocker.com##.recipeAd
 nypost.com,pagesix.com##.recirc
 videocelebs.net##.recl
@@ -59456,6 +59460,7 @@ pipeflare.io##.section-promo-banner
 seattlepride.org##.section_sponsorship
 brandsoftheworld.com##.seedling
 hypestat.com##.sem_banner
+shareus.io##.seperator-tag
 shortorial.com##.sgpb-popup-dialog-main-div-wrapper
 analyticsinsight.net,shortorial.com##.sgpb-popup-overlay
 stockhouse.com##.sh-ad
