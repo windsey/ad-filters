@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-29T01:15:41.677Z
+! Last modified: 2023-08-29T06:23:08.579Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -87,10 +87,8 @@
 .adserver.
 .adsremote.
 .clkads.
-.iads.js
 .lazyload-ad-
 .lazyload-ad.
-.mobileads.
 .nativeads.
 .openxtag.
 .popunder.js
@@ -8753,6 +8751,7 @@
 ||efinauknceiwou.info^
 ||efvheaepmbgicx.xyz^
 ||efvpufdjd.com^
+||egallsylvate.com^
 ||egcqohrksmlmu.xyz^
 ||eggcupsfriends.com^
 ||eggerscorr.com^
@@ -9877,6 +9876,7 @@
 ||fiinann.com^
 ||fijekone.com^
 ||fijetuxa.com^
+||filasseseeder.com^
 ||filese.me^
 ||filetarget.com^
 ||filetarget.net^
@@ -14214,6 +14214,7 @@
 ||landupoatouwe.xyz^
 ||landwaycru.com^
 ||lanentablelanentablefantasy.com^
+||languewauchts.com^
 ||lanistaads.com^
 ||laniusburkei.com^
 ||lanksnail.com^
@@ -16640,6 +16641,7 @@
 ||nicknameuntie.com^
 ||nicksstevmark.com^
 ||nidredra.net^
+||nidudihideout.com^
 ||niececordthrone.com^
 ||nieveni.com^
 ||nifiel.com^
@@ -19298,6 +19300,7 @@
 ||pressize.com^
 ||prestadsng.com^
 ||prestigefunction.com^
+||prestlyamylan.com^
 ||prestoris.com^
 ||prestsusie.com^
 ||presumeauthorizationcamping.com^
