@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-29T06:23:11.284Z
+! Last modified: 2023-08-29T12:34:54.358Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -84,6 +84,7 @@
 ||startup.mobile.yandex.net^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
+||ads-api.kidsnote.com^
 ||ads*.bojijulebu.com^
 ||stream.spongead.com^
 ||naverpa-phinf.pstatic.net^

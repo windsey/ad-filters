@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-29T06:23:16.491Z
+! Last modified: 2023-08-29T12:34:59.242Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3711,10 +3711,8 @@ rgmechanicsgames.com*VPN.exe
 .adserver.
 .adsremote.
 .clkads.
-.iads.js
 .lazyload-ad-
 .lazyload-ad.
-.mobileads.
 .nativeads.
 .openxtag.
 .popunder.js
@@ -9403,6 +9401,7 @@ rgmechanicsgames.com*VPN.exe
 ||chatheez.net^
 ||chats2023.online^
 ||chattertasty.com^
+||chauckoo.xyz^
 ||chaudrep.net^
 ||chaugroo.net^
 ||chaukrgukepers.xyz^
@@ -9571,6 +9570,7 @@ rgmechanicsgames.com*VPN.exe
 ||chsrkred.com^
 ||chtntr.com^
 ||chugaiwe.net^
+||chugsorlando.com^
 ||chuhramumper.com^
 ||chullohagrode.com^
 ||chultoux.com^
@@ -25522,6 +25522,7 @@ rgmechanicsgames.com*VPN.exe
 ||shoageep.com^
 ||shoagooy.net^
 ||shoahoom.com^
+||shoaltor.com^
 ||shoawhom.com^
 ||shockadviceinsult.com^
 ||shockeddump.pro^
@@ -29698,6 +29699,7 @@ rgmechanicsgames.com*VPN.exe
 ||wangfenxi.com^
 ||wanlyavower.com^
 ||wanmolamchoor.store^
+||wannessdebus.com^
 ||wannestfooled.com^
 ||wansultoud.com^
 ||wantopticalfreelance.com^

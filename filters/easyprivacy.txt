@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-29T06:23:10.228Z
+! Last modified: 2023-08-29T12:34:53.494Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2732,6 +2732,7 @@
 ||t.cfjump.com^
 ||t.channeladvisor.com^
 ||t.clic2buy.com^
+||t.enuygun.com^
 ||t.irtyc.com^
 ||t.jobsyn.org^
 ||t.menepe.com^
