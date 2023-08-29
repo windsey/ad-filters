@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-28T18:22:20.274Z
+! Last modified: 2023-08-29T01:15:51.057Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11594,6 +11594,7 @@ rgmechanicsgames.com*VPN.exe
 ||dolphincdn.xyz^
 ||domainanalyticsapi.com^
 ||domainbuyingservices.com^
+||domaincntrol.com^
 ||domakuhitaor.com^
 ||domankeyan.com^
 ||dombnrs.com^
@@ -16153,6 +16154,7 @@ rgmechanicsgames.com*VPN.exe
 ||impatientlyastonishing.com^
 ||impatienttidy.com^
 ||impavidcircean.com^
+||impeccablewriter.com^
 ||impededhaeing.com^
 ||impendingaggregated.com^
 ||impendscouxio.com^
@@ -17624,6 +17626,7 @@ rgmechanicsgames.com*VPN.exe
 ||kwtnhdrmbx.com^
 ||kwyuivlaychxe.com^
 ||kxnggkh2nj.com^
+||kxshyo.com^
 ||kxwhiogrswx.com^
 ||kybelefwrkmtt.xyz^
 ||kychajuza.com^
