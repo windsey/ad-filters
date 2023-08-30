@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 9IXH41+WVvK3whDeZEHFYQ
-! Version: 202308300550
+! Checksum: 4+Om5hTW+fd8eq8F2Jlu9w
+! Version: 202308301210
 ! Title: EasyPrivacy
-! Last modified: 30 Aug 2023 05:50 UTC
+! Last modified: 30 Aug 2023 12:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -813,7 +813,6 @@
 /comscore-min.js
 /comscore-pageview-
 /comscore/pageview_
-/comscore/streamsense.
 /comscore?
 /comscore_beacon/*
 /comscore_pageview
@@ -3061,38 +3060,22 @@
 /trackEvent.min.js?
 /trackga.
 /trackGAEvents.
-/trackhandler.ashx?
-/trackimage/*
 /trackImpression/*
 /trackimps?
 /tracking-analytics-
 /tracking-cookie.
 /tracking-events.js
-/tracking-hits.
 /tracking-info.gif?
-/tracking-init.
 /tracking-links.js
 /tracking-pixel.
 /tracking-pixel/*
 /tracking.*/impression?
 /tracking.jsp?sid=
-/tracking/?c_
-/tracking/?ID=
-/tracking/addview/*
-/tracking/adobe.js
-/tracking/adobe/*
 /tracking/airdog
-/tracking/beacon/?
-/tracking/click?
-/tracking/clicks
 /tracking/common.
-/tracking/comscore/*
-/tracking/cookies/*
-/tracking/create?
-/tracking/digitalData.
+/tracking/digitaldata.js
 /tracking/events/*
 /tracking/events?
-/tracking/fingerprint/*
 /tracking/freewheel/*
 /tracking/impression
 /tracking/ipify
@@ -3103,11 +3086,9 @@
 /tracking/open?
 /tracking/pageview.
 /tracking/pixel.
-/tracking/pixel_
 /tracking/referrer?
 /tracking/thirdpartytag.js
-/Tracking/TrackPage
-/tracking/ts?
+/tracking/trackpageview
 /tracking/user_sync_widget?
 /tracking/views/*
 /tracking/xtcore.
@@ -10415,6 +10396,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||domodomain.com^*/ddsense.aspx?
 ||doppiocdn.com/healthcheck
 ||doppiocdn.org/healthcheck
+||doppler-beacon.cbsivideo.com^
 ||doppler-beacons.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^$third-party
@@ -10510,6 +10492,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||events.medio.com^
 ||events.missena.io^
 ||events.ocdn.eu^
+||events.paramount.tech^
 ||events.realgravity.com^
 ||events.release.narrativ.com^$subdocument,xmlhttprequest
 ||events.shareably.net^
@@ -13245,6 +13228,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.tappx.com^
 ||tracker.thinkindot.com^
 ||tracking.smartmeapp.com^
+||trsbf.com/static/fbs.min.js
 ||webpixel.smartmeapp.com^
 ! Swedish
 ||aftonbladet.se/blogportal/view/statistics?$third-party
@@ -14416,6 +14400,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.ranker.com^
 ||tracker.shopclues.com^
 ||tracking.carsales.com.au^
+||tracking.christianpost.com^
 ||tracking.digitalocean.com^
 ||tracking.engineering.cloud.seek.com.au^
 ||tracking.hsn.com^
@@ -32849,6 +32834,7 @@ arketing.indianadunes.com^
 ||compare.easyviajar.com^
 ||emol.com/bt/ping
 ||epimg.net/js/*/satelliteLib-
+||esfbs.com/site/stat?
 ||esmas.com/scripts/esmas_stats.js
 ||estadisticas.lanacion.com.ar^
 ||estadonline.publiguias.cl^

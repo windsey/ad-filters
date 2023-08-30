@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-30T06:22:43.914Z
+! Last modified: 2023-08-30T12:34:25.496Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -823,6 +823,7 @@
 ||3er88wn.com^
 ||s2dcm.com^
 ||dbnsd2viud.xyz^
+||bsbaswq.cn^
 ||zzisnvb.cn^
 ||01fen.com^
 ||01v62.xyz^
@@ -5579,6 +5580,7 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||ca.yangshengtv.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
@@ -5882,7 +5884,6 @@
 ||cc.xwscg.com^
 ||cdgtw3.guapaijia.com^
 ||cdn.haocaa.com^
-||cdn.sinam.top^
 ||cdn.wenzhangba.cn^
 ||cdn93d99x0e.23bei.com^
 ||cdnjs.hro-cosmetics.com^
