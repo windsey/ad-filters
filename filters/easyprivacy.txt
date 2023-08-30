@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-30T01:15:19.277Z
+! Last modified: 2023-08-30T06:22:41.684Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2599,6 +2599,7 @@
 ||reporting.cdndex.io^
 ||reporting.singlefeed.com^
 ||reports-api.sqreen.io^
+||reports.hibu.com^
 ||reports.pagesuite-professional.co.uk^
 ||reports.sdiapi.com^
 ||res.rbl.ms^
