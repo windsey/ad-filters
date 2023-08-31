@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-31T12:34:50.371Z
+! Last modified: 2023-08-31T18:22:27.995Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||dmpmetrics.rcsmetrics.it^
 ||phenomtrackapi-ir.phenompeople.com^
 ||kiwi.mdldb.net^
 ||agrvt.com^
@@ -33654,7 +33655,6 @@ directtrack.*.js
 ||dig.ultimedia.com^
 ||log.prezi.com^
 ||click.uol.com.br^
-||clientlog.portal.office.com^
 ||cm.g.doubleclick.net^
 ||countess.twitch.tv^
 ||giga-abs.de^
@@ -33666,9 +33666,7 @@ directtrack.*.js
 ||montblanc.lenta.ru^
 ||montblanc.rambler.ru^
 ||pclick.yahoo.com^
-||pixel.redditmedia.com^
 ||r.msn.com^
-||real-user-monitoring.a.autoscout24.com^
 ||rel.msn.com^
 ||rem-track.bild.de^
 ||stat.sports.ru^
@@ -33809,6 +33807,10 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||sg.log.ulivetv.net^
+||tracker.ulivetv.net^
+||trackernew.ulivetv.net^
+||tracker.dianshige.com^
 ||gamestats.easybrain.com^
 ||am.yahoo.co.jp^
 ||b99.yahoo.co.jp^

@@ -545,6 +545,8 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||dmpmetrics.rcsmetrics.it^
+||cdn.granify.com^$third-party
 ||phenomtrackapi-ir.phenompeople.com^
 ||kiwi.mdldb.net^
 ||agrvt.com^
@@ -48850,6 +48852,7 @@ _tracking.php?b=
 /analytics.js$domain=tokyometro.jp|resumes.breakdownexpress.com|techcult.com|inbox.lv|kopeda.com|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de|newsdig.tbs.co.jp|imore.com|city.kushiro.lg.jp|emeraldbridal.com.au|emarat-news.ae|imobie.jp|tikla.com.tr|rusvideos.porn|jrkyushu.co.jp|amiunique.org
 ||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com|euronews.com|newshub.co.nz|fredmeyer.com|viabcp.com|carsales.com.au|falabella.com|aarp.org
 !
+||static.vocstatic.com/*/voonto.js
 ||tinkoff.ru/*/log/
 ||st.rusvideos.porn/rusvideos-site/analytics.js
 ||statics.foxsports.com/static/orion/js/segment-analytics.js
@@ -51752,11 +51755,10 @@ espreso.tv##.wrap-footer .counter
 vse42.ru##.ya-metrika
 /smarttag.js$domain=faz.net|heute.de|zdf.de|zdfinfo.de|zdfkultur.de|zdfneo.de|zdfsport.de
 vidak.icu,pb.wtf,piratbit.*##a[href="//www.liveinternet.ru/click"]
-hotstuff.com.ua,mobivid.net,theplanet.ws##a[href="http://mycounter.com.ua/"]
+mobivid.net,theplanet.ws##a[href="http://mycounter.com.ua/"]
 infoorel.ru##a[href="http://www.infoorel.ru/stat/stat.php"]
 armyrecognition.com##a[href^="http://cqcounter.com/"]
 3dnews.ru##a[href^="http://metrika.yandex.ru/"]
-hotstuff.com.ua##a[href^="http://top.bigmir.net/report/"]
 seclub.org##a[href^="http://waplog.net/"]
 kerch.com.ru,kerch.net##a[href^="http://www.kerch.net/counter/"]
 megatorrents.kg##a[href^="http://www.net.kg/stat.php"]
@@ -51851,7 +51853,6 @@ dreamprogs.net##td[width="88"][height="31"]
 ||click.uol.com.br^
 ||click.xda-developers.com/api/pixel.gif
 ||clickstream.grubhub.com/event.gif?event=
-||clientlog.portal.office.com^
 ||cm.g.doubleclick.net^
 ||cmap.alibaba.com/landing_ae.gif
 ||cmexota.ru/templates/default/images/livinternet.png
@@ -52011,7 +52012,6 @@ dreamprogs.net##td[width="88"][height="31"]
 ||mail.yahoo.com/neo/mbfb?bk=
 ||mail.yahoo.com/neo/splunkLogger
 ||maps.googleapis.com/*/stats.js
-||marc-o-polo.media01.eu/view.aspx?trackid
 ||mc.dailymotion.com/masscast/
 ||media-allrecipes.com/assets/deployables/*/analytics.bundled.js
 ||media-imdb.com/*/js/ads/beacon-
@@ -52078,7 +52078,6 @@ dreamprogs.net##td[width="88"][height="31"]
 ||ping.typekit.net/p.gif
 ||pinterest.com/_/_/report/
 ||pivol.com/count.asp?
-||pixel.redditmedia.com^
 ||player-feedback-mds.glomex.com/pf/?clientName=
 ||player.vimeo.com/log
 ||playerserver.walkme.com/Statistics/
@@ -52097,12 +52096,10 @@ dreamprogs.net##td[width="88"][height="31"]
 ||quartic.pl/t.php^
 ||r.chip.de/images/pic.gif?
 ||r.msn.com^
-||r1.computerbild.de/images/pic.gif
 ||ranking.fc2.com/analyze.js
 ||ranking.fc2.com/count?
 ||rcs.mako.co.il/js/neo/hpstats.js
 ||rcs.mako.co.il/js/scripts/metrics.js
-||real-user-monitoring.a.autoscout24.com^
 ||reanimator.net/informer-images/
 ||recs.richrelevance.com/rrserver/tracking?
 ||reformal.ru/log.php
@@ -52132,7 +52129,6 @@ dreamprogs.net##td[width="88"][height="31"]
 ||serv.tooplay.com/analyse
 ||serv2.tooplay.com/b.gif
 ||service.geico.com/insite/js/mbox2.js
-||sifomedia.sf.se/Scripts/oas_analytics.js
 ||sinst.fwdcdn.com/img/newImg/liveinternet.gif
 ||slack.com/beacon/
 ||slack.com/clog/track/?
@@ -52146,7 +52142,6 @@ dreamprogs.net##td[width="88"][height="31"]
 ||spot.im/api/tracker/
 ||spox.com/pub/js/track.js
 ||srv.onedio.com/geo/code
-||srv1.srv-stat.com/*/?tid=
 ||stackoverflow.com/gps/event
 ||star.com.tr/analytic/
 ||stat.sports.ru^
@@ -52158,7 +52153,6 @@ dreamprogs.net##td[width="88"][height="31"]
 ||synapsys.us^*/tracker.js
 ||t.insigit.com/assets/dct.js
 ||tagesschau.de/resources/framework/js/tracking.js
-||tags.tagcade.com/*/tagcade.js^
 ||tamgrt.com^*&pixel_version=
 ||tamindir.com/cdn-cgi/pe/bag2?r[]=
 ||tchibo.de/prof/js?event
@@ -52336,6 +52330,10 @@ link.gmapp*.net$image
 ! it's problematic that due to how Gmail proxy work, these domains aren't even exposed on the network level
 ! fortunately, extensions can see them (Gmail puts the real URL in the location.hash part of the src)
 !
+! cnbc.com
+link.cnbc.com$image
+! https://github.com/AdguardTeam/AdguardFilters/issues/160470
+brushtips.studio*_t$image
 ! Growave
 app.growave.io*statimg$image
 ! bedwettingstore.com
@@ -52385,9 +52383,6 @@ email.123formbuilder.com$image
 ! ontraport.net
 sealfit.ontraport.net/o?$image
 sealfit.ontraport.net%2Fo%3F$image
-! Shopify
-cdn.shopify.com/shopify-email/$image
-cdn.shopify.com%2Fshopify-email%2F$image
 ! sendfox.com
 sendfox.com/trk/open/$image
 sendfox.com%2Ftrk%2Fopen%2F$image
@@ -52735,6 +52730,9 @@ nethunt.com/api/v1/track/email/$image
 ! Bad:  ||example.com^$cookie=flat_r_mb (should be in cookies_specific.txt)
 !
 !
+! Granify
+! Used for personalization and offers
+$cookie=granify.uuid
 ! ibillboard.com
 ! Used for targeting
 $cookie=ibbid
@@ -53985,6 +53983,10 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||sg.log.ulivetv.net^
+||tracker.ulivetv.net^
+||trackernew.ulivetv.net^
+||tracker.dianshige.com^
 ||gamestats.easybrain.com^
 ||am.yahoo.co.jp^
 ||b99.yahoo.co.jp^
@@ -55148,7 +55150,8 @@ tieba.baidu.com#%#//scriptlet('set-constant', 'passFingerPrint', 'noopFunc')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/144788
 @@||googleoptimize.com/optimize.js$domain=bookmyshow.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/144470
-@@||rt.rtoaster.jp/Rtoaster.js$domain=jreastmall.com
+@@||googletagmanager.com/gtm.js$domain=jreastmall.com
+@@||rtoaster.jp^$script,domain=jreastmall.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/144390
 @@||frosmo.com^$image,xmlhttprequest,domain=karkkainen.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/143693
