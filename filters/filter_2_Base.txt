@@ -1,10 +1,46 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-31T06:22:43.347Z
+! Last modified: 2023-08-31T12:34:48.464Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||awcrpu.com^
+||awecre.com^
+||awembd.com^
+||awempt.com^
+||aweproto.com^
+||aweprt.com^
+||awepsi.com^
+||awepsljan.com^
+||awept.com^
+||awmbed.com^
+||awpcrpu.com^
+||awprt.com^
+||awptlpu.com^
+||cdctwm.com^
+||chryvast.com^
+||ctsdwm.com^
+||embwmpt.com^
+||jsmcrpu.com^
+||jsmcrt.com^
+||jsmpsi.com^
+||jsmpus.com^
+||livesexbar.com^
+||pctlwm.com^
+||potawe.com^
+||potwm.com^
+||protawe.com^
+||protoawe.com^
+||prtawe.com^
+||ptbrdg.com^
+||ptcdwm.com^
+||ptlwm.com^
+||ptwmemd.com^
+||pwmctl.com^
+||wmpset.com^
+||wmptctl.com^
+||wmpuem.com^
 ||ebcfjgnjw.com^
 ||paekicz.com^
 ||lzvkmwyavjeeb.top^
@@ -175,7 +211,6 @@
 ||weakcompromise.com^
 ||ad.foxnetworks.com^
 ||1f7wwaex9rbh.com^
-||awptlpu.com^
 ||kindnessmarshalping.com^
 ||prowesshearing.com^
 ||overlapflintsidenote.com^
@@ -7204,21 +7239,14 @@ rgmechanicsgames.com*VPN.exe
 ||awbbjmp.com^
 ||awbbsat.com^
 ||awbhabaxgxwayts.com^
-||awcrpu.com^
 ||awecr.com^
-||awecre.com^
 ||awecrptjmp.com^
 ||aweinkbum.com^
-||awembd.com^
 ||awemdia.com^
 ||awempire.com^
 ||awemwh.com^
 ||awentw.com^
-||aweproto.com^
 ||aweprotostatic.com^
-||aweprt.com^
-||awepsi.com^
-||awept.com^
 ||awesome-blocker.com^
 ||awesomenewspush.com^
 ||awestatic.com^
@@ -7237,7 +7265,6 @@ rgmechanicsgames.com*VPN.exe
 ||awkwardtelegram.com^
 ||awledconside.xyz^
 ||awltovhc.com^
-||awmbed.com^
 ||awmdelivery.com^
 ||awmplus.com^
 ||awmserve.com^
@@ -7246,8 +7273,6 @@ rgmechanicsgames.com*VPN.exe
 ||awodrozu.com^
 ||awokeconscious.com^
 ||awoudsoo.xyz^
-||awpcrpu.com^
-||awprt.com^
 ||awptjmp.com^
 ||awqwuiwmse.com^
 ||aws-itcloud.net^
@@ -17070,7 +17095,6 @@ rgmechanicsgames.com*VPN.exe
 ||jsfuz.com^
 ||jsmentry.com^
 ||jsmjmp.com^
-||jsmpsi.com^
 ||jsoctn9.com^
 ||jsontdsexit.com^
 ||jsontdsexit2.com^
@@ -21827,7 +21851,6 @@ rgmechanicsgames.com*VPN.exe
 ||pccasia.xyz^
 ||pclk.name^
 ||pcmclks.com^
-||pctlwm.com^
 ||pctsrv.com^
 ||pd-news.com^
 ||pdcnxobcv.com^
@@ -22642,7 +22665,6 @@ rgmechanicsgames.com*VPN.exe
 ||postponeacademic.com^
 ||postrelease.com^
 ||potailservoed.com^
-||potawe.com^
 ||potchampalea.website^
 ||potclumsy.com^
 ||potentill3afr5ui7ticosa.com^
@@ -22659,7 +22681,6 @@ rgmechanicsgames.com*VPN.exe
 ||potsaglu.net^
 ||potshumiliationremnant.com^
 ||potskolu.net^
-||potwm.com^
 ||pouchclockwise.com^
 ||poufaini.com^
 ||poultryrubbles.com^
@@ -22978,7 +22999,6 @@ rgmechanicsgames.com*VPN.exe
 ||prosumsit.com^
 ||protagcdn.com^
 ||protally.net^
-||protawe.com^
 ||proteavoices.com^
 ||protectedfolkssomebody.com^
 ||protectedpeat.com^
@@ -22991,7 +23011,6 @@ rgmechanicsgames.com*VPN.exe
 ||protectyourdevices.com^
 ||proteographiummarcellus.com^
 ||protestsedatevisited.com^
-||protoawe.com^
 ||protocolburlap.com^
 ||protocolgroupgroups.com^
 ||prototypehungryinsist.com^
@@ -23156,7 +23175,6 @@ rgmechanicsgames.com*VPN.exe
 ||ptirgaux.com^
 ||ptistyvymi.com^
 ||ptiwhirt.net^
-||ptlwm.com^
 ||ptlwmstc.com^
 ||ptmzr.com^
 ||ptoafauz.net^
@@ -23184,7 +23202,6 @@ rgmechanicsgames.com*VPN.exe
 ||ptupoobs.com^
 ||pturedmyattentio.xyz^
 ||ptutchiz.com^
-||ptwmemd.com^
 ||ptwmjmp.com^
 ||pu1.biz^
 ||pu3.biz^
@@ -23410,7 +23427,6 @@ rgmechanicsgames.com*VPN.exe
 ||pweabzcatoh.com^
 ||pweocgzutri.com^
 ||pwigekcyr.com^
-||pwmctl.com^
 ||pwrgrowthapi.com^
 ||pwxueuocf.com^
 ||px3792.com^
@@ -30303,8 +30319,6 @@ rgmechanicsgames.com*VPN.exe
 ||wmkyrbx.com^
 ||wmober.com^
 ||wmolgnjo.xyz^
-||wmptctl.com^
-||wmpuem.com^
 ||wndvcmyrqwnbdy.xyz^
 ||wnjjhksaue.com^
 ||wnp.com^
