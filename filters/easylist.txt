@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-30T18:22:17.957Z
+! Last modified: 2023-08-31T01:15:56.493Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -29026,6 +29026,7 @@
 ||b.w3techs.com^
 ||beap.gemini.yahoo.com^
 ||blue.ktla.com^
+||bontent.powzers.lol^
 ||bordeaux.futurecdn.net^
 ||cdn.manga9.co^
 ||cdnads.geeksforgeeks.org^
