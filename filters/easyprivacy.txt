@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-08-31T01:15:58.305Z
+! Last modified: 2023-08-31T06:22:38.037Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -954,6 +954,7 @@
 ||fewjuice.com^
 ||fifthborder.com^
 ||finalizeforce.com^
+||financefear.com^
 ||firstfrogs.com^
 ||flakyfeast.com^
 ||flimsycircle.com^
@@ -2048,6 +2049,7 @@
 ||analytics.rogersmedia.com^
 ||analytics.salesanalytics.io^
 ||analytics.shareaholic.com^
+||analytics.shorte.st^
 ||analytics.sitewit.com^
 ||analytics.sleeknote.com^
 ||analytics.snidigital.com^
@@ -3465,6 +3467,7 @@
 ||trc.gpcdn.pl^
 ||ad-tracker-api.luizalabs.com^
 ||analytics-coletor-site.ojc.com.br^
+||analytics-stamp.confi.com.vc^
 ||analytics.spun.com.br^
 ||api.nobeta.com.br^
 ||collect.chaordicsystems.com^
