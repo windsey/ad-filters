@@ -2308,8 +2308,6 @@ motherless.com$$script[tag-content="awentw.com"][min-length="2000"][max-length="
 @@||i*-tb.isnssdk.com^$app=com.ss.android.article.topbuzzvideo
 @@||i.isnssdk.com^$app=com.ss.android.article.topbuzzvideo
 @@||isub.isnssdk.com^$app=com.ss.android.article.topbuzzvideo
-! https://github.com/AdguardTeam/AdguardFilters/issues/96947
-@@||imasdk.googleapis.com^$app=pl.polsatgo
 ! https://github.com/AdguardTeam/AdguardForAndroid/issues/3933#issuecomment-895091276
 @@||imasdk.googleapis.com^$app=com.zattoo.player|com.sfr.android.redtv
 ! https://github.com/AdguardTeam/AdguardFilters/issues/35772
@@ -3570,7 +3568,7 @@ proboards.com###ProBoards_com_Mobile_Adhesion
 shazoo.ru##img[width="1024"][height="252"]
 m.blogtruyen.vn##a[href^="https://www.i9bet106.com/"]
 officelife.media##.custom-banner
-rokemoba.com###sp-fixed-menu
+hikkoshi-line.com,rokemoba.com###sp-fixed-menu
 kaluga-poisk.ru##.m-up1-adcode
 fantasyfootballscout.co.uk##.mobile-leaderboard-ad
 ||cdn.ampproject.org/v*/amp-ima-video-*.js$domain=cumhuriyet.com.tr
