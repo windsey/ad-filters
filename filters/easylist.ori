@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SrE0Px8NrbTw5dXMqJZzNA
-! Version: 202309010050
+! Checksum: fyVD8VhF6SQ/PoSloqmQpA
+! Version: 202309010601
 ! Title: EasyList
-! Last modified: 01 Sep 2023 00:50 UTC
+! Last modified: 01 Sep 2023 06:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -57604,6 +57604,7 @@ schoolguide.co.za##.banner-bar-bot
 pretoria.co.za##.banner-bg
 azernews.az##.banner-block
 dailycoffeenews.com##.banner-box
+theshovel.com.au##.banner-col
 countdown.co.nz,nscreenmedia.com,whoscored.com##.banner-container
 soccerway.com##.banner-content
 insidebitcoins.com##.banner-cta-wrapper
