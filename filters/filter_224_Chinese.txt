@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-01T06:22:56.518Z
+! Last modified: 2023-09-01T12:34:13.850Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -844,6 +844,9 @@
 ||uchat6.com^
 ||ggdumze.cn^
 ||jgsajfggv.xyz^
+||xiezhuo038.cn^
+||okmhnd.com^
+||bmiea.xyz^
 ||zzisnvb.cn^
 ||01fen.com^
 ||01v62.xyz^
