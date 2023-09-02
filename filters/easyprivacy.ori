@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: klt8al97dJLIghiz181BIA
-! Version: 202309020040
+! Checksum: /UIO6Iof3smYogjd+LWn5A
+! Version: 202309020550
 ! Title: EasyPrivacy
-! Last modified: 02 Sep 2023 00:40 UTC
+! Last modified: 02 Sep 2023 05:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4090,6 +4090,7 @@ _mongo_stats/
 ||lmepbq.com^
 ||logicanalytics.io^
 ||logtail.com^
+||loopcybersec.com^
 ||lsdm.co^
 ||maggieeatstheangel.com^
 ||matheranalytics.com^
@@ -4172,6 +4173,7 @@ _mongo_stats/
 ||sbgsodufuosmmvsdf.info^
 ||sc-static.net^
 ||screen13.com^$image
+||script.ac^
 ||seadform.net^
 ||securedvisit.com^
 ||selphiu.com^
@@ -5745,6 +5747,7 @@ _mongo_stats/
 ||newrelic.com^$third-party
 ||newrrb.bid^$third-party
 ||nextstat.com^$third-party
+||nexx360.io^$third-party
 ||ngmco.net^$third-party
 ||nicequest.com^$third-party
 ||niftymaps.com^$third-party
@@ -5930,7 +5933,6 @@ _mongo_stats/
 ||portfold.com^$third-party
 ||posst.co^$third-party
 ||postaffiliatepro.com^$third-party
-||posthog.com^$third-party
 ||prchecker.info^$third-party
 ||precisioncounter.com^$third-party
 ||predicta.net^$third-party
@@ -7378,6 +7380,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||carpentercomparison.com^
 ||carriagecan.com^
 ||carscannon.com^
+||cartkitten.com^
 ||carvecakes.com^
 ||castcream.com^
 ||catalogdiscovery.com^
@@ -9865,6 +9868,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.carnow.com/dealers/track_visitor
 ||app.link/_r?$script,third-party
 ||app.opmnstr.com/v2/geolocate/
+||app.posthog.com/static/array.js
 ||app.yesware.com/t/$third-party
 ||appdynamics.com/geo/$third-party
 ||appinthestore.com/click/
@@ -11839,6 +11843,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||v-h.tv/pixel/
 ||v.shopify.com^
 ||va.tawk.to/log
+||validate.onecount.net^$image
 ||vanilladev.com/analytics.
 ||vast.com/vimpressions.js$third-party
 ||vcita.com/tr_
@@ -13842,6 +13847,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lexa.realestate.com.au^
 ||lexology.com/pd.js
 ||libhunt.com/api/ahoy/event
+||librato-collector.genius.com^
 ||lightstep.medium.systems^*/reports
 ||link.kogan.com^
 ||link2.strawberrynet.com^$image
@@ -14008,6 +14014,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||p.fusevideo.net^
 ||p.hentaiforce.net^
 ||p.sfx.ms/is/invis.gif
+||pac.thescottishsun.co.uk^
 ||pac.thesun.co.uk^
 ||pagesix.com/blaize/datalayer
 ||pappagallu.onefootball.com^
@@ -31798,6 +31805,7 @@ arketing.indianadunes.com^
 ||jobs.ch/api/v1/public/product/track/
 ||js.tag24.de/main.js
 ||leipziger-stadtplan.com/t.gif
+||llntrack.messe-duesseldorf.de^
 ||lokalwerben.t-online.de^
 ||metrics.n-tv.de^
 ||mlm-tracking-service.meinestadt.de^
@@ -31962,6 +31970,7 @@ arketing.indianadunes.com^
 ||jeu.net/hits.js
 ||jscrambler.com^$script,domain=airfrance.fr
 ||lacentrale.fr/collect
+||lacentrale.fr/static/fragment-sentry/lc-sentry.js
 ||ldlc.com/V4px/js/ldlcmachine.js
 ||leboncoin.fr/rav-monitoring/
 ||lecho.be/fb2?
