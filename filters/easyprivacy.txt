@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-02T06:20:37.933Z
+! Last modified: 2023-09-02T12:30:31.119Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3838,7 +3838,6 @@
 ||j927.statnews.com^
 ||jfapiprod.optimonk.com^
 ||jumbo.zomato.com^
-||lexa.realestate.com.au^
 ||librato-collector.genius.com^
 ||link.kogan.com^
 ||lists.ccmbg.com^
@@ -4004,6 +4003,7 @@
 ||t.freelancer.com^
 ||t.imgur.com^
 ||t.indeed.com^
+||t.ionos.com^
 ||t.jossandmain.com^
 ||t.kck.st^
 ||t.nypost.com^
@@ -4034,6 +4034,7 @@
 ||telemetry.tradingview.com^
 ||tgt.maep.ibm.com^
 ||thtk.temu.com^
+||tif.ionos.com^
 ||tilanalytics.timesinternet.in^
 ||tms.eharmony.ca^
 ||tms.hft.everyplate.com^

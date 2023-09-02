@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-02T06:20:39.649Z
+! Last modified: 2023-09-02T12:30:32.896Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -852,6 +852,8 @@
 ||etienlw.top^
 ||jxtejf.xyz^
 ||jxmiyrh.icu^
+||t2zfyxjj.icu^
+||lichunxiao.cn^
 ||zzisnvb.cn^
 ||01fen.com^
 ||01v62.xyz^
@@ -6324,7 +6326,7 @@
 ||y.photoint.net^
 ||y1.spreton.com^
 ||y66xvgo5i.chuimg.com^
-||ydjs.luyouwang.com^
+||bai.luyouwang.com^
 ||yi.ximizi.com^
 ||yijiuningyia.gushiwen.org^
 ||yin1.zgpingshu.com^
