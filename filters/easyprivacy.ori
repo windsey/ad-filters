@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: chObQwmq4Ar5dlfQbyT/0A
-! Version: 202309031201
+! Checksum: KkqA+GojXoKd4fkj0xyS8A
+! Version: 202309031750
 ! Title: EasyPrivacy
-! Last modified: 03 Sep 2023 12:01 UTC
+! Last modified: 03 Sep 2023 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3975,6 +3975,7 @@ _mongo_stats/
 ||da29e6b8-f018-490f-b25f-39a887fc95e7.xyz^
 ||datatechonert.com^
 ||demdex.net^
+||digi-ping.com^
 ||directavenue.tech^
 ||dispatchunique.com^
 ||dispatchvegasplus.com^
@@ -32071,7 +32072,6 @@ arketing.indianadunes.com^
 ||cherry.le.com^
 ||clewm.net/public/cli_analytics.js$domain=cli.im
 ||click.gamersky.com^
-||cm.bilibili.com^
 ||count.candou.com^
 ||count5.pconline.com.cn^
 ||counter.people.cn^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-03T12:31:01.735Z
+! Last modified: 2023-09-03T18:20:12.191Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -121,6 +121,7 @@
 ||da29e6b8-f018-490f-b25f-39a887fc95e7.xyz^
 ||datatechonert.com^
 ||demdex.net^
+||digi-ping.com^
 ||directavenue.tech^
 ||dispatchunique.com^
 ||dispatchvegasplus.com^
@@ -21144,7 +21145,6 @@ arketing.indianadunes.com^
 ||beacon.qq.com^
 ||cherry.le.com^
 ||click.gamersky.com^
-||cm.bilibili.com^
 ||count.candou.com^
 ||count5.pconline.com.cn^
 ||counter.people.cn^
