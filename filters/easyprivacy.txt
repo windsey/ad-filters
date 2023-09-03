@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-03T01:19:12.788Z
+! Last modified: 2023-09-03T06:21:25.257Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3669,6 +3669,7 @@
 ||atrack.allposters.com^
 ||ats.alot.com^
 ||aurum.tirto.id^
+||barnes.send.cm^
 ||bat.maydream.com^
 ||bats.video.yahoo.com^
 ||beacon.dropbox.com^
@@ -20988,6 +20989,7 @@ arketing.indianadunes.com^
 ||cpxl.golem.de^
 ||d.rp-online.de^
 ||data.sportdeutschland.tv^
+||dd.betano.com^
 ||dv.chemie.de^
 ||ens.luzernerzeitung.ch^
 ||ens.nzz.ch^
