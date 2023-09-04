@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-04T12:34:52.062Z
+! Last modified: 2023-09-04T18:21:16.256Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -104,6 +104,7 @@
 ||itadapi.ithome.com.tw^
 ||1002.men^
 
+||ad.u-car.com.tw^
 ||pixoctopus.pixnet.net^
 ||jsx.luyouwang.com^
 ||kdpic.pchome.com.tw^
@@ -155,6 +156,7 @@
 ||7xixi.site^
 ||81wx.info^
 ||8861198.com^
+||88lajs1.com^
 ||89mtdab.xyz^
 ||999pro.top^
 ||9cc9ckp.com^
@@ -165,6 +167,7 @@
 ||abdluv.xyz^
 ||abrnfctkn.xyz^
 ||afgp10l.com^
+||afxncq.com^
 ||ajtdumo.cn^
 ||akdie.xyz^
 ||allcp.xyz^
@@ -242,6 +245,7 @@
 ||cdncloud.asia^
 ||cfdns.vip^
 ||cheda1.icu^
+||cheda7.icu^
 ||chiese.site^
 ||chozarpeases.com^
 ||ciadre.fun^
@@ -295,6 +299,7 @@
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
 ||duyvtanrheje.xyz^
+||dvenkbn.icu^
 ||dvtednm.cn^
 ||dwfjtz.xyz^
 ||dwyngjb.icu^
@@ -304,6 +309,7 @@
 ||eamqbaqzaewwq.top^
 ||ebscb0l.xyz^
 ||eers0cy.com^
+||eexlgyn.cn^
 ||eghyahl.cn^
 ||egipsbvlgn.xyz^
 ||eheb8.cn^
@@ -661,6 +667,7 @@
 ||rlqoyht.icu^
 ||ronbbf.xyz^
 ||rpyor0k.xyz^
+||rrxddl.xyz^
 ||rssxsjh.icu^
 ||rszkhn.xyz^
 ||rtborp.xyz^
@@ -718,6 +725,7 @@
 ||tkqwurl.icu^
 ||tlbjw.com^
 ||tlprlf.xyz^
+||tltyygb.cn^
 ||tmwbszn.icu^
 ||toastspinner.com^
 ||tptp002.cfd^
@@ -782,6 +790,7 @@
 ||wrpsouf.cn^
 ||wsdfame.com^
 ||wslbahe.top^
+||wtienle.top^
 ||wubizigeng.com^
 ||wuye3d.com^
 ||wyq3rum.icu^
@@ -865,14 +874,6 @@
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||cheda7.icu^
-||tltyygb.cn^
-||wtienle.top^
-||dvenkbn.icu^
-||rrxddl.xyz^
-||eexlgyn.cn^
-||88lajs1.com^
-||afxncq.com^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
