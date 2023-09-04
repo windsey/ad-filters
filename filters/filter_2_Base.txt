@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-03T18:20:19.158Z
+! Last modified: 2023-09-04T01:16:33.985Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9505,6 +9505,7 @@ rgmechanicsgames.com*VPN.exe
 ||cheeltee.net^
 ||cheemtoo.com^
 ||cheeradvise.com^
+||cheerful-resolution.com^
 ||cheerful-thanks.pro^
 ||cheerfullybakery.com^
 ||cheerfullycling.com^
