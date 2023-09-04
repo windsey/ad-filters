@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-04T06:23:23.811Z
+! Last modified: 2023-09-04T12:34:49.791Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3971,6 +3971,7 @@
 ||srtb.msn.com^
 ||srv.plesk.com^
 ||ss.photospecialist.co.uk^
+||sstats.adobe.com^
 ||st.sawlive.tv^
 ||stan.xing.com^
 ||stat.cdngeek.com^
