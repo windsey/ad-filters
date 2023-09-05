@@ -1,10 +1,13 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-05T06:23:10.189Z
+! Last modified: 2023-09-05T12:35:10.983Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||plungepilmy.com^
+||qkodjvdsm.com^
+||wauwitew.net^
 ||abmunnaa.com^
 ||optad360.net^
 ||dust-0001.delorazahnow.workers.dev^
@@ -314,6 +317,8 @@
 ||stripe.rs-1028-a.com^
 ||piguiqproxy.com^$badfilter
 ||samsungtvads.com^
+
+||outlookads.live.com^
 ||d1o6lu9dr4t13s.cloudfront.net^
 ||adserver.pandora.com^
 ||zap.cdn.zynga.com^
@@ -22802,7 +22807,6 @@ rgmechanicsgames.com*VPN.exe
 ||plunderhoaxed.digital^
 ||plunderthetics.digital^
 ||plungeideals.life^
-||plungepilmy.com^
 ||pluralsoc.uno^
 ||plusclick.biz^
 ||plutonactg.com^
@@ -30880,14 +30884,11 @@ rgmechanicsgames.com*VPN.exe
 ||wl-cornholio.com^
 ||wlafx4trk.com^
 ||wlawpzx.com^
-||wlct-two.de^
 ||wledconsi.xyz^
 ||wlfcwkijsknted.xyz^
 ||wlimrvsnusyawk.com^
 ||wliuahugpgo.com^
 ||wlixymxepnroiq.com^
-||wlt-alice.de^
-||wlt-jupiter.de^
 ||wltsgqnblq.com^
 ||wma.io^
 ||wmbbsat.com^

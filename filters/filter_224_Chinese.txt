@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-05T06:23:04.932Z
+! Last modified: 2023-09-05T12:35:05.799Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -874,6 +874,13 @@
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
+||ajcode.co^
+||bace10.top^
+||oyfnkle.cn^
+||lgoewtd.icu^
+||zbzbzb.xyz^
+||ptfxh.com^
+||ztqdkzn.cn^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
@@ -4149,6 +4156,7 @@
 ||zzxedr.xyz^
 ||zzxmcp.com^
 ||zzzhuoxiaqu.online^
+||d37d9zbli5ytch.cloudfront.net^
 ||06789.xyz^
 ||3p8801.co^
 ||6651tp.com^
