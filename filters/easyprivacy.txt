@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-06T06:22:46.427Z
+! Last modified: 2023-09-06T12:34:56.707Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -393,6 +393,7 @@
 ||z0uolej1qnxzub1.info^
 ||zdbb.net^
 ||zenaps.com^
+||zfctrack.net^
 ||zhctrack.net^
 ||zippyfrog.co^
 ||zononi.com^

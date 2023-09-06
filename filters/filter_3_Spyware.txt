@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-06T06:22:54.169Z
+! Last modified: 2023-09-06T12:35:04.213Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -668,6 +668,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||pixel.aws.pfnetwork.net^
 ||stats.macg.io^
 ||ci.asosservices.com^
 ||creativeassets.asosservices.com^
@@ -33786,6 +33787,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wiz.empowerhearing.com^
 ||wiz.sncf-connect.com^
 ||wz.allianz.fr^
+||go.oracle.com^$badfilter
+||data.ubi.com^$badfilter
 ||data-60d896f23d.radio.net^$badfilter
 ||form.ict-toshiba.jp^$badfilter
 ||cart.matsuzaka-steak.com^$badfilter
