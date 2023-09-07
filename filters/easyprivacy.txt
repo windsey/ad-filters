@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-06T18:22:28.869Z
+! Last modified: 2023-09-07T01:15:41.493Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -280,7 +280,7 @@
 ||p2r14.com^
 ||p7cloud.net^
 ||pageid.info^
-||peiq.de^
+||peiq.services^
 ||permutive.app^
 ||pippio.com^
 ||pix.pub^
@@ -2490,6 +2490,7 @@
 ||metrics.ctvdigital.net^
 ||metrics.doppiocdn.com^
 ||metrics.doppiocdn.org^
+||metrics.doppiostreams.com^
 ||metrics.futureplc.engineering^
 ||metrics.gs-chat.com^
 ||metrics.kmsmep.com^
