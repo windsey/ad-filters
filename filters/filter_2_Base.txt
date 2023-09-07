@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-07T12:34:37.898Z
+! Last modified: 2023-09-07T18:22:09.274Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3647,7 +3647,6 @@ rgmechanicsgames.com*VPN.exe
 -ad.jpg.pagespeed.
 -adbanner.
 -adbox-
--adimage-
 -ads-banner.
 -ads-bottom.
 -ads-right.
@@ -5864,6 +5863,7 @@ rgmechanicsgames.com*VPN.exe
 ||ahgcumvpyal.com^
 ||ahjopnbimr.com^
 ||ahjrinrucmp.com^
+||ahjshyoqlo.com^
 ||ahlbhiaq.com^
 ||ahlefind.com^
 ||ahnioppshfwq.com^
@@ -8365,6 +8365,7 @@ rgmechanicsgames.com*VPN.exe
 ||bmmauazi.com^
 ||bmpgkspo.xyz^
 ||bmptbyb.com^
+||bmqtvmdg.xyz^
 ||bmvjxiiijtebtu.com^
 ||bmybkeo.com^
 ||bmycupptafr.com^
@@ -8928,6 +8929,7 @@ rgmechanicsgames.com*VPN.exe
 ||buytieposer.com^
 ||buzzardcraizey.com^
 ||buzzvids-direct.com^
+||bvcsfcx.com^
 ||bvmcdn.com^
 ||bvnlrqvinhsje.com^
 ||bvoqzs.com^
@@ -9766,6 +9768,7 @@ rgmechanicsgames.com*VPN.exe
 ||cjvdfw.com^
 ||cjxomyilmv.com^
 ||ckeckstatus.biz^
+||ckofrnk.com^
 ||ckohixbcyzm.com^
 ||ckrf1.com^
 ||ckuwrlxngdrfk.com^
@@ -12483,6 +12486,7 @@ rgmechanicsgames.com*VPN.exe
 ||eergaroa.com^
 ||eergithi.com^
 ||eeroawug.com^
+||eersutoo.net^
 ||eeshemto.com^
 ||eesihighlyrec.xyz^
 ||eessoost.net^
@@ -20440,6 +20444,7 @@ rgmechanicsgames.com*VPN.exe
 ||nedouseso.com^
 ||neechube.net^
 ||neechuce.net^
+||needeevo.xyz^
 ||needierstraits.website^
 ||needleworkemmaapostrophe.com^
 ||neednguarded.space^
@@ -24251,6 +24256,7 @@ rgmechanicsgames.com*VPN.exe
 ||qxeemdpaerfjer.xyz^
 ||qxhspimg.com^
 ||qxrbu.com^
+||qxuelcdfvgecwpb.com^
 ||qxyam.com^
 ||qxycdoexyj.com^
 ||qyajwjyjnavzq.top^
@@ -26348,6 +26354,7 @@ rgmechanicsgames.com*VPN.exe
 ||sighcrowdivorce.com^
 ||sigherdoless.com^
 ||sighsuspectshaped.com^
+||sightercanidae.com^
 ||sightjutfar.com^
 ||sighttermportent.com^
 ||sigilsspeiss.com^
@@ -30605,6 +30612,7 @@ rgmechanicsgames.com*VPN.exe
 ||watchnewpics.info^
 ||watchnewpics.space^
 ||watchnewvids.online^
+||watchnewvids.space^
 ||watchnewvids.today^
 ||watchtaro.com^
 ||watchthistop.net^

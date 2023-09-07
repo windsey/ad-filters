@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-07T12:34:39.811Z
+! Last modified: 2023-09-07T18:22:11.109Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -33871,15 +33871,12 @@ directtrack.*.js
 ||logupdate.avlyun.sec.miui.com^
 ||r.browser.miui.com^
 ||tracking.miui.com^
-||xlmc.sec.miui.com^
 ||data.mistat.intl.xiaomi.com^
 ||register.xmpush.xiaomi.com^
 ||storeconfig.mistat.intl.xiaomi.com^
-||zeus.ad.intl.xiaomi.com^
 ||api.ad.intl.xiaomi.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||api.miui.security.xiaomi.com^
-||shenghuo.xiaomi.com^
 ||globalapi.ad.xiaomi.com^
 ||api.ad.xiaomi.com^
 ||abtest.mistat.xiaomi.com^
@@ -34172,7 +34169,6 @@ inapps.appsflyersdk.com^
 ||tobapplog.ctobsnssdk.com^
 ||t.castle.io^
 ||bs.nakanohito.jp^
-||tag.karte.io^
 ||alogsus.umeng.com^
 ||log1.happymod.com^
 ||log.pvpgang.com^
@@ -34186,7 +34182,6 @@ inapps.appsflyersdk.com^
 ||api.reproio.com^
 ||log5.interactive-circle.jp^
 ||b94.yahoo.co.jp^
-||api.smbeat.jp^
 ||hibiki-track.logica.bz^
 ||log.mmstat.com^
 ||msg-intl.qy.net^
@@ -34339,7 +34334,6 @@ inapps.appsflyersdk.com^
 ||analytics.metrix.ir^
 ||hwstats.unity3d.com^
 ||installtracker.unityads.unity3d.com^
-||tracking.adsx.unityads.unity3d.com^
 ||mediation-tracking.prd.mz.internal.unity3d.com^
 ||tracking.prd.mz.internal.unity3d.com^
 ||publisher-event.ads.prd.ie.internal.unity3d.com^
@@ -34356,9 +34350,7 @@ inapps.appsflyersdk.com^
 ||stat.m.360.cn^
 ||stats-a.maxthon.com^
 ||pgapi.ksmobile.com^
-||helpgrid1.ksmobile.com^
 ||gcm.ksmobile.net^
-||gameanalisys.appcpi.net^
 ||adsaccount.appcpi.net^
 ||adtrack.appcpi.net^
 ||remain.appcpi.net^
@@ -34386,7 +34378,6 @@ inapps.appsflyersdk.com^
 ||ploy.batmobi.net^
 ||an.batmobi.net^
 ||analytics.any.do^
-||oc.umeng.co^
 ||m.vpadn.com^
 ||api.instabug.com^
 ||sts.batmobi.net^
@@ -34410,11 +34401,8 @@ inapps.appsflyersdk.com^
 ||tracker.adotmob.com^
 ||measuread.com^
 ||analytics-tracker.thescore.com^
-||app.roximity.com^
-||dc.webtrends.com^
 ||rosenberg.appmetrica.webvisor.com^
 ||report*.appmetrica.webvisor.com^
-||api.oneaudience.com^
 ||api.gameofwhales.com^
 ||geoplugin.net^
 ||d.applvn.com^
@@ -34429,15 +34417,12 @@ inapps.appsflyersdk.com^
 ||pippio.com^
 ||io.narrative.io^
 ||loadus.exelator.com^
-||tracking.viewster.com^
-||logcollector.viewster.com^
 ||api.mixpanel.com^
 ||decide.mixpanel.com^
 ||api.segment.io^
 ||applog.uc.cn^
 ||dispatcher.upmc.uc.cn^
 ||gjapplog.uc.cn^
-||a.bitmango.com^
 ||tracking.directservices.it^
 ||flurry.agentportal-*.yahoodns.net^
 ||amptrack-dailymail-co-uk.cdn.ampproject.org^
@@ -34464,7 +34449,6 @@ inapps.appsflyersdk.com^
 ||analytics.ad.daum.net^
 ||analytics.liftoff.io^
 ||analytics.mobile.yandex.net^
-||analyzer.omniata.com^
 ||andmlb.kshwtj.com^
 ||api-analytics-bootstrap.metaps.com^
 ||api-analytics.metaps.com^
@@ -34531,7 +34515,6 @@ inapps.appsflyersdk.com^
 ||ssl-google-analytics.l.google.com^
 ||stat.duokanbox.com^
 ||stats.popcap.com^
-||stats.unity3d.com^
 ||taurus.iad.appboy.com^
 ||tknet.rayjump.com^
 ||tns.simba.taobao.com^

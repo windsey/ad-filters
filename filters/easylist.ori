@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hwB+6fUiJDiGxPXv/q+y6A
-! Version: 202309071210
+! Checksum: QkQ0rvlC1hhESUI1id18NA
+! Version: 202309071750
 ! Title: EasyList
-! Last modified: 07 Sep 2023 12:10 UTC
+! Last modified: 07 Sep 2023 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -34,7 +34,6 @@
 -ad.php?
 -adbanner.
 -adbox-
--adimage-
 -ads-banner.
 -ads-bottom.
 -ads-management/
@@ -21317,6 +21316,7 @@ browsershots.org#@#.advert_area
 ||ahgcumvpyal.com^
 ||ahjopnbimr.com^
 ||ahjrinrucmp.com^
+||ahjshyoqlo.com^
 ||ahlbhiaq.com^
 ||ahlefind.com^
 ||ahnioppshfwq.com^
@@ -23835,6 +23835,7 @@ browsershots.org#@#.advert_area
 ||bmmauazi.com^
 ||bmpgkspo.xyz^
 ||bmptbyb.com^
+||bmqtvmdg.xyz^
 ||bmvjxiiijtebtu.com^
 ||bmybkeo.com^
 ||bmycupptafr.com^
@@ -24403,6 +24404,7 @@ browsershots.org#@#.advert_area
 ||buytieposer.com^
 ||buzzardcraizey.com^
 ||buzzvids-direct.com^
+||bvcsfcx.com^
 ||bvmcdn.com^
 ||bvmcdn.net^
 ||bvnlrqvinhsje.com^
@@ -25250,6 +25252,7 @@ browsershots.org#@#.advert_area
 ||cjvdfw.com^
 ||cjxomyilmv.com^
 ||ckeckstatus.biz^
+||ckofrnk.com^
 ||ckohixbcyzm.com^
 ||ckrf1.com^
 ||ckuwrlxngdrfk.com^
@@ -27994,6 +27997,7 @@ browsershots.org#@#.advert_area
 ||eergaroa.com^
 ||eergithi.com^
 ||eeroawug.com^
+||eersutoo.net^
 ||eeshemto.com^
 ||eesihighlyrec.xyz^
 ||eessoost.net^
@@ -31877,6 +31881,7 @@ browsershots.org#@#.advert_area
 ||iebsmqevw.com^
 ||iecjqkiawvifx.com^
 ||ieememberhima.xyz^
+||ieicbkjmmqkcmgq.com^
 ||iendoo.com^
 ||ietyofedinj89yewtburgh.com^
 ||iewhonhdvryu.com^
@@ -36011,6 +36016,7 @@ browsershots.org#@#.advert_area
 ||nedouseso.com^
 ||neechube.net^
 ||neechuce.net^
+||needeevo.xyz^
 ||needierstraits.website^
 ||needleworkemmaapostrophe.com^
 ||neednguarded.space^
@@ -38575,6 +38581,7 @@ browsershots.org#@#.advert_area
 ||plungepilmy.com^
 ||pluralsoc.uno^
 ||plusclick.biz^
+||plusungratefulinstruction.com^
 ||plutonactg.com^
 ||plutothejewel.com^
 ||plxserve.com^
@@ -39865,6 +39872,7 @@ browsershots.org#@#.advert_area
 ||qxeemdpaerfjer.xyz^
 ||qxhspimg.com^
 ||qxrbu.com^
+||qxuelcdfvgecwpb.com^
 ||qxyam.com^
 ||qxycdoexyj.com^
 ||qyajwjyjnavzq.top^
@@ -41978,6 +41986,7 @@ browsershots.org#@#.advert_area
 ||sighcrowdivorce.com^
 ||sigherdoless.com^
 ||sighsuspectshaped.com^
+||sightercanidae.com^
 ||sightjutfar.com^
 ||sighttermportent.com^
 ||sigilsspeiss.com^
@@ -46275,6 +46284,7 @@ browsershots.org#@#.advert_area
 ||watchnewpics.info^
 ||watchnewpics.space^
 ||watchnewvids.online^
+||watchnewvids.space^
 ||watchnewvids.today^
 ||watchtaro.com^
 ||watchthistop.net^
@@ -46303,6 +46313,7 @@ browsershots.org#@#.advert_area
 ||wavingteenagecandle.com^
 ||wavysnarlfollow.com^
 ||wawadoga.com^
+||wawhairt.net^
 ||waxaimg.info^
 ||waxapushlite.com^
 ||waxapushlite.info^
@@ -48284,6 +48295,7 @@ browsershots.org#@#.advert_area
 ||allmediadesk.com^$third-party
 ||alpha-affiliates.com^$third-party
 ||alright.network^$third-party
+||amateur.cash^$third-party
 ||amobee.com^$third-party
 ||andbeyond.media^$third-party
 ||anicli.click^$third-party
@@ -49732,6 +49744,7 @@ browsershots.org#@#.advert_area
 ||aroidsguide.com^$popup
 ||arriedand.xyz^$popup
 ||arrlnk.com^$popup
+||arroyosandinos.com^$popup
 ||artfulmilesfake.com^$popup
 ||articlepawn.com^$popup
 ||artpever.com^$popup
@@ -50169,6 +50182,7 @@ browsershots.org#@#.advert_area
 ||dalysv.com^$popup
 ||daredcoil.com^$popup
 ||dark-reader.com^$popup
+||darksincenightclub.com^$popup
 ||darsell.life^$popup
 ||dartg665moetyor.com^$popup
 ||dasfelynsaterr.win^$popup
@@ -50708,6 +50722,7 @@ browsershots.org#@#.advert_area
 ||gunreset.com^$popup
 ||gurabinhetot.com^$popup
 ||guro2.com^$popup
+||gussiemarkup.life^$popup
 ||gvcaffiliates.com^$popup
 ||gypsyardently.com^$popup
 ||h0w-t0-watch.net^$popup
@@ -53824,6 +53839,7 @@ browsershots.org#@#.advert_area
 ||bc.coupons.com^
 ||bc.vc/js/link-converter.js
 ||beauties-of-ukraine.com/export.js
+||bescore.com/libs/e.js
 ||bet365.com/favicon.ico$third-party
 ||bgtw.chimeratool.com^
 ||bharatmatrimony.com/matrimoney/matrimoneybanners/
@@ -54206,6 +54222,7 @@ browsershots.org#@#.advert_area
 ||yastatic.net/pcode/adfox/header-bidding.js
 ||yield-op-idsync.live.streamtheworld.com^
 ||yieldmanager.edgesuite.net^
+||yimg.com/dy/ads/native.js
 ||yimg.com/dy/ads/readmo.js
 ||z3x-team.com/wp-content/*-banner-
 ||zergnet.com/zerg.js
@@ -58337,6 +58354,7 @@ timesofisrael.com##.banner-placeholder
 tweakreviews.com##.banner-placement__article
 balkangreenenergynews.com##.banner-premium
 bikepacking.com##.banner-sidebar
+livescores.biz##.banner-slot-filled
 vedantu.com##.banner-text
 historydaily.org,israelnationalnews.com,news12.com,pwinsider.com,usahealthcareguide.com##.banner-top
 wpneon.com##.banner-week
@@ -58464,6 +58482,7 @@ syfy.com##.blog-post-section__zergnet
 blogto.com##.blogto-sticky-banner
 manhwaindo.id##.blox
 techspot.com##.blu
+bescore.com##.bn
 nilechronicles.com##.bn-lg-sidebar
 snow-forecast.com,weather-forecast.com##.bn-placeholder
 gearspace.com##.bnb--inline
@@ -59495,6 +59514,7 @@ wccftech.com##.main-background-wrap
 sporcle.com##.main-content-unit-wrapper
 numuki.com##.main-header-responsive-wrapper
 ggrecon.com##.mainVenatusBannerContainer
+livescores.biz##.make-a-bet_wrap
 color-hex.com##.margin10
 fandom.com##.marketplace
 imgur.com,pushsquare.com,songlyrics.com##.masthead
@@ -60478,6 +60498,7 @@ gptoday.net##.top-banner-leaderboard
 numuki.com##.top-banner-responsive-wrapper
 gamewatcher.com##.top-banners-wrapper
 papermag.com##.top-billboard__below-title-ad
+livescores.biz##.top-bk
 blockchair.com##.top-buttons-wrap
 procyclingstats.com##.top-cont
 foodrenegade.com##.top-cta
@@ -61207,6 +61228,7 @@ tld-list.com##div.row > .text-center > .ib
 forward.com##div.sticky-container:first-child
 newegg.com##div.swiper-slide[data-sponsored-catalyst]
 inverse.com##div.zz
+boxing-social.com##div[ad-slot]
 liverpoolway.co.uk##div[align="center"] > a[href]
 informer.com##div[align="center"][style="margin:10px"]
 nexusradio.com##div[align=center]
@@ -62176,7 +62198,7 @@ youjizz.com###rightVideoPrs
 sexuhot.com###right_div_1
 sexuhot.com###right_div_2
 badjojo.com###rightcol
-porntop.com###s-suggesters
+onlyporn.tube,porntop.com###s-suggesters
 homemade.xxx###scrollhere
 sexyandfunny.com###sexy-links
 javtiful.com###showerm
@@ -62480,6 +62502,7 @@ badjojo.com##.footera
 mansurfer.com##.footerbanner
 videocelebs.net##.fp-brand
 xpics.me##.frequently
+onlyporn.tube##.ft
 jizzbunker.com,jizzbunker2.com##.ftrzx1
 teenpornvideo.fun##.full-ave
 kompoz2.com,pornvideos4k.com,roleplayers.co##.full-bns-block
@@ -62681,7 +62704,7 @@ cam4.com##.removeAds
 cyberleaks.to##.responsive_banner
 cumlouder.com##.resumecard
 porndroids.com,pornjam.com##.resumecard__banner
-bdsmx.tube,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,porntop.com##.right
+bdsmx.tube,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,onlyporn.tube,porntop.com##.right
 pornoreino.com##.right-side
 definebabe.com##.right-sidebar
 empflix.com##.rightBarBannersx
