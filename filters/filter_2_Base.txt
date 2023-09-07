@@ -1,10 +1,13 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-07T06:22:44.625Z
+! Last modified: 2023-09-07T12:34:37.898Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||wawhairt.net^
+||basintippets.com^
+||kelliontemiak.com^
 ||olnjitvizo.com^
 ||qmaacxajsovk.com^
 ||limurol.com^

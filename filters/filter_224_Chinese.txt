@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-07T06:22:40.584Z
+! Last modified: 2023-09-07T12:34:32.748Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -902,6 +902,7 @@
 ||hwnod.xyz^
 ||solaron.top^
 ||ttienli.top^
+||knliylh.cn^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
