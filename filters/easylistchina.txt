@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-08T12:34:03.653Z
+! Last modified: 2023-09-08T18:21:52.547Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -178,6 +178,7 @@
 ||dghkpp.xyz^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
+||dmvckj.icu^
 ||dnceqzz.icu^
 ||dnightwish.xyz^
 ||dojyiu8.com^
@@ -308,10 +309,12 @@
 ||hqgearb.icu^
 ||hqzcths.cn^
 ||hsadeg.site^
+||hsfbpp.xyz^
 ||hslbahu.top^
 ||hstbrt.xyz^
 ||hthivr.xyz^
 ||htienlu.top^
+||htseca.top^
 ||huaxia.name^
 ||hubiazhi.com^
 ||hujunhao.name^
@@ -328,6 +331,7 @@
 ||ihwdun.xyz^
 ||ijgbuj.xyz^
 ||ilade.xyz^
+||inowe.xyz^
 ||iojnask.com^
 ||ipadf.xyz^
 ||iplm.cc^
@@ -492,6 +496,7 @@
 ||nnqwe.xyz^
 ||northcookie.xyz^
 ||nqdufv.xyz^
+||nqoxurf.icu^
 ||nryqr.cn^
 ||nswtojdi.icu^
 ||ntozchv.icu^
@@ -668,6 +673,7 @@
 ||unjld.com^
 ||uraseszincy.com^
 ||uslbaht.top^
+||uuzwvqc.cn^
 ||uwgnpkd.cn^
 ||uxlqwra.cn^
 ||uxmwh0f.xyz^
@@ -799,12 +805,6 @@
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||nqoxurf.icu^
-||inowe.xyz^
-||htseca.top^
-||dmvckj.icu^
-||hsfbpp.xyz^
-||uuzwvqc.cn^
 ||zzisnvb.cn^
 ||002777.xyz^
 ||01v62.xyz^
