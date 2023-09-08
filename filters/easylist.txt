@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-08T01:16:01.771Z
+! Last modified: 2023-09-08T06:23:02.533Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -86,11 +86,6 @@
 .nativeads.
 .openxtag.
 .popunder.js
-.rolloverad.
-.text-link-ads.
-.textads.
-.vert.ad.
-.weborama.js
 ://a.ads.
 ://ad-api-
 ://ad1.
