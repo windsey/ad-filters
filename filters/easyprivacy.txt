@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-08T06:23:03.985Z
+! Last modified: 2023-09-08T12:34:04.654Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -694,6 +694,7 @@
 ||cautiouscrate.com^
 ||cautiouscredit.com^
 ||cavecurtain.com^
+||cdnral.com^
 ||chairscrack.com^
 ||channelcamp.com^
 ||chargecracker.com^

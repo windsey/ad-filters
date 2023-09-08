@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-08T06:23:06.184Z
+! Last modified: 2023-09-08T12:34:06.415Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -908,6 +908,7 @@
 ||htseca.top^
 ||dmvckj.icu^
 ||hsfbpp.xyz^
+||uuzwvqc.cn^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^

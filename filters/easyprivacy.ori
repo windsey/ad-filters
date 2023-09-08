@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 4a4syZDYAKp5ufQkGBjJrA
-! Version: 202309080601
+! Checksum: AXja2izJr72gkzh+OsYciw
+! Version: 202309081210
 ! Title: EasyPrivacy
-! Last modified: 08 Sep 2023 06:01 UTC
+! Last modified: 08 Sep 2023 12:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1358,7 +1358,6 @@
 /Hit.aspx?
 /hit.c?
 /hit.php?
-/hit.png?
 /hit.t?
 /hit.xiti?
 /hit/?r=
@@ -1946,10 +1945,7 @@
 /ossleads_analytics.js
 /ot_e404.gif?
 /OtAutoBlock.js
-/other-analitycs/*
 /ouibounce.min.js
-/outbrainClientPixels.
-/output-stats-
 /ovstats.
 /ow_analytics.
 /owa.Analytics.
@@ -2537,7 +2533,6 @@
 /site_stats/*
 /site_tracking.
 /siteAnalytics-
-/siteAnalytics.
 /siteanalytics_
 /sitecatalist.js
 /sitecatalyst.js
@@ -7318,6 +7313,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cautiouscrate.com^
 ||cautiouscredit.com^
 ||cavecurtain.com^
+||cdnral.com^
 ||chairscrack.com^
 ||channelcamp.com^
 ||chargecracker.com^
@@ -10397,6 +10393,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||exacttarget.com^$~subdocument,third-party
 ||excite.ie/?click_in=
 ||exitintel.com/log/$third-party
+||expedia.com/static/default/default/scripts/siteAnalytics.js
 ||expedia.com/vaclog/
 ||experience.contextly.com^
 ||extole.io/core.js
