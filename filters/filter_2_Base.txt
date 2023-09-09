@@ -1,9 +1,13 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-09T06:20:46.704Z
+! Last modified: 2023-09-09T12:31:03.792Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
+
+||cotwcpcjcrjfj.xyz^
+||xfhgstxcytiu.com^
+||zdqgsoqsmppd.com^
 ||wawhairt.net^
 ||basintippets.com^
 ||kelliontemiak.com^
@@ -33442,6 +33446,7 @@ rgmechanicsgames.com*VPN.exe
 ||dywolfer.de^
 ||go.trvdp.com^
 ||play.springboardplatform.com^
+||sonar.viously.com^
 ||video-streaming.ezoic.com^
 ||vplayer.newseveryday.com^
 ||centent.streamp1ay.
