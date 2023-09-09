@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-09T01:14:04.449Z
+! Last modified: 2023-09-09T06:20:39.341Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2351,6 +2351,7 @@
 ||f-log-test.grammarly.io^
 ||fcmatch.google.com^
 ||fcmatch.youtube.com^
+||fenix.walkerllaw.org^
 ||filament-stats.herokuapp.com^
 ||fingerprinter-production.herokuapp.com^
 ||firebaselogging-pa.googleapis.com^
@@ -2528,6 +2529,7 @@
 ||optimeeze.appspot.com^
 ||p.metrilo.com^
 ||p.placed.com^
+||p.skimresources.com^
 ||p.typekit.net^
 ||p.yotpo.com^
 ||page-events-ustats.udemy.com^
@@ -2653,7 +2655,6 @@
 ||smrt.as^
 ||snowplow.swm.digital^
 ||solutions.invocacdn.com^
-||sonar.viously.com^
 ||sp-wukong-tracker.b-cdn.net^
 ||sp.tinymce.com^
 ||speedtrap.shopdirect.com^
