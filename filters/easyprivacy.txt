@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-10T06:21:15.952Z
+! Last modified: 2023-09-10T12:30:59.423Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2079,6 +2079,7 @@
 ||analytics.salesanalytics.io^
 ||analytics.shareaholic.com^
 ||analytics.shorte.st^
+||analytics.shorthand.com^
 ||analytics.sitewit.com^
 ||analytics.sleeknote.com^
 ||analytics.snidigital.com^
@@ -2349,6 +2350,7 @@
 ||events.btw.so^
 ||events.demoup.com^
 ||events.devcycle.com^
+||events.elev.io^
 ||events.flagship.io^
 ||events.jokerly.com^
 ||events.jotform.com^
