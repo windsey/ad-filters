@@ -1681,6 +1681,8 @@ rambler.ru#?#main > div[class] ~ div[class] > div[class] div[class] > a[href^="h
 !-------JS----------
 !-------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/161396
+saveur.com#%#//scriptlet('remove-attr', 'style', '.tadm_ad_unit')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/158207
 quiz-facts.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'interstitial-popup')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/157682
@@ -2798,8 +2800,6 @@ olx.ro#@#DIV[class^="banner"]
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=m.timesofindia.com
 @@||mobileads.indiatimes.com/Web_Ads/js/22april16/prebid_1.js$script,domain=m.timesofindia.com
 timesofindia.indiatimes.com#@#style[type="text/css"] + div[class]:not([id]):not([style]):not([class*=" "])
-! https://github.com/AdguardTeam/AdguardFilters/issues/3708
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=m.legacy.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/5005
 @@||doc.echoban.ru/delivery/spcjs.php?id=1$domain=echo.msk.ru|doc.echoban.ru
 ! https://forum.adguard.com/index.php?threads/21029/
