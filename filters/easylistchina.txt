@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-13T01:16:56.331Z
+! Last modified: 2023-09-13T06:23:20.663Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -850,6 +850,7 @@
 ||uslsxe.com^
 ||nwera.xyz^
 ||xeikwh.icu^
+||rdpcom.com^
 ||zzisnvb.cn^
 ||002777.xyz^
 ||01v62.xyz^

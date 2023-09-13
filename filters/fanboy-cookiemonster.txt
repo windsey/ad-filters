@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-13T01:16:57.744Z
+! Last modified: 2023-09-13T06:23:22.396Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -75,6 +75,7 @@
 ||optanon.blob.core.windows.net^
 ||plugin.management^
 ||privacy-cdn.sixfifty.com^
+||smarteucookiebanner.upsell-apps.com^
 ||truyoproductionuscdn.truyo.com^
 ||webcache-eu.datareporter.eu^
 ||webcache.datareporter.eu^
