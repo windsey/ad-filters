@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: XQJmIvhZ15CzUwSx98xaGg
-! Version: 202309121750
+! Checksum: Hm5s3Y4nSVlJdx1gXIufjg
+! Version: 202309130050
 ! Title: EasyPrivacy
-! Last modified: 12 Sep 2023 17:50 UTC
+! Last modified: 13 Sep 2023 00:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -34,7 +34,6 @@
 -click-tracker.
 -didomi.js
 -ga-tracker.
--ga-tracking/
 -gatracker.
 -geoIP.js
 -inview-tracker.
@@ -944,6 +943,7 @@
 /ecanalytics.js
 /ecap.min.js
 /ecblank.gif?
+/ecg-js-ga-tracking/*
 /ecom/status.jsp?
 /edAnalyticsWrapper.js
 /edata.js

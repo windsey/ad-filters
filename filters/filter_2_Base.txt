@@ -1,10 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-12T18:21:28.073Z
+! Last modified: 2023-09-13T01:17:03.055Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||popsads.net^
+||mfabxfb.com^
 ||lbxetynjwqyrw.com^
 ||mmczmfgpq.com^
 ||capableimpregnablehazy.com^
@@ -3685,37 +3687,23 @@ rgmechanicsgames.com*VPN.exe
 -footerads-
 -footerads.
 -housead-
--iframe-ad.
--layer-ad.
--native-ad.
 -page-ad.
 -panel-ad.
 -PcmModule-Taboola-
 -peel-ads-
 -popexit.
 -popunder.
--popup-ad.
--popup-ads-
 -publicidad.
 -right-ad.
--search-ads.
--show-ads.
 -side-ad-
 -side-ad.
 -sidebar-ad.
--simple-ads.
 -sponsor-ad.
--SponsorAd.
 -sticky-ad-
 -strip-ads-
 -takeover-ad-
--text-ads.
 -top-ad.
 -top-ads.
--tower-ad-
--web-ad-
--Web-Ad.
--Web-Ads.
 -web-advert-
 -Web-Advert.
 .adrotate.
@@ -8845,6 +8833,7 @@ rgmechanicsgames.com*VPN.exe
 ||budvawshes.ru^
 ||buench.com^
 ||buency.com^
+||buezsud.com^
 ||buffaloexemptdropped.com^
 ||buffersling.com^
 ||buffersthyrold.com^
@@ -16195,6 +16184,7 @@ rgmechanicsgames.com*VPN.exe
 ||hotterenvisage.com^
 ||hotvids.online^
 ||hotvids.space^
+||hotwildadult.com^
 ||hotwords.com^
 ||hotzoneunspeed.com^
 ||houdodoo.net^
@@ -21417,6 +21407,7 @@ rgmechanicsgames.com*VPN.exe
 ||occxhidubbh.com^
 ||ocdouoqjvmn.com^
 ||oceanfilmingexperience.com^
+||oceanvids.online^
 ||ocexprhrknxrhe.com^
 ||ocfhdcmwekmjf.com^
 ||ochaugly.net^
@@ -22283,6 +22274,7 @@ rgmechanicsgames.com*VPN.exe
 ||owrtwsrp.com^
 ||owtvhrydewc.com^
 ||owvghihicw.com^
+||owwogmlidz.com^
 ||owwqacrfi.com^
 ||owxanjxlxtfbjw.com^
 ||oxado.com^
@@ -25042,6 +25034,7 @@ rgmechanicsgames.com*VPN.exe
 ||reluraun.com^
 ||remainingshook.com^
 ||remainttalenty.site^
+||remarkable-assistant.pro^
 ||remarkablehorizontallywaiter.com^
 ||remarkablyson.com^
 ||remarkinspector.com^
@@ -26447,6 +26440,7 @@ rgmechanicsgames.com*VPN.exe
 ||shadyobscene.com^
 ||shaftheadstonetopmost.com^
 ||shaggyaleswede.com^
+||shahebso.com^
 ||shaickox.com^
 ||shaidolt.com^
 ||shailreeb.com^
@@ -31044,6 +31038,7 @@ rgmechanicsgames.com*VPN.exe
 ||wazbuvdcij.com^
 ||wazensee.net^
 ||wbdds.com^
+||wbfhivtydh.com^
 ||wbidder.online^
 ||wbidder2.com^
 ||wbidder3.com^
@@ -32013,6 +32008,7 @@ rgmechanicsgames.com*VPN.exe
 ||xvolakoahxafi.com^
 ||xvpqmcgf.com^
 ||xvuslink.com^
+||xvvclhrrpgiln.com^
 ||xvwebllndr.com^
 ||xwagtyhujov.com^
 ||xwlketvkzf.com^
@@ -33767,6 +33763,7 @@ rgmechanicsgames.com*VPN.exe
 ||rn2vw3.xhamster.com^
 ||ro55cpi1.xhamster.com^
 ||slview.psne.jp^
+||tokyo.xhamster.com^
 ||wi9u5paiwo.xhamster.com^
 ||x0r.urlgalleries.net^
 ||ynoymse4.xhamster.com^
