@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-13T06:23:29.676Z
+! Last modified: 2023-09-13T12:35:32.811Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -670,10 +670,10 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||o1000929.ingest.sentry.io^
 ||sta.tirexo.ink^
 ||pixel.aws.pfnetwork.net^
 ||stats.macg.io^
-||ci.asosservices.com^
 ||creativeassets.asosservices.com^
 ||tracker.p3a.net^
 ||tracking.socketlabs.com^

@@ -5530,10 +5530,10 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||o1000929.ingest.sentry.io^
 ||sta.tirexo.ink^
 ||pixel.aws.pfnetwork.net^
 ||stats.macg.io^
-||ci.asosservices.com^
 ||creativeassets.asosservices.com^
 ||tracker.p3a.net^
 ||tracking.socketlabs.com^
@@ -53263,6 +53263,8 @@ link.gmapp*.net$image
 ! it's problematic that due to how Gmail proxy work, these domains aren't even exposed on the network level
 ! fortunately, extensions can see them (Gmail puts the real URL in the location.hash part of the src)
 !
+! lanet.click
+go.lanet.click$image
 ! 33mail.com
 33mail.com%2Fpage%2Fopened$image
 33mail.com/page/opened$image
