@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-15T01:16:45.077Z
+! Last modified: 2023-09-15T06:23:11.622Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -29648,6 +29648,7 @@
 ||ah.pricegrabber.com^
 ||api.140proof.com^
 ||api.bitp.it^
+||app.clickfunnels.com^
 ||apps.media-lab.ai^
 ||award.sitekeuring.net^
 ||banners.livepartners.com^
