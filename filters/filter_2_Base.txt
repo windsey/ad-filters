@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-15T12:34:21.064Z
+! Last modified: 2023-09-15T18:22:20.826Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -32595,7 +32595,6 @@ rgmechanicsgames.com*VPN.exe
 ||yourbestlandever.com^
 ||yourcommonfeed.com^
 ||yourcoolfeed.com^
-||yourfirstfunnelchallenge.com^
 ||yourfreshposts.com^
 ||yourhotfeed.com^
 ||yourjsdelivery.com^
