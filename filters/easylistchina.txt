@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-16T12:30:43.506Z
+! Last modified: 2023-09-16T18:20:29.817Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -126,6 +126,7 @@
 ||bsbaswq.cn^
 ||bslbahv.top^
 ||btescs.fun^
+||btienlv.top^
 ||btsvad8.com^
 ||bttazsyk.icu^
 ||bupidt.xyz^
@@ -147,6 +148,7 @@
 ||cheda1.icu^
 ||cheda10.icu^
 ||cheda7.icu^
+||cheda8.icu^
 ||chiese.site^
 ||chozarpeases.com^
 ||ciadre.fun^
@@ -271,6 +273,7 @@
 ||fxeaobv.icu^
 ||gcbflvx.cn^
 ||gdjme27.com^
+||gdz0cqs.icu^
 ||ggdrfh5.com^
 ||ggdumze.cn^
 ||gghmef7.com^
@@ -370,6 +373,7 @@
 ||jakid.xyz^
 ||janwzsqi.icu^
 ||jayhou.top^
+||jcwtml.icu^
 ||jdcnwd.com^
 ||jgsajfggv.xyz^
 ||jh16csf.com^
@@ -418,8 +422,10 @@
 ||kahgjjd.com^
 ||kasiklz.cc^
 ||kcnwe.xyz^
+||kcqpvqr.cn^
 ||kdvmnn.com^
 ||kekop.cn^
+||kfjpren.xyz^
 ||kgeesh.site^
 ||kjvaqbyebqarl.top^
 ||kklpe.xyz^
@@ -676,6 +682,7 @@
 ||sxundrh.cn^
 ||t2zfyxjj.icu^
 ||tarqk5.com^
+||tbb0001.top^
 ||tcuqqhj.icu^
 ||termvb.xyz^
 ||tfdmzsgy.icu^
@@ -752,6 +759,7 @@
 ||vktztp.xyz^
 ||vlgkotr.cn^
 ||vlujojf.icu^
+||vmbzhfh.cn^
 ||vmdlxj.xyz^
 ||vnfsbl.xyz^
 ||vpsgu.cn^
@@ -759,6 +767,7 @@
 ||vrr.name^
 ||vswswlz.icu^
 ||vujzkkz.cn^
+||vuvxpf.xyz^
 ||vvdzucs.cn^
 ||vvwuqxp.icu^
 ||vvxhth.xyz^
@@ -883,12 +892,6 @@
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
-||vmbzhfh.cn^
-||jcwtml.icu^
-||kfjpren.xyz^
-||cheda8.icu^
-||vuvxpf.xyz^
-||btienlv.top^
 ||zzisnvb.cn^
 ||002777.xyz^
 ||01v62.xyz^
@@ -4560,7 +4563,6 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
-||cc.8181zx.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
@@ -4863,6 +4865,7 @@
 ||ca.yangshengtv.com^
 ||car.qcmrjx.com^
 ||cbdm.weathercn.com^
+||cc.8181zx.com^
 ||cc.xiaodapei.com^
 ||cc.xwscg.com^
 ||cdgtw3.guapaijia.com^

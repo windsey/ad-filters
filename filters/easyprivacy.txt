@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-16T12:30:44.421Z
+! Last modified: 2023-09-16T18:20:30.831Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -29,12 +29,8 @@
 .googleanalytics.js
 .googleanalytics.prod.
 .ntpagetag.
-.sitecatalyst.js
-.siteclarity.
-.sitetracking.
 .skimlinks.js
 .v4.analytics.
-.web-vitals-reporting.
 ://a869.
 ://internal-matomo.
 ://segment-api.
