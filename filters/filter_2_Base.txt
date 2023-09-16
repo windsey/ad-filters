@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-16T01:14:22.561Z
+! Last modified: 2023-09-16T06:21:22.467Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3748,7 +3748,6 @@ rgmechanicsgames.com*VPN.exe
 -468x60-
 -468x60.
 -468x70.
--468x80-
 -468x80.
 -468x90.
 -480x60-

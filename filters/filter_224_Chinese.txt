@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-16T01:14:18.505Z
+! Last modified: 2023-09-16T06:21:18.067Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -992,6 +992,10 @@
 ||zypzzv.xyz^
 ||vmbzhfh.cn^
 ||jcwtml.icu^
+||kfjpren.xyz^
+||cheda8.icu^
+||vuvxpf.xyz^
+||btienlv.top^
 ||zzisnvb.cn^
 ||01v62.xyz^
 ||0272aa.com^
@@ -4641,6 +4645,7 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||cc.8181zx.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^

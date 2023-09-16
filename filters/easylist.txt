@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-16T01:14:15.351Z
+! Last modified: 2023-09-16T06:21:14.789Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -91,7 +91,6 @@
 -468x60-
 -468x60.
 -468x70.
--468x80-
 -468x80.
 -468x90.
 -480x60-
