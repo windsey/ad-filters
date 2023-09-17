@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-17T06:21:21.662Z
+! Last modified: 2023-09-17T12:31:20.049Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -898,6 +898,8 @@
 ||cnied.xyz^
 ||bnets1.icu^
 ||nmlfev.icu^
+||szn0ehq.icu^
+||ixxoo.asia^
 ||zzisnvb.cn^
 ||002777.xyz^
 ||01v62.xyz^
