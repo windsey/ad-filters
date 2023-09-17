@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-17T01:20:02.152Z
+! Last modified: 2023-09-17T06:21:28.873Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -33150,6 +33150,7 @@ rgmechanicsgames.com*VPN.exe
 ||gg.caixin.com^
 ||go.bloxplay.com^
 ||go.ezodn.com^
+||hb.yahoo.net^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
 ||karma.mdpcdn.com^
 ||link.link.ru^
