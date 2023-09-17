@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-16T18:20:30.831Z
+! Last modified: 2023-09-17T01:19:55.946Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2456,6 +2456,7 @@
 ||iabusprivacy.pmc.com^
 ||icu.getstorybox.com^
 ||iddu1vvb7sk8-a.akamaihd.net^
+||identification.hotmart.com^
 ||imp.pvnsolutions.com^
 ||impress.vcita.com^
 ||inbound-analytics.pixlee.co^
@@ -2939,6 +2940,7 @@
 ||tracker.xgen.dev^
 ||trackerapi.truste.com^
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
+||tracking-api.hotmart.com^
 ||tracking.adalyser.com^
 ||tracking.ads.global-fashion-group.com^
 ||tracking.aegpresents.com^
@@ -3726,6 +3728,7 @@
 ||analytics.wavebox.io^
 ||analytics.yugen.to^
 ||anon-stats.eff.org^
+||api-hotmart-tracking-manager.hotmart.com^
 ||api-js.mixpanel.com^
 ||api.privacyguides.net^
 ||appanalysis.banggood.com^
@@ -21460,6 +21463,7 @@ arketing.indianadunes.com^
 ||globo-ab.globo.com^
 ||hits.letras.mus.br^
 ||horizon.globo.com^
+||log-ads.r7.com^
 ||logger.rm.uol.com.br^
 ||logger.uol.com.br^
 ||matt.mercadolivre.com.br^
