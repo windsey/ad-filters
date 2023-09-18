@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-18T01:16:22.835Z
+! Last modified: 2023-09-18T06:23:54.801Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||bybyjrnrqqqqr.top^
 ||preciousdoctor.pro^
 ||academic-information.com^
 ||doweralrostra.com^
@@ -3681,7 +3682,6 @@ rgmechanicsgames.com*VPN.exe
 -ads-bottom.
 -ads-right.
 -adskin.
--adsonar.
 -adverts.min.
 -article-ad-
 -article-ad.

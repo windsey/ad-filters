@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-18T01:16:17.090Z
+! Last modified: 2023-09-18T06:23:47.947Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20,21 +20,11 @@
 -cookie-popup.
 -CookieInfo.
 -cookiePolicy.
--gdpr-custom.
 -gdpr-min.
 -gdpr-popup.
--privacy-cookie-
 -rodo.min.js
-.cookie-policy.
-.cookie.notice.
-.cookie.policy.
-.cookieconsent.
-.cookiecuttr.
-.cookieinfo2.
 .cookielaw.js
-.cookiepolicy.
 .cookiesdirective.js
-.cookiesPolicy.
 .EuCookieCompliance.min.js
 .gdpr.js
 .gdpr.min

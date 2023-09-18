@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-18T01:16:18.401Z
+! Last modified: 2023-09-18T06:23:49.508Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1014,6 +1014,7 @@
 ||dozwjl.xyz^
 ||rwarwf.icu^
 ||dniwe.xyz^
+||qu96.com^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^

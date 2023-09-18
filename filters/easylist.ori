@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hm+8UPMTUHg4yed4LxRdcQ
-! Version: 202309180051
+! Checksum: nPAXUNzIpvfrlpn2Gv+Mvw
+! Version: 202309180602
 ! Title: EasyList
-! Last modified: 18 Sep 2023 00:51 UTC
+! Last modified: 18 Sep 2023 06:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54530,6 +54530,7 @@ browsershots.org#@#.advert_area
 ||purevpn.com/affiliates/
 ||qsearch-a.akamaihd.net^
 ||racebets.com/media.php?
+||radioonlinehd.net/ads/
 ||random-affiliate.atimaze.com^
 ||readme.ru/informer/
 ||recipefy.net/rssfeed.php
@@ -56268,6 +56269,7 @@ browsershots.org#@#.advert_area
 ||theseoultimes.com/ST/banner/
 ||thisgengaming.com/Scripts/widget2.aspx
 ||timeanddate.com/common/prebidtad.
+||timesnownews.com/dfpamzn.js
 ||tontent.powzers.lol^
 ||torrent911.ws/z-
 ||torrenteditor.com/img/graphical-network-monitor.gif
@@ -57402,6 +57404,7 @@ domaintoipconverter.com###associates-1
 tvtropes.org###asteri-sidebar
 assamtribune.com###async_body_tags
 addictivetips.com###at_popup_modal
+timesnownews.com###atf103388570
 cityandstateny.com###atlas-module
 dlraw.co,dlraw.to,manga-zip.info###avfap
 teamfortress.tv###aw
@@ -57610,6 +57613,7 @@ openloading.com###fakeplayer
 asianjournal.com###fancybox-overlay
 asianjournal.com###fancybox-wrap
 thedrinknation.com###fcBanner
+perezhilton.com###feature-spot
 fandom.com###featured-video__player-container
 getyarn.io###filtered-bottom
 investing.com###findABroker
@@ -58361,7 +58365,6 @@ olympics.com##.\-partners
 coincodex.com##.\32 023_06_15_bcgame
 deviantart.com##._15LLi
 motortrend.com##._1Ib8n
-timesnownews.com##._1ML8q
 swarajyamag.com##._1eNH8
 gadgetsnow.com##._1edxh
 gadgetsnow.com##._1pjMr
@@ -58565,7 +58568,7 @@ freepik.com##.adobe-detail
 freepik.com##.adobe-grid-design
 flightglobal.com,thriftyfun.com##.adp
 vice.com##.adph
-1sale.com,1v1.lol,7billionworld.com,9jaflaver.com,achieveronline.co.za,canstar.com.au,canstarblue.co.nz,cheapies.nz,climatechangenews.com,coingax.com,cryptonomist.ch,currencyrate.today,economictimes.com,energyforecastonline.co.za,esports.com,eventcinemas.co.nz,filmapik21.tv,flashx.tv,gamesadshopper.com,geo.tv,govtrack.us,gramfeed.com,hockeyfeed.com,i24news.tv,idiva.com,indiatimes.com,inspirock.com,investing.com,m.economictimes.com,mangasect.com,marinetraffic.com,mb.com.ph,mehrnews.com,meta-calculator.com,mini-ielts.com,miningprospectus.co.za,motogp.com,mugshots.com,nbc.na,news.nom.co,nsfwyoutube.com,onlinerekenmachine.com,piliapp.com,russia-insider.com,russian-faith.com,savevideo.me,sgcarmart.com,sherdog.com,stars-portraits.com,straitstimes.com,teamblind.com,tehrantimes.com,tellerreport.com,thenews.com.pk,thestar.com.my,viamichelin.com,viamichelin.ie,vijesti.me,y8.com,yummy.ph##.ads
+1sale.com,1v1.lol,7billionworld.com,9jaflaver.com,achieveronline.co.za,canstar.com.au,canstarblue.co.nz,cheapies.nz,climatechangenews.com,coingax.com,cryptonomist.ch,currencyrate.today,economictimes.com,energyforecastonline.co.za,esports.com,eventcinemas.co.nz,filmapik21.tv,flashx.tv,gamesadshopper.com,geo.tv,govtrack.us,gramfeed.com,hockeyfeed.com,i24news.tv,idiva.com,indiatimes.com,inspirock.com,investing.com,m.economictimes.com,mangasect.com,marinetraffic.com,mb.com.ph,mehrnews.com,meta-calculator.com,mini-ielts.com,miningprospectus.co.za,motogp.com,mugshots.com,nbc.na,news.nom.co,nsfwyoutube.com,onlinerekenmachine.com,ozbargain.com.au,piliapp.com,russia-insider.com,russian-faith.com,savevideo.me,sgcarmart.com,sherdog.com,stars-portraits.com,straitstimes.com,teamblind.com,tehrantimes.com,tellerreport.com,thenews.com.pk,thestar.com.my,viamichelin.com,viamichelin.ie,vijesti.me,y8.com,yummy.ph##.ads
 moneycontrol.com##.ads-320-50
 dallasinnovates.com##.ads-article-body
 dnaindia.com,wionews.com##.ads-box-300x250
@@ -58756,6 +58759,7 @@ animalcrossingworld.com##.at-sidebar-1
 guidingtech.com##.at1
 guidingtech.com##.at2
 fedex.com##.atTile1
+timesnownews.com##.atfAdContainer
 audiobacon.net##.audio-widget.et_pb_widget
 darko.audio##.audio_widget
 mbl.is##.augl
@@ -58878,6 +58882,7 @@ theinertia.com##.below-post-ad
 gobankingrates.com##.bestbanks-slidein
 aiscore.com##.bet365
 nationalworld.com##.bfQGof
+mindbodygreen.com##.bftiFX
 hotnewhiphop.com##.bg-ad-bg-color
 bgr.com##.bg-black
 whatismyisp.com##.bg-blue-50
