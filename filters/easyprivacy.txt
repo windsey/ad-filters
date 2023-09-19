@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-19T06:23:57.280Z
+! Last modified: 2023-09-19T12:35:48.714Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -69,6 +69,7 @@
 ||apeagle.io^
 ||apenterprise.io^
 ||apxl.io^
+||as3.io^
 ||awmonitor.com^
 ||ayc0zsm69431gfebd.info^
 ||bfmio.com^
@@ -371,6 +372,7 @@
 ||vkanalytics.net^
 ||vpdcp.com^
 ||vstats.me^
+||walkerllaw.org^
 ||wct-2.com^
 ||whale3.io^
 ||widgetbe.com^
@@ -2403,7 +2405,6 @@
 ||f-log-test.grammarly.io^
 ||fcmatch.google.com^
 ||fcmatch.youtube.com^
-||fenix.walkerllaw.org^
 ||filament-stats.herokuapp.com^
 ||fingerprinter-production.herokuapp.com^
 ||firebaselogging-pa.googleapis.com^
@@ -2980,6 +2981,7 @@
 ||tracking.rapidape.com^
 ||tracking.scenepass.com^
 ||tracking.searchmarketing.com^
+||tracking.server.bytecon.com^
 ||tracking.sexcash.com^
 ||tracking.sezzle.com^
 ||tracking.sharplink.us^
@@ -3737,6 +3739,7 @@
 ||atrack.allposters.com^
 ||ats.alot.com^
 ||aurum.tirto.id^
+||b629.electronicdesign.com^
 ||barnes.send.cm^
 ||bat.maydream.com^
 ||bats.video.yahoo.com^
