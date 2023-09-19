@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-19T01:16:59.846Z
+! Last modified: 2023-09-19T06:23:59.593Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1025,6 +1025,9 @@
 ||vakdop.icu^
 ||lybxft.xyz^
 ||ecami.xyz^
+||jtwewpi.cn^
+||unmsrvh.cn^
+||analystrati.com^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
