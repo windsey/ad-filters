@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xVgpSTRFGBcDh58+7cavaA
-! Version: 202309181801
+! Checksum: uZxqE/18YCgsYl7qguPtIw
+! Version: 202309190050
 ! Title: EasyList
-! Last modified: 18 Sep 2023 18:01 UTC
+! Last modified: 19 Sep 2023 00:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -59584,6 +59584,7 @@ quadraphonicquad.com##.gb-sponsored-wrapper
 1001games.com##.gc-leaderboard
 1001games.com##.gc-medium-rectangle
 golfchannel.com##.gc-mps-ad
+letsdopuzzles.com##.gda-home-box
 kansascity.com,rotowire.com##.gdcg-oplist
 geekflare.com##.geekflare-core-resources
 autoblog.com##.gemini-native
@@ -62011,7 +62012,7 @@ therainbowtimesmass.com##img[alt="banner ad"]
 nepallivetoday.com,wjr.com##img[height="100"]
 prawfsblawg.blogs.com,thomhartmann.com##img[height="200"]
 myanimelist.net##img[height="250"]
-newyorkyimby.com##img[height="280"]
+newyorkyimby.com,tipsquoteswishes.com##img[height="280"]
 pointblanknews.com,sharktankblog.com##img[height="60"]
 windycitymediagroup.com,windycitytimes.com##img[name="Sponsor"]
 callofwar.com,supremacy1914.com##img[referrerpolicy]

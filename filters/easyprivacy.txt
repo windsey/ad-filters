@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-18T18:23:22.998Z
+! Last modified: 2023-09-19T01:16:58.120Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3931,6 +3931,7 @@
 ||mcs.us.tiktokv.com^
 ||metrics.audius.co^
 ||metrics.bangbros.com^
+||metrics.camsoda.com^
 ||metrics.freemake.com^
 ||metrics.hackerrank.com^
 ||metrics.onewegg.com^
