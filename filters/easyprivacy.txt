@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-19T12:35:48.714Z
+! Last modified: 2023-09-19T18:22:57.654Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2841,6 +2841,7 @@
 ||tags.catapultx.com^
 ||tags.cdn.circlesix.co^
 ||tags.clickagy.com^
+||tags.dxmdp.com^
 ||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
 ||tags.refinery89.com^
