@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-20T06:23:37.020Z
+! Last modified: 2023-09-20T12:35:25.183Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -927,6 +927,7 @@
 ||wzguosutang.com^
 ||gzdszb.cn^
 ||cirruscarnival.com^
+||pelageforgers.com^
 ||002777.xyz^
 ||01v62.xyz^
 ||0272aa.com^
@@ -4807,7 +4808,6 @@
 ||bd.watu.cn^
 ||bd1-china.6789.com^
 ||bd1.365qilu.com^
-||bd1.99danji.com^
 ||bd1.click.com.cn^
 ||bd1.flfgw.cn^
 ||bd1.guancha.cn^

@@ -3056,9 +3056,9 @@ adguard.info,adguard.com,adguard.app##.hello_from_adguard_chinese
 !
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/161870
-||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=hoy.tv
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=htv.app|hoy.tv
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hoy.tv
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=htv.app|hoy.tv
 ! https://github.com/AdguardTeam/AdguardFilters/issues/161486
 @@||cdn.theguardian.tv/ad/*.m3u8$domain=theguardian.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/160679
@@ -5790,6 +5790,8 @@ newduba.cn###jq_youxi
 ||fnitw.xyz^
 ||clisatf.top^
 ||wzguosutang.com^
+||gzdszb.cn^
+||cirruscarnival.com^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/ky6y.com"]
@@ -12964,7 +12966,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||oodcd.cn/pan/config/ad.json
 ||oodcd.cn/pan/config/copy.
 ||oodcd.cn/pan/config/history.
-||ooo.0o0.ooo/2017/11/03/59fc6b3c5b723.jpg
 ||ooqiu.com/ad_js/
 ||opticsky.cn/images/2015/gy-px201
 ||orzx.im/Document/recommend/flashpoint.html
@@ -18728,7 +18729,6 @@ bilibili.com##a[href*="cm.bilibili.com"][data-target-url*="gaoneng.bilibili.com"
 bilibili.com##a[href*="cm.bilibili.com"][data-target-url*="gaoneng.bilibili.com"] + .bili-video-card__info
 bilibili.com##a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bilibili.com/"])
 bilibili.com##a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bilibili.com/"]) + .bili-video-card__info
-comicat.org,kisssub.org##a[href*="db."]
 china.com.cn##a[href*="dwz.cn"]
 tiexue.net##a[href*="game.tiexue."]
 6park.com##a[href*="geekbuying."]

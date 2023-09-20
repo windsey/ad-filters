@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: X+7VeAR3Wbwe4FubNMBy6w
-! Version: 202309200602
+! Checksum: AaOPIhUP8ggvynxr5G9+aQ
+! Version: 202309201210
 ! Title: EasyPrivacy
-! Last modified: 20 Sep 2023 06:02 UTC
+! Last modified: 20 Sep 2023 12:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1492,8 +1492,8 @@
 /KISSmetricsTrackCode.
 /klaviyo_analytics.
 /KochavaAnalytics.
-/koko-analytics-
-/koko-analytics/*/script.js
+/koko-analytics-collect.php
+/koko-analytics/assets/dist/js/*
 /kontera.js
 /krux-sass-helper.js
 /krux.js

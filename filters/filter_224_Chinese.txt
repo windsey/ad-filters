@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-20T06:23:40.645Z
+! Last modified: 2023-09-20T12:35:27.846Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1033,6 +1033,8 @@
 ||fnitw.xyz^
 ||clisatf.top^
 ||wzguosutang.com^
+||gzdszb.cn^
+||cirruscarnival.com^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
