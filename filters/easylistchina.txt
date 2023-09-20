@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-20T12:35:25.183Z
+! Last modified: 2023-09-20T18:23:19.308Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -928,6 +928,7 @@
 ||gzdszb.cn^
 ||cirruscarnival.com^
 ||pelageforgers.com^
+||vuedivv.icu^
 ||002777.xyz^
 ||01v62.xyz^
 ||0272aa.com^
