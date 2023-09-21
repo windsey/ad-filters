@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-21T01:15:31.614Z
+! Last modified: 2023-09-21T06:23:34.671Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -937,6 +937,7 @@
 ||crvbnac.xyz^
 ||gniew.xyz^
 ||sdjvbsjbvas.com^
+||lrdyfz.xyz^
 ||002777.xyz^
 ||01v62.xyz^
 ||0272aa.com^

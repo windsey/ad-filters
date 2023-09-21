@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-21T01:15:32.605Z
+! Last modified: 2023-09-21T06:23:35.905Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -90,6 +90,7 @@
 ||btloader.com^
 ||bx-cloud.com^
 ||bydst.com^
+||byspotify.com^
 ||cadsuta.net^
 ||captcha-display.com^
 ||cbdatatracker.com^
@@ -3857,6 +3858,7 @@
 ||fathom.app.silverbeak.com^
 ||fathom.status.im^
 ||fathom.tdvm.net^
+||fbo-statistics-collector-tc.is.flippingbook.com^
 ||fdt.kraken.com^
 ||firebaselogging.googleapis.com^
 ||fp.heavybit.com^
@@ -3925,6 +3927,7 @@
 ||log.klook.com^
 ||log.quora.com^
 ||log.snapdeal.com^
+||log.v.ssp.yahoo.com^
 ||log.webnovel.com^
 ||logger.nerdwallet.com^
 ||logging.api.intuit.com^
