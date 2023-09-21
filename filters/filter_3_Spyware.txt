@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-20T18:23:30.014Z
+! Last modified: 2023-09-21T01:15:40.629Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11,6 +11,8 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||stat.dongqiudi.com^
+||sensors-log.dongqiudi.com^
 ||analytics.gnetworks.xyz^
 ||mon.zijieapi.com^
 ||statgw.devtodev.com^

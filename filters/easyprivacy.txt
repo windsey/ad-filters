@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-20T18:23:20.524Z
+! Last modified: 2023-09-21T01:15:32.605Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -190,6 +190,7 @@
 ||gbqofs.com^
 ||geoedge.be^
 ||geotargetly-api-*.com^
+||glamipixel.com^
 ||glimr.io^
 ||glookup.info^
 ||go-mpulse.net^
@@ -3375,6 +3376,7 @@
 ||tracking.vid4u.org^
 ||a.centrum.cz^
 ||bisko.mall.tv^
+||c.seznam.cz^
 ||counter.cnw.cz^
 ||h.imedia.cz^
 ||hit.skrz.cz^
