@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-22T06:23:45.446Z
+! Last modified: 2023-09-22T12:34:21.708Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -953,6 +953,7 @@
 ||goingsranchange.com^
 ||appaaaddd.com^
 ||023best.cn^
+||888fr.xyz^
 ||002777.xyz^
 ||01v62.xyz^
 ||0272aa.com^
