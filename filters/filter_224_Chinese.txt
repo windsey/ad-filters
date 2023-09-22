@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-22T01:16:28.994Z
+! Last modified: 2023-09-22T06:23:48.098Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1057,6 +1057,8 @@
 ||xqbjjh.xyz^
 ||haise8.top^
 ||obzthda.xyz^
+||livingshonghealth.com^
+||goingsranchange.com^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
