@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-23T06:21:25.963Z
+! Last modified: 2023-09-23T12:31:12.824Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -961,6 +961,7 @@
 ||desac4.icu^
 ||cmbmtpjm.xyz^
 ||jczunp.xyz^
+||110628.cn^
 ||002777.xyz^
 ||01v62.xyz^
 ||0272aa.com^
