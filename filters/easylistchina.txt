@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-24T01:20:02.783Z
+! Last modified: 2023-09-24T06:21:24.883Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -969,6 +969,8 @@
 ||voxirf.xyz^
 ||sbdvjsbjslkv.com^
 ||asclan.icu^
+||rnfhsji.cn^
+||7ohy3f.cn^
 ||002777.xyz^
 ||01v62.xyz^
 ||0272aa.com^
