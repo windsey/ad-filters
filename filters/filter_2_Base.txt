@@ -1,10 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-24T18:20:55.095Z
+! Last modified: 2023-09-25T01:17:32.367Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||ebdokvydrvqvrak.xyz^
+||koojaith.xyz^
 ||mwbrnpmixxtu.com^
 ||ofdxfsho.com^
 ||zdxcuchr.com^
@@ -3702,15 +3704,11 @@ rgmechanicsgames.com*VPN.exe
 -ad-458x80.
 -ad-banner-
 -ad-bottom-
--ad-button-
 -ad-column-
--ad-horizontal.
 -ad-right.
--ad-sidebar-
 -ad-sidebar.
 -ad-unit.
 -ad-util.
--ad-vertical-
 -ad.jpg.pagespeed.
 -adbanner.
 -adbox-
@@ -3720,12 +3718,10 @@ rgmechanicsgames.com*VPN.exe
 -adverts.min.
 -article-ad.
 -auto-ads-
--banner-ad-
 -banner-ad.
 -cpm-ad.
 -cpm-ads.
 -display-ads.
--footerads-
 -footerads.
 -housead-
 -page-ad.
@@ -3743,7 +3739,6 @@ rgmechanicsgames.com*VPN.exe
 -sticky-ad-
 -strip-ads-
 -takeover-ad-
--top-ad.
 -top-ads.
 -web-advert-
 -Web-Advert.
