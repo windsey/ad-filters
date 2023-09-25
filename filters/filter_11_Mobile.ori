@@ -211,6 +211,14 @@
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||92by17snes4.cc^
+||ads*-normal-lq.zijieapi.com^
+||ad.zijieapi.com^
+||pglstatp-toutiao.com^
+||open.e.kuaishou.cn^
+||open.e.kuaishou.com^
+||open.kuaishouzt.com^
+||open.kwaizt.com^
 ||ali-ad.a.yximgs.com^
 ||v*-ad.video.yximgs.com^
 ||tx-ad.a.yximgs.com^
@@ -1852,6 +1860,8 @@ sasisa.ru#%#AG_onLoad(function() { window.Umobi = function() {}; });
 !-------CSS---------
 !-------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/162284
+wunderground.com#$#html > body.enable-sda wu-header { margin-top: 0 !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/161731
 cnbctv18.com#$#.mobile-bottom-nav { bottom: 0 !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159787
@@ -3397,7 +3407,7 @@ navitime.co.jp##.ad-height
 news.yahoo.co.jp##img[class^="ArticleBanner__Img-"]
 lanacion.com.ar###wrapper::before
 otakotaku.com##div[id^="im-ADS_"]
-mine-3m.com##.mn-ad-block--outer-ad-space2
+mine-3m.com##.mn-ad-block
 pointtown.com##.c-under-ad
 physicsandmathstutor.com##div[class^="pmt_"][class*="_parrent"]
 physicsandmathstutor.com###advert_label_ms
@@ -4405,7 +4415,6 @@ hokkaido-np.co.jp##.mainAdsense
 daily.co.jp##div[id^="dssp-native"]
 news18.com##.article_main > div[class^="jsx-"] > span[style*="width:100%;text-align:center;"]
 m.sport-express.ru##div[style*="width:325px;"][style*="height: 250px;"]
-softportal.com##.cardPageDescMain > div[style*="float:left;"][style*="max-width:100%;"]
 rg.ru###articleContainer + div.b-contacts__wrap
 heise.de##.article-body > .visible-xs > .visible-xs[style*="min-height:"]
 eromanga-pon.com##.ad_big
