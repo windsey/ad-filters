@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-25T12:35:57.437Z
+! Last modified: 2023-09-25T18:23:47.088Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2690,6 +2690,7 @@
 ||rum.layer0.co^
 ||rum.perfops.net^
 ||rum.uptime.com^
+||rumstat.cdnvideo.ru^
 ||rw.marchex.io^
 ||s.autopilotapp.com^
 ||s.beop.io^
