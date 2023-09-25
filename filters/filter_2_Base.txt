@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-25T01:17:32.367Z
+! Last modified: 2023-09-25T06:24:28.315Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5418,6 +5418,7 @@ rgmechanicsgames.com*VPN.exe
 ||adsalo.com^
 ||adsame.com^
 ||adsandcomputer.com^
+||adsbar.online^
 ||adsbeard.com^
 ||adsblocker-ultra.com^
 ||adsblockersentinel.info^

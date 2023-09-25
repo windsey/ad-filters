@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-25T01:17:26.819Z
+! Last modified: 2023-09-25T06:24:23.812Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1088,6 +1088,8 @@
 ||uslsjwnk.xyz^
 ||venum.top^
 ||ecmwsx.icu^
+||havttn.xyz^
+||7i4dka.cn^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
