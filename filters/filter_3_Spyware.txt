@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-26T06:23:56.204Z
+! Last modified: 2023-09-26T12:36:14.209Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||easter-analytics.com^
 ||beagle.prod.tda.link^
 ||stats-best.site^
 ||stat.dongqiudi.com^
@@ -674,6 +675,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||analytics-alv.google.com^
 ||eu.pftk.temu.com^
 ||eu.thtk.temu.com^
 ||trace.rememberapp.co.kr^
