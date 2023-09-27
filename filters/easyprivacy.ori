@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: CB+FMXc/PEHMRd5xK38YwA
-! Version: 202309270602
+! Checksum: HZg/OpNDSXpCMF3DdNci+Q
+! Version: 202309271210
 ! Title: EasyPrivacy
-! Last modified: 27 Sep 2023 06:02 UTC
+! Last modified: 27 Sep 2023 12:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4479,7 +4479,6 @@ _mongo_stats/
 ||clickcease.com^$third-party
 ||clickclick.net^$third-party
 ||clickdensity.com^$third-party
-||clickdimensions.com^$third-party
 ||clickening.com^$third-party
 ||clickferret.com^$third-party
 ||clickguard.com^$third-party
@@ -9916,6 +9915,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||click.appinthestore.com^
 ||click360v2-ingest.azurewebsites.net^
 ||clickchatsold.com/d0/
+||clickdimensions.com/ts.js
 ||clicker.com^*pageurl$third-party
 ||clickfunnels.com/assets/pushcrew.js$third-party
 ||clickfunnels.com/cf.js
@@ -13991,6 +13991,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ranker.com/api/tracking/comscore
 ||rankhit.china.com^
 ||ras.yahoo.com^
+||rbc.ua/enghits/
 ||realestate.com.au^*/p.js
 ||realitytvworld.com/images/pixel.gif
 ||reddit.com/static/pixel.png$image
@@ -32787,6 +32788,7 @@ arketing.indianadunes.com^
 ||iys.org.tr/mti-popts.js
 ||sahibinden.com/sbbi/
 ||stats.birgun.net^
+||tracker.blutv.com^
 ! Ukrainian
 |http://r.i.ua^
 |https://r.i.ua^

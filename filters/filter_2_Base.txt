@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-27T06:23:58.784Z
+! Last modified: 2023-09-27T12:35:57.139Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1397,7 +1397,6 @@
 ||wl.gravergignate.com^
 ||wl.herbarspece.com^
 ||wl.jimjumsalkes.com^
-||wn.congostudia.com^
 ||wq.stewyruttish.com^
 ||wr.rugosehoarish.com^
 ||ws.blondsdixie.com^
@@ -10407,6 +10406,7 @@ rgmechanicsgames.com*VPN.exe
 ||confvtt.com^
 ||congestionbeautycrystal.com^
 ||congestit.com^
+||congostudia.com^
 ||congressaffrayghosts.com^
 ||congressbench.com^
 ||coningweedery.store^
@@ -24005,6 +24005,7 @@ rgmechanicsgames.com*VPN.exe
 ||prdredir.com^
 ||pre4sentre8dhf.com^
 ||preachribbonsummoned.com^
+||prearmscachet.uno^
 ||precedechampion.com^
 ||precedenowadaysbarbecue.com^
 ||precedentadministrator.com^
