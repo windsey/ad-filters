@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-26T18:23:24.465Z
+! Last modified: 2023-09-27T01:17:09.743Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3782,6 +3782,7 @@
 ||cnt.iceporn.com^
 ||cnt.viptube.com^
 ||cnt.vivatube.com^
+||cnt.xhamster.com^
 ||collect.alipay.com^
 ||collect.asics.com^
 ||collect.banggood.com^
@@ -3789,7 +3790,6 @@
 ||collect.reagroupdata.com.au^
 ||collect.stepstone.co.uk^
 ||collect.thunder-io.com^
-||collections-api.realestate.com.au^
 ||collector-px0py5pczn.octopart.com^
 ||collector.cint.com^
 ||collector.fiverr.com^
