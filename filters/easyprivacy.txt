@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-27T18:23:26.714Z
+! Last modified: 2023-09-28T01:16:33.155Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -243,11 +243,11 @@
 ||mcangelus.com^
 ||mdhv.io^
 ||mediamathrdrt.com^
-||micpn.com^
 ||mirabelanalytics.com^
 ||mitour.de^
 ||ml-sys.xyz^
 ||mm-api.agency^
+||mobildev.in^
 ||monicaatron.com^
 ||monu.delivery^
 ||mors22.com^
@@ -4017,6 +4017,7 @@
 ||pxl.indeed.com^
 ||qc.vogue.com^
 ||qm.redbull.com^
+||r.apkpure.net^
 ||r.bbci.co.uk^
 ||rankhit.china.com^
 ||ras.yahoo.com^
@@ -14807,7 +14808,6 @@ arketing.indianadunes.com^
 ||experience.limelight.com^
 ||experience.phenomenex.com^
 ||experience.rsm.com.au^
-||explore.agilent.com^
 ||explore.att.com^
 ||explore.broncos.com.au^
 ||explore.epsilon.com^

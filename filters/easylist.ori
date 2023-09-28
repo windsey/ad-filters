@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vzQa55yUGS8cmFEVYH3Nqg
-! Version: 202309271801
+! Checksum: 3UCuQRmQKeCqw4hfpAMDAA
+! Version: 202309280051
 ! Title: EasyList
-! Last modified: 27 Sep 2023 18:01 UTC
+! Last modified: 28 Sep 2023 00:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -38,8 +38,6 @@
 -banner-ad_
 -banner-ads-$~script
 -contrib-ads.$~stylesheet
--cpm-ad.
--cpm-ads.
 -display-ads.
 -footerads.
 -gpt-ad-$~xmlhttprequest
@@ -54727,7 +54725,6 @@ browsershots.org#@#.advert_area
 ||purevpn.com/affiliates/
 ||qsearch-a.akamaihd.net^
 ||racebets.com/media.php?
-||radioonlinehd.net/ads/
 ||random-affiliate.atimaze.com^
 ||readme.ru/informer/
 ||recipefy.net/rssfeed.php
@@ -60739,6 +60736,7 @@ classifiedads.com##.resultmarg
 infobel.com##.results-bottom-banner-container
 infobel.com##.results-middle-banner-container
 infobel.com##.results-top-banner-container
+realmscans.to##.rev-src
 utahgunexchange.com##.rev_slider_wrapper
 latimes.com,sandiegouniontribune.com##.revcontent
 al.com,cleveland.com,lehighvalleylive.com,masslive.com,mlive.com,newyorkupstate.com,oregonlive.com,pennlive.com,silive.com,syracuse.com##.revenue-display
