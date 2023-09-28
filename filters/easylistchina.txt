@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-28T06:23:43.311Z
+! Last modified: 2023-09-28T12:35:23.920Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1016,6 +1016,7 @@
 ||zxjrbz.xyz^
 ||37io.com^
 ||emailservcesonline.site^
+||aapeople.cn^
 ||002777.xyz^
 ||01v62.xyz^
 ||0272aa.com^
