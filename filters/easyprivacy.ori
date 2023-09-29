@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ULTE7RHJ5DCyC9IA5JX3uQ
-! Version: 202309291210
+! Checksum: 3KvQmseKLByqwTwvbOlguQ
+! Version: 202309291750
 ! Title: EasyPrivacy
-! Last modified: 29 Sep 2023 12:10 UTC
+! Last modified: 29 Sep 2023 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3991,6 +3991,7 @@ _mongo_stats/
 ||tw.cx^
 ||tzegilo.com^
 ||ugdturner.com^
+||uidapi.com^
 ||uqd.io^
 ||ustat.info^
 ||venusrevival.com^
@@ -9117,6 +9118,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||logly.co.jp^$third-party
 ||macromill.com^$third-party
 ||medipartner.jp^$third-party
+||mobadme.jp^$third-party
 ||mobylog.jp^$third-party
 ||moshimo.com^$third-party
 ||msgs.jp^$third-party
@@ -10054,6 +10056,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||connext-cdn.azureedge.net^
 ||consensu.org/?log=
 ||consensu.org/geoip
+||consentmanager.net/delivery/info/$third-party
 ||console.uxlens.com^
 ||contactatonce.com/GetAgentStatusImage.aspx?
 ||contactatonce.com/VisitorContext.aspx?
@@ -31783,6 +31786,8 @@ arketing.indianadunes.com^
 ||t.wayfair.de^
 ||tagm.eduscho.at^
 ||tarnkappe.info^$ping
+||teltarif.de/scripts/fb.js
+||teltarif.de/scripts/ttt.js
 ||teltarif.de/ttt.go?
 ||tgw.gmx.ch^
 ||tgw.gmx.net^
@@ -33614,6 +33619,7 @@ arketing.indianadunes.com^
 !---------- Ukrainian ----------
 !
 @@||gemius.pl/gplayer.js$domain=tsn.ua
+@@||privatbank.ua/content/*/fp2.min.js$~third-party
 @@||uaprom.net/image/blank.gif?$image
 !
 !---------- Vietnamese ----------
