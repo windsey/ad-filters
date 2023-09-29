@@ -1,10 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-29T01:16:40.170Z
+! Last modified: 2023-09-29T06:23:47.672Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||hlyrecomemum.info^
+||ainhiseewhat.com^
 ||sportzflix.xyz^
 ||mindlessslogan.com^
 ||bbrdbr.com^
@@ -369,6 +371,8 @@
 ||stripe.rs-1028-a.com^
 ||piguiqproxy.com^$badfilter
 ||samsungtvads.com^
+
+||d388cbecyo4yoc.cloudfront.net^
 ||d1o6lu9dr4t13s.cloudfront.net^
 ||adserver.pandora.com^
 ||zap.cdn.zynga.com^

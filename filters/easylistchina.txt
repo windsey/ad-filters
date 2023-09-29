@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-29T01:16:33.014Z
+! Last modified: 2023-09-29T06:23:39.691Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1027,6 +1027,8 @@
 ||ukpsal.icu^
 ||bytupkvc.xyz^
 ||ra6.xyz^
+||oncgqzu.cn^
+||c72w6.com^
 ||002777.xyz^
 ||01v62.xyz^
 ||0272aa.com^
