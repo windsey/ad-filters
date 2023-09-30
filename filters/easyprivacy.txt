@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-29T18:23:17.030Z
+! Last modified: 2023-09-30T01:15:03.109Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -19441,7 +19441,6 @@ arketing.indianadunes.com^
 ||get.schoolbuddy.app^
 ||get.seedly.sg^
 ||get.sidekick.health^
-||get.smart-guide.org^
 ||get.snapask.com^
 ||get.somontreal.ca^
 ||get.speaky.com^
