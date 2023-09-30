@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-30T01:15:04.879Z
+! Last modified: 2023-09-30T06:22:00.744Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1149,6 +1149,11 @@
 ||haise6.top^
 ||hylaxngo.xyz^
 ||xibfnb.xyz^
+||actdk.xyz^
+||yueesv.icu^
+||aacoffee.cn^
+||pxxcyni.cn^
+||aasingapore.cn^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
