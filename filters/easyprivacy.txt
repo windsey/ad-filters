@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-09-30T06:21:58.681Z
+! Last modified: 2023-09-30T12:31:25.952Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3706,6 +3706,7 @@
 ||ampltd2.medal.tv^
 ||analyselog.dx.com^
 ||analytics-api.dvdfab.
+||analytics-batch.blitz.gg^
 ||analytics-proxy.springboard.com^
 ||analytics-tracking.meetup.com^
 ||analytics-wcms.joins.net^
