@@ -57098,6 +57098,8 @@ link.gmapp*.net$image
 ! it's problematic that due to how Gmail proxy work, these domains aren't even exposed on the network level
 ! fortunately, extensions can see them (Gmail puts the real URL in the location.hash part of the src)
 !
+! meetup.com
+clicks.meetup.com$image
 ! Stripо.email
 tlr.stripocdn.email$image
 ! mjt.lu
@@ -59549,6 +59551,8 @@ inapps.appsflyersdk.com^
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/162943
+@@||cdn.optimizely.com/datafiles/*.json$domain=shop.mango.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/162154
 @@||proquest.com/modules.gz/snowplow/snowplow-
 ! https://github.com/AdguardTeam/AdguardFilters/issues/162730
