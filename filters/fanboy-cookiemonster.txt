@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-02T12:35:45.188Z
+! Last modified: 2023-10-02T18:23:35.400Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -159,6 +159,7 @@
 ||z680.beaumontenterprise.com^
 ||zion.qbo.intuit.com^
 ||fundingchoicesmessages.google.com^
+||cc.diewebsitemacherei.de^
 ||cc.labu24.de^
 ||cc.mpa-web.de^
 ||ccm1.dlr.de^

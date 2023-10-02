@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-02T12:35:44.733Z
+! Last modified: 2023-10-02T18:23:34.929Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2881,6 +2881,7 @@
 ||tr.vitals.co^
 ||tr.webantenna.info^
 ||traccoon.intellectsoft.net^
+||trace.swaven.com^
 ||track-dark-bz.b-cdn.net^
 ||track.360playvid.info^
 ||track.91app.io^
@@ -3015,6 +3016,7 @@
 ||trk.clinch.co^
 ||trk.storyly.io^
 ||trk.techtarget.com^
+||trk2-wtb.swaven.com^
 ||trx-cdn.zip.co^
 ||trx.zip.co^
 ||try.abtasty.com^
@@ -21332,6 +21334,7 @@ arketing.indianadunes.com^
 ||zhihu-web-analytics.zhihu.com^
 ||zio.xcar.com.cn^
 ||zz.bdstatic.com^
+||cc.dalten.cz^
 ||jslog.post.cz^
 ||report.novinky.cz^
 ||stat.super.cz^

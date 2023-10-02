@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: NLHd79DywULeiSOYHB5ZXQ
-! Version: 202310021210
+! Checksum: i8knMjfFYbdoVx5QskLKyg
+! Version: 202310021801
 ! Title: EasyPrivacy
-! Last modified: 02 Oct 2023 12:10 UTC
+! Last modified: 02 Oct 2023 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2264,6 +2264,7 @@
 /rum/events
 /rum/id?
 /rum/performance
+/rum?ddsource=
 /run/perf
 /ruxitagentjs_
 /rwtag.gif?
@@ -11517,6 +11518,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tr.webantenna.info^
 ||tra.scds.pmdstatic.net/sourcepoint/
 ||traccoon.intellectsoft.net^
+||trace.swaven.com^
 ||track-dark-bz.b-cdn.net^
 ||track.360playvid.info^
 ||track.91app.io^
@@ -11676,6 +11678,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trk.clinch.co^
 ||trk.storyly.io^
 ||trk.techtarget.com^
+||trk2-wtb.swaven.com^
 ||trustarc.com/cap?
 ||trustarc.com/log?
 ||trustcommander.net/iab-tcfapi/
@@ -32049,6 +32052,7 @@ arketing.indianadunes.com^
 ||log2.sina.cn^
 ||logs.51cto.com^
 ||logtake.weidian.com^
+||m.diyibanzhu.buzz/17mb/script/
 ||mail.qq.com/cgi-bin/getinvestigate?
 ||map.baidu.com/newmap_test/static/common/images/transparent.gif
 ||metric.huya.com^
@@ -32195,6 +32199,7 @@ arketing.indianadunes.com^
 ||avaz.ba/update/hits/
 ||jutarnji.hr/template/js/eph_analytics.js
 ! Czech
+||cc.dalten.cz^
 ||jslog.post.cz^
 ||o2.cz^*-ga_o2cz_bundle.js?
 ||report.novinky.cz^
