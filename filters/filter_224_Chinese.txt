@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-01T18:21:07.389Z
+! Last modified: 2023-10-02T01:17:34.577Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1161,6 +1161,10 @@
 ||hesrod.icu^
 ||nzporf.xyz^
 ||999zz333zz.com^
+||aynufyns.xyz^
+||loccgn.icu^
+||vjrpnv.xyz^
+||itrdqbg.xyz^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
