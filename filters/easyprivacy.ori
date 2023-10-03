@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Bep080nrVfYzu5bGXqtx2Q
-! Version: 202310031210
+! Checksum: UpJ9z2EUXkrwHyNWCJ68Nw
+! Version: 202310031802
 ! Title: EasyPrivacy
-! Last modified: 03 Oct 2023 12:10 UTC
+! Last modified: 03 Oct 2023 18:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32054,7 +32054,8 @@ arketing.indianadunes.com^
 ||log2.sina.cn^
 ||logs.51cto.com^
 ||logtake.weidian.com^
-||m.diyibanzhu.buzz/17mb/script/
+||m.diyibanzhu.buzz/17mb/script/tj.js
+||m.diyibanzhu.buzz/17mb/script/wap.js
 ||mail.qq.com/cgi-bin/getinvestigate?
 ||map.baidu.com/newmap_test/static/common/images/transparent.gif
 ||metric.huya.com^
