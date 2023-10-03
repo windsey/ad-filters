@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-03T06:23:57.168Z
+! Last modified: 2023-10-03T12:36:05.587Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -117,6 +117,7 @@
 ||cybba.solutions^
 ||czx5eyk0exbhwp43ya.biz^
 ||da29e6b8-f018-490f-b25f-39a887fc95e7.xyz^
+||dataofpages.com^
 ||datatechonert.com^
 ||demdex.net^
 ||digi-ping.com^
