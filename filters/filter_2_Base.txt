@@ -1,10 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-03T18:24:05.287Z
+! Last modified: 2023-10-04T01:18:49.735Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||lajouly.com^
+||qxpwiqydg.com^
 ||hpaakmsumarzy.com^
 ||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
 ||xxjcedclosxcaox.com^

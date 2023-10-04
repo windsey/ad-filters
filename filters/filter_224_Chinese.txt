@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-03T18:24:00.779Z
+! Last modified: 2023-10-04T01:18:45.567Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -139,6 +139,13 @@
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
 ||beste3.icu^
+||pexavfro.xyz^
+||bydcxdy.cn^
+||ldvnehc.xyz^
+||serda10.icu^
+||ddvoht.xyz^
+||tcgaqh.icu^
+||dhgfhedxx.xyz^
 ||jofknbpe.xyz^
 ||neeujqf.cn^
 ||psroyx.icu^
