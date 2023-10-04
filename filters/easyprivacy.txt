@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-04T01:18:43.771Z
+! Last modified: 2023-10-04T06:24:10.869Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3436,6 +3436,7 @@
 ||evnt.iol.it^
 ||limone.iltrovatore.it^
 ||livestats.matrix.it^
+||log.edidomus.it^
 ||logger.kataweb.it^
 ||nanostats.nanopress.it^
 ||plausible.citynews.ovh^
@@ -21503,6 +21504,7 @@ arketing.indianadunes.com^
 ||tm.jsuol.com.br^
 ||tm.uol.com.br^
 ||track.exame.com^
+||track.olx.com.br^
 ||tracker.bt.uol.com.br^
 ||tracker.publico.pt^
 ||analytics.okazii.ro^

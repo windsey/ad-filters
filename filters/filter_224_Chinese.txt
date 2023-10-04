@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-04T01:18:45.567Z
+! Last modified: 2023-10-04T06:24:12.877Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -146,6 +146,7 @@
 ||ddvoht.xyz^
 ||tcgaqh.icu^
 ||dhgfhedxx.xyz^
+||anhlnnm.cn^
 ||jofknbpe.xyz^
 ||neeujqf.cn^
 ||psroyx.icu^
