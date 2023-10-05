@@ -1,10 +1,9 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-05T06:24:06.793Z
+! Last modified: 2023-10-05T12:37:13.243Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
-
 ||mismaum.com^
 ||qcvbtrtlmjdhvxe.xyz^
 ||abbotpredicateemma.com^
@@ -33814,7 +33813,6 @@ rgmechanicsgames.com*VPN.exe
 ||bidder.newspassid.com^
 ||bids.concert.io^
 ||bl.wavecdn.de^
-||bsc-dataseed1.binance.org^
 ||btr.domywife.com^
 ||c.bannerflow.net^
 ||c2shb.pubgw.yahoo.com^

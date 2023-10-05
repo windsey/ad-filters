@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-05T06:24:08.749Z
+! Last modified: 2023-10-05T12:37:14.996Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||analytics.myshoptago.com^
 ||wfthumty.pm^
 ||hubtydum.me^
 ||analytics.jslib.win^
@@ -680,6 +681,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||analytics.streamfab.
 ||m.1gr.cz^
 ||a.1gr.cz^
 ||pvnwap.zol.com.cn^
