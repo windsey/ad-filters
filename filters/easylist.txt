@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-05T01:17:13.716Z
+! Last modified: 2023-10-05T06:23:59.073Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -30314,7 +30314,6 @@
 ||bidder.newspassid.com^
 ||bids.concert.io^
 ||bl.wavecdn.de^
-||bsc-dataseed1.binance.org^
 ||btr.domywife.com^
 ||c.bannerflow.net^
 ||c2shb.pubgw.yahoo.com^
