@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-07T12:31:59.411Z
+! Last modified: 2023-10-07T18:21:25.540Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3777,6 +3777,7 @@
 ||blitz-analytics-batch-server.blitz.gg^
 ||boomerang.dell.com^
 ||c.fingerprint.com^
+||c.newyorker.com^
 ||c.thredup.com^
 ||c.vogue.com^
 ||c.wort-suche.com^
@@ -4028,6 +4029,7 @@
 ||pumpkin.abine.com^
 ||px.srvcs.tumblr.com^
 ||pxl.indeed.com^
+||qc.newyorker.com^
 ||qc.vogue.com^
 ||qm.redbull.com^
 ||r.apkpure.net^
