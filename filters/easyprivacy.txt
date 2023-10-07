@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-06T18:23:29.996Z
+! Last modified: 2023-10-07T01:15:58.573Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1562,6 +1562,7 @@
 ||scaredsidewalk.com^
 ||scaredsnake.com^
 ||scaredsnakes.com^
+||scaredsong.com^
 ||scaredstory.com^
 ||scaredswing.com^
 ||scarfsmash.com^

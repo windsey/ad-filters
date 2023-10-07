@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: l6efA5Kum6NKaCDdWlv+Gw
-! Version: 202310061802
+! Checksum: zmRzY/EhVYXcRh/XoQU5Iw
+! Version: 202310070050
 ! Title: EasyPrivacy
-! Last modified: 06 Oct 2023 18:02 UTC
+! Last modified: 07 Oct 2023 00:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8037,6 +8037,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||scaredsidewalk.com^
 ||scaredsnake.com^
 ||scaredsnakes.com^
+||scaredsong.com^
 ||scaredstory.com^
 ||scaredswing.com^
 ||scarfsmash.com^
