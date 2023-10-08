@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-08T06:22:27.997Z
+! Last modified: 2023-10-08T12:32:19.041Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -81,6 +81,9 @@
 ||lovespenhas.com^
 ||xvorpqz.cn^
 ||fastjs.org^
+||orssengseen.com^
+||fzgetdy.cn^
+||agossuoeach.com^
 ||002777.xyz^
 ||01v62.xyz^
 ||023best.cn^
