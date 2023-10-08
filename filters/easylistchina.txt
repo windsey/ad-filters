@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-08T01:21:47.961Z
+! Last modified: 2023-10-08T06:22:27.997Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -78,6 +78,9 @@
 ||hrtinqj.cn^
 ||ukjwyv.icu^
 ||trdmtx.xyz^
+||lovespenhas.com^
+||xvorpqz.cn^
+||fastjs.org^
 ||002777.xyz^
 ||01v62.xyz^
 ||023best.cn^
