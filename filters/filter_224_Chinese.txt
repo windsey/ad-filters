@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-09T12:37:55.076Z
+! Last modified: 2023-10-09T18:23:39.869Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -144,6 +144,7 @@
 ||88lajs3.com^
 ||agossuoeach.com^
 ||anhlnnm.cn^
+||bbfnrn.xyz^
 ||beste3.icu^
 ||boats4.top^
 ||bydcxdy.cn^
@@ -153,6 +154,7 @@
 ||dhgfhedxx.xyz^
 ||djiuss.cn^
 ||fastjs.org^
+||fkjsjwbs.xyz^
 ||fzgetdy.cn^
 ||gmx27.top^
 ||gmx28.top^
@@ -161,6 +163,7 @@
 ||hrtinqj.cn^
 ||huhwllvk.xyz^
 ||hwuogmusthxfpk.xyz^
+||ibsea.cn^
 ||igkgag.xyz^
 ||insfengdata.com^
 ||jndxsuy.xyz^
@@ -180,6 +183,7 @@
 ||mphhgat.xyz^
 ||mwfyab.icu^
 ||neeujqf.cn^
+||negnixa.cn^
 ||orssengseen.com^
 ||pexavfro.xyz^
 ||pqjeoqa.cn^
@@ -188,16 +192,20 @@
 ||quzmtpxw.xyz^
 ||rkds10.icu^
 ||roxewwq.cn^
+||rvreuxi.cn^
 ||serda10.icu^
+||sgeth9.icu^
 ||tcgaqh.icu^
 ||thboxp.xyz^
 ||trdmtx.xyz^
 ||ukjwyv.icu^
 ||ulrvkee.xyz^
+||uwfxvvm.cn^
 ||vdggsd005.com^
 ||vdggsd006.com^
 ||vdggsd007.com^
 ||vdggsd008.com^
+||vdggsd009.com^
 ||vivienjumpe.com^
 ||vttqld.xyz^
 ||vxdpmxw.xyz^
@@ -209,17 +217,10 @@
 ||xvzfyra.xyz^
 ||xxkswdf.icu^
 ||yepgdita.xyz^
-||yhtpsy8888.cc^
-||zchvyet.cn^
-||negnixa.cn^
-||fkjsjwbs.xyz^
-||yutiqf.icu^
-||sgeth9.icu^
-||bbfnrn.xyz^
-||vdggsd009.com^
 ||yhlzadr.xyz^
-||ibsea.cn^
-||rvreuxi.cn^
+||yhtpsy8888.cc^
+||yutiqf.icu^
+||zchvyet.cn^
 ||01v62.xyz^
 ||023best.cn^
 ||0272aa.com^

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3jvN10tnDfYXCHFj5ybiIA
-! Version: 202310091210
+! Checksum: wYXeyoCdqwY9LhTVI5xBbA
+! Version: 202310091801
 ! Title: EasyList
-! Last modified: 09 Oct 2023 12:10 UTC
+! Last modified: 09 Oct 2023 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -25884,7 +25884,6 @@ browsershots.org#@#.advert_area
 ||custodybout.com^
 ||customads.co^
 ||customapi.top^
-||cuteasiangirl.net^
 ||cuterbond.com^
 ||cuterintegrationcrock.com^
 ||cutescale.online^
@@ -37520,6 +37519,7 @@ browsershots.org#@#.advert_area
 ||opportunitysearch.net^
 ||oppositehometowndrunken.com^
 ||oppozga.com^
+||oppressionhopefully.com^
 ||oprill.com^
 ||opsaupsa.com^
 ||opshuckleor.com^
@@ -42086,6 +42086,7 @@ browsershots.org#@#.advert_area
 ||sefsdvc.com^
 ||sefulheadde.info^
 ||segmentcoax.com^
+||segrbdscumdk.com^
 ||segrea.com^
 ||segreencolumn.com^
 ||seibertspart.com^
@@ -51599,6 +51600,7 @@ browsershots.org#@#.advert_area
 ||grunoaph.net^$popup
 ||grupif.com^$popup
 ||grygrothapi.pro^$popup
+||gsecurecontent.com^$popup
 ||gsniper2.com^$popup
 ||gtbdhr.com^$popup
 ||guerrilla-links.com^$popup
@@ -56848,7 +56850,6 @@ browsershots.org#@#.advert_area
 ||thephuketnews.com/photo/banner/
 ||theseoultimes.com/ST/banner/
 ||thisgengaming.com/Scripts/widget2.aspx
-||timeanddate.com/common/prebidtad.
 ||timesnownews.com/dfpamzn.js
 ||tontent.powzers.lol^
 ||torrent911.ws/z-
@@ -59309,6 +59310,7 @@ thetoyinsider.com##.apb-adblock
 eurogamer.net##.apester_block
 classicfm.com##.apple_music
 icon-icons.com##.apu
+icon-icons.com##.apu-mixed-packs
 adn.com,businessoffashion.com,irishtimes.com##.arcad-feature
 1news.co.nz,actionnewsjax.com,boston25news.com,easy93.com,fox23.com,kiro7.com,wftv.com,whio.com,wpxi.com,wsbradio.com,wsbtv.com,wsoctv.com##.arcad_feature
 check-host.net##.ard_z
@@ -60242,7 +60244,7 @@ hindustantimes.com##.headBanner
 realmadrid.com##.head_sponsors
 additudemag.com,organicfacts.net##.header-ad
 boldsky.com##.header-ad-block
-scmp.com##.header-ad-slot
+olympics.com,scmp.com##.header-ad-slot
 worldpress.org##.header-b
 adswikia.com,freemalaysiatoday.com,landandfarm.com,pointblanknews.com,radiotoday.com.au,runt-of-the-web.com,rxresource.org,techworldgeek.com,warisboring.com##.header-banner
 gamingdeputy.com##.header-banner-desktop
@@ -60401,6 +60403,7 @@ mydramalist.com##.is-desktop
 thestreet.com##.is-video-footer-enabled
 estnn.com##.isDesktop
 speedcheck.org##.isg-container
+icon-icons.com##.istock-container
 iconfinder.com##.istockphoto-placeholder
 albertsonsmarket.com,marketstreetunited.com,unitedsupermarkets.com##.item-citrus
 nintendolife.com,purexbox.com,pushsquare.com##.item-insert

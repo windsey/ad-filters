@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-09T12:37:53.265Z
+! Last modified: 2023-10-09T18:23:37.760Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1815,6 +1815,7 @@
 ||superficialspring.com^
 ||superficialsquare.com^
 ||supervisegoldfish.com^
+||suspectmark.com^
 ||suspendseed.com^
 ||swankysquare.com^
 ||sweepsheep.com^
