@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-09T06:24:56.733Z
+! Last modified: 2023-10-09T12:37:55.076Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -219,6 +219,7 @@
 ||vdggsd009.com^
 ||yhlzadr.xyz^
 ||ibsea.cn^
+||rvreuxi.cn^
 ||01v62.xyz^
 ||023best.cn^
 ||0272aa.com^

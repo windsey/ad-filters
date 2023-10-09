@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: ZKlzlfl/nMudE3l8qHt7bQ
+! Checksum: 9leYSkgZlGeqNQnqgqZuoQ
 ! Title: Easylist Cookie List
-! Updated: 2023-10-09 05:20 UTC
+! Updated: 2023-10-09 11:30 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com 
+! Email: easylist@protonmail.com
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -18337,6 +18337,7 @@
 ||californiatimes.com/gdpr/
 ||cc.anytrack.de^
 ||ccm19.de^$third-party
+||ccm19boros.de^$third-party
 ||ccmp.eu^$third-party
 ||ccpa-script.psg.nexstardigital.net^
 ||ccpa.sp-prod.net^
@@ -18895,6 +18896,7 @@ cvedetails.com###cookieconsentwarningcontainer
 europa-plc.com###cookieplate
 accolade.eu###cookies-component
 tangomode-aga.eu###cookies-law
+biovendor.com###cookiesAdv
 lift.co.za###cookiesBanner
 worksheetcrafter.com###cookiesFormContainer
 berger-tools.co.uk###cookiesOptions202212
@@ -19303,6 +19305,7 @@ onebrandssweepstakes.com,tjc.co.uk##.GDPR
 atoocall.com##.GDPRPopup-module--popup--3chjm
 venngage.com##.GDPR_main__fxmFf
 boosty.to##.GdprOffer_block_Ir4kJ
+boosty.to##.GdprOffer_root_pCuOO
 airasia.com##.Gdpr__GdprParentWrapper-sc-z30mcl-0
 rythm.fm##.Homepage_banner__Bo2QI
 poebuilds.net##.HzPhN
