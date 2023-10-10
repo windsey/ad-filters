@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-10T12:35:51.825Z
+! Last modified: 2023-10-10T18:23:19.362Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5594,6 +5594,7 @@ rgmechanicsgames.com*VPN.exe
 ||adt328.com^
 ||adt545.net^
 ||adt567.net^
+||adt574.com^
 ||adt598.com^
 ||adtag.cc^
 ||adtags.mobi^
@@ -19503,6 +19504,7 @@ rgmechanicsgames.com*VPN.exe
 ||lognegee.com^
 ||logystowtencon.info^
 ||loinpriestinfected.com^
+||loketsaucy.com^
 ||lokinatoer5.com^
 ||loktrk.com^
 ||lolco.net^
@@ -24724,6 +24726,7 @@ rgmechanicsgames.com*VPN.exe
 ||psoageph.com^
 ||psoalreh.com^
 ||psognaih.xyz^
+||psojeeng.com^
 ||psoogaix.net^
 ||psoolikoagy.com^
 ||psoompou.xyz^
@@ -27149,6 +27152,7 @@ rgmechanicsgames.com*VPN.exe
 ||selfpua.com^
 ||selfpuc.com^
 ||selfreliantboot.pro^
+||selfswayjay.com^
 ||sellbleatregistry.com^
 ||sellingtandays.com^
 ||sellisteatin.com^
@@ -33520,6 +33524,7 @@ rgmechanicsgames.com*VPN.exe
 ||zedsapp.com^
 ||zedswrathed.website^
 ||zedxknzlwyofh.com^
+||zeebaith.xyz^
 ||zeeca4u.com^
 ||zeechumy.com^
 ||zeecoomi.net^

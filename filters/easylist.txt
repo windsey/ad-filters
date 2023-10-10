@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-10T12:35:43.062Z
+! Last modified: 2023-10-10T18:23:09.902Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1840,6 +1840,7 @@
 ||adt328.com^
 ||adt545.net^
 ||adt567.net^
+||adt574.com^
 ||adt598.com^
 ||adtag.cc^
 ||adtags.mobi^

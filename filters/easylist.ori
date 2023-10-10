@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4JRToStz0mTNSRc1ViZTTg
-! Version: 202310101210
+! Checksum: gnXRbYZI8CcW/g1cVmPgsw
+! Version: 202310101802
 ! Title: EasyList
-! Last modified: 10 Oct 2023 12:10 UTC
+! Last modified: 10 Oct 2023 18:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13240,6 +13240,7 @@ _800x80_
 ##.dynamicad2
 ##.e-ad
 ##.e-advertise
+##.eaa-ad
 ##.eads
 ##.easy-ads
 ##.easyAdsBox
@@ -20379,6 +20380,7 @@ browsershots.org#@#.advert_area
 ||adt328.com^
 ||adt545.net^
 ||adt567.net^
+||adt574.com^
 ||adt598.com^
 ||adtag.cc^
 ||adtags.mobi^
@@ -58965,6 +58967,7 @@ citybeat.com,clevescene.com,cltampa.com##.PromoTopBar
 sciencealert.com##.Purch_Y_C_0_1-container
 tumblr.com##.Qrht9
 tvzoneuk.com##.R38Z80
+barrons.com##.RenderBlock__AdWrapper-sc-1vrmc5r-0
 whatcar.com##.ReviewHero_mastheadStyle__Bv8X0
 geometrydash.io##.RowAdv
 gq.com##.SavingsUnitedCouponsWrapper-humLIe
@@ -59496,7 +59499,7 @@ theportugalnews.com##.banners-250
 rt.com##.banners__border
 unixmen.com##.banners_home
 m.economictimes.com##.bannerwrapper
-marketscreener.com##.basbarrons.com##.RenderBlock__AdWrapper-sc-1vrmc5r-0
+marketscreener.com##.bas
 euronews.com##.base-leaderboard
 teamfortress.tv##.bau
 propublica.org##.bb-ad
@@ -63372,7 +63375,7 @@ pornhub-com.appspot.com,pornhub.com,pornhub.net,youporn.com###pb_template
 youporngay.com###pbs_block
 ggjav.com###pc_instant
 imagearn.com###picBanner
-7mmtv.tv###player-container[style="width:300px;height:250px"]
+7mmtv.tv###player-container
 hentai2w.com,iporntoo.com,pornxt.com,xhentai.tv###playerOverlay
 ebony8.com,lesbian8.com,maturetubehere.com###player_add
 redtube.com###popsByTrafficJunky
@@ -63451,6 +63454,7 @@ xhamster.com##._80e65-containerPauseSpot
 tubepornclassic.com##.___it0h1l3u2se2lo
 pichunter.com##.__autofooterwidth
 sunporno.com##.a-block
+7mm001.com,7mmtv.sx##.a-d-block
 porngem.com,uiporn.com##.a-d-v
 bravoteens.com##.a352
 china-tubex.site,de-sexy-tube.ru##.aBlock
@@ -63910,6 +63914,7 @@ elephanttube.world,pornid.xxx##.rsidebar-spots-holder
 jizzbunker.com,jizzbunker2.com,xxxdan.com,xxxdan3.com##.rzx1
 forum.lewdweb.net,forums.socialmediagirls.com##.samCodeUnit
 porngals4.com##.sb250
+7mm001.com,7mmtv.sx##.set_height_250
 sextb.net##.sextb_300
 gay-streaming.com##.sgpb-popup-dialog-main-div-wrapper
 gay-streaming.com##.sgpb-popup-overlay
