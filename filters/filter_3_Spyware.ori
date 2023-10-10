@@ -482,6 +482,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||f.revotas.com^
 ||1cpbac.ru^
 ||tracking.utlservice.com^
 ||analytics.myshoptago.com^
@@ -53870,12 +53871,26 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wiz.empowerhearing.com^
 ||wiz.sncf-connect.com^
 ||wz.allianz.fr^
+
+!-------------------------------------------------------------------------------!
+!-------------- CNAME trackers exceptions --------------------------------------!
+!-------------------------------------------------------------------------------!
+!
+! This section contains the list of rules that excluding CNAME domains,
+! that cause breakage or are not used for tracking or advertising purposes.
+!
+! Good:
+!       - ||example.org^$badfilter
+!       - @@||example.org^
+! Bad:
+!       - @@||example.org^$stealth (should be in AdGuard Base - allowlist_stealth.txt)
 !
 !
-! NOTE: Fixing the issues
-!
+! Used in shopping emails
+||data.digital.costco.ca^$badfilter
+||data.digital.costco.com^$badfilter
 ! https://github.com/AdguardTeam/AdguardFilters/issues/162672
-||explore.agilent.com^
+||explore.agilent.com^$badfilter
 ! https://github.com/AdguardTeam/AdguardFilters/issues/160473
 ||go.oracle.com^$badfilter
 ! https://github.com/hagezi/dns-blocklists/issues/1453
@@ -54508,6 +54523,7 @@ _tracking.php?b=
 /analytics.js$domain=tokyometro.jp|resumes.breakdownexpress.com|techcult.com|inbox.lv|kopeda.com|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de|newsdig.tbs.co.jp|imore.com|city.kushiro.lg.jp|emeraldbridal.com.au|emarat-news.ae|imobie.jp|tikla.com.tr|rusvideos.porn|jrkyushu.co.jp|amiunique.org
 ||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com|euronews.com|newshub.co.nz|fredmeyer.com|viabcp.com|carsales.com.au|falabella.com|aarp.org
 !
+sinoptik.ua##img[src^="//counter.ukr.net/"]
 ||thethings.com/strpixel.png
 ||nius.de/monitoring
 ||expert.it/js/omni/tracking/
@@ -56065,7 +56081,7 @@ mag.osdn.jp##div[id^="logly-lift-"]
 ||r.popin.cc/log.gif
 ||adsystem.dailyissue.co.kr/show/logs.php
 ||kgnews.co.kr/weblog/gtracker.
-||l2.revotas.com/trc/api/rvts*_tracker.js
+||revocdn.revotas.com/trc/api/rvts*_tracker.js
 ||shufoo.net/log/
 ||deszczowce.pl/licznik/licznik.php
 techmaniachd.pl###sidebar-right-1 > #HTML6

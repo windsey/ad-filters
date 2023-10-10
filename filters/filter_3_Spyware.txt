@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-10T06:25:24.434Z
+! Last modified: 2023-10-10T12:35:53.825Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||f.revotas.com^
 ||1cpbac.ru^
 ||tracking.utlservice.com^
 ||analytics.myshoptago.com^
@@ -36058,6 +36059,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wiz.empowerhearing.com^
 ||wiz.sncf-connect.com^
 ||wz.allianz.fr^
+
+||data.digital.costco.ca^$badfilter
+||data.digital.costco.com^$badfilter
+||explore.agilent.com^$badfilter
 ||go.oracle.com^$badfilter
 ||data.ubi.com^$badfilter
 ||data-60d896f23d.radio.net^$badfilter
