@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-11T06:24:58.328Z
+! Last modified: 2023-10-11T12:35:46.102Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -245,6 +245,8 @@
 ||gmx22.top^
 ||gixgav.icu^
 ||1bctkn.xyz^
+||crhabkd.cn^
+||nangongmall.com^
 ||01v62.xyz^
 ||023best.cn^
 ||0272aa.com^

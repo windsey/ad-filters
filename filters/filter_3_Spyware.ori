@@ -4290,6 +4290,8 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||crimsonmeadow.com^$third-party
+||vibranthaven.com^$third-party
 ||copyrightaccesscontrols.com^$third-party
 ||roseincome.com^$third-party
 ||solarislabyrinth.com^$third-party
@@ -60474,6 +60476,10 @@ inapps.appsflyersdk.com^
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/163567
+@@||cdn.cxense.com/cx.cce.js$domain=lopinion.fr
+@@||cdn.cxense.com/cx.js$domain=lopinion.fr
+@@||api.cxense.com/public/widget/data?$domain=lopinion.fr
 ! https://github.com/AdguardTeam/AdguardFilters/issues/163111
 @@||sdk.fra-02.braze.eu^$app=jp.co.cosmo_oil
 ! https://github.com/AdguardTeam/AdguardFilters/issues/163143
