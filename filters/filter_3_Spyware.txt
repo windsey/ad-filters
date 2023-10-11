@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-11T12:35:52.388Z
+! Last modified: 2023-10-11T18:24:17.707Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||ea.epochbase.com^
 ||f.revotas.com^
 ||1cpbac.ru^
 ||tracking.utlservice.com^
@@ -2752,6 +2753,10 @@
 ||zion-telemetry.api.cnn.io^
 ||zion.qbo.intuit.com^
 charlestownwyllie.oaklawnnonantum.com^
+||api-*.hismarttv.com^
+||auth-*.hismarttv.com^
+||msg-na.hismarttv.com^
+||unified-ter-na.hismarttv.com^
 ||sp1.baidu.com^
 ||sp2.baidu.com^
 ||sp3.baidu.com^

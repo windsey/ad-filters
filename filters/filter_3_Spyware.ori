@@ -482,6 +482,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||ea.epochbase.com^
 ||f.revotas.com^
 ||1cpbac.ru^
 ||tracking.utlservice.com^
@@ -4290,6 +4291,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||cozyhillside.com^$third-party
 ||crimsonmeadow.com^$third-party
 ||vibranthaven.com^$third-party
 ||copyrightaccesscontrols.com^$third-party
@@ -7575,6 +7577,12 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ||zion-telemetry.api.cnn.io^
 ||zion.qbo.intuit.com^
 charlestownwyllie.oaklawnnonantum.com^
+!
+! Hisense Smart TV
+||api-*.hismarttv.com^
+||auth-*.hismarttv.com^
+||msg-na.hismarttv.com^
+||unified-ter-na.hismarttv.com^
 !
 ! Baidu
 ||sp1.baidu.com^
