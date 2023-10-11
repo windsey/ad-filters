@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-11T01:16:44.446Z
+! Last modified: 2023-10-11T06:24:56.221Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -853,6 +853,7 @@
 ||defectivesun.com^
 ||defiantrice.com^
 ||delegatediscussion.com^
+||delicatecascade.com^
 ||delicateducks.com^
 ||delightfulhour.com^
 ||desertedbreath.com^
@@ -1981,6 +1982,7 @@
 ||whiskyqueue.com^
 ||whisperingbadge.com^
 ||whisperingcrib.com^
+||whisperingsummit.com^
 ||whispermeeting.com^
 ||wigglygeese.com^
 ||wigglyindustry.com^

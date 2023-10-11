@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-11T01:16:43.459Z
+! Last modified: 2023-10-11T06:24:55.156Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -118,6 +118,9 @@
 ||cadizer.com^
 ||ebmlsvw.cn^
 ||jvjmjt.xyz^
+||gmx22.top^
+||gixgav.icu^
+||1bctkn.xyz^
 ||002777.xyz^
 ||01v62.xyz^
 ||023best.cn^
