@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-11T18:24:09.157Z
+! Last modified: 2023-10-12T01:14:53.650Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3135,6 +3135,7 @@
 ||d2nxi61n77zqpl.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
+||d2r1yp2w7bby2u.cloudfront.net^
 ||d2rnkf2kqy5m6h.cloudfront.net^
 ||d2t77mnxyo7adj.cloudfront.net^
 ||d2tgfbvjf3q6hn.cloudfront.net^
