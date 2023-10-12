@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-12T06:24:19.524Z
+! Last modified: 2023-10-12T12:35:53.419Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -792,6 +792,7 @@
 ||courageousbaby.com^
 ||coverapparatus.com^
 ||cowscrayon.com^
+||cozyhillside.com^
 ||crabbychin.com^
 ||crafthenry.com^
 ||crashchance.com^
