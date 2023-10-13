@@ -482,6 +482,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||carrick-ui.advoncommerce.com^
 ||smelel.icu^
 ||ea.epochbase.com^
 ||f.revotas.com^
@@ -4292,6 +4293,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||whimsicalgrove.com^$third-party
 ||cozyhillside.com^$third-party
 ||crimsonmeadow.com^$third-party
 ||vibranthaven.com^$third-party
@@ -55050,7 +55052,6 @@ j-cast.com###cxRelatedEntry
 ||meetimgz.com/vtrack
 ||fotocommunity.de/track/js/
 ||api.wikitree.co.kr/api/v*/postLog.php
-||1gr.cz/log^
 ||gw.ganjing.com/v*/tracking-content
 ||d.bidmatic.io/tracking/
 markezine.jp##.carouselBlock > li[id^="cx_"].c-headlineindex_listitem
@@ -56129,7 +56130,6 @@ viva.ua##.footer-counters
 ||rihappy.com.br/Site/Track.aspx
 ||vteximg.com.br/scripts/track.js
 ||mediasetplay.mediaset.it/static/webtrekk/*/smart-pixel.min.js
-||vtex.com.br/portal-ui/*/scripts/vtex-analytics.js
 ||vtex.com.br/rc/rc.js
 ||rihappy.com.br/api/sessions?items
 ||vteximg.com.br/scripts/vtex.tagmanager.helper.js
@@ -57951,6 +57951,9 @@ dreamprogs.net##td[width="88"][height="31"]
 ||yandex.*/clck/
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
 ||play.google.com/log?
+!
+!+ NOT_PLATFORM(ios, ext_safari)
+||1gr.cz/log^
 !
 ! blueconic.net on hearst.com sites
 /script.js|$~third-party,domain=beaumontenterprise.com|chron.com|ctinsider.com|ctpost.com|darientimes.com|expressnews.com|fairfieldcitizenonline.com|fuelfix.com|greenwichtime.com|hearstmediact.com|hearstmediatx.com|houstonchronicle.com|lmtonline.com|middletownpress.com|milfordmirror.com|mrt.com|myplainview.com|mysanantonio.com|ncadvertiser.com|newmilfordspectrum.com|newstimes.com|nhregister.com|ourmidland.com|registercitizen.com|seattlepi.com|sfchronicle.com|sfgate.com|sheltonherald.com|stamfordadvocate.com|thehour.com|theintelligencer.com|theridgefieldpress.com|timesunion.com|trumbulltimes.com|westport-news.com|wiltonbulletin.com|yourconroenews.com
@@ -60486,6 +60489,8 @@ inapps.appsflyersdk.com^
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/163697
+@@||googletagmanager.com/gtm.js$domain=reglomobile.fr
 ! https://github.com/AdguardTeam/AdguardFilters/issues/163567
 @@||cdn.cxense.com/cx.cce.js$domain=lopinion.fr
 @@||cdn.cxense.com/cx.js$domain=lopinion.fr

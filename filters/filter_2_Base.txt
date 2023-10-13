@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-13T12:35:36.986Z
+! Last modified: 2023-10-13T18:23:55.165Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -7674,6 +7674,7 @@ rgmechanicsgames.com*VPN.exe
 ||badspads.com^
 ||badtopwitch.work^
 ||badubaho.com^
+||badujaub.xyz^
 ||badword.xyz^
 ||baect.com^
 ||baelungilt.guru^
@@ -30500,6 +30501,7 @@ rgmechanicsgames.com*VPN.exe
 ||tvprocessing.com^
 ||tvqqrycnutpp.com^
 ||tvxetxjvobm.com^
+||tvxrpdfgitlbsb.xyz^
 ||twaonhcjwoaouj.com^
 ||twazzyoidwlfe.com^
 ||tweenydone.website^
