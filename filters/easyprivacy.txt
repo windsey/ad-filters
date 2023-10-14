@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-14T01:15:09.204Z
+! Last modified: 2023-10-14T06:22:27.548Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1684,6 +1684,7 @@
 ||soaprange.com^
 ||soapsmoke.com^
 ||soggysponge.com^
+||solarislabyrinth.com^
 ||somberattack.com^
 ||somberscarecrow.com^
 ||sombersea.com^
@@ -3568,6 +3569,7 @@
 ||stats.media.onet.pl^
 ||stats.ulixes.pl^
 ||statystyki.panelek.com^
+||tp.convertiser.com^
 ||tracking.novem.pl^
 ||trc.gpcdn.pl^
 ||ad-tracker-api.luizalabs.com^
@@ -4180,6 +4182,7 @@
 ||tracker.nbcuas.com^
 ||tracker.ranker.com^
 ||tracker.shopclues.com^
+||tracking.bloomberg.com^
 ||tracking.carsales.com.au^
 ||tracking.christianpost.com^
 ||tracking.digitalocean.com^
