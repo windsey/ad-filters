@@ -5034,6 +5034,7 @@ newduba.cn###jq_youxi
 ||xdfdqce.xyz^
 ||phwrju.xyz^
 ||xrcembm.cn^
+||wqvbuj.icu^
 ||z91f4.top^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
@@ -12349,7 +12350,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||lcxw.cn/i/*dl.js
 ||ld0766.com/*20*a/
 ||ldb.cc/js/top.js
-||ldmnq.com/bbs/$third-party
 ||lecai.com/page/zhuanti/baidu/
 ||leiphone.com/uploads/new/category/pic/*/740x140/
 ||leju.com/abp/cmslead_new.v2.js
@@ -13990,6 +13990,13 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 szxx.com.cn###A0
+eprice.com.tw##.ad-320x100
+eprice.com.tw##.ad-970x250
+eprice.com.tw##.section-content > div[style*="text-align"]
+eprice.com.tw##.popup-adv
+eprice.com.hk##.ad-end-article
+eprice.com.hk##.article__content > div[style*="text-align"]
+eprice.com.hk##div[id^="eprice-div-gpt-ad-"]
 hcbbs.com###framec9562h
 hcbbs.com###fwin_dialog
 szxx.com.cn###A1
