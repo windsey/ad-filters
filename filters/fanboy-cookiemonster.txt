@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-14T18:21:38.004Z
+! Last modified: 2023-10-15T01:22:10.280Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -172,6 +172,7 @@
 ||consent.perry-rhodan.net^
 ||consent.werner-mertz.de^
 ||consent2.rheinische-anzeigenblaetter.de^
+||consenttool.haendlerbund.de^
 ||cookies.ptj.de^
 ||fc.vodafone.de^
 ||up-cookiemon.wavecdn.net^

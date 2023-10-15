@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-14T18:21:37.452Z
+! Last modified: 2023-10-15T01:22:09.811Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -198,6 +198,7 @@
 ||go-mpulse.net^
 ||googleoptimize.com^
 ||googletagmanager.com^
+||gw-dv.vip^
 ||hdmtools.com^
 ||hs-analytics.net^
 ||hsadspixel.net^
@@ -2766,6 +2767,7 @@
 ||stats.big-boards.com^
 ||stats.bitgravity.com^
 ||stats.bluebillywig.com^
+||stats.bradmax.com^
 ||stats.callnowbutton.com^
 ||stats.cmcigroup.com^
 ||stats.curds.io^
@@ -3841,6 +3843,7 @@
 ||crumbs.robinhood.com^
 ||cryo.socialblade.com^
 ||cstats.sankakucomplex.com^
+||cwt.citywire.info^
 ||d.skk.moe^
 ||data.allstate.com^
 ||data.guide.photobucket.com^
@@ -4117,6 +4120,7 @@
 ||streamstats.prd.dlive.tv^
 ||t.3hentai.net^
 ||t.9gag.com^
+||t.airasia.com^
 ||t.allmodern.com^
 ||t.appsflyer.com^
 ||t.av.st^
@@ -21548,6 +21552,7 @@ arketing.indianadunes.com^
 ||counter.sibnet.ru^
 ||cvt1.sibnet.ru^
 ||data.glamour.ru^
+||goya.rutube.ru^
 ||link.subscribe.ru^
 ||log.ren.tv^
 ||log.rutube.ru^
