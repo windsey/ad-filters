@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-16T12:37:01.650Z
+! Last modified: 2023-10-16T18:24:42.475Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -132,6 +132,7 @@
 ||ad.simpledesign.ltd^
 ||ads-sdk.mattel163.com^
 ||bdapi-ads.realmemobile.com^
+||ads.oppomobile.com^
 ||adsfs.oppomobile.com^
 ||offerwall.yandex.net^
 ||adsmrapi.imbc.com^
