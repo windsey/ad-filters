@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-16T01:18:31.165Z
+! Last modified: 2023-10-16T06:25:19.005Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -304,6 +304,8 @@
 ||ovfvkfc.xyz^
 ||aniede.xyz^
 ||vdggsd016.com^
+||gmx17.top^
+||gmx13.top^
 ||z91f4.top^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
