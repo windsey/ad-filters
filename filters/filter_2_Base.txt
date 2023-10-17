@@ -1,9 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-17T06:25:04.335Z
+! Last modified: 2023-10-17T12:36:24.359Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
+
+||provingavidity.com^
 ||adtago.s3.amazonaws.com^
 ||tiesmmflv.com^
 ||hyelgehg.xyz^
@@ -398,7 +400,7 @@
 ||stripe.rs-1028-a.com^
 ||piguiqproxy.com^$badfilter
 ||samsungtvads.com^
-
+||c.down.tube^
 ||d3pnod4lg28ix4.cloudfront.net^
 ||d388cbecyo4yoc.cloudfront.net^
 ||d1o6lu9dr4t13s.cloudfront.net^
