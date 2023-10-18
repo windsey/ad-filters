@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-18T01:17:29.982Z
+! Last modified: 2023-10-18T06:24:38.264Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -330,6 +330,8 @@
 ||chrtds.xyz^
 ||mfnfylx.xyz^
 ||eht116.com^
+||wuyaw.cn^
+||qmoxxhc.cn^
 ||z91f4.top^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
