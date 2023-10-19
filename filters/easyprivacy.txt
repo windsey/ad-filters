@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-18T18:24:20.722Z
+! Last modified: 2023-10-19T01:17:21.664Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -208,6 +208,7 @@
 ||ia-dmp.com^
 ||iconmediapixel.com^
 ||iconnode.com^
+||id-ward.com^
 ||id5-sync.com^
 ||idx.lat^
 ||impactcdn.com^
@@ -373,6 +374,7 @@
 ||uidapi.com^
 ||uqd.io^
 ||ustat.info^
+||venture-365-inspired.com^
 ||venusrevival.com^
 ||vfgte.com^
 ||videoplayerhub.com^
@@ -2578,6 +2580,7 @@
 ||metrics.pico.tools^
 ||metrics.scribblelive.com^
 ||metrics.userguiding.com^
+||metrika.cdn112.com^
 ||metrix.emagister.com^
 ||mj-snowplow-static-js.s3.amazonaws.com^
 ||mlweb.dmlab.hu^
@@ -3199,7 +3202,6 @@
 ||dn34cbtcv9mef.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
 ||dnxlgencstz4.cloudfront.net^
-||dp64mxip2za0c.cloudfront.net^
 ||dr3fr5q4g2ul9.cloudfront.net^
 ||drlimmode9ddd.cloudfront.net^
 ||dsbahmgppc0j4.cloudfront.net^
@@ -3795,6 +3797,7 @@
 ||beacon.walmart.com^
 ||beacon.wikia-services.com^
 ||bfp.capitalone.com^
+||bi.banggood.com^
 ||binocule21c.merriam-webster.com^
 ||blitz-analytics-batch-server.blitz.gg^
 ||boomerang.dell.com^
@@ -3896,6 +3899,7 @@
 ||events.santander.co.uk^
 ||events.squarespace.com^
 ||events.turbosquid.com^
+||events2.www.edenfantasys.com^
 ||exr-mms.expertreviews.co.uk^
 ||f362.nola.com^
 ||fathom.app.silverbeak.com^
@@ -4060,6 +4064,7 @@
 ||r.bbci.co.uk^
 ||rankhit.china.com^
 ||ras.yahoo.com^
+||rec.banggood.com^
 ||relay.fiverr.com^
 ||reports.tunein.com^
 ||rfk.biglots.com^
@@ -4220,7 +4225,11 @@
 ||views.asura.gg^
 ||vortex.hulu.com^
 ||w3-reporting.reddit.com^
+||wa.childrensplace.com^
 ||wa.gmx.co.uk^
+||wa.gymboree.com^
+||wa.pjplace.com^
+||wa.sugarandjade.com^
 ||wal.wolfram.com^
 ||weblog.flyasiana.com^
 ||wh.ipaddress.com^
@@ -21294,10 +21303,13 @@ arketing.indianadunes.com^
 ||fclog.baidu.com^
 ||flog.pressplay.cc^
 ||frog.yuanfudao.com^
+||ftwo-feedback.autohome.com.cn^
+||ftwo-receiver.autohome.com.cn^
 ||gentian-frd.hjapi.com^
 ||gia.jd.com^
 ||gk.sina.cn^
 ||h5log.zongheng.com^
+||idm.api.autohome.com.cn^
 ||imgstat.baidu.com^
 ||improving.wuzhuiso.com^
 ||jcmonitor.xcar.com.cn^
@@ -21490,12 +21502,14 @@ arketing.indianadunes.com^
 ||adoffice.11st.co.kr^
 ||aem-collector.daumkakao.io^
 ||count.munhwa.com^
+||data-logdelivery.wconcept.co.kr^
 ||hits.zdnet.co.kr^
 ||kyson.kakao.com^
 ||l.m.naver.com^
 ||log.etoday.co.kr^
 ||log.zdnet.co.kr^
 ||nil.naver.com^
+||pds.auction.co.kr^
 ||rake.11st.co.kr^
 ||sp.naver.com^
 ||stat.i3.dmm.com^
@@ -21506,6 +21520,7 @@ arketing.indianadunes.com^
 ||track.tiara.kakao.com^
 ||tracker.cauly.co.kr^
 ||uts.auction.co.kr^
+||utsssl.auction.co.kr^
 ||wcs.naver.com^
 ||weblog.eseoul.go.kr^
 ||weblog2.eseoul.go.kr^
