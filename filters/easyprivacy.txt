@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-19T01:17:21.664Z
+! Last modified: 2023-10-19T06:24:24.779Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3546,6 +3546,7 @@
 ||x9.shinobi.jp^
 ||acelogger.heraldcorp.com^
 ||cm-exchange.toast.com^
+||event.hackle.io^
 ||log.adplex.co.kr^
 ||log.cizion.com^
 ||log.mofa.go.kr^
@@ -21501,6 +21502,7 @@ arketing.indianadunes.com^
 ||ad-log.dable.io^
 ||adoffice.11st.co.kr^
 ||aem-collector.daumkakao.io^
+||bizlog-gateway.myrealtrip.com^
 ||count.munhwa.com^
 ||data-logdelivery.wconcept.co.kr^
 ||hits.zdnet.co.kr^
@@ -21516,6 +21518,7 @@ arketing.indianadunes.com^
 ||stat.tiara.daum.net^
 ||stat.tiara.kakao.com^
 ||stat.tiara.tistory.com^
+||stat.wanted.jobs^
 ||track.tiara.daum.net^
 ||track.tiara.kakao.com^
 ||tracker.cauly.co.kr^
