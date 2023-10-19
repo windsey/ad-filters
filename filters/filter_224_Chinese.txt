@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-19T06:24:27.023Z
+! Last modified: 2023-10-19T12:36:13.633Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -352,6 +352,9 @@
 ||gmx45.top^
 ||gth112.com^
 ||dwerzv.xyz^
+||tyuetxt.com^
+||qtq632.com^
+||tdhlmto.cn^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^
