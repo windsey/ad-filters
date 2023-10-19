@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-19T12:36:11.046Z
+! Last modified: 2023-10-19T18:23:42.759Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -61,12 +61,16 @@
 ||dpj0uvy.icu^
 ||dqzehgha.xyz^
 ||dumeia.cn^
+||dvnqhdmze.xyz^
+||dwerzv.xyz^
 ||ebmlsvw.cn^
 ||eht116.com^
 ||ekzzed.icu^
+||ewioud.com^
 ||exemptambientcream.com^
 ||fastjs.org^
 ||fkjsjwbs.xyz^
+||fmvbyji.cn^
 ||fzgetdy.cn^
 ||gixgav.icu^
 ||gizlnr.com^
@@ -89,7 +93,11 @@
 ||gmx28.top^
 ||gmx29.top^
 ||gmx30.top^
+||gmx45.top^
 ||gmx46.top^
+||gmx47.top^
+||gmx48.top^
+||gth112.com^
 ||haise3.top^
 ||haise5.top^
 ||hcqumrjbx.xyz^
@@ -97,6 +105,7 @@
 ||huhwllvk.xyz^
 ||hwuogmusthxfpk.xyz^
 ||ibsea.cn^
+||icvsleec.xyz^
 ||igkgag.xyz^
 ||imrvyop.cn^
 ||insfengdata.com^
@@ -114,6 +123,7 @@
 ||kyikdee.cn^
 ||kzprugp.xyz^
 ||ldvnehc.xyz^
+||lianglili2.cn^
 ||liuyi22.cn^
 ||lkoqtvvajktpjsk.xyz^
 ||llblwzg.xyz^
@@ -133,6 +143,7 @@
 ||mqrupjsm.xyz^
 ||mryqtym.cn^
 ||mwfyab.icu^
+||myyxox.icu^
 ||nangongmall.com^
 ||neeujqf.cn^
 ||negnixa.cn^
@@ -151,12 +162,14 @@
 ||qauksl.icu^
 ||qmoxxhc.cn^
 ||qmwx4.xyz^
+||qtq632.com^
 ||quzmtpxw.xyz^
 ||qwesaz.com^
 ||qwjtdcl.cn^
 ||rcnldz.xyz^
 ||rkds1.icu^
 ||rkds10.icu^
+||rkds2.icu^
 ||rkds5.icu^
 ||roxewwq.cn^
 ||rslkhj.xyz^
@@ -166,10 +179,13 @@
 ||sgeth9.icu^
 ||smlpcz.icu^
 ||tcgaqh.icu^
+||tdhlmto.cn^
 ||thboxp.xyz^
 ||tmlwvxae.xyz^
 ||trdmtx.xyz^
+||tyuetxt.com^
 ||uahozcfq.xyz^
+||ugvbsrbht.xyz^
 ||ukjwyv.icu^
 ||ulrvkee.xyz^
 ||uqeuxpl.cn^
@@ -197,6 +213,7 @@
 ||wqvbuj.icu^
 ||wrtjojn.xyz^
 ||wuyaw.cn^
+||wvtem.com^
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
 ||xg6hb.xyz^
@@ -213,24 +230,9 @@
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
 ||yutiqf.icu^
+||yxrxsov.xyz^
 ||z1wfe.top^
 ||z91f4.top^
-||rkds2.icu^
-||gmx47.top^
-||myyxox.icu^
-||icvsleec.xyz^
-||lianglili2.cn^
-||yxrxsov.xyz^
-||wvtem.com^
-||ugvbsrbht.xyz^
-||dvnqhdmze.xyz^
-||fmvbyji.cn^
-||gmx45.top^
-||gth112.com^
-||dwerzv.xyz^
-||tyuetxt.com^
-||qtq632.com^
-||tdhlmto.cn^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^
