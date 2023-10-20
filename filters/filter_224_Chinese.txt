@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-20T06:24:09.583Z
+! Last modified: 2023-10-20T12:35:06.722Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -364,6 +364,9 @@
 ||hcgbhq.com^
 ||nbxymdy.cn^
 ||zzyy19.top^
+||gelbjvl.cn^
+||omzxutfm.com^
+||pdweoyw.cn^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^

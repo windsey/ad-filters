@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-20T06:24:13.736Z
+! Last modified: 2023-10-20T12:35:11.442Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9558,6 +9558,7 @@ rgmechanicsgames.com*VPN.exe
 ||ccaahdancza.com^
 ||ccdneniusruhebl.com^
 ||ccgkudwutf.com^
+||ccgzcavzbmztk.com^
 ||ccieoqej.xyz^
 ||ccjzuavqrh.com^
 ||ccmdcinut.com^
@@ -12752,6 +12753,7 @@ rgmechanicsgames.com*VPN.exe
 ||ecipientconcertain.info^
 ||ecityalittl.buzz^
 ||eclatedpewy.com^
+||eclebgjz.com^
 ||eclkmpbn.com^
 ||eclkmpsa.com^
 ||eclogicmeows.com^
