@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-19T18:23:43.688Z
+! Last modified: 2023-10-20T01:16:54.943Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2601,6 +2601,7 @@
 ||noflake-aggregator-http.narvar.com^
 ||nol.yahoo.com^
 ||nova.dice.net^
+||nr.static.mmcdn.com^
 ||ns.rvmkitt.com^
 ||observer.ip-label.net^
 ||oda.markitondemand.com^
@@ -3036,6 +3037,7 @@
 ||traxex.gannettdigital.com^
 ||trends.newsmaxwidget.com^
 ||triggers.wfxtriggers.com^
+||triplewhale-pixel.web.app^
 ||trk.clinch.co^
 ||trk.storyly.io^
 ||trk.techtarget.com^
@@ -4130,6 +4132,7 @@
 ||stats.wordpress.com^
 ||stats.wwitv.com^
 ||streamstats.prd.dlive.tv^
+||szrpr.raen.com^
 ||t.3hentai.net^
 ||t.9gag.com^
 ||t.airasia.com^
