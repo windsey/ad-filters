@@ -1,25 +1,19 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-21T06:22:07.705Z
+! Last modified: 2023-10-21T12:32:06.388Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 -adobe-analytics.
 -amp-error-reporting.
--analytics-events.
--appanalytics-
 -click-tracker.
 -didomi.js
--ga-tracker.
 -gatracker.
 -geoIP.js
 -inview-tracker.
--optimization-metrics.
--quantcast-measurement.
 -scroll-tracker.js
 -track-inview.
 -tracking-pixel.
--trackingScript.
 .beacon.min.js
 .eloqua.js
 .EventTracking.

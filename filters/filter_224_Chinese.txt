@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-21T06:22:09.741Z
+! Last modified: 2023-10-21T12:32:08.296Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -375,6 +375,9 @@
 ||foizico.cn^
 ||fptdxkm.com^
 ||faxffjo.com^
+||44jui.top^
+||klfbnklddfbkn.com^
+||shipostrich.com^
 ||zchvyet.cn^
 ||zcpsc.top^
 ||zents2.top^
