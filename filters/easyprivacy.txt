@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-21T01:14:59.998Z
+! Last modified: 2023-10-21T06:22:07.705Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3385,6 +3385,8 @@
 ||imp.optaim.com^
 ||log.hiiir.com^
 ||log.tagtic.cn^
+||mcs.zijieapi.com^
+||mon.zijieapi.com^
 ||msg.71.am^
 ||p.aty.sohu.com^
 ||p.tencentmind.com^
@@ -3413,6 +3415,7 @@
 ||trail.71baomu.com^
 ||videostats.kakao.com^
 ||web-trace.ksapisrv.com^
+||webstat.qiumibao.com^
 ||webtrack.pospal.cn^
 ||wlog.kuaishou.com^
 ||tracking.vid4u.org^
@@ -3722,8 +3725,11 @@
 ||analytics.yomedia.vn^
 ||countervov.emitech.vn^
 ||f-emc.ngsp.gov.vn^
+||px.dmp.zaloapp.com^
+||st-a.cdp.asia^
 ||tracking.aita.gov.vn^
 ||tracking3.vnncdn.net^
+||za.zalo.me^
 ||za.zdn.vn^
 ||a-reporting.nytimes.com^
 ||a.electerious.com^
@@ -4032,6 +4038,7 @@
 ||pac.thesun.co.uk^
 ||pappagallu.onefootball.com^
 ||perf.mouser.com^
+||perr.hola.org^
 ||pf.newegg.com^
 ||ph.thenextweb.com^
 ||ping.hungama.com^
@@ -21358,6 +21365,7 @@ arketing.indianadunes.com^
 ||reportsk.web.sdo.com^
 ||retcode.taobao.com^
 ||rlogs.youdao.com^
+||ro.aiwan4399.com^
 ||s.360.cn^
 ||sbeacon.sina.com.cn^
 ||sfp.safe.baidu.com^
@@ -21378,6 +21386,7 @@ arketing.indianadunes.com^
 ||statistic.qzone.qq.com^
 ||sugar.zhihu.com^
 ||tf.360.cn^
+||tj.img4399.com^
 ||tongji.mafengwo.cn^
 ||tongji.xinmin.cn^
 ||tr.discuss.com.hk^
