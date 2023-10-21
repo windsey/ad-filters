@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-20T18:21:48.206Z
+! Last modified: 2023-10-21T01:14:59.998Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3562,6 +3562,7 @@
 ||mtag.mman.kr^
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
+||saluton.cizion.com^
 ||sas.nsm-corp.com^
 ||teralog.techhub.co.kr^
 ||tracker.adbinead.com^
@@ -3692,6 +3693,8 @@
 ||mat.socy.es^
 ||mtm.qdqmedia.com^
 ||pub.servidoresge.com^
+||report.botm.transparentedge.io^
+||rt.cdnmedia.tv^
 ||sp.vtex.com^
 ||stats.administrarweb.es^
 ||stats.miarroba.info^
@@ -3779,6 +3782,7 @@
 ||analytics.slashdotmedia.com^
 ||analytics.synchrony.com^
 ||analytics.synedat.com^
+||analytics.ticketmaster.
 ||analytics.tradedoubler.com^
 ||analytics.vedantu.com^
 ||analytics.wavebox.io^
@@ -21512,6 +21516,7 @@ arketing.indianadunes.com^
 ||adoffice.11st.co.kr^
 ||aem-collector.daumkakao.io^
 ||bizlog-gateway.myrealtrip.com^
+||cdp.yna.co.kr^
 ||count.munhwa.com^
 ||data-logdelivery.wconcept.co.kr^
 ||hits.zdnet.co.kr^
