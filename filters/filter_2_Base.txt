@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-21T18:21:39.796Z
+! Last modified: 2023-10-22T01:22:20.597Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -20249,6 +20249,7 @@ rgmechanicsgames.com*VPN.exe
 ||maxonclick.com^
 ||maxprofitcontrol.com^
 ||maxserving.com^
+||maybejanuarycosmetics.com^
 ||mayberesemble.com^
 ||mayhemabjure.com^
 ||mayhemreconcileneutral.com^
@@ -21524,6 +21525,7 @@ rgmechanicsgames.com*VPN.exe
 ||newaprads.com^
 ||newbiquge.org^
 ||newbluetrue.xyz^
+||newbornleasetypes.com^
 ||newcomerbenchlilac.com^
 ||newdisplayformats.com^
 ||newdomain.center^
