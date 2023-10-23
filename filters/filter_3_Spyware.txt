@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-23T06:24:53.105Z
+! Last modified: 2023-10-23T12:36:00.091Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -36551,7 +36551,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wiz.empowerhearing.com^
 ||wiz.sncf-connect.com^
 ||wz.allianz.fr^
-|mailgun.org^
 
 ||data.digital.costco.ca^$badfilter
 ||data.digital.costco.com^$badfilter

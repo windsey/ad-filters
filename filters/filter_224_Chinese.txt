@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-23T06:24:46.338Z
+! Last modified: 2023-10-23T12:35:54.019Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -407,6 +407,7 @@
 ||pidurrmu.xyz^
 ||liuyuhuaa.cn^
 ||scqaaf.cn^
+||shx11.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
@@ -4590,6 +4591,8 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||huohuo.huamuwo.com^
+||ichc1.xinglinpukang.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^

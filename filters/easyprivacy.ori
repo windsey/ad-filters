@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: LtNpb7gpjKJAyjmEzuSx+w
-! Version: 202310230602
+! Checksum: CgcksHeEsQV9h/DXql6Bsg
+! Version: 202310231210
 ! Title: EasyPrivacy
-! Last modified: 23 Oct 2023 06:02 UTC
+! Last modified: 23 Oct 2023 12:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13096,6 +13096,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beacon.shutterfly.com^
 ||beacon.walmart.com^
 ||beacon.wikia-services.com^
+||beforeitsnews.com/core/ajax/counter/count.php^
 ||behance.net/log
 ||behance.net/v2/logs
 ||bfp.capitalone.com^
@@ -32917,7 +32918,7 @@ arketing.indianadunes.com^
 @@||evil-inc.com/comic/advertising-age/$~third-party,xmlhttprequest
 @@||extreme-ip-lookup.com^$script,domain=bulkbarn.ca
 @@||ezodn.com/cmp/gvl.json$xmlhttprequest
-@@||fast.fonts.net/jsapi/core/mt.js$script,domain=eclecticbars.co.uk|gables.com|itsolutions-inc.com|senate.gov
+@@||fast.fonts.net/jsapi/core/mt.js$script,domain=bkmedical.com|eclecticbars.co.uk|gables.com|itsolutions-inc.com|senate.gov
 @@||fichub.com/plugins/adobe/lib/AppMeasurement.js$domain=natgeotv.com
 @@||fichub.com/plugins/adobe/lib/VisitorAPI.js$domain=natgeotv.com
 @@||firebase.google.com/docs/analytics/$~third-party
