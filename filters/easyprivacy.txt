@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-22T18:21:17.921Z
+! Last modified: 2023-10-23T01:17:21.477Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1961,6 +1961,7 @@
 ||verdantanswer.com^
 ||verifyvegetable.com^
 ||verseballs.com^
+||vibranthaven.com^
 ||victoriousrequest.com^
 ||virgoplato.com^
 ||virtualvincent.com^
@@ -4109,6 +4110,7 @@
 ||sp.ecosia.org^
 ||sp.welcometothejungle.com^
 ||spectrum.gettyimages.com^
+||spt.ahram.org.eg^
 ||squirrel.malaynahocker.com^
 ||srtb.msn.com^
 ||srv.plesk.com^
