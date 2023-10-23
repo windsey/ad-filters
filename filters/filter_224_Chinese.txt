@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-23T01:17:23.127Z
+! Last modified: 2023-10-23T06:24:46.338Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -405,6 +405,8 @@
 ||nyhgvn.xyz^
 ||hkrytf.xyz^
 ||pidurrmu.xyz^
+||liuyuhuaa.cn^
+||scqaaf.cn^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
