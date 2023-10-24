@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-24T01:16:53.745Z
+! Last modified: 2023-10-24T06:24:11.811Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2485,6 +2485,7 @@
 ||identification.hotmart.com^
 ||imp.pvnsolutions.com^
 ||impress.vcita.com^
+||impression.clickinc.com^
 ||inbound-analytics.pixlee.co^
 ||infinityid.condenastdigital.com^
 ||informer.yandex.ru^
