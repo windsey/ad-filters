@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-23T18:22:48.439Z
+! Last modified: 2023-10-24T01:16:53.745Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2721,6 +2721,7 @@
 ||s.logsss.com^
 ||s.srvsynd.com^
 ||sa.scorpion.co^
+||scoopy.cdn112.com^
 ||scripts.psyma.com^
 ||sd-tagging.azurefd.net^
 ||sdrive.skoda-auto.com^
@@ -3379,6 +3380,7 @@
 ||imp.go.sohu.com^
 ||imp.optaim.com^
 ||log.hiiir.com^
+||log.qvb.qcloud.com^
 ||log.tagtic.cn^
 ||mcs.zijieapi.com^
 ||mon.zijieapi.com^
@@ -3406,6 +3408,7 @@
 ||track.storm.mg^
 ||track.tomwx.net^
 ||track.unidata.ai^
+||tracker-00.qvb.qcloud.com^
 ||tracking.cat898.com^
 ||trail.71baomu.com^
 ||videostats.kakao.com^
