@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-24T12:35:00.485Z
+! Last modified: 2023-10-24T18:23:50.525Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
-
+||lugajxy.com^
+||loivpdbzx.com^
 ||pubgalaxy.com^
 ||othiijwtgcmjmj.com^
 ||xlarixmmdvr.xyz^
@@ -3733,7 +3734,6 @@ rgmechanicsgames.com*VPN.exe
 ||concertads-configs.vox-cdn.com^
 ||newopenx.detik.com^
 /^https?:\/\/ii\.apl\d+\.me\/js\/pop\.js$/
-
 ||cuteasiangirl.net^$badfilter
 ||consent.cookiefirst.com^$badfilter
 ||ntuplay.xyz^$badfilter
@@ -4387,6 +4387,7 @@ rgmechanicsgames.com*VPN.exe
 ||4030b44c32.com^
 ||4073284684.com^
 ||407433bfc441.com^
+||4087aa0dc1.com^
 ||40ceexln7929.com^
 ||40e82f6c27.com^
 ||40f380afa3.com^
@@ -8999,6 +9000,7 @@ rgmechanicsgames.com*VPN.exe
 ||brokeloy.com^
 ||brokerspock.com^
 ||brominewf.guru^
+||bromisescapose.com^
 ||bromoilnapalms.com^
 ||bromusic.site^
 ||broochambitioncopies.com^
@@ -17898,6 +17900,7 @@ rgmechanicsgames.com*VPN.exe
 ||jacobsyrma.live^
 ||jacragatztit.com^
 ||jacsmuvkymw.com^
+||jactantsplodgy.com^
 ||jadcenter.com^
 ||jadedhide.pro^
 ||jadqoc.xyz^
@@ -20486,6 +20489,7 @@ rgmechanicsgames.com*VPN.exe
 ||mergaksi.net^
 ||mergedlava.com^
 ||mergerpep.com^
+||mergessidi.com^
 ||meritedgasser.com^
 ||merligopotlid.com^
 ||mermaidcontemplateadjoining.com^
@@ -35132,6 +35136,7 @@ rgmechanicsgames.com*VPN.exe
 ||fontent.powzers.lol^
 ||gamer.mmohuts.com^
 ||gentent.streampiay.fun^
+||gontent.powzers.lol^
 ||hentent.streampiay.fun^
 ||ientent.streampiay.fun^
 ||imp.accesstra.de^

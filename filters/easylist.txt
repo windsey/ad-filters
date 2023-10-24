@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-24T12:34:51.699Z
+! Last modified: 2023-10-24T18:23:42.378Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -31605,6 +31605,7 @@
 ||fontent.powzers.lol^
 ||gamer.mmohuts.com^
 ||gentent.streampiay.fun^
+||gontent.powzers.lol^
 ||hentent.streampiay.fun^
 ||ientent.streampiay.fun^
 ||ih1.fileforums.com^
