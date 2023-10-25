@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-25T06:24:04.582Z
+! Last modified: 2023-10-25T12:34:55.040Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||smelel.icu^
 ||ea.epochbase.com^
