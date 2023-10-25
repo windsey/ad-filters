@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-25T01:16:39.505Z
+! Last modified: 2023-10-25T06:23:53.960Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -302,6 +302,10 @@
 ||dsbfpt.xyz^
 ||cthbini.xyz^
 ||kaaqgf.icu^
+||gnuoipb.cn^
+||dunrnd.com^
+||juljrd.xyz^
+||sregfle.cn^
 ||zzyy20.top^
 ||002777.xyz^
 ||01v62.xyz^
