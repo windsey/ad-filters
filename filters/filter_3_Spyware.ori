@@ -484,6 +484,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||lr-intake.com^
 ||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||smelel.icu^
@@ -4296,6 +4297,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||friendlycrayon.com^$third-party
 ||fewkittens.com^$third-party
 ||inquisitiveice.com^$third-party
 ||delicatecascade.com^$third-party
