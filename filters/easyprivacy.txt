@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-25T18:21:37.690Z
+! Last modified: 2023-10-26T01:15:36.125Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1109,6 +1109,7 @@
 ||hardtofindmilk.com^
 ||hatefulrequest.com^
 ||hauntlist.com^
+||headydegree.com^
 ||headyhook.com^
 ||healflowers.com^
 ||hearinglizards.com^
@@ -3922,6 +3923,7 @@
 ||fathom.tdvm.net^
 ||fbo-statistics-collector-tc.is.flippingbook.com^
 ||fdt.kraken.com^
+||femetrics.grammarly.io^
 ||firebaselogging.googleapis.com^
 ||fp.heavybit.com^
 ||fp.measure.office.com^
