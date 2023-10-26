@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-26T01:15:38.351Z
+! Last modified: 2023-10-26T06:23:23.061Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -445,6 +445,7 @@
 ||beezwol.com^
 ||ksrgsc.xyz^
 ||dcdglb.xyz^
+||z0a1b2c3d4.com^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
