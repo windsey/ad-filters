@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-27T01:15:41.108Z
+! Last modified: 2023-10-27T06:23:25.307Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -332,6 +332,9 @@
 ||lmfehr.xyz^
 ||df-long.cn^
 ||lryqef.xyz^
+||gmx38.top^
+||cjohpsc.cn^
+||tongjiniao.com^
 ||zzyy20.top^
 ||002777.xyz^
 ||01v62.xyz^
