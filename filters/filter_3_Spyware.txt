@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-27T06:23:34.112Z
+! Last modified: 2023-10-27T12:33:56.161Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1738,7 +1738,6 @@
 ||geoip.syracuse.com^
 ||geoip.viamichelin.com^
 ||geoiplookup.wikimedia.org^
-||geoloc.hurriyet.com.tr^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^

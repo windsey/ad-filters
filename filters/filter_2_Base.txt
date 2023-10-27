@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-27T06:23:32.205Z
+! Last modified: 2023-10-27T12:33:54.310Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||mobileoffers-ep-download.com^
 ||arvigorothan.com^
 ||fringesdurocs.com^
 ||lugajxy.com^

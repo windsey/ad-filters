@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-27T06:23:26.221Z
+! Last modified: 2023-10-27T12:33:48.425Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -8,7 +8,6 @@
 -amp-error-reporting.
 -click-tracker.
 -didomi.js
--gatracker.
 -geoIP.js
 -inview-tracker.
 -scroll-tracker.js
@@ -17,12 +16,8 @@
 .beacon.min.js
 .eloqua.js
 .EventTracking.
-.gatracker.
 .gatracking.js
 .Google.Tracker.js
-.googleanalytics.js
-.googleanalytics.prod.
-.ntpagetag.
 .skimlinks.js
 .v4.analytics.
 ://a869.
