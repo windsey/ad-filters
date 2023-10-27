@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-26T18:30:56.298Z
+! Last modified: 2023-10-27T01:15:42.032Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -329,6 +329,7 @@
 ||spinnaker-js.com^
 ||stack-sonar.com^
 ||stat.ovh^
+||statisticplatform.com^
 ||statisticsplatform.com^
 ||statsbox.info^
 ||stpmgo.com^

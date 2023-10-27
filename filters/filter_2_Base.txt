@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-26T18:31:03.379Z
+! Last modified: 2023-10-27T01:15:47.946Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3738,6 +3738,7 @@ rgmechanicsgames.com*VPN.exe
 /^https?:\/\/ii\.apl\d+\.me\/js\/pop\.js$/
 ||cuteasiangirl.net^$badfilter
 ||consent.cookiefirst.com^$badfilter
+@@||cdn.datatables.net^
 ||ntuplay.xyz^$badfilter
 ||totaladblock.com^$badfilter
 @@||reports.adguard.com^
@@ -14869,6 +14870,7 @@ rgmechanicsgames.com*VPN.exe
 ||fulheaddedfea.com^
 ||fullagearnut.com^
 ||fulltraffic.net^
+||fullvids.online^
 ||fullvids.space^
 ||fullwhile.pro^
 ||fullycoordinatecarbonate.com^
@@ -19122,6 +19124,7 @@ rgmechanicsgames.com*VPN.exe
 ||lauthana.net^
 ||lavando2scas1hh1.com^
 ||lavatorybrandnew.com^
+||lavatorydownybasket.com^
 ||lavatoryhitschoolmaster.com^
 ||laversleopold.guru^
 ||lavishnessoverboard.com^
@@ -29455,6 +29458,7 @@ rgmechanicsgames.com*VPN.exe
 ||tearingflickermeaning.com^
 ||tearingreasoningempower.com^
 ||tearpilotzoo.com^
+||tearsincompetentuntidy.com^
 ||teasacomsys.xyz^
 ||teasimilarman.com^
 ||teatycacicus.com^
@@ -29520,6 +29524,7 @@ rgmechanicsgames.com*VPN.exe
 ||telwrite.com^
 ||tembetachasmic.guru^
 ||tembetanymil.com^
+||temksrtd.net^
 ||tempbugs.com^
 ||tempeorek.org^
 ||temperacaimans.com^
@@ -33240,6 +33245,7 @@ rgmechanicsgames.com*VPN.exe
 ||xiwwhyobp.com^
 ||xjakcitm.com^
 ||xjfbhxp.com^
+||xjktawqrcaw.com^
 ||xjqpxitqkaeodwi.xyz^
 ||xjrwxfdphc.com^
 ||xkbydybnle.com^
@@ -35193,6 +35199,7 @@ rgmechanicsgames.com*VPN.exe
 ||serve.v3rmillion.net^
 ||socket.streamable.com^
 ||sontent.powzers.lol^
+||sponsors.decaturish.com^
 ||tpc.googlesyndication.com^
 ||util-*.simply-hentai.com^
 ||wafvertizing.crazygames.com^
