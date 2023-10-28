@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-28T06:21:43.347Z
+! Last modified: 2023-10-28T12:31:12.449Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -473,6 +473,8 @@
 ||clcmdie.com^
 ||fcgxidqwcx.xyz^
 ||iknhgj.com^
+||dvclhmt.cn^
+||g2ak5.com^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
