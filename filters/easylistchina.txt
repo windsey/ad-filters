@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-28T12:31:09.912Z
+! Last modified: 2023-10-28T18:20:47.723Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -351,6 +351,8 @@
 ||iknhgj.com^
 ||dvclhmt.cn^
 ||g2ak5.com^
+||dskjhs.com^
+||sqevnrb.com^
 ||zzyy20.top^
 ||002777.xyz^
 ||01v62.xyz^
