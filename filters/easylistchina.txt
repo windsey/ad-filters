@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-29T06:22:01.265Z
+! Last modified: 2023-10-29T12:31:33.256Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -363,6 +363,8 @@
 ||17123.net^
 ||waxin0gjue.cn^
 ||zzyy20.top^
+||tqrznqs.cn^
+||3dh9y.com^
 ||002777.xyz^
 ||01v62.xyz^
 ||023best.cn^
