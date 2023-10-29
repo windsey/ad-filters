@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-29T01:21:16.182Z
+! Last modified: 2023-10-29T06:22:02.577Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -3709,6 +3709,7 @@
 ||tracking.smartmeapp.com^
 ||webpixel.smartmeapp.com^
 ||collector.schibsted.io^
+||evt-api.ntm.eu^
 ||pixel.smartmedia.tj^
 ||sal.isanook.com^
 ||stat.matichon.co.th^
