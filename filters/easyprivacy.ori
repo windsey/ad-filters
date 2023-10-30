@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: nOf0WQKCIam751tIsolwqQ
-! Version: 202310291750
+! Checksum: lQeSsEykg9+CL6j+oddZ7Q
+! Version: 202310300050
 ! Title: EasyPrivacy
-! Last modified: 29 Oct 2023 17:50 UTC
+! Last modified: 30 Oct 2023 00:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -131,8 +131,7 @@
 /_visitcount?
 /a.gif?
 /a/performance_timing/*
-/a8c-analytics.
-/a8c-analytics/*
+/a8c-analytics.js
 /aap/stats
 /abc.gif?
 /access.php?referrer=
@@ -146,9 +145,7 @@
 /action/analytics
 /activity.gif?
 /AD/PageHits.
-/adb-analytics
 /adb1.gif?
-/adblock_logging.
 /add_page_view?
 /addEvent?action=
 /addLinker.js
@@ -536,7 +533,7 @@
 /call.tracker.js
 /callbacks/stats?
 /capture_client.js
-/CaptureStat.
+/CaptureStat.asmx
 /cdn-cgi/beacon/*
 /cdn-cgi/ping?$image
 /cdn-cgi/rum?
@@ -794,6 +791,7 @@
 /disp_cnt.php
 /dispatch.fcgi?
 /divolte.js
+/dl-web-pixel.js
 /dla_tracker.js
 /dlpageping?
 /dm.gif?
@@ -1128,6 +1126,7 @@
 /GTag/general_tracker.js
 /gtag/js?
 /gtm-listeners.js
+/gtm-suite.js
 /gtm.js
 /gtm.min.js
 /gtm/gtm-
@@ -2656,6 +2655,7 @@
 /visscore.tag.min.js
 /visualrevenue.js
 /vjslog?
+/vli-platform/adb-analytics@
 /vs-track.js
 /vs.gif?
 /vsl/imp?
@@ -4447,7 +4447,6 @@ _mongo_stats/
 ||getclicky.com^$third-party
 ||getconversion.net^$third-party
 ||getdrip.com^$third-party
-||getelevar.com^$third-party
 ||getfreebl.com^$third-party
 ||getlasso.co^$third-party
 ||getpublica.com^$third-party
@@ -9990,6 +9989,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||geoip.nekudo.com^
 ||geolocation.outreach.com^
 ||geoservice.curse.com^
+||getelevar.com/shops/*/events.js
 ||getglue.com^*/count?
 ||getkudos.me/a?$image
 ||getmetrical.com/storagesync
@@ -10062,6 +10062,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||highwebmedia.com/CACHE/js/output.92c98302d256.js
 ||hit.mybestpro.com^
 ||hits.dealer.com^
+||hits.getelevar.com^
 ||hits.informer.com^
 ||hktracker.hankookilbo.com^
 ||hm.baidu.com^$third-party
@@ -10380,6 +10381,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||moco.yukata.dev/get/$image,third-party
 ||modules.ooyala.com^*/analytics-
 ||mon.domdog.io^
+||monitor-api.blackcrow.ai^
 ||monitor-frontend-collector.a.bybit-aws.com^
 ||monitor.azure.com^
 ||monitoring.iraiser.eu^
@@ -11152,6 +11154,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
 ||tracking-api.hotmart.com^
 ||tracking-api.mangopulse.net^
+||tracking-na.hawksearch.com^
 ||tracking.adalyser.com^
 ||tracking.ads.global-fashion-group.com^
 ||tracking.aegpresents.com^
@@ -11395,6 +11398,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||x.babe.today^
 ||x.disq.us^
 ||x.weather.com^
+||xp2023-pix.s3.amazonaws.com^
 ||yahoo.co.jp/js/s_retargeting.js
 ||yahoo.com/sync/casale/
 ||yandex.*/data?referrer=
@@ -12982,8 +12986,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||consumer.org.nz/session/ping/
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
 ||conversion.mooncard.co^
-||coomer.party/api/event
-||coomer.su/api/event
+||coomer.su/api/v1/event
 ||copilot-telemetry.githubusercontent.com^
 ||count.rin.ru^
 ||coursehero.com/v1/data-tracking
@@ -13325,8 +13328,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kayak.*/vestigo/measure
 ||kbb.com/pixall/
 ||kck.st/web/track
-||kemono.party/api/event
-||kemono.su/api/event
+||kemono.su/api/v1/event
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||kkam.com/rest/high/api/cogitoergosum^
 ||klm.us/CWZUvc/
