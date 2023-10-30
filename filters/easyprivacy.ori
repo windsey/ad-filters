@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: lQeSsEykg9+CL6j+oddZ7Q
-! Version: 202310300050
+! Checksum: 3N+ajYQOJaqUHLzHoY8Tgw
+! Version: 202310300602
 ! Title: EasyPrivacy
-! Last modified: 30 Oct 2023 00:50 UTC
+! Last modified: 30 Oct 2023 06:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -209,10 +209,8 @@
 /akam/10/*
 /akam/11/*
 /akam/13/*
-/akamai_analytics_
-/AkamaiAnalytics.
 /alog.min.js
-/amazon-affiliate-
+/amazon_linker.min.js
 /amp-access/cta/*
 /amp-access/cta?
 /amp-access/ping?
@@ -495,8 +493,9 @@
 /boomerang/beacon
 /boomLogger.
 /boomr.js
-/boost_stats.
-/bootstrap/metrics.
+/boost-sd-analytic.js
+/boost_stats.php
+/bootstrap/metrics.js
 /botd.gif?
 /bower_components/fp/fp.js
 /bpsma.js
@@ -728,6 +727,7 @@
 /counter/stat.
 /counter/views/*
 /counter1.gif?
+/counter2.gif?
 /counter5.min.js
 /counter?action=
 /counter?id=
@@ -3366,6 +3366,7 @@ _mongo_stats/
 ||lsdm.co^
 ||maggieeatstheangel.com^
 ||matheranalytics.com^
+||maxepv.com^
 ||maxtrafixx.tech^
 ||mb-tracking.com^
 ||mcangelus.com^
@@ -9555,6 +9556,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
 ||collect.alphastream.io^
+||collect.bannercrowd.net^
 ||collect.cloudsponge.com^
 ||collect.igodigital.com^
 ||collect.iteam-dress.com^
@@ -10188,6 +10190,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||klarnaservices.com/v1/osm-client-script/
 ||klarnaservices.com^$image,third-party
 ||klaviyo.com/onsite/js/sentry.
+||klaviyo.com/onsite/track-analytics?
 ||klickly.com/track
 ||kmib.co.kr/ref/
 ||kochava.com/track/$third-party
@@ -11112,6 +11115,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.td3x.com^
 ||track.uc.cn^
 ||track.untd.com^
+||track.uppromote.com^
 ||track.venatusmedia.com^
 ||track.vscash.com^
 ||track.yfret.com^
@@ -12164,6 +12168,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ! Georgian
 ||links.boom.ge^
 ! Greek
+||analytics.skroutz.gr^
 ||glami.gr/js/compiled/pt.js
 ||kwikmotion.com^*/videojs-kwikstat.min.js
 ! Hebrew
