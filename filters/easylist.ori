@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: U480EFBCSewnpnKOp1ca5g
-! Version: 202310310610
+! Checksum: MikzSu7rXmpUwH9eFPTwuQ
+! Version: 202310311220
 ! Title: EasyList
-! Last modified: 31 Oct 2023 06:10 UTC
+! Last modified: 31 Oct 2023 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -58965,6 +58965,7 @@ eenewseurope.com###superBanner
 dashnet.org###support
 vk.com,vk.ru###system_msg
 gumtree.com###tBanner
+nme.com###taboola-below-article
 oneindia.com###taboola-mid-article-thumbnails
 the-independent.com###taboola-mid-article-thumbnails-ii
 the-independent.com###taboola-mid-article-thumbnails-iii
