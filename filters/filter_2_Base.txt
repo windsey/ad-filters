@@ -1,9 +1,23 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-10-31T12:34:42.622Z
+! Last modified: 2023-10-31T18:23:07.251Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
+
+||rnqjfeuwrvd.com^
+||foojimie.net^
+||xuffojr.com^
+||ehpxmsqghx.xyz^
+||cjyopjydlwkyu.com^
+||madurird.com^
+||ethecountryw.org^
+||oftheseveryh.org^
+||rypqxxsx.com^
+||xkbgqducppuan.xyz^
+||ywudaepnaudn.com^
+||ussckwroweoyv.com^
+||hopbeduhzbm.com^
 ||tlvkywwnuvgtq.com^
 ||qrwkkcyih.xyz^
 ||gltjtkqoxhbgvlx.com^
@@ -446,6 +460,7 @@
 ||samsungtvads.com^
 ||adconsent.samsungrs.com^
 
+||d34gjfm75zhp78.cloudfront.net^
 ||d1f7vr2umogk27.cloudfront.net^
 ||dfjlgfb4lxka5.cloudfront.net^
 ||dupcczkfziyd3.cloudfront.net^
