@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-01T01:21:46.913Z
+! Last modified: 2023-11-01T06:24:26.760Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -8224,6 +8224,7 @@
 ||dmnprx.com^
 ||dmopqjaswvmvopm.com^
 ||dmowvblljmkqx.com^
+||dmrtx.com^
 ||dmsrlnssynhqhl.com^
 ||dmvbdfblevxvx.com^
 ||dmvporebntt.com^
