@@ -1,10 +1,13 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-01T12:34:59.119Z
+! Last modified: 2023-11-01T18:23:21.360Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||edeybivah.com^
+||wowhaujy.com^
+||go.mnaspm.com^
 ||rnqjfeuwrvd.com^
 ||foojimie.net^
 ||xuffojr.com^
@@ -35209,7 +35212,6 @@ rgmechanicsgames.com*VPN.exe
 ||rtb-1.mylust.com^
 ||slview.psne.jp^
 ||tokyo.xhamster.com^
-||valentine.xhamster.com^
 ||wi9u5paiwo.xhamster.com^
 ||x0r.urlgalleries.net^
 ||ynoymse4.xhamster.com^
