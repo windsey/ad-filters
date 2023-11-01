@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: HVzCwA/uB2xuiz7vhRrmxQ
-! Version: 202311010610
+! Checksum: EFLBXRlveyhO8+fO44rw4Q
+! Version: 202311011220
 ! Title: EasyPrivacy
-! Last modified: 01 Nov 2023 06:10 UTC
+! Last modified: 01 Nov 2023 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2939,6 +2939,7 @@ _WebVitalsReporter_
 .tripadvisor.com/MptUrl?$image
 .tripadvisor.com/q/$image
 .umusic-online.com^*/o.gif
+.useinsider.com/pixel?$image
 .warehousefashion.com/warehouse/e/$image
 .webex.com/q/
 .wix.com/_api/ping/
