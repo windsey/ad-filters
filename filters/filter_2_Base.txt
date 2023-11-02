@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-02T06:23:11.563Z
+! Last modified: 2023-11-02T12:34:44.290Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||zogrepsili.com^
 ||vidsfull.online^
 ||edeybivah.com^
 ||wowhaujy.com^
