@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vOqjv/Ode8ZSYjaw8Od07w
-! Version: 202311030610
+! Checksum: 6p4hBrSyPpe+MNsyaJ+Vfg
+! Version: 202311031220
 ! Title: EasyList
-! Last modified: 03 Nov 2023 06:10 UTC
+! Last modified: 03 Nov 2023 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56870,6 +56870,7 @@ browsershots.org#@#.advert_area
 ||c21media.net/wp-content/plugins/sam-images/
 ||cafonline.com/image/upload/*/sponsors/
 ||calguns.net/images/ad
+||calmclinic.com/srv/
 ||cdn.http.anno.channel4.com/m/1/$media,domain=uktvplay.co.uk
 ||cdn.manga9.co^
 ||cdn.shopify.com^*/assets/spreadrwidget.js$domain=jolinne.com
