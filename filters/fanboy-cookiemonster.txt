@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-02T18:23:18.245Z
+! Last modified: 2023-11-03T01:17:51.456Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -190,6 +190,7 @@
 ||cookies.jeugdjournaal.nl^
 ||cookies.nos.nl^
 ||cookies.ster.nl^
+||voorkeuren.tvgids.nl^
 ||cmp.tori.fi^
 ||cmp.soundis.gr^
 ||cookie.aerostatonet.it^
