@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-04T01:17:03.585Z
+! Last modified: 2023-11-04T06:22:01.964Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -545,6 +545,7 @@
 ||egadfe.xyz^
 ||vdggsd004.com^
 ||pptclb.xyz^
+||hfjhr.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
