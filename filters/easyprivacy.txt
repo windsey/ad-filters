@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-03T18:23:43.908Z
+! Last modified: 2023-11-04T01:17:01.936Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -21,6 +21,7 @@
 .skimlinks.js
 .v4.analytics.
 ://a869.
+://client.rum.
 ://elqtrk.
 ://internal-matomo.
 ://segment-api.
@@ -49,6 +50,7 @@
 ||adstk.io^
 ||adultium.com^
 ||agkn.com^
+||agma-analytics.de^
 ||allvideometrika.com^
 ||alpha1trk.com^
 ||altopd.com^
@@ -2252,6 +2254,7 @@
 ||click360v2-ingest.azurewebsites.net^
 ||clicks.dealer.com^
 ||clicks.tyuwq.com^
+||clicktalecdn.sslcs.cdngc.net^
 ||clicktracker.iscan.nl^
 ||client-analytics.braintreegateway.com^
 ||client-logger.beta.salemove.com^
@@ -2795,6 +2798,7 @@
 ||stats.mpthemes.net^
 ||stats.nebula.fi^
 ||stats.netbopdev.co.uk^
+||stats.netdriven.com^
 ||stats.olark.com^
 ||stats.ozwebsites.biz^
 ||stats.phoenix-widget.com^
@@ -4255,6 +4259,7 @@
 ||v.ctrl.blog^
 ||views.arabnews.com^
 ||views.asura.gg^
+||views.asurascans.com^
 ||vortex.hulu.com^
 ||w3-reporting.reddit.com^
 ||wa.childrensplace.com^
