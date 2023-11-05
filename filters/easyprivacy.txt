@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-05T06:22:07.475Z
+! Last modified: 2023-11-05T12:32:10.140Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -2483,6 +2483,7 @@
 ||hktracker.hankookilbo.com^
 ||hpr.outbrain.com^
 ||hspbotdetection.azurewebsites.net^
+||hydro-ma-proxy.akamaized.net^
 ||i.compendium.com^
 ||i.viafoura.co^
 ||iabusprivacy.pmc.com^

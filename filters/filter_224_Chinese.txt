@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-05T06:22:09.613Z
+! Last modified: 2023-11-05T12:32:11.397Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4743,6 +4743,7 @@
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||003store.com^
+||bdad.123pan.cn^
 ||0941.org^
 ||1.07swz.com^
 ||1.1010pic.com^

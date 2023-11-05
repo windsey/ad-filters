@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-05T06:22:14.473Z
+! Last modified: 2023-11-05T12:32:14.607Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -29952,7 +29952,6 @@ rgmechanicsgames.com*VPN.exe
 ||tihursoa.net^
 ||tiijdxto.com^
 ||tikbblove.com^
-||tikiwi.org^
 ||tiledissipatelocum.com^
 ||tilesmuzarab.com^
 ||tilltucked.com^
