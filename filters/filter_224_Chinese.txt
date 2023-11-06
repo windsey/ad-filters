@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-06T12:36:46.385Z
+! Last modified: 2023-11-06T18:23:30.008Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -252,6 +252,7 @@
 ||fluhmmr.cn^
 ||fmvbyji.cn^
 ||foizico.cn^
+||fotaxf.xyz^
 ||fptdxkm.com^
 ||fzgetdy.cn^
 ||g2ak5.com^
@@ -323,6 +324,7 @@
 ||ibsea.cn^
 ||iccjkn.icu^
 ||icvsleec.xyz^
+||idddlon.xyz^
 ||igkgag.xyz^
 ||ikmhndd.com^
 ||iknhgj.com^
@@ -474,6 +476,8 @@
 ||trdmtx.xyz^
 ||tyuetxt.com^
 ||uahozcfq.xyz^
+||uavejnys.xyz^
+||udpdmeb.cn^
 ||ugvbsrbht.xyz^
 ||ukjwyv.icu^
 ||ulrvkee.xyz^
@@ -523,6 +527,7 @@
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
 ||xg6hb.xyz^
+||xjxbdh.xyz^
 ||xkfigjh.cn^
 ||xlca666.site^
 ||xmvmir.icu^
@@ -555,15 +560,10 @@
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
+||zuugfj.cn^
 ||zys13.top^
 ||zys15.top^
-||idddlon.xyz^
 ||zys16.top^
-||uavejnys.xyz^
-||xjxbdh.xyz^
-||fotaxf.xyz^
-||zuugfj.cn^
-||udpdmeb.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^

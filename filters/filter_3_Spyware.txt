@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-06T12:36:50.814Z
+! Last modified: 2023-11-06T18:23:36.022Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -633,6 +633,8 @@
 ||honorableland.com^
 ||rtc-logger-va.tiktokv.com^
 ||rtlog.tiktokv.com^
+||mon*-*.tiktokv.us^
+||mon.us.tiktokv.com^
 ||mon-*.tiktokv.com^
 ||mon.tiktokv.com^
 ||xlog.tiktokv.com^
