@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zFswrLLrGN3iz966uKV9/Q
-! Version: 202311070610
+! Checksum: 7Bn82qTXmM6Hu97S2/78NA
+! Version: 202311071220
 ! Title: EasyList China
-! Last modified: 07 Nov 2023 06:10 UTC
+! Last modified: 07 Nov 2023 12:20 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -2051,6 +2051,9 @@ newduba.cn###jq_youxi
 ||znwzcmd.cn^
 ||2c0a5.xyz^
 ||azdiqsb.cn^
+||wyiegt.icu^
+||eyjvq.xyz^
+||klwhuci.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -11026,6 +11029,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+cool3c.com##.gpt-new
+cool3c.com##.board-sidebar
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -18855,6 +18860,7 @@ wnacg.com##script + div > a > img
 ||hdsrc-a.akamaihd.net^
 !----------------------Fixed Fanboy's Social Blocking List--------------------!
 eastday.com#@##leftShare
+123pan.com#@#.share-list
 189.cn#@##linkShare
 gfan.com,gfan.net.cn#@##shareBox
 189.cn,zdzdm.com#@##share_list

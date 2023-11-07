@@ -1,11 +1,10 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-07T06:23:36.960Z
+! Last modified: 2023-11-07T12:34:50.372Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 -adobe-analytics.
--amp-error-reporting.
 -click-tracker.
 -didomi.js
 -geoIP.js
@@ -17,7 +16,6 @@
 .eloqua.js
 .EventTracking.
 .gatracking.js
-.Google.Tracker.js
 .skimlinks.js
 .v4.analytics.
 ://a869.
@@ -88,6 +86,7 @@
 ||cdnhst.xyz^
 ||ciqtracking.com^
 ||cityrobotflower.com^
+||ck123.io^
 ||ckies.net^
 ||clarity.ms^
 ||clearbitscripts.com^
