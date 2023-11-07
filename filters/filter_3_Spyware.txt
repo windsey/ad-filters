@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-07T12:34:59.887Z
+! Last modified: 2023-11-07T18:22:44.422Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -100,8 +100,6 @@
 ||t.counter.dev^
 ||log.collectaction.com^
 ||cometlytrack.com^
-||31830fbc-adbf-11ed-afa1-0242ac120002.site^
-||15823f12-289e-4189-9e51-e2de1bf1a105.online^
 ||livetrafficfeed.com^
 ||cnnx.link^
 ||f11-ads.com^
@@ -692,6 +690,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||track.wattpad.com^
 ||analytics.keepstreams.com^
 ||analytics.gamesdrive.net^
 ||cnt.promodj.com^
@@ -2594,7 +2593,6 @@
 ||track.tproger.ru^
 ||track.ugamezone.com^
 ||track.ultimate-guitar.com^
-||track.wattpad.com^
 ||track.websiteceo.com^
 ||track.wildblue.com^
 ||track.workablemetro.com^
