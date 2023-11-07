@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-07T01:19:12.862Z
+! Last modified: 2023-11-07T06:23:36.960Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -226,6 +226,7 @@
 ||liveyield.com^
 ||lltrck.com^
 ||lmepbq.com^
+||log.dance^
 ||logicanalytics.io^
 ||logtail.com^
 ||loopcybersec.com^
@@ -2075,6 +2076,7 @@
 ||analytics.codigo.se^
 ||analytics.contentexchange.me^
 ||analytics.convertlanguage.com^
+||analytics.data.visenze.com^
 ||analytics.dev.htmedia.in^
 ||analytics.dev.springboardvideo.com^
 ||analytics.developer.riotgames.com^
