@@ -4300,6 +4300,11 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||firsttexture.com^$third-party
+||tearfulglass.com^$third-party
+||planebasin.com^$third-party
+||stakingbasket.com^$third-party
+||needlessnorth.com^$third-party
 ||scaredsong.com^$third-party
 ||truculentrate.com^$third-party
 ||ethereallagoon.com^$third-party
@@ -5503,6 +5508,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.innologica.com^
 ||track.wattpad.com^
 ||analytics.keepstreams.com^
 ||analytics.gamesdrive.net^
@@ -61488,6 +61494,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
 !
+||event-collector.moviesanywhere.com^
 ||us-east-1.paa-reporting-advertising.amazon^
 ||analytics.nianticlabs.com^
 ||sg.log.ulivetv.net^
@@ -62258,6 +62265,12 @@ inapps.appsflyersdk.com^
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/165495
+@@||go.ezodn.com/tardisrocinante/$domain=vtuupdates.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/165615
+||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=huffingtonpost.it
+!+ PLATFORM(ios, ext_safari, ext_android_cb)
+@@||googletagmanager.com/gtm.js$domain=huffingtonpost.it
 ! https://github.com/AdguardTeam/AdguardFilters/issues/165660
 @@||googletagmanager.com/gtm.js$domain=cashconverters.com.au
 ||googletagmanager.com/gtm.js$script,redirect=google-analytics,domain=cashconverters.com.au,important

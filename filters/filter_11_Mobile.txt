@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-08T06:23:33.966Z
+! Last modified: 2023-11-08T12:34:46.479Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -84,6 +84,9 @@
 ||startup.mobile.yandex.net^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
+||ad*.mtgglobals.com^
+||ad-*.amazonaws.com^
+||tapulsads.ru^
 ||*-hb-bid-feedback.mtgglobals.com^
 ||ads-sdk.nianticlabs.com^
 ||ad.mediamixer.co.kr^
