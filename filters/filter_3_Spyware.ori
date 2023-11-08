@@ -80,10 +80,10 @@
 !
 !
 ! Prevent Ad-Shield tracking script - Only tracking ad block traffic. NOT Ad-Shield advertisement or protection.
-mystylezip.com,hotplacehunter.co.kr,mtodayauto.com,dotkeypress.kr,viewcash.co.kr,tripplus.co.kr,enterdiary.com,apkmirror.com#%#//scriptlet('abort-current-inline-script', 'atob', 'eval(decodeURIComponent(escape(window.atob("KCgpPT5')
-mystylezip.com,hotplacehunter.co.kr,mtodayauto.com,dotkeypress.kr,viewcash.co.kr,tripplus.co.kr,enterdiary.com,apkmirror.com#%#//scriptlet('prevent-eval-if', 'https://07c225f3.online/loader.min.js')
+majorgeeks.com,mystylezip.com,hotplacehunter.co.kr,mtodayauto.com,dotkeypress.kr,viewcash.co.kr,tripplus.co.kr,enterdiary.com,apkmirror.com#%#//scriptlet('abort-current-inline-script', 'atob', 'eval(decodeURIComponent(escape(window.atob("KCgpPT5')
+majorgeeks.com,mystylezip.com,hotplacehunter.co.kr,mtodayauto.com,dotkeypress.kr,viewcash.co.kr,tripplus.co.kr,enterdiary.com,apkmirror.com#%#//scriptlet('prevent-eval-if', 'https://07c225f3.online/loader.min.js')
 ! Ad-Shield tracking UUID
-mystylezip.com,hotplacehunter.co.kr,mtodayauto.com,dotkeypress.kr,viewcash.co.kr,tripplus.co.kr,enterdiary.com,loawa.com,ygosu.com,sportalkorea.com,algumon.com,hancinema.net,enetnews.co.kr,edaily.co.kr,economist.co.kr,etoday.co.kr,hankyung.com,isplus.com,hometownstation.com,kagit.kr,inven.co.kr,viva100.com,joongdo.co.kr,jjang0u.com,tenbizt.com,tvreport.co.kr,newautopost.co.kr,mememedia.co.kr,mobilitytv.co.kr,cboard.net,a-ha.io,interfootball.co.kr,fourfourtwo.co.kr,apkmirror.com#%#//scriptlet('set-local-storage-item', 'adshield-analytics-uuid', '$remove$')
+majorgeeks.com,mystylezip.com,hotplacehunter.co.kr,mtodayauto.com,dotkeypress.kr,viewcash.co.kr,tripplus.co.kr,enterdiary.com,loawa.com,ygosu.com,sportalkorea.com,algumon.com,hancinema.net,enetnews.co.kr,edaily.co.kr,economist.co.kr,etoday.co.kr,hankyung.com,isplus.com,hometownstation.com,kagit.kr,inven.co.kr,viva100.com,joongdo.co.kr,jjang0u.com,tenbizt.com,tvreport.co.kr,newautopost.co.kr,mememedia.co.kr,mobilitytv.co.kr,cboard.net,a-ha.io,interfootball.co.kr,fourfourtwo.co.kr,apkmirror.com#%#//scriptlet('set-local-storage-item', 'adshield-analytics-uuid', '$remove$')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/164104
 reuters.com#%#(()=>{window.analytics=[],analytics.user=function(){return this},analytics.track=function(){},analytics.anonymousId=function(){},analytics.push=function(){[...arguments].forEach((n=>{if("function"==typeof n)try{n()}catch(n){console.debug(n)}Array.isArray(n)&&[...n].forEach((n=>{if("function"==typeof n)try{n()}catch(n){console.debug(n)}}))}))};})();
 ! https://github.com/AdguardTeam/AdguardFilters/issues/163978
@@ -4300,6 +4300,8 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||headydegree.com^$third-party
+||creatorpassenger.com^$third-party
 ||firsttexture.com^$third-party
 ||tearfulglass.com^$third-party
 ||planebasin.com^$third-party
@@ -5508,6 +5510,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||logs.netflix.com^
 ||analytics.innologica.com^
 ||track.wattpad.com^
 ||analytics.keepstreams.com^
@@ -56281,7 +56284,6 @@ hmangamatome.net###text-39
 ||services.noticiasaominuto.com/site/track?
 ||adobe.com/*/analytics.js
 unn.com.ua##.b-footer-counters
-||netflix.com/msl/playapi/cadmium/event/
 ||get-trust-vpn.info/api_ip_info.php?
 ||sign.ing/libs/martech/analytics.js
 ||selenagomez.com/*/umg-analytics/
@@ -57600,7 +57602,6 @@ textologia.ru##.bot_right
 ||steamchina.com/events/
 ||steamchina.com/default/usabilitytracking
 ||dtm-dre.platform.hicloud.com/download/web/dtm.js
-||netflix.com/msl/playapi/cadmium/logblob/
 ||netflix.com/api/ftl/probe?monotonic=
 ||daisomall.co.kr/collect.php
 ||adobe.io/system/log
@@ -59714,6 +59715,11 @@ dreamprogs.net##td[width="88"][height="31"]
 !
 !+ NOT_PLATFORM(ios, ext_safari)
 ||1gr.cz/log^
+!
+! Netflix
+! do not block some requests from `/cadmium/` path - the videos won't play
+||netflix.com*/msl*/*event*/
+||netflix.com*/msl*/*logblob*/
 !
 ! blueconic.net on hearst.com sites
 /script.js|$~third-party,domain=beaumontenterprise.com|chron.com|ctinsider.com|ctpost.com|darientimes.com|expressnews.com|fairfieldcitizenonline.com|fuelfix.com|greenwichtime.com|hearstmediact.com|hearstmediatx.com|houstonchronicle.com|lmtonline.com|middletownpress.com|milfordmirror.com|mrt.com|myplainview.com|mysanantonio.com|ncadvertiser.com|newmilfordspectrum.com|newstimes.com|nhregister.com|ourmidland.com|registercitizen.com|seattlepi.com|sfchronicle.com|sfgate.com|sheltonherald.com|stamfordadvocate.com|thehour.com|theintelligencer.com|theridgefieldpress.com|timesunion.com|trumbulltimes.com|westport-news.com|wiltonbulletin.com|yourconroenews.com
