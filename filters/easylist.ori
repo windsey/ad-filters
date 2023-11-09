@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4e5zjlfp8V1ooTlqOgAyjw
-! Version: 202311090611
+! Checksum: uz1hnBDTYRwEsysWfi6bFQ
+! Version: 202311091220
 ! Title: EasyList
-! Last modified: 09 Nov 2023 06:11 UTC
+! Last modified: 09 Nov 2023 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -599,7 +599,6 @@
 /affbanner/*
 /affbanners/*
 /affclick/*
-/affilatebanner.
 /affiliate/ad/*
 /affiliate/ads/*
 /affiliate/banner/*
@@ -26336,6 +26335,7 @@ browsershots.org#@#.advert_area
 ||destinationoralairliner.com^
 ||destinedsponsornominate.com^
 ||destroyedspear.com^
+||desugeng.xyz^
 ||desxpbub.xyz^
 ||detachedbates.com^
 ||detachmentoccasionedarena.com^
@@ -39691,6 +39691,7 @@ browsershots.org#@#.advert_area
 ||ptechait.com^
 ||ptecmooz.net^
 ||ptecmuny.com^
+||ptedreer.com^
 ||ptedroab.xyz^
 ||pteeksou.xyz^
 ||pteevaih.xyz^
