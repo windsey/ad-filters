@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-08T18:23:02.805Z
+! Last modified: 2023-11-09T01:19:34.623Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -9556,6 +9556,7 @@ rgmechanicsgames.com*VPN.exe
 ||cdnvideo3.com^
 ||cdnware.com^
 ||cdnware.io^
+||cdpommmy.com^
 ||cdrvrs.com^
 ||cdsbnrs.com^
 ||cdtbox.rocks^
@@ -17799,6 +17800,7 @@ rgmechanicsgames.com*VPN.exe
 ||jamchew.com^
 ||jamdomn.pro^
 ||jame3s67jo9yc4e.com^
+||jamminds.com^
 ||jamokeuntress.com^
 ||jamsoulsfriday.com^
 ||jamstech.store^
@@ -25530,6 +25532,7 @@ rgmechanicsgames.com*VPN.exe
 ||raphanysteers.com^
 ||raphidewakener.com^
 ||rapidhits.net^
+||rapidlybeaver.com^
 ||rapolok.com^
 ||raptapee.com^
 ||raptingy.net^
@@ -30046,6 +30049,7 @@ rgmechanicsgames.com*VPN.exe
 ||topprofitablecpm.com^
 ||topprofitablegate.com^
 ||toprevenuecpmnetwork.com^
+||toprevenuegate.com^
 ||toprevenuenetwork.com^
 ||topsummerapps.net^
 ||topswp.com^

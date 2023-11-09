@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-08T18:23:04.484Z
+! Last modified: 2023-11-09T01:19:36.528Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -628,7 +628,6 @@
 ||c.webengage.com^
 ||z.webengage.com^
 .ay.delivery^
-||honorableland.com^
 ||rtc-logger-va.tiktokv.com^
 ||rtlog.tiktokv.com^
 ||mon*-*.tiktokv.us^
