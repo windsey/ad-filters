@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 04tZTw5z8OwcCcR+wFErhQ
-! Version: 202311091810
+! Checksum: 7yXDe60/DxbR3D8mzvkrJw
+! Version: 202311100110
 ! Title: EasyList
-! Last modified: 09 Nov 2023 18:10 UTC
+! Last modified: 10 Nov 2023 01:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -62218,6 +62218,7 @@ cmswire.com##[class^="styles_article__top-ad-wrapper"]
 hancinema.net##[class^="wmls_"]
 torlock.com##[class^="wrn"]
 mydramalist.com##[class^="zrsx_"]
+flatpanelshd.com##[data-aa-adunit]
 dribbble.com##[data-ad-data*="ad_link"]
 greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-ad]
 gamelevate.com##[data-adpath]
