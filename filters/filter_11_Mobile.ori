@@ -1411,6 +1411,8 @@ sasisa.ru#%#AG_onLoad(function() { window.Umobi = function() {}; });
 !-------CSS---------
 !-------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/165918
+greatfallstribune.com,onlineathens.com,usatoday.com,freep.com#$#.gnt_xmst + div[data-tb-region] { margin: unset !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/164870
 amazon.in#$#.ape_interstital-open { overflow: auto !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/165128
@@ -2589,6 +2591,9 @@ gamesworld.de,fnn.jp##.Ad
 !
 ! SECTION: Regular rules
 !
+m.winfuture.de#?#div:has(> .adsbygoogle:only-child)
+m.winfuture.de#?#div:has(> .adsbygoogle:only-child) + br
+m.winfuture.de#?#.teaser_big:has(> .teaser_img > .anzeige)
 freebeacon.com##.advertising-top-mobile
 ||shfsdvc.com/*/banner/html/zone
 toy-people.com##.listAD
