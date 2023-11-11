@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-11T06:22:01.821Z
+! Last modified: 2023-11-11T12:32:04.859Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -45,6 +45,7 @@
 ||d2eucw4fxv7nil.cloudfront.net^
 ||gdpr-settings.s3.amazonaws.com^
 ||gdpr.studybreakmedia.com^
+||macaron-cookie-data.decms.eu^
 ||optanon.blob.core.windows.net^
 ||plugin.management^
 ||privacy-cdn.sixfifty.com^
@@ -185,6 +186,7 @@
 ||cookies.leadplace.fr^
 ||privacy.footmercato.net^
 ||consent.t-mobile.cz^
+||ccm.npo.nl^
 ||cmp.deondernemer.nl^
 ||cookie.vrt.be^
 ||cookie.wieni.be^

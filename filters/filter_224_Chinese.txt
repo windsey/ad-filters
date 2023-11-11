@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-11T06:22:03.034Z
+! Last modified: 2023-11-11T12:32:06.374Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -619,6 +619,7 @@
 ||gscsahv011.com^
 ||mvng.cn^
 ||pzcogpj.icu^
+||wymzwy.cn^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
