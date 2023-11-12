@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-12T01:23:23.073Z
+! Last modified: 2023-11-12T06:22:02.211Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -77,6 +77,7 @@
 ||briskpelican.io^
 ||brontops.com^
 ||brsrvr.com^
+||btdmp.com^
 ||btloader.com^
 ||bx-cloud.com^
 ||bydst.com^
