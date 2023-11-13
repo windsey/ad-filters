@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-12T18:21:17.567Z
+! Last modified: 2023-11-13T01:20:21.628Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -19132,7 +19132,6 @@ arketing.indianadunes.com^
 ||clients.intact.ca^
 ||clients.nbc-insurance.ca^
 ||clk.mindfulsuite.com^
-||cloud.degoo.com^
 ||cltr.irlmail.org^
 ||cmflinks.provesio.com^
 ||cn1.stadiumgoods.com^
@@ -21659,7 +21658,6 @@ arketing.indianadunes.com^
 ||stats.mos.ru^
 ||sync.rambler.ru^
 ||top-staging.mail.ru^
-||xapi.ozon.ru^
 ||xray.mail.ru^
 ||yast.rutube.ru^
 ||tracker.azet.sk^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-12T18:21:18.105Z
+! Last modified: 2023-11-13T01:20:21.957Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -41,6 +41,7 @@
 ||cookieapi2.incomit.dk^
 ||cookiemanager.onm.de^
 ||cookies.innershed.co.uk^
+||cookiesregister.deltacommerce.com^
 ||crta.and.co.uk^
 ||d2eucw4fxv7nil.cloudfront.net^
 ||gdpr-settings.s3.amazonaws.com^
