@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-13T06:24:17.519Z
+! Last modified: 2023-11-13T12:35:39.224Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||longlakeweb.com^
 ||sgunqfpjtxfndtt.com^
 ||bvudraqxpl.com^
 ||kusidcfbb.com^
@@ -726,9 +727,10 @@
 ||a.rafian.com^
 ||a.suptube.com^
 ||a.teencfnm.com^
-||a.tortuko.club^
 ||a.viralnewsbd.xyz^
+||a.voxar.xyz^
 ||a.warddogs.com^
+||a.wlen1bty92.pro^
 ||a.xmanga.online^
 ||a.zillastream.com^
 ||a5g.oves.biz^
@@ -912,9 +914,9 @@
 ||fx9.freepornoboss.com^
 ||g.adultporn.tv^
 ||g0dy.site^
+||game.starswalker.site^
 ||getallt1.com^
 ||ghtry.amateurswild.com^
-||glass.vixfilmes.online^
 ||glokta.info^
 ||go.showmeyouradsnow.com^
 ||go.ss-n-30.com^
@@ -951,6 +953,7 @@
 ||jo.fapnado.xxx^
 ||jo.fapnow.xxx^
 ||jo.hqbang.com^
+||jordan.qunis.ru^
 ||js.allporncomic.com^
 ||js.eroticmv.com^
 ||js.j8jp.com^
@@ -961,8 +964,10 @@
 ||js.phoenixmanga.com^
 ||js.xemkqxs.com^
 ||jx3.freepornobook.com^
+||kaizzz.xyz^
 ||khoilive.xyz^
 ||kliqz.com^
+||ko.faptor.com^
 ||krplss.click^
 ||kuhdsysdas.indexsubtitle.com^
 ||kx4.firstsexfilm.com^
@@ -1080,11 +1085,9 @@
 ||pre.ebasos.org^
 ||pre.myfuck.club^
 ||pre.pornuxaxa.com^
-||profield.ddns.net^
 ||px9.nuderedtube.com^
 ||qatak.beauty^
 ||qhip.com^
-||qoqv.com^
 ||qoutec.shop^
 ||qsdr.mysunnylawn.com^
 ||quantoz.xyz^
@@ -1183,6 +1186,7 @@
 ||www.bigboy.monster^
 ||www.cinemahd.top^
 ||www.javtvnow.xyz^
+||www.pelisestreno.cc^
 ||www.pleasedonotblockme.com^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
@@ -1207,6 +1211,7 @@
 ||zhaner.xyz^
 ||zone.pornlovo.co^
 ||zv.7vid.net^
+||qoqv.com^
 ||39236100.lotre.io^
 ||a2.hotpornfile.org^
 ||a3.hotpornfile.org^
@@ -1385,7 +1390,6 @@
 ||fk.oaklikespiers.com^
 ||fm.ramouselong.com^
 ||fn.deulspoorn.com^
-||fp.mailerstalons.com^
 ||fs.velellabudded.com^
 ||ga.asseizeenl.com^
 ||ga.fentwigful.com^
@@ -1437,6 +1441,7 @@
 ||ku.arbacindiplex.com^
 ||ku.eftesthalms.com^
 ||lb.hyratesethic.com^
+||ld.wraithydecides.com^
 ||le.wellsmessy.com^
 ||lf.unvenomangst.com^
 ||lg.feoffortapetis.com^
@@ -1561,6 +1566,7 @@
 ||ve.gweedunweld.com^
 ||vg.piaroanjust.com^
 ||vn.finisbur.com^
+||vo.mofettecalmed.com^
 ||vt.eluantsmousees.com^
 ||vv.tensingiseum.com^
 ||vw.sapidvenoms.com^
@@ -1705,6 +1711,7 @@
 ||syndication.ouzads.com^
 ||syndication.whibd.com^
 ||syndication.whibp.com^
+||cdn.adevbom.com^
 ||cdn.almacz.com^
 ||cdn.asdb.xyz^
 ||cdn.asdfix.com^
@@ -1863,7 +1870,6 @@
 ||butterfly.rfortherestofus.com^
 ||buzzard.donotresearch.net^
 ||buzzard.ficabo.com.au^
-||buzzard.nimble.team^
 ||camel.gastro-plan.app^
 ||camel.nonpopularopinion.com^
 ||camel.warvik.no^
@@ -1948,7 +1954,6 @@
 ||chimpanzee.designerdailyreport.com^
 ||chimpanzee.ines-papert.com^
 ||chinchilla.68keys.io^
-||chinchilla.christinefontaine.com^
 ||chipmunk.brandy.is^
 ||chipmunk.sqltoapi.com^
 ||cicada.escapethecorporatecult.com^
@@ -2161,7 +2166,6 @@
 ||gull.mayansmithgobat.com^
 ||guppy.ausowned.com.au^
 ||guppy.ironmic.fm^
-||guppy.setasign.com^
 ||guppy.under2.agency^
 ||haddock.affilimate.com^
 ||haddock.jeffreyknox.dev^
@@ -2232,7 +2236,6 @@
 ||jcpjfyikk.dogbonemarket.com^
 ||jellyfish.teresaharlow.com^
 ||jellyfish.therapieplatz-finden.de^
-||jrtfx.scottspence.me^
 ||kangaroo.kraenk.de^
 ||kangaroo.triplightfantastic.com^
 ||kaxlfq.testingwithtestcafe.com^
@@ -2573,13 +2576,13 @@
 ||silkworm.preventingsuicideinsussex.org^
 ||silkworm.waspexpert.com^
 ||silkworm.westwoodmbc.org^
+||silverfish.camaleon.gt^
 ||silverfish.dailybuilds.com^
 ||silverfish.djordjevanjek.com^
 ||skink.asorman.io^
 ||sloth.goodtendency.app^
 ||sloth.vaalinstudio.com^
 ||sloth.vguerrerobosch.com^
-||slug.sirenergies.com^
 ||smelt.allenpike.com^
 ||smelt.gautrowski.com^
 ||snake.kiramclean.com^
@@ -3025,7 +3028,6 @@
 ||filter.resultsmedia.com^
 ||filter.rocoads.com^
 ||filter.rtbfactory.com^
-||filter.rtbzone.com^
 ||filter.saturndynamic.pt^
 ||filter.showcasead.com^
 ||filter.showcasepop.com^
@@ -3038,7 +3040,6 @@
 ||filter.ultrads.net^
 ||filter.uptowntraction.com^
 ||filter.vashoot.com^
-||filter.vtads.co.in^
 ||filter.webmedxml.com^
 ||filter.xmladsystem.com^
 ||filter.xmlfusion.com^
@@ -3169,7 +3170,6 @@
 ||rtb-eu.admeridianopenrtb.com^
 ||rtb-eu.adventurefeeds.com^
 ||rtb-eu.adxfactory.com^
-||rtb-eu.adzgame.com^
 ||rtb-eu.andbeyond.media^
 ||rtb-eu.bidmyqps.xyz^
 ||rtb-eu.catapultx.com^
@@ -3237,7 +3237,6 @@
 ||rtb-useast.digitalpiee.com^
 ||rtb-useast.displayio.cloud^
 ||rtb-useast.e-volution.ai^
-||rtb-useast.eximdigital.com^
 ||rtb-useast.felixads.com^
 ||rtb-useast.fmlabsonline.com^
 ||rtb-useast.foremedia.net^
@@ -3371,13 +3370,9 @@
 ||sv-query.looksmart.com^
 ||sw.looksmart.com^
 ||tag.musiciansaudience.com^
-||tq-eu.craftviking-2.co^
-||tq-eu.craftviking.co^
 ||tq-eu.frdjs-1.co^
 ||tq-eu.xonedart-1.live^
 ||tq.adventurefeeds.com^
-||tq.craftviking-2.co^
-||tq.craftviking.co^
 ||tq.frdjs-1.co^
 ||tq.gipostart-2.co^
 ||tq.pdn-eu.com^
@@ -3439,8 +3434,6 @@
 ||xml-eu-v4.adtube.media^
 ||xml-eu-v4.convertap.com^
 ||xml-eu-v4.coupontic.com^
-||xml-eu-v4.craftviking-2.co^
-||xml-eu-v4.craftviking.co^
 ||xml-eu-v4.frdjs-1.co^
 ||xml-eu-v4.gipostart-2.co^
 ||xml-eu-v4.hawkads.in^
@@ -3459,8 +3452,6 @@
 ||xml-eu.adzestocp.com^
 ||xml-eu.bidforclicks.com^
 ||xml-eu.bidmyadz.com^
-||xml-eu.craftviking-2.co^
-||xml-eu.craftviking.co^
 ||xml-eu.foremedia.net^
 ||xml-eu.frdjs-1.co^
 ||xml-eu.gipostart-2.co^
@@ -3487,15 +3478,12 @@
 ||xml-v4.clkfst.com^
 ||xml-v4.convertap.com^
 ||xml-v4.coupontic.com^
-||xml-v4.craftviking-2.co^
-||xml-v4.craftviking.co^
 ||xml-v4.datadrives.ai^
 ||xml-v4.digiteci.com^
 ||xml-v4.domains-traffic.com^
 ||xml-v4.fmlabsonline.com^
 ||xml-v4.frdjs-1.co^
 ||xml-v4.gipostart-2.co^
-||xml-v4.goclickz.net^
 ||xml-v4.hetcash.com^
 ||xml-v4.mobifly.net^
 ||xml-v4.pwr-ads.com^
@@ -3567,8 +3555,6 @@
 ||xml.convertise.io^
 ||xml.conxstream.com^
 ||xml.coupontic.com^
-||xml.craftviking-2.co^
-||xml.craftviking.co^
 ||xml.ctrtraffic.com^
 ||xml.dollopsdigital.com^
 ||xml.domains-traffic.com^
@@ -5199,6 +5185,7 @@ rgmechanicsgames.com*VPN.exe
 ||acdcdn.com^
 ||acdn01.vidox.net^
 ||acediscover.com^
+||acedtousles.com^
 ||acelacien.com^
 ||acendantoftheq.xyz^
 ||aceporntube.com^
@@ -18353,7 +18340,6 @@ rgmechanicsgames.com*VPN.exe
 ||kaiu-marketing.com^
 ||kaiviwoo.com^
 ||kaiwaipo.net^
-||kaizzz.xyz^
 ||kakdgmn.com^
 ||kalauxet.com^
 ||kalganautographeater.com^
@@ -23712,6 +23698,7 @@ rgmechanicsgames.com*VPN.exe
 ||phaithoo.xyz^
 ||phaivais.net^
 ||phalingy.net^
+||phamsacm.net^
 ||phantomattestationzillion.com^
 ||phantomtheft.com^
 ||phardain.xyz^
@@ -26614,6 +26601,7 @@ rgmechanicsgames.com*VPN.exe
 ||roxot-panel.com^
 ||roxyaffiliates.com^
 ||royalcactus.com^
+||royallycuprene.com^
 ||rozamimo9za10.com^
 ||rpmsophiashoe.com^
 ||rprinc6etodn9kunjiv.com^
@@ -32244,6 +32232,7 @@ rgmechanicsgames.com*VPN.exe
 ||waxingequant.space^
 ||waxpigbaa.com^
 ||waxtamnit.com^
+||waybillbulged.com^
 ||wayfarerspoutpraise.com^
 ||waygatecrowbar.com^
 ||waymarkgentiin.com^

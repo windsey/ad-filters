@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-13T06:24:12.505Z
+! Last modified: 2023-11-13T12:35:34.213Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -650,6 +650,8 @@
 ||oektiu.xyz^
 ||tuvixr.xyz^
 ||rrfccx.com^
+||jcbjcb9.cn^
+||tfczk.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
