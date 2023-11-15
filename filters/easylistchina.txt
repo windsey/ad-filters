@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-15T12:36:04.040Z
+! Last modified: 2023-11-15T18:22:05.117Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -26,6 +26,7 @@
 ||1bctkn.xyz^
 ||1cpkcnm.com^
 ||1k2l3m4n5o.com^
+||1kqfzwd.com^
 ||20szp.com^
 ||24w0p.com^
 ||273knt.xyz^
@@ -84,6 +85,7 @@
 ||bollenhurkle.com^
 ||bpbfymv.xyz^
 ||brorzpj.cn^
+||btfjjwt.xyz^
 ||bthypgm.cn^
 ||bxbyll.xyz^
 ||bydcxdy.cn^
@@ -104,6 +106,7 @@
 ||clcmdie.com^
 ||cmdcdacq.xyz^
 ||cntc8.icu^
+||cojvur.icu^
 ||crazyit8.com^
 ||crhabkd.cn^
 ||cry2h.cn^
@@ -326,6 +329,7 @@
 ||mlumlio.cn^
 ||mmvjuti.cn^
 ||mnhncf.cn^
+||mpgsqk.xyz^
 ||mphhgat.xyz^
 ||mqrupjsm.xyz^
 ||mrthav.xyz^
@@ -358,6 +362,7 @@
 ||nyhgvn.xyz^
 ||nyvgbt.xyz^
 ||oapyrzde.xyz^
+||ocpydszq.xyz^
 ||ocwdkp.icu^
 ||oehcxmhk.xyz^
 ||oektiu.xyz^
@@ -401,6 +406,7 @@
 ||qwnmfiti.xyz^
 ||rcnithgm.xyz^
 ||rcnldz.xyz^
+||rfrhfh.xyz^
 ||rkds1.icu^
 ||rkds10.icu^
 ||rkds2.icu^
@@ -481,6 +487,8 @@
 ||vrnrpzy.xyz^
 ||vttqld.xyz^
 ||vxdpmxw.xyz^
+||w3wci.site^
+||wakenssponged.com^
 ||waxin0gjue.cn^
 ||whdwydt.cn^
 ||whols.cn^
@@ -519,6 +527,7 @@
 ||xxlfteg.xyz^
 ||xzvahr.xyz^
 ||y341i.xyz^
+||yasma.top^
 ||ybrbdft.xyz^
 ||ycgkol.icu^
 ||ycmgeb.icu^
@@ -551,13 +560,6 @@
 ||zys15.top^
 ||zys16.top^
 ||zyzo.cn^
-||yasma.top^
-||cojvur.icu^
-||ocpydszq.xyz^
-||btfjjwt.xyz^
-||rfrhfh.xyz^
-||mpgsqk.xyz^
-||w3wci.site^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
