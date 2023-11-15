@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-15T06:24:20.989Z
+! Last modified: 2023-11-15T12:36:04.737Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -371,6 +371,7 @@
 ||ustat.info^
 ||venture-365-inspired.com^
 ||venusrevival.com^
+||vfghe.com^
 ||vfgte.com^
 ||videoplayerhub.com^
 ||vkanalytics.net^
@@ -2446,6 +2447,7 @@
 ||events.ubembed.com^
 ||events.whisk.com^
 ||events.yourcx.io^
+||eventsproxy.gargantuan.futureplc.com^
 ||evt.houzz.com^
 ||experience.contextly.com^
 ||f-log-at.grammarly.io^
@@ -20224,7 +20226,6 @@ arketing.indianadunes.com^
 ||link.marketing.churchomeglobal.org^
 ||link.mbtihell.com^
 ||link.medibuddy.app^
-||link.medium.com^
 ||link.metronaut.app^
 ||link.meumulti.com.br^
 ||link.mindsetapp.com^
