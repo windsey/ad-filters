@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-15T18:22:05.803Z
+! Last modified: 2023-11-16T01:21:31.536Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -309,6 +309,7 @@
 ||rlcdn.com^
 ||robotflowermobile.com^
 ||rtactivate.com^
+||rumt-sg.com^
 ||s-onetag.com^
 ||salsify-ecdn.com^
 ||sbgsodufuosmmvsdf.info^
@@ -1444,6 +1445,7 @@
 ||pricklyjourney.com^
 ||pricklypies.com^
 ||pricklyplastic.com^
+||pricklypollution.com^
 ||printerplasma.com^
 ||producecopy.com^
 ||producepickle.com^
@@ -3996,6 +3998,7 @@
 ||heap.drop.com^
 ||hits.cyberdrop.me^
 ||hlogger.heraldcorp.com^
+||htrace.wetvinfo.com^
 ||i.pokernews.com^
 ||iam-rum-intake.datadoghq.com^
 ||iedc.fitbit.com^
@@ -4228,6 +4231,7 @@
 ||telegraph.prd.api.max.com^
 ||telem.sre.gopuff.com^
 ||telemetry.adobe.io^
+||telemetry.algolia.com^
 ||telemetry.api.playstation.com^
 ||telemetry.firez.one^
 ||telemetry.tradingview.com^
