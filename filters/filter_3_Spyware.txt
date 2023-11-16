@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-16T12:36:19.377Z
+! Last modified: 2023-11-16T18:23:58.146Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -696,6 +696,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||tracking.prismpartner.smt.docomo.ne.jp^
 ||audience-mostread.r7.com^
 ||analytics.cocolog-nifty.com^
 ||stats.totalav.com^
@@ -36001,6 +36002,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||analytics-*-nfl.yinzcam.com^
 ||prod.report.nacustomerexperience.citi.com^
 ||mon.byteoversea.com^
 ||fraud.adjoe.zone^

@@ -4456,6 +4456,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tracking.prismpartner.smt.docomo.ne.jp^
 ||audience-mostread.r7.com^
 ||analytics.cocolog-nifty.com^
 ||stats.totalav.com^
@@ -49586,7 +49587,7 @@ charlestownwyllie.oaklawnnonantum.com^
 !-------------------------------------------------------------------------------!
 !-------------- CNAME mail trackers --------------------------------------------!
 !-------------------------------------------------------------------------------!
-!#if (!adguard_app_ios)
+!#if (!adguard_ext_safari || !adguard_app_ios || !adguard_ext_android_cb)
 ! Title: AdGuard CNAME disguised mail_trackers list
 ! Description: The list of unique mail_trackers domains that disguise the real trackers by using CNAME records.
 ! TimeUpdated: 2023-11-13T08:00:16+00:00
@@ -68087,6 +68088,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||analytics-*-nfl.yinzcam.com^
 ||prod.report.nacustomerexperience.citi.com^
 ||mon.byteoversea.com^
 ||fraud.adjoe.zone^
