@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-17T06:24:25.357Z
+! Last modified: 2023-11-17T12:37:34.914Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 
+||adeditiontowri.org^
 ||grfvngaqbcsw.com^
 ||pbfnyvl.com^
 ||lrqknpk.com^
@@ -564,6 +565,7 @@
 ||samsungtvads.com^
 ||adconsent.samsungrs.com^
 
+||d108nnfn2eigw4.cloudfront.net^
 ||d2osk0po1oybwz.cloudfront.net^
 ||d1t38ngzzazukx.cloudfront.net^
 ||d1u4z2la3g1n0x.cloudfront.net^

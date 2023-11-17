@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-17T06:24:22.115Z
+! Last modified: 2023-11-17T12:37:31.672Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -705,6 +705,10 @@
 ||caonme.xyz^
 ||sllo.top^
 ||teamjwar.com^
+||hw0.com.cn^
+||c78zf.xyz^
+||hihlj.online^
+||1weorpu.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
