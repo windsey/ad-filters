@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-16T18:23:51.232Z
+! Last modified: 2023-11-17T01:21:15.161Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -19255,6 +19255,7 @@
 ||ourgoldpiece.com.ua^
 ||ourgoldpiece.xyz^
 ||ourgoldpiecwe.xyz^
+||ourgumpu.xyz^
 ||ourhotfeed.com^
 ||ourhypewords.com^
 ||ourietwyers.uno^

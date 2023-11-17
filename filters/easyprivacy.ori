@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: GXNwS013jXzWQXlRMNJxnQ
-! Version: 202311161811
+! Checksum: IhdeTDXv5yI7Yxcqx4KKrQ
+! Version: 202311170111
 ! Title: EasyPrivacy
-! Last modified: 16 Nov 2023 18:11 UTC
+! Last modified: 17 Nov 2023 01:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7199,6 +7199,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||materialmoon.com^
 ||materialparcel.com^
 ||materialplayground.com^
+||meadowlullaby.com^
 ||measlymiddle.com^
 ||measurecaption.com^
 ||meatydime.com^

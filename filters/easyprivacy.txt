@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-16T18:23:52.281Z
+! Last modified: 2023-11-17T01:21:16.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1271,6 +1271,7 @@
 ||materialmoon.com^
 ||materialparcel.com^
 ||materialplayground.com^
+||meadowlullaby.com^
 ||measlymiddle.com^
 ||measurecaption.com^
 ||meatydime.com^
