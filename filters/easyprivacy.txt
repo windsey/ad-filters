@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-18T06:22:25.238Z
+! Last modified: 2023-11-18T12:32:32.536Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1343,6 +1343,7 @@
 ||oafishobservation.com^
 ||obscenesidewalk.com^
 ||observantice.com^
+||oldfashionedoffer.com^
 ||omniscientfeeling.com^
 ||omniscientspark.com^
 ||operationchicken.com^

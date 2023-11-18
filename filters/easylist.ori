@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ltQ8DrERiPu/hIloJsb+Yw
-! Version: 202311180610
+! Checksum: mnNkeMMYUcPoACvieKUFeg
+! Version: 202311181220
 ! Title: EasyList
-! Last modified: 18 Nov 2023 06:10 UTC
+! Last modified: 18 Nov 2023 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -61129,6 +61129,7 @@ extremetech.com##.min-h-24
 copyprogramming.com##.min-h-250
 uwufufu.com##.min-h-\[253px\]
 uwufufu.com##.min-h-\[300px\]
+insiderintelligence.com##.min-h-top-banner
 stripes.com##.min-h90
 mumsnet.com##.min-w-\[300px\]
 moviemeter.com##.minheight250
@@ -63779,6 +63780,7 @@ dpfantasy.org,hotcelebshome.com###custom_html-4
 hentai7.top###custom_html-6
 eporner.com###deskadmiddle
 hentai-cosplays.com,hentai-img.com###display_image_detail > span
+javguard.xyz###dl > a[target="_blank"][id]
 thehun.net###dyk_right
 youjizz.com###englishPr
 porntrex.com###exclusive-link
