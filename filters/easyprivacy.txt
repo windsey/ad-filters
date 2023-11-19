@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-19T01:26:01.517Z
+! Last modified: 2023-11-19T06:22:40.389Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -445,9 +445,6 @@
 ||de-mi-nis-ner.info^
 ||de-ner-mi-nis4.info^
 ||de-nis-ner-mi-5.info^
-||dnsseed.bitcoin.dashjr.org^
-||dnsseed.bluematt.me^
-||dnsseed.emzy.de^
 ||f1tbit.com^
 ||filmoljupci.com^
 ||freecontent.date
@@ -465,11 +462,6 @@
 ||pampopholf.com^
 ||rand.com.ru^
 ||reauthenticator.com^
-||seed.bitcoin.sipa.be^
-||seed.bitcoin.sprovoost.nl^
-||seed.bitcoin.wiz.biz^
-||seed.bitcoinstats.com^
-||seed.btc.petertodd.org^
 ||serv1swork.com^
 ||statdynamic.com^
 ||str1kee.com^
