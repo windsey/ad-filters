@@ -2599,6 +2599,8 @@ gamesworld.de,fnn.jp##.Ad
 !
 ! SECTION: Regular rules
 !
+broadwayworld.com##.disnep-area > div[style^="width:"]
+amazon.*##div[data-uuid][cel_widget_id^="MAIN-TOP_BANNER_MESSAGE-"][data-cel-widget^="MAIN-TOP_BANNER_MESSAGE-"]
 english.elpais.com##.prisa_ad
 bdtonline.com###floorboard_block_mob
 wpb.shueisha.co.jp#?#.block-layout-d-a:has(> div.mod-box__container > div.mod-box > div > div.js-ad-wpb_sp_house)
@@ -3191,7 +3193,7 @@ imtest.de##div[class^="contentAd"]
 detail.chiebukuro.yahoo.co.jp##aside[class^="Detail_chie-Pages__AdNM_"]
 m.eprice.com.tw###m-m300-250-n
 m.eprice.com.tw##body .popup-adv
-mrank.tv,xvideos-dl.com,erodera.net,spankbang-dl.com,fig-memo-r18.site###overlay_area
+onagazou.info,mrank.tv,xvideos-dl.com,erodera.net,spankbang-dl.com,fig-memo-r18.site###overlay_area
 laopinion.com.co##.header_suscripciones
 live.kufu.co.jp##.banner_sp_container
 m.sohu.com##.f-list > div[data-spm^="ad-"]
@@ -4674,6 +4676,8 @@ gsminfo.com.ua###custom_html-10
 manager-magazin.de##amp-layout[width="300"][height="266"]
 2chan.net##div[style="width:670px;height:100px;margin:2px auto"]
 2chan.net##iframe[src*=".net/bin/ad"] + hr
+reuters.com###in-article-connatix-player
+reuters.com#?#div[class^="article-body__content__"] > div[class^="article-body__element__"]:has(> div[class^="spacing-container_"] > div[data-testid="AdSlot"])
 reuters.com##div[class^="ArticlePage-mobile-mpu-"]
 m.ndtv.com###header_ads
 girlschannel.net##.page-back-wrap > div[style="margin: 0 4px 20px;border-bottom: 1px solid #f2f2f2;"]
