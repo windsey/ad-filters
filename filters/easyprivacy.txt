@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-20T06:25:04.946Z
+! Last modified: 2023-11-20T12:37:07.327Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -130,12 +130,14 @@
 ||e1e.io^
 ||eagle-insight.com^
 ||easycompute.systems^
+||ed-sys.net^
 ||efreecode.com^
 ||egoi.site^
 ||emailsnow.info^
 ||emycewiw.xyz^
 ||enthusiastgaming.net^
 ||envato.market^
+||epsilondelta.co^
 ||eqy.link^
 ||etop.ro^
 ||everesttech.net^

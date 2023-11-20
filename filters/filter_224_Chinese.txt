@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-20T06:25:06.227Z
+! Last modified: 2023-11-20T12:37:08.658Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -452,7 +452,6 @@
 ||kwtgntyu.xyz^
 ||kyikdee.cn^
 ||kzprugp.xyz^
-||l404k.com^
 ||l80ays.com^
 ||lblwhh.xyz^
 ||ldvnehc.xyz^
@@ -748,6 +747,10 @@
 ||haxqxd.xyz^
 ||feijied.xyz^
 ||rett.top^
+||zhangyuting04.cn^
+||holdntlc.com^
+||jane2.top^
+||gcbtgh26.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -4932,6 +4935,7 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||ipad.pc899.cn^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^

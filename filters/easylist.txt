@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-20T06:25:03.905Z
+! Last modified: 2023-11-20T12:37:06.285Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -31645,7 +31645,6 @@
 ||dywolfer.de^
 ||go.trvdp.com^
 ||play.springboardplatform.com^
-||sonar.viously.com^
 ||video-streaming.ezoic.com^
 ||vplayer.newseveryday.com^
 ||centent.streamp1ay.
