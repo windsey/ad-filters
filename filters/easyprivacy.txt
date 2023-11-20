@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-20T01:21:42.511Z
+! Last modified: 2023-11-20T06:25:04.946Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1931,6 +1931,7 @@
 ||troubledtail.com^
 ||troubleshade.com^
 ||truckstomatoes.com^
+||truculentrate.com^
 ||tumblebirds.com^
 ||tumbleicicle.com^
 ||tutorthing.com^

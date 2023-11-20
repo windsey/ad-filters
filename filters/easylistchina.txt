@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-20T01:21:41.788Z
+! Last modified: 2023-11-20T06:25:04.275Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -624,6 +624,8 @@
 ||haxqxd.xyz^
 ||feijied.xyz^
 ||rett.top^
+||zhangyuting04.cn^
+||holdntlc.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
