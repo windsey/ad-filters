@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LuoEmJpWEkV2k8diWTXgfA
-! Version: 202311210611
+! Checksum: DdGIU9488V3Zl+8pCz7xlA
+! Version: 202311211231
 ! Title: EasyList
-! Last modified: 21 Nov 2023 06:11 UTC
+! Last modified: 21 Nov 2023 12:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -62675,7 +62675,7 @@ apkcombo.com##[onclick*="_blank"]
 filecrypt.cc,filecrypt.co##[onclick^="var lj"]
 techadvisor.com##[referrerpolicy="unsafe-url"]
 transfermarkt.co.uk##[referrerpolicy]
-appleinsider.com,dappradar.com,euroweeklynews.com,thefinancialbrand.com##[rel*="sponsored"]
+appleinsider.com,dappradar.com,euroweeklynews.com,sitepoint.com,thefinancialbrand.com##[rel*="sponsored"]
 myanimelist.net##[src*="/c/img/images/event/"]
 audioz.download##[src*="/promo/"]
 transfermarkt.com##[src*="https://www.transfermarkt.com/image/"]
