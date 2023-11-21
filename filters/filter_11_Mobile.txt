@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-21T12:36:47.407Z
+! Last modified: 2023-11-21T18:24:58.313Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.22
+! Compiled by @adguard/hostlist-compiler v1.0.23
 !
 
 ||dad-api.dcard.tw^
@@ -84,13 +84,15 @@
 ||startup.mobile.yandex.net^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
+||mtgglobals.com^
+||pgdt.gtimg.cn^
+||cmshow.gtimg.cn^
+||projecta-common-1258344701.file.myqcloud.com^
 ||ads*.production-public.tubi.io^
 ||mob*.novanewsapp.com^
 ||adrouter-charter-vod.cadenttech.tv^
-||ad*.mtgglobals.com^
 ||ad-*.amazonaws.com^
 ||tapulsads.ru^
-||*-hb-bid-feedback.mtgglobals.com^
 ||ads-sdk.nianticlabs.com^
 ||ad.mediamixer.co.kr^
 ||adfork.co.kr^
@@ -136,6 +138,7 @@
 ||d3hdbjtb1686tn.cloudfront.net^
 ||s.hisp.in^
 ||toponadss.com^
+||adcs.myappsget.com^
 ||adcs-*.myappsget.com^
 ||adsassets.waze.com^
 ||ads-resources.waze.com^

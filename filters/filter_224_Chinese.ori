@@ -1430,6 +1430,7 @@ $script,third-party,denyallow=fastly.net|statically.io|sharecast.ws|bunnycdn.ru|
 !
 !
 !
+||1905.com/data/js/*.json?pwd=*?fr=videoplay_*&rand=$xmlhttprequest
 04647.club##div[class*="adsBox"]
 04647.club##div[class*="bannerBox"]
 hanime1.me##.video-show-width > .single-show-list > .hidden-xs[style*="text-align:"]
@@ -4996,6 +4997,7 @@ newduba.cn###jq_youxi
 ||aniede.xyz^
 ||anjneia.xyz^
 ||apis301.com^
+||apvnzvg.xyz^
 ||aqburrae.xyz^
 ||aqiemc.xyz^
 ||arbbj6.com^
@@ -5114,6 +5116,7 @@ newduba.cn###jq_youxi
 ||fenem.top^
 ||fepmpify.xyz^
 ||fgttbz.xyz^
+||fguhyg.cn^
 ||fkjsjwbs.xyz^
 ||fluhmmr.cn^
 ||fmvbyji.cn^
@@ -5198,9 +5201,11 @@ newduba.cn###jq_youxi
 ||hinm.online^
 ||hixutb.xyz^
 ||hjnjjcw.xyz^
+||hkljed.xyz^
 ||hkrytf.xyz^
 ||hnkhgw.com^
 ||holdntlc.com^
+||hooe.top^
 ||hrtinqj.cn^
 ||huhwllvk.xyz^
 ||hunklm.com^
@@ -5272,6 +5277,7 @@ newduba.cn###jq_youxi
 ||l80ays.com^
 ||lblwhh.xyz^
 ||ldvnehc.xyz^
+||lewhrzv.xyz^
 ||lfhnzbj.xyz^
 ||lianglili2.cn^
 ||liuyi22.cn^
@@ -5279,6 +5285,7 @@ newduba.cn###jq_youxi
 ||lkdybkwi.xyz^
 ||lkoqtvvajktpjsk.xyz^
 ||llblwzg.xyz^
+||llmxt.fun^
 ||llnxdx.xyz^
 ||lmfehr.xyz^
 ||ln0.com.cn^
@@ -5334,6 +5341,7 @@ newduba.cn###jq_youxi
 ||nrzzaep.xyz^
 ||nubcdaqa.xyz^
 ||nyfgpbsc.xyz^
+||nyhgjmlg.xyz^
 ||nyhgvn.xyz^
 ||nyvgbt.xyz^
 ||oapyrzde.xyz^
@@ -5349,6 +5357,7 @@ newduba.cn###jq_youxi
 ||oprece.xyz^
 ||orssengseen.com^
 ||ovfvkfc.xyz^
+||owkmmo.xyz^
 ||oxrvfsi.xyz^
 ||pajhvd.xyz^
 ||pdngnx.xyz^
@@ -5396,6 +5405,7 @@ newduba.cn###jq_youxi
 ||rkds5.icu^
 ||rntdqwc.xyz^
 ||roxewwq.cn^
+||rqrvfp.xyz^
 ||rrfccx.com^
 ||rslkhj.xyz^
 ||rvreuxi.cn^
@@ -5428,6 +5438,7 @@ newduba.cn###jq_youxi
 ||thboxp.xyz^
 ||titv.top^
 ||tmlwvxae.xyz^
+||tmvebl.xyz^
 ||tongjiniao.com^
 ||toyhyhv.icu^
 ||tqrznqs.cn^
@@ -5477,6 +5488,7 @@ newduba.cn###jq_youxi
 ||vozftn.xyz^
 ||vrivslffndepxqd.xyz^
 ||vrnrpzy.xyz^
+||vrosqolcg.com^
 ||vttqld.xyz^
 ||vxdpmxw.xyz^
 ||w3wci.site^
@@ -5505,6 +5517,7 @@ newduba.cn###jq_youxi
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
 ||xfqrsjq.cn^
+||xfztgxt.com^
 ||xg6hb.xyz^
 ||xjxbdh.xyz^
 ||xkfigjh.cn^
@@ -5560,18 +5573,6 @@ newduba.cn###jq_youxi
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
-||hooe.top^
-||rqrvfp.xyz^
-||owkmmo.xyz^
-||llmxt.fun^
-||xfztgxt.com^
-||nyhgjmlg.xyz^
-||apvnzvg.xyz^
-||vrosqolcg.com^
-||tmvebl.xyz^
-||hkljed.xyz^
-||lewhrzv.xyz^
-||fguhyg.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
