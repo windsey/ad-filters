@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-20T18:24:10.204Z
+! Last modified: 2023-11-21T01:23:49.439Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -1038,6 +1038,7 @@
 ||fumblingform.com^
 ||fumblingselection.com^
 ||functionalcrown.com^
+||functionalfeather.com^
 ||funnyairplane.com^
 ||furryfork.com^
 ||furryhorses.com^

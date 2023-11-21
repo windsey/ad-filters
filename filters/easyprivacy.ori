@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: +RjowRrGYGmlDTwyMCLELA
-! Version: 202311201810
+! Checksum: 1FoLnpqUPeTgbE16Ezr/rA
+! Version: 202311210110
 ! Title: EasyPrivacy
-! Last modified: 20 Nov 2023 18:10 UTC
+! Last modified: 21 Nov 2023 01:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6970,6 +6970,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fumblingform.com^
 ||fumblingselection.com^
 ||functionalcrown.com^
+||functionalfeather.com^
 ||funnyairplane.com^
 ||furryfork.com^
 ||furryhorses.com^
