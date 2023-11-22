@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Npjf8xRSqtIzVWvzGrlU1w
-! Version: 202311220110
+! Checksum: inDFbvRhG+YhKPkrTjBWCA
+! Version: 202311220620
 ! Title: EasyList
-! Last modified: 22 Nov 2023 01:10 UTC
+! Last modified: 22 Nov 2023 06:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -61668,6 +61668,7 @@ nypost.com,pagesix.com##.recirc
 goodmorningamerica.com##.recirculation-module
 videocelebs.net##.recl
 nzherald.co.nz##.recommended-articles > .recommended-articles__heading
+streamtvinsider.com##.recommended-content
 slashgear.com##.recommended-heading
 forestriverforums.com##.recommended-stories
 last.fm##.recs-feed-item--ad
