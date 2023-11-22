@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-22T12:36:27.151Z
+! Last modified: 2023-11-22T18:23:48.590Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -21297,6 +21297,7 @@ arketing.indianadunes.com^
 ||ymprove.web.de^
 ||ia.ekstrabladet.dk^
 ||analytics.allovoisins.com^
+||analytics.clubic.com^
 ||bmly.impots.gouv.fr^
 ||cdtm.cdiscount.com^
 ||compteur.developpez.com^
