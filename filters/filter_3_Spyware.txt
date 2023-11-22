@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-21T18:25:03.619Z
+! Last modified: 2023-11-22T01:23:24.029Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11,6 +11,8 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||app.pendo.io^
+||vibeaconstr.onezapp.com^
 ||pixel.locker2.com^
 ||analytics.trovit.com^
 ||us.tags.newscgp.com^

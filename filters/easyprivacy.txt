@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-21T18:24:57.675Z
+! Last modified: 2023-11-22T01:23:18.009Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -4058,6 +4058,7 @@
 ||metrics.syf.com^
 ||metrics.ted.com^
 ||metricsishare.rediff.com^
+||mi.grubhub.com^
 ||miao.baidu.com^
 ||midas.chase.com^
 ||mixpanel-proxy.ted.com^
@@ -4223,6 +4224,7 @@
 ||tags.johnlewis.com^
 ||tags.stepstone.com^
 ||tao.barstoolsports.com^
+||taplytics-umami.grubhub.com^
 ||target.nationwide.com^
 ||target.nejm.org^
 ||targeting.washpost.nile.works^
