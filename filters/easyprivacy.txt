@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-23T01:20:40.230Z
+! Last modified: 2023-11-23T06:24:11.900Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -329,6 +329,7 @@
 ||sjpf.io^
 ||snptrk.com^
 ||soapfighters.com^
+||soapps.net^
 ||solutionshindsight.net^
 ||speedyfox.io^
 ||speedyrhino.co^
@@ -508,6 +509,7 @@
 ||addictedattention.com^
 ||additionant.com^
 ||adorableanger.com^
+||adorableattention.com^
 ||adventurousamount.com^
 ||advertisementafterthought.com^
 ||afraidlanguage.com^
@@ -621,6 +623,7 @@
 ||blackbrake.com^
 ||bleachbubble.com^
 ||bleachscarecrow.com^
+||bleedlight.com^
 ||blesspizzas.com^
 ||blotburn.com^
 ||blushingbeast.com^
@@ -712,6 +715,7 @@
 ||ceciliavenus.com^
 ||celestialspectra.com^
 ||chairscrack.com^
+||chairsdonkey.com^
 ||chalkoil.com^
 ||channelcamp.com^
 ||chargecracker.com^
@@ -813,6 +817,7 @@
 ||cuddlycake.com^
 ||culturedcamera.com^
 ||culturedcrayon.com^
+||culturedfeather.com^
 ||cumbersomecake.com^
 ||cumbersomecar.com^
 ||cumbersomecloud.com^
@@ -836,6 +841,7 @@
 ||damdoor.com^
 ||dampdock.com^
 ||dancemistake.com^
+||dangerouswinter.com^
 ||dapperdiscussion.com^
 ||dapperfloor.com^
 ||dashingdirt.com^
@@ -878,6 +884,8 @@
 ||detectdiscovery.com^
 ||differentcoat.com^
 ||difficultfog.com^
+||digestiondrawer.com^
+||dinnerquartz.com^
 ||diplomahawaii.com^
 ||direfuldesk.com^
 ||disagreeabledrop.com^
@@ -925,6 +933,7 @@
 ||earthquakeend.com^
 ||earthquakescarf.com^
 ||earthycopy.com^
+||eatablesquare.com^
 ||echoinghaven.com^
 ||economicpizzas.com^
 ||educatedeggnog.com^
@@ -932,6 +941,7 @@
 ||ejyymghi.com^
 ||elasticchange.com^
 ||elasticducks.com^
+||elderlybean.com^
 ||elderlyinsect.com^
 ||elderlyscissors.com^
 ||elderlytown.com^
@@ -1084,6 +1094,7 @@
 ||gorgeousground.com^
 ||gracefulsock.com^
 ||grandfatherguitar.com^
+||grandiosefire.com^
 ||grandioseguide.com^
 ||grandmotherunit.com^
 ||grayoranges.com^
@@ -1361,6 +1372,7 @@
 ||omniscientfeeling.com^
 ||omniscientspark.com^
 ||operationchicken.com^
+||operationnail.com^
 ||opinionsurprise.com^
 ||oppositeoperation.com^
 ||oppositeparcel.com^
@@ -1433,6 +1445,7 @@
 ||pocketfaucet.com^
 ||podiumpresto.com^
 ||poeticpackage.com^
+||pointdigestion.com^
 ||pointlesshour.com^
 ||pointlesspocket.com^
 ||pointlessprofit.com^
@@ -1504,6 +1517,7 @@
 ||quizzicalzephyr.com^
 ||rabbitbreath.com^
 ||rabbitrifle.com^
+||radiantcanopy.com^
 ||radiateprose.com^
 ||railwayrainstorm.com^
 ||railwayreason.com^
@@ -1530,6 +1544,7 @@
 ||rebelhen.com^
 ||rebelsubway.com^
 ||rebelswing.com^
+||receiptcent.com^
 ||receptivebranch.com^
 ||receptiveink.com^
 ||receptivereaction.com^
@@ -1544,6 +1559,7 @@
 ||regulatesleet.com^
 ||rehabilitatereason.com^
 ||rejectfairies.com^
+||relationrest.com^
 ||rememberdiscussion.com^
 ||repeatsweater.com^
 ||replaceroute.com^
@@ -1717,6 +1733,7 @@
 ||snailscart.com^
 ||snailsengine.com^
 ||snakemineral.com^
+||snakeslang.com^
 ||snakesshop.com^
 ||snakesstone.com^
 ||sneakystew.com^
@@ -1819,6 +1836,7 @@
 ||stimulatingsneeze.com^
 ||stingsquirrel.com^
 ||stingycrush.com^
+||stingyshoe.com^
 ||stockingsneeze.com^
 ||stomachscience.com^
 ||stopstomach.com^
@@ -1835,6 +1853,7 @@
 ||stretchsneeze.com^
 ||stretchsquirrel.com^
 ||stringsmile.com^
+||stripedbat.com^
 ||stripedburst.com^
 ||strivesidewalk.com^
 ||strivesquirrel.com^
@@ -2000,6 +2019,7 @@
 ||unwieldyhealth.com^
 ||unwieldyplastic.com^
 ||unwrittenspot.com^
+||uppitytime.com^
 ||usedexample.com^
 ||uselesslumber.com^
 ||uttermosthobbies.com^
@@ -2007,6 +2027,7 @@
 ||vanishmemory.com^
 ||velvetnova.com^
 ||vengefulgrass.com^
+||venomousvessel.com^
 ||venusgloria.com^
 ||verdantanswer.com^
 ||verifyvegetable.com^
