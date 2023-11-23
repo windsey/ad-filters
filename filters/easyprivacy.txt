@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-23T06:24:11.900Z
+! Last modified: 2023-11-23T12:35:45.031Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2628,6 +2628,7 @@
 ||logger.snackly.co^
 ||logging.carambo.la^
 ||logging.je-apps.com^
+||logging.pw.adn.cloud^
 ||loggingapi.spingo.com^
 ||loglady.skypicker.com^
 ||logs-api.shoprunner.com^

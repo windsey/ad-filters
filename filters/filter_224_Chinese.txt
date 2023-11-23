@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-23T06:24:13.326Z
+! Last modified: 2023-11-23T12:35:46.312Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -789,6 +789,9 @@
 ||mhglue.xyz^
 ||bfgtfxd.com^
 ||fgcxdr.cn^
+||ronm.top^
+||wwwww.asia^
+||kbzs88.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^

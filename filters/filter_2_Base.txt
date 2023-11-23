@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-23T06:24:16.587Z
+! Last modified: 2023-11-23T12:35:49.519Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3821,6 +3821,7 @@ rgmechanicsgames.com*VPN.exe
 ||concertads-configs.vox-cdn.com^
 ||newopenx.detik.com^
 /^https?:\/\/ii\.apl\d+\.me\/js\/pop\.js$/
+
 ||cuteasiangirl.net^$badfilter
 ||consent.cookiefirst.com^$badfilter
 ||stluserehtem.com^$badfilter
