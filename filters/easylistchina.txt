@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-23T12:35:44.344Z
+! Last modified: 2023-11-23T18:22:45.323Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -46,6 +46,7 @@
 ||5jzu5t.com^
 ||6528fdyngk.xyz^
 ||6gcstb.xyz^
+||7bspu.site^
 ||7dusx.xyz^
 ||7ry30.xyz^
 ||888bb666cc.com^
@@ -87,6 +88,7 @@
 ||berrynicolo.com^
 ||beste3.icu^
 ||bfbchr.xyz^
+||bfgtfxd.com^
 ||bgbqfqwi.xyz^
 ||bgdgpbpm.xyz^
 ||bhiagi.xyz^
@@ -127,6 +129,7 @@
 ||cnrdlpk.xyz^
 ||cntc8.icu^
 ||cojvur.icu^
+||corcztpc.xyz^
 ||crazyit8.com^
 ||crhabkd.cn^
 ||cry2h.cn^
@@ -161,6 +164,7 @@
 ||dvnqhdmze.xyz^
 ||dwerzv.xyz^
 ||dwq661.biz^
+||dzdxnbc.xyz^
 ||ebmlsvw.cn^
 ||eejwvwoo.xyz^
 ||egadfe.xyz^
@@ -188,6 +192,7 @@
 ||feijied.xyz^
 ||fenem.top^
 ||fepmpify.xyz^
+||fgcxdr.cn^
 ||fgttbz.xyz^
 ||fguhyg.cn^
 ||fkjsjwbs.xyz^
@@ -277,6 +282,7 @@
 ||hjnjjcw.xyz^
 ||hkljed.xyz^
 ||hkrytf.xyz^
+||hkvuzv.xyz^
 ||hnkhgw.com^
 ||holdntlc.com^
 ||hooe.top^
@@ -308,6 +314,7 @@
 ||itwzlyq.com^
 ||iujlwn.icu^
 ||iuvssgh.cn^
+||jackdd.xyz^
 ||jane1.top^
 ||jane2.top^
 ||jcbjcb9.cn^
@@ -332,6 +339,7 @@
 ||kaaqgf.icu^
 ||kaezakkjt.com^
 ||kbbrptv.xyz^
+||kbzs88.com^
 ||kemas.top^
 ||kjdbcjkmc.com^
 ||kkmsa.top^
@@ -383,6 +391,7 @@
 ||meilunsc.com^
 ||mfnfylx.xyz^
 ||mggzah.icu^
+||mhglue.xyz^
 ||mhnzhlase.xyz^
 ||mhzftye.xyz^
 ||mlumlio.cn^
@@ -467,11 +476,13 @@
 ||qtq632.com^
 ||quqtone.cn^
 ||quzmtpxw.xyz^
+||quzpvtt.xyz^
 ||qwesaz.com^
 ||qwjtdcl.cn^
 ||qwnmfiti.xyz^
 ||qyoqeq.xyz^
 ||r9ffi.fun^
+||ran2.top^
 ||rcnithgm.xyz^
 ||rcnldz.xyz^
 ||rett.top^
@@ -482,12 +493,14 @@
 ||rkds2.icu^
 ||rkds5.icu^
 ||rntdqwc.xyz^
+||ronm.top^
 ||roxewwq.cn^
 ||rqrvfp.xyz^
 ||rrfccx.com^
 ||rslkhj.xyz^
 ||rvreuxi.cn^
 ||rvvji.online^
+||rxrdjb.xyz^
 ||rzflhxn.cn^
 ||scqaaf.cn^
 ||serda10.icu^
@@ -589,6 +602,7 @@
 ||wutsldsk.xyz^
 ||wuyaw.cn^
 ||wvtem.com^
+||wwwww.asia^
 ||wyiegt.icu^
 ||wymzwy.cn^
 ||wyoaij.icu^
@@ -624,6 +638,7 @@
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
 ||yivkzvog.xyz^
+||yjbdyjnctgj.top^
 ||yjxzvqy.xyz^
 ||ykujch.icu^
 ||ynulcpt.cn^
@@ -655,21 +670,6 @@
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
-||corcztpc.xyz^
-||ran2.top^
-||7bspu.site^
-||quzpvtt.xyz^
-||rxrdjb.xyz^
-||hkvuzv.xyz^
-||dzdxnbc.xyz^
-||jackdd.xyz^
-||mhglue.xyz^
-||bfgtfxd.com^
-||fgcxdr.cn^
-||ronm.top^
-||wwwww.asia^
-||kbzs88.com^
-||yjbdyjnctgj.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
