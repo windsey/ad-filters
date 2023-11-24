@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-24T06:24:11.997Z
+! Last modified: 2023-11-24T12:34:30.590Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -680,6 +680,7 @@
 ||huxsvl.xyz^
 ||kkeojk.xyz^
 ||tobyxev.com^
+||wecklrb.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
@@ -4884,6 +4885,7 @@
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||gg88.bj.bcebos.com^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^

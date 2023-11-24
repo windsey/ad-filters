@@ -1,10 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-24T06:24:17.324Z
+! Last modified: 2023-11-24T12:34:35.981Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
 
+||prosocrawn.com^
+||geometryworstaugust.com^
 ||cpcstdploqqh.com^
 ||psedregn.net^
 ||edvxygh.com^

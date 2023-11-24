@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-24T06:24:18.705Z
+! Last modified: 2023-11-24T12:34:37.362Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||cpt.geniee.jp^
 ||analytics.fcgtalent.fi^
 ||gl-product-analytics.com^
 ||logging.pw.adn.cloud^
@@ -704,6 +705,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||azq.zozo.jp^
 ||inbound-analytics.pixlee.com^
 ||rtm-tracking.zozo.jp^
 ||analytics.netkeiba.com^
