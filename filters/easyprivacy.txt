@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-24T01:18:52.076Z
+! Last modified: 2023-11-24T06:24:12.696Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2443,6 +2443,7 @@
 ||dl.episerver.net^
 ||doppler-beacon.cbsivideo.com^
 ||doppler-beacons.cbsivideo.com^
+||doppler-client-events.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||doug1izaerwt3.cloudfront.net^
 ||dx.mountain.com^
