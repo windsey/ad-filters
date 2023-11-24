@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-24T12:34:35.981Z
+! Last modified: 2023-11-24T18:22:40.822Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1697,7 +1697,6 @@
 ||zt.isledhaster.com^
 ||zw.cacajaoarmfuls.com^
 ||zx.plaiceagonist.com^
-||zy.gazeesoter.com^
 ||*.exaapi.com^
 ||a.addisplaynetwork.com^
 ||a.adsession.com^
@@ -15096,6 +15095,7 @@ rgmechanicsgames.com*VPN.exe
 ||gayuxhswva.com^
 ||gazati.com^
 ||gazeesaucier.com^
+||gazeesoter.com^
 ||gbbgaiuqq.com^
 ||gbfgvzfcjfs.com^
 ||gbfwqsakvaysygn.xyz^
@@ -15568,6 +15568,7 @@ rgmechanicsgames.com*VPN.exe
 ||goadx.com^
 ||goaffmy.com^
 ||goagloow.xyz^
+||goahouma.xyz^
 ||goajuzey.com^
 ||goalebim.com^
 ||goaleedeary.com^
