@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ajeyT3qw5+CbkZcw66TDHw
-! Version: 202311250610
+! Checksum: mTEir5bc4njJ8ulNZWcBUA
+! Version: 202311251220
 ! Title: EasyList
-! Last modified: 25 Nov 2023 06:10 UTC
+! Last modified: 25 Nov 2023 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56944,6 +56944,7 @@ browsershots.org#@#.advert_area
 ||brighteon.tv/Assets/ARF/
 ||brudirect.com/images/banners/
 ||bugsfighter.com/wp-content/uploads/2020/07/malwarebytes-banner.jpg
+||bullchat.com/sponsor/
 ||bunnycdn.ru/assets/_bnx/$domain=fmovies.to
 ||c21media.net/wp-content/plugins/sam-images/
 ||cafonline.com/image/upload/*/sponsors/
