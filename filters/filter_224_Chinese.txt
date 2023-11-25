@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-25T01:17:53.704Z
+! Last modified: 2023-11-25T06:22:11.571Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -816,6 +816,8 @@
 ||leidad.xyz^
 ||pvnzrr.xyz^
 ||lemida.xyz^
+||haree.cn^
+||i9klo.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
