@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: uDHH+OUAtYZzqNQQHPL9sw
-! Version: 202311260110
+! Checksum: EmRg+D7GqjPCYtTjI1DrfQ
+! Version: 202311260611
 ! Title: EasyPrivacy
-! Last modified: 26 Nov 2023 01:10 UTC
+! Last modified: 26 Nov 2023 06:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13682,6 +13682,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||reddit.com/timings/
 ||redditmedia.com/gtm/jail?
 ||redditstatic.com/accountmanager/sentry.
+||redditstatic.com/shreddit/sentry-
 ||redfin.com/rift?
 ||redgifs.com/v2/metrics/
 ||reelgood.com/v3.0/checkip
