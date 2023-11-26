@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-26T12:32:23.401Z
+! Last modified: 2023-11-26T18:21:17.871Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -25,6 +25,7 @@
 ://internal-matomo.
 ://segment-api.
 ://segment-cdn.
+||adservice.google.
 -logabpstatus.
 ||00px.net^
 ||1cros.net^
