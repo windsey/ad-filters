@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-27T06:24:59.943Z
+! Last modified: 2023-11-27T12:36:43.169Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -842,6 +842,9 @@
 ||xydslz.xyz^
 ||dwadwere.xyz^
 ||merywf.xyz^
+||ahgfdhp.xyz^
+||danun.cn^
+||poiwer.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
