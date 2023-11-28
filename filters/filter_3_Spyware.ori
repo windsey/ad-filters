@@ -67115,7 +67115,7 @@ zelda.paperlesspost.com$image
 ! ZhugeIO
 /zhugeio.js
 !
-/mihoyo-analysis/*
+/mihoyo-analysis/*$domain=~hoyoverse.com
 /wp-statistics/assets/js/tracker.js
 /wp-content/plugins/s2f-referral-tracking/*
 /swlapi/stats|
@@ -67638,8 +67638,6 @@ _tracking.php?b=
 ||nicolive.cdn.nimg.jp/relive/sp/trackingService.*.js
 ||a-mpd.com/pixel.png
 ||amazonaws.com/*/adtechanalytics-poc-*?Action=SendMessage&MessageBody=logType=
-||07c225f3.online/loader-analytics
-||07c225f3.online/report
 ||dzen.ru/api/*/launcher/stats/
 ||nihon-u.ac.jp/*/js/ga.js
 ||arttrk.com/pixel/
@@ -73680,6 +73678,14 @@ inapps.appsflyersdk.com^
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/166547#issuecomment-1826884259
+@@||cdn.megadata.co.kr/dist/prod/enp_tracker_self_hosted.min.js$domain=hancomdocs.com
+@@||googletagmanager.com/gtag/js$domain=hancomdocs.com
+@@||googleoptimize.com/optimize.js$domain=hancomdocs.com
+@@||googletagmanager.com/gtm.js$domain=hancomdocs.com
+@@||dev.visualwebsiteoptimizer.com^$stylesheet,script,domain=hancomdocs.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/167311
+@@||cdn.appdynamics.com/adrum$domain=cvs.com
 ! https://github.com/uBlockOrigin/uAssets/issues/20906
 @@||js.monitor.azure.com/scripts/$script,domain=genya.it
 ! https://github.com/AdguardTeam/AdguardFilters/issues/166849
