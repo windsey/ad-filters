@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-29T01:21:44.627Z
+! Last modified: 2023-11-29T06:24:30.113Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3583,7 +3583,6 @@
 ||dnt-userreport.com^
 ||tags.op-palvelut.fi^
 ||links.boom.ge^
-||analytics.skroutz.gr^
 ||heartbeat.pmd.444.hu^
 ||pixel.barion.com^
 ||rum.marquardmedia.hu^
@@ -4276,6 +4275,7 @@
 ||statistics.streamdav.com^
 ||stats.aerotime.aero^
 ||stats.calcalist.co.il^
+||stats.codeur.com^
 ||stats.davidickedelivery.com^
 ||stats.gateio.ch^
 ||stats.ibtimes.co.in^
