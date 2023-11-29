@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RjxDO9qPfbqvMje/e/oOcA
-! Version: 202311290611
+! Checksum: 7rVVh2R6ZeblFa6kh2ksog
+! Version: 202311291231
 ! Title: EasyList China
-! Last modified: 29 Nov 2023 06:11 UTC
+! Last modified: 29 Nov 2023 12:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -2358,6 +2358,10 @@ newduba.cn###jq_youxi
 ||bavkvoks.xyz^
 ||oouiqi.xyz^
 ||fxkfhbn.xyz^
+||commonwealthproficient.com^
+||rshsk.xyz^
+||bachou.cn^
+||ggrfab.icu^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
@@ -11338,6 +11342,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||jubaibaic.com/xx/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -19133,7 +19138,7 @@ theporn.cc##.toolbar-gg
 !#torrentkitty
 ###vpnModal.nordvpn-popup
 ##.nordvpn-popup + .sidebar-vpn
-$script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com
+$script,third-party,domain=torrentkitty.cam|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com
 .tor*/js/jquery.bpopup.
 /nordvpn/autoptimize_
 torkitty.com,torrentkitty.app,torrentkitty.io,torrentkitty.lol,torrentkitty.net,torrentkitty.se,torrentkitty.tv##a[href*="/aff_"]
@@ -19296,7 +19301,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@/hitCount_$xmlhttprequest,domain=on.cc
 @@/iplookup.$domain=cankaoxiaoxi.com|dongfeng-nissan.com.cn|huomao.com|loldk.com|sina.com.cn
 @@/log/report/*$script,domain=bilibili.com
-@@/sensorsdata-$domain=zkh.com
+@@/sensorsdata-$domain=aixiaoyuan.cn|zkh.com
 @@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|ttcdw.cn|xinrenxinshi.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/urchin.js$domain=on.cc
