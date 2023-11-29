@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-29T12:35:55.715Z
+! Last modified: 2023-11-29T18:23:53.761Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -210,7 +210,10 @@
 ||autyxdek.xyz^
 ||avplwte.xyz^
 ||awaw.asia^
+||ax7fv.space^
 ||azdiqsb.cn^
+||bachou.cn^
+||bavkvoks.xyz^
 ||bbfnrn.xyz^
 ||bcovazp.icu^
 ||bctxtl.xyz^
@@ -263,6 +266,7 @@
 ||cnrdlpk.xyz^
 ||cntc8.icu^
 ||cojvur.icu^
+||commonwealthproficient.com^
 ||corcztpc.xyz^
 ||crazyit8.com^
 ||crhabkd.cn^
@@ -271,6 +275,7 @@
 ||csmfee.xyz^
 ||cthbini.xyz^
 ||cuvtnzv.cn^
+||cvtbdap.xyz^
 ||cxpjrqa.cn^
 ||cy5kr.fun^
 ||danun.cn^
@@ -348,6 +353,7 @@
 ||fsgiosi.com^
 ||ftzzbx.xyz^
 ||fwhhcpj.xyz^
+||fxkfhbn.xyz^
 ||fytpft.xyz^
 ||fzgetdy.cn^
 ||g0fc3.com^
@@ -357,6 +363,7 @@
 ||gejhhh.cn^
 ||gelbjvl.cn^
 ||gfbdb1.com^
+||ggrfab.icu^
 ||ghbdsbfd.com^
 ||gixgav.icu^
 ||gizlnr.com^
@@ -580,6 +587,7 @@
 ||nerydw.xyz^
 ||newpgqnfapkamg.xyz^
 ||njppuaj.cn^
+||njreka.xyz^
 ||njrnwan.cn^
 ||njtbiml.xyz^
 ||nlfbdgr.xyz^
@@ -603,6 +611,7 @@
 ||omkxes.xyz^
 ||omzxutfm.com^
 ||ooejkd.xyz^
+||oouiqi.xyz^
 ||oprece.xyz^
 ||orssengseen.com^
 ||ovfvkfc.xyz^
@@ -668,10 +677,12 @@
 ||rkds2.icu^
 ||rkds5.icu^
 ||rntdqwc.xyz^
+||roio.top^
 ||ronm.top^
 ||roxewwq.cn^
 ||rqrvfp.xyz^
 ||rrfccx.com^
+||rshsk.xyz^
 ||rslkhj.xyz^
 ||rvreuxi.cn^
 ||rvvji.online^
@@ -860,14 +871,6 @@
 ||zys16.top^
 ||zyzo.cn^
 ||zzyy17.top^
-||cvtbdap.xyz^
-||roio.top^
-||njreka.xyz^
-||ax7fv.space^
-||bavkvoks.xyz^
-||oouiqi.xyz^
-||fxkfhbn.xyz^
-||commonwealthproficient.com^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
