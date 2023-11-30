@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: /fOYOqsoahtpFTT7oFgR3A
-! Version: 202311291811
+! Checksum: LgzzXFVIFxW3TYmCltOTHw
+! Version: 202311300110
 ! Title: EasyPrivacy
-! Last modified: 29 Nov 2023 18:11 UTC
+! Last modified: 30 Nov 2023 01:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -281,6 +281,7 @@
 /analytics/trackers?
 /analytics/visit.jsp
 /analytics/visit.php
+/analytics/visit?
 /analytics?http_referer
 /analytics?token=
 /analytics_events.js
@@ -4212,7 +4213,6 @@ _mongo_stats/
 ||ensighten.com^$third-party
 ||enticelabs.com^$third-party
 ||entravision.com^$third-party
-||envoke.com^$third-party
 ||eolcdn.com^$third-party
 ||ep4p.com^$third-party
 ||eperfectdata.com^$third-party
@@ -9960,6 +9960,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||felix.data.tm-awx.com/pageConfig
 ||felix.data.tm-awx.com/pageview
 ||filament-stats.herokuapp.com^
+||files.envoke.com^*/adt_nvk_tracking.js
 ||filesonic.com/referral/$third-party
 ||fingerprinter-production.herokuapp.com^
 ||fiorenetwork.com/aparatvast/log.php?
