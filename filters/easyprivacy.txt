@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-01T01:33:25.165Z
+! Last modified: 2023-12-01T06:24:53.586Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2075,6 +2075,7 @@
 ||verifyvegetable.com^
 ||verseballs.com^
 ||vibranthaven.com^
+||vibrantsundown.com^
 ||victoriousrequest.com^
 ||virgoplato.com^
 ||virtualvincent.com^
