@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-11-30T18:23:55.336Z
+! Last modified: 2023-12-01T01:33:29.729Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
 
+||attendingtarget.com^
 ||kgsehayyvhk.com^
 ||pyzwxkb.com^
 ||sthgqhb.com^
@@ -3877,8 +3878,6 @@ rgmechanicsgames.com*VPN.exe
 ||concertads-configs.vox-cdn.com^
 ||newopenx.detik.com^
 /^https?:\/\/ii\.apl\d+\.me\/js\/pop\.js$/
-
-||cuteasiangirl.net^$badfilter
 ||consent.cookiefirst.com^$badfilter
 ||stluserehtem.com^$badfilter
 @@||cdn.datatables.net^
@@ -18082,6 +18081,7 @@ rgmechanicsgames.com*VPN.exe
 ||jldbnjghezv.com^
 ||jlkhaohgew.xyz^
 ||jlmokzndbiafs.com^
+||jltdgjqgtbfyg.com^
 ||jltjgujdnyp.com^
 ||jmaomkosxfi.com^
 ||jmeanzkixok.com^
@@ -33681,6 +33681,7 @@ rgmechanicsgames.com*VPN.exe
 ||yrvzqabfxe.com^
 ||yscntxil.com^
 ||ysemblyjusting.info^
+||ysesials.net^
 ||ysnakestanothia.xyz^
 ||ysuchtjhwasp.info^
 ||ytbzqtrog.com^
