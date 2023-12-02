@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lzIgbRYS03x73aSBitGMhQ
-! Version: 202312021221
+! Checksum: 2VEzvqMQ0QYemMXytkz2ow
+! Version: 202312021810
 ! Title: EasyList
-! Last modified: 02 Dec 2023 12:21 UTC
+! Last modified: 02 Dec 2023 18:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -60908,6 +60908,7 @@ canarymedia.com##.inset-x-0
 tvarticles.me##.inside
 serverhunter.com##.instant-visit
 flixboss.com##.instream-dynamic
+arstechnica.com##.instream-wrap
 coincarp.com##.interact-mobileBox
 fool.com##.interad
 monochrome-watches.com##.interscroll
