@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-02T06:22:31.355Z
+! Last modified: 2023-12-02T12:32:07.718Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -793,6 +793,8 @@
 ||tunovl.xyz^
 ||ieequd.icu^
 ||latu.cc^
+||qgl27.xyz^
+||jhl1993.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
