@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-03T01:24:56.645Z
+! Last modified: 2023-12-03T06:22:19.747Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -130,6 +130,7 @@
 ||e1e.io^
 ||eagle-insight.com^
 ||easycompute.systems^
+||ecn-ldr.de^
 ||ed-sys.net^
 ||efreecode.com^
 ||egoi.site^
@@ -245,6 +246,7 @@
 ||mediamathrdrt.com^
 ||mirabelanalytics.com^
 ||mitour.de^
+||mitself.net^
 ||ml-sys.xyz^
 ||mm-api.agency^
 ||mobildev.in^
@@ -1736,6 +1738,7 @@
 ||sillyscrew.com^
 ||simplesidewalk.com^
 ||simplisticstem.com^
+||simulateswing.com^
 ||sincerebuffalo.com^
 ||sincereseashore.com^
 ||sinceresubstance.com^
@@ -3194,6 +3197,7 @@
 ||uim.tifbs.net^
 ||units.knotch.it^
 ||us-central1-markuphero.cloudfunctions.net^
+||usaoptimizedby.increasingly.co^
 ||user.userguiding.com^
 ||userexperience.thehut.net^
 ||usersegment.wpdigital.net^
@@ -3388,6 +3392,7 @@
 ||advantage.digitalsunray.com^
 ||analytics.audionow.de^
 ||analytics.gameforge.de^
+||analytics.idfnet.net^
 ||analytics.media-proweb.de^
 ||artemis-cdn.ocdn.eu^
 ||beagle.prod.tda.link^
@@ -4260,6 +4265,7 @@
 ||s.infogram.com^
 ||s.wayfair.com^
 ||saa.insideedition.com^
+||sapphire-api.target.com^
 ||search.anonymous.ads.brave.com^
 ||servo-report.dvdfab.
 ||shopmetric.rediff.com^
@@ -4337,6 +4343,7 @@
 ||tags.stepstone.com^
 ||tao.barstoolsports.com^
 ||taplytics-umami.grubhub.com^
+||target-us.samsung.com^
 ||target.nationwide.com^
 ||target.nejm.org^
 ||targeting.washpost.nile.works^
