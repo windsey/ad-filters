@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-04T06:25:16.432Z
+! Last modified: 2023-12-04T12:35:40.940Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2691,6 +2691,7 @@
 ||lps.qantas.com^
 ||lucid.mjhassoc.com^
 ||ma.logsss.com^
+||magento-recs-sdk.adobe.net^
 ||martech.condenastdigital.com^
 ||mas.nth.ch^
 ||mc.webvisor.com^
@@ -3358,6 +3359,7 @@
 ||dr3fr5q4g2ul9.cloudfront.net^
 ||drlimmode9ddd.cloudfront.net^
 ||dsbahmgppc0j4.cloudfront.net^
+||dtxtngytz5im1.cloudfront.net^
 ||du4rq1xqh3i1k.cloudfront.net^
 ||du8783wkf05yr.cloudfront.net^
 ||duu8lzqdm8tsz.cloudfront.net^

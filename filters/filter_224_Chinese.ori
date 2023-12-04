@@ -1433,6 +1433,7 @@ $script,third-party,denyallow=fastly.net|statically.io|sharecast.ws|bunnycdn.ru|
 !
 !
 !
+daybuy.tw##body .code-block
 ||tw.buy.yahoo.com/smartbanner/$domain=tw.news.yahoo.com
 litv.tv##.ad_impression
 ||iwarship.net/wowsdb/static/img/banner.png
@@ -5771,6 +5772,7 @@ newduba.cn###jq_youxi
 ||xn--gmq238c5fy.com^
 ||xn--9kq29i0tjy6b044actm.com^
 ||v34s6r.com^
+||hangzhouhdb.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
