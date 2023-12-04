@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-04T01:21:44.711Z
+! Last modified: 2023-12-04T06:25:16.432Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -19,6 +19,7 @@
 .skimlinks.js
 .v4.analytics.
 ://a869.
+://analytics-cdn.
 ://client.rum.
 ://elqtrk.
 ://insights-collector.
@@ -2867,6 +2868,7 @@
 ||sd-tagging.azurefd.net^
 ||sdrive.skoda-auto.com^
 ||sdtagging.azureedge.net^
+||secure-stats.pingdom.com^
 ||secure.merchantadvantage.com^
 ||seg.sharethis.com^
 ||sentry.arc.io^
@@ -21680,6 +21682,7 @@ arketing.indianadunes.com^
 ||rat.rakuten.co.jp^
 ||recv-entry.tbs.co.jp^
 ||recv-jnn.tbs.co.jp^
+||rtm-tracking.zozo.jp^
 ||scis.tbs.co.jp^
 ||stats.nhk.or.jp^
 ||sy.amebame.com^

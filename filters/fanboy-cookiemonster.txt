@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-04T01:21:45.056Z
+! Last modified: 2023-12-04T06:25:16.784Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -47,6 +47,7 @@
 ||gdpr-settings.s3.amazonaws.com^
 ||gdpr.studybreakmedia.com^
 ||macaron-cookie-data.decms.eu^
+||messaging.sourcepoint.com^
 ||optanon.blob.core.windows.net^
 ||plugin.management^
 ||privacy-cdn.sixfifty.com^
