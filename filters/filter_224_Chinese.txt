@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-05T12:35:53.969Z
+! Last modified: 2023-12-05T18:23:19.778Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -329,6 +329,7 @@
 ||dwerzv.xyz^
 ||dwq661.biz^
 ||dzdxnbc.xyz^
+||dzvy7.space^
 ||e3inu.space^
 ||eapect.icu^
 ||ebmlsvw.cn^
@@ -449,6 +450,7 @@
 ||haise5.top^
 ||hanadrmc.xyz^
 ||hangzhouhdb.top^
+||haokanshipin.com^
 ||haree.cn^
 ||haxqxd.xyz^
 ||hcgbhq.com^
@@ -518,6 +520,7 @@
 ||jingxuanjingyan.com^
 ||jjvzqjh.xyz^
 ||jlhlnd.xyz^
+||jltolz.xyz^
 ||jmhngn.com^
 ||jmvvpb.xyz^
 ||jndxsuy.xyz^
@@ -749,6 +752,8 @@
 ||rxrdjb.xyz^
 ||rycff.online^
 ||rzflhxn.cn^
+||s5ue6.com^
+||sbhduht.xyz^
 ||scqaaf.cn^
 ||sdklcnskvbks.com^
 ||serda10.icu^
@@ -760,8 +765,10 @@
 ||slkdfg.com^
 ||sllo.top^
 ||smlpcz.icu^
+||sotunet.com^
 ||splfnok.cn^
 ||sqevnrb.com^
+||sqgnqc.xyz^
 ||sregfle.cn^
 ||srldkqj.cn^
 ||srlhgo.cn^
@@ -804,6 +811,7 @@
 ||ugwxwy.xyz^
 ||uhjxitn.xyz^
 ||uidwyx.icu^
+||uiszwh.icu^
 ||ukjwyv.icu^
 ||ulrvkee.xyz^
 ||uncs7.top^
@@ -818,6 +826,7 @@
 ||v34s6r.com^
 ||vainews.cn^
 ||valerieurania.com^
+||vbzrkme.xyz^
 ||vdggsd001.com^
 ||vdggsd002.com^
 ||vdggsd003.com^
@@ -881,6 +890,7 @@
 ||xfqrsjq.cn^
 ||xfztgxt.com^
 ||xg6hb.xyz^
+||xgrcfz.xyz^
 ||xixil.cn^
 ||xjxbdh.xyz^
 ||xkfigjh.cn^
@@ -908,6 +918,7 @@
 ||ycgkol.icu^
 ||ycmgeb.icu^
 ||yepgdita.xyz^
+||ygfgzmzo.xyz^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
 ||yivkzvog.xyz^
@@ -933,6 +944,7 @@
 ||zents2.top^
 ||zhangyuting04.cn^
 ||zhongfumzzew.com^
+||ziyzcu.buzz^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
 ||zmfcnlvu.xyz^
@@ -947,15 +959,6 @@
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
-||dzvy7.space^
-||sqgnqc.xyz^
-||sotunet.com^
-||xgrcfz.xyz^
-||sbhduht.xyz^
-||ygfgzmzo.xyz^
-||vbzrkme.xyz^
-||jltolz.xyz^
-||haokanshipin.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
