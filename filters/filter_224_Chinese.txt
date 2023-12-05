@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-04T18:23:56.399Z
+! Last modified: 2023-12-05T01:22:06.773Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -947,6 +947,14 @@
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
+||dzvy7.space^
+||sqgnqc.xyz^
+||sotunet.com^
+||xgrcfz.xyz^
+||sbhduht.xyz^
+||ygfgzmzo.xyz^
+||vbzrkme.xyz^
+||jltolz.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
