@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GrjtdmHWL6i7laX9WCRLdA
-! Version: 202312060610
+! Checksum: u2dGQhkeNWAW8pgFK9XEfg
+! Version: 202312061220
 ! Title: EasyList
-! Last modified: 06 Dec 2023 06:10 UTC
+! Last modified: 06 Dec 2023 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -773,6 +773,7 @@
 /delivery/apu.php
 /delivery/avw.
 /delivery/fc.
+/delivery/lg.php
 /delivery/spc.
 /delivery_ads/*
 /dfp.min.js$third-party
@@ -55560,6 +55561,7 @@ browsershots.org#@#.advert_area
 ||shink.in/js/script.js
 ||shopmyshelf.us^$third-party
 ||shorte.st/link-converter.min.js
+||signup.asurion.com^$subdocument
 ||siteground.com/img/affiliate/
 ||siteground.com/img/banners/
 ||skimresources.com^$script,subdocument,third-party
@@ -58494,10 +58496,10 @@ healthbenefitstimes.com###ad-image-below
 thetimes.co.uk###ad-intravelarticle-inline
 dvdsreleasedates.com###ad-movie
 dappradar.com###ad-nft-top
-thedailymash.co.uk,thepoke.co.uk###ad-sidebar-1
-thedailymash.co.uk,thepoke.co.uk###ad-sidebar-2
-thedailymash.co.uk,thepoke.co.uk###ad-sidebar-3
-thedailymash.co.uk,thepoke.co.uk###ad-sidebar-4
+thedailymash.co.uk,thepoke.co.uk,thetab.com###ad-sidebar-1
+thedailymash.co.uk,thepoke.co.uk,thetab.com###ad-sidebar-2
+thedailymash.co.uk,thepoke.co.uk,thetab.com###ad-sidebar-3
+thedailymash.co.uk,thepoke.co.uk,thetab.com###ad-sidebar-4
 agegeek.com,boards.net,investing.com,mtaeta.info,notbanksyforum.com,pimpandhost.com,realgearonline.com,repairalmostanything.com,timeanddate.com,wordhippo.com,wordreference.com###ad1
 agegeek.com,investing.com,pimpandhost.com###ad2
 exchangerates.org.uk,investing.com###ad3
@@ -59389,6 +59391,7 @@ forum.mobilism.org###v-mobilism-org-0
 nutritioninsight.com###verticlblks
 filmibeat.com,goodreturns.in,mykhel.com,oneindia.com###verticleLinks
 ghgossip.com###vi-sticky-ad
+investing.com###video
 sportskeeda.com###video-player-container--
 forums.tomsguide.com###video_ad
 gumtree.com.au###view-item-page__leaderboard-wrapper
@@ -60302,6 +60305,8 @@ zdnet.com##.c-adDisplay_container_incontent-all-top
 tuko.co.ke##.c-adv
 legit.ng##.c-adv--video-placeholder
 cnet.com##.c-asurionBottomBanner
+cnet.com##.c-asurionInteractiveBanner
+cnet.com##.c-asurionInteractiveBanner_wrapper
 newstalkzb.co.nz##.c-background
 elnacional.cat##.c-banner
 truck1.eu##.c-banners

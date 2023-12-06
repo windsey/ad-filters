@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-06T06:24:14.458Z
+! Last modified: 2023-12-06T12:35:50.219Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -27,7 +27,6 @@
 ://segment-api.
 ://segment-cdn.
 ||adservice.google.
--logabpstatus.
 ||00px.net^
 ||1cros.net^
 ||2022welcome.com^
@@ -317,7 +316,6 @@
 ||rtactivate.com^
 ||rumt-sg.com^
 ||s-onetag.com^
-||salsify-ecdn.com^
 ||sbgsodufuosmmvsdf.info^
 ||sc-static.net^
 ||script.ac^
