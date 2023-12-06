@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-05T18:23:24.521Z
+! Last modified: 2023-12-06T01:21:58.491Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -705,6 +705,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||tagmanager.yodobashi.com^
+||d2cli4kgl5uxre.cloudfront.net^
 ||analytics.peraichi.com^
 ||ddl.alma.iltalehti.fi^
 ||azq.zozo.jp^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-05T18:23:18.440Z
+! Last modified: 2023-12-06T01:21:52.227Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3537,6 +3537,7 @@
 ||imp.ad-plus.cn^
 ||imp.go.sohu.com^
 ||imp.optaim.com^
+||log-api.cli.im^
 ||log.hiiir.com^
 ||log.qvb.qcloud.com^
 ||log.tagtic.cn^
@@ -21486,6 +21487,7 @@ arketing.indianadunes.com^
 ||beacon.qq.com^
 ||cherry.le.com^
 ||click.gamersky.com^
+||clickcount.cnool.net^
 ||count.candou.com^
 ||count5.pconline.com.cn^
 ||counter.people.cn^
