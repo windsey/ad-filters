@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-07T01:21:34.240Z
+! Last modified: 2023-12-07T06:24:29.177Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -989,6 +989,9 @@
 ||nwpcptmm.xyz^
 ||maxun066.top^
 ||maxun118.top^
+||lvzkfcm.cn^
+||cwrxgb.icu^
+||manymgsgn.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
