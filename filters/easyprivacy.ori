@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: BHO66Q2hnGcQNvn0hM4AiA
-! Version: 202312061810
+! Checksum: FffHy/uLw4Cnk11+43HPSg
+! Version: 202312070111
 ! Title: EasyPrivacy
-! Last modified: 06 Dec 2023 18:10 UTC
+! Last modified: 07 Dec 2023 01:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10188,6 +10188,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ipstatp.com/growth/fe_sdk/reportsdk/$third-party
 ||ipstatp.com/static_magic/pgc/tech/collect/$third-party
 ||iq.sixaxisllc.com^
+||iqzone.com^$third-party
 ||iraiser.eu/analytics.js
 ||isacglobal.com/sa.js
 ||isitelab.io/ite_sitecomV1ANA.min.js
@@ -33009,7 +33010,7 @@ arketing.indianadunes.com^
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
 @@||static.knowledgehub.com/global/images/ping.gif?$~third-party
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com
-@@||stats.sports.bellmedia.ca^$domain=tsn.ca
+@@||stats.sports.bellmedia.ca^$domain=rds.ca|tsn.ca
 @@||stats.statbroadcast.com/interface/webservice/event/$~third-party
 @@||steamstatic.com/steam/apps/$image,domain=store.steampowered.com
 @@||tagcommander.com^*/tc_$script
