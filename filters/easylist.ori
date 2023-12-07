@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RQ9zHX6OABIkRwJqJkYRGw
-! Version: 202312071221
+! Checksum: asL3PVzXn5hnbIFflq2oAA
+! Version: 202312071810
 ! Title: EasyList
-! Last modified: 07 Dec 2023 12:21 UTC
+! Last modified: 07 Dec 2023 18:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -753,6 +753,7 @@
 /css/adv.
 /cubead.
 /curveball/ads/*
+/custom_ads.js
 /customad.js
 /defaults_ads/*
 /deliverad/fc.js
@@ -7852,7 +7853,6 @@ _800x80_
 ##.ad-disclaimer-text
 ##.ad-display
 ##.ad-displayed
-##.ad-div
 ##.ad-div-a0-wrapper
 ##.ad-div-t0-wrapper
 ##.ad-diver
@@ -18440,7 +18440,7 @@ wiki.fextralife.com#@#.ad-sidebar
 wegotads.co.za#@#.ad-source
 isewanferry.co.jp,jreu-h.jp,junkmail.co.za,nexco-hoken.co.jp,version2.dk#@#.ad-text
 job.inshokuten.com#@#.ad-title
-lifeinvader.com,spanishdict.com,studentski-servis.com#@#.ad-wrapper
+lifeinvader.com,marginalreport.net,spanishdict.com,studentski-servis.com#@#.ad-wrapper
 leffatykki.com#@#.ad728x90
 cw.com.tw#@#.adActive
 thoughtcatalog.com#@#.adChoicesLogo
@@ -18562,7 +18562,6 @@ austurfrett.is,boards.4chan.org,boards.4channel.org#@#.middlead
 sankei.com#@#.module_ad
 seura.fi,www.msn.com#@#.nativead
 dogva.com#@#.node-ad
-youtube.com#@#.overlay-ads
 bloomberg.com#@#.page-ad
 rottentomatoes.com#@#.page_ad
 player.ex.co,theautopian.com#@#.pbs__player
@@ -18588,7 +18587,7 @@ k24tv.co.ke#@#.top-ad
 cp24.com#@#.topAd
 outinthepaddock.com.au#@#.topads
 codedevstuff.blogspot.com,hassiweb-programming.blogspot.com#@#.vertical-ads
-ads.google.com,youtube.com#@#.video-ads
+ads.google.com#@#.video-ads
 javynow.com#@#.videos-ad
 sacbee.com#@#.wps-player-wrap
 gumtree.com.au#@#[data-ad-name]
@@ -25817,6 +25816,7 @@ browsershots.org#@#.advert_area
 ||cypressreel.com^
 ||cyprie.com^
 ||cyrigh.com^
+||cyrxvpnu.com^
 ||cystisolor.com^
 ||cysumhqvrjvrs.xyz^
 ||cythat.com^
@@ -26282,6 +26282,7 @@ browsershots.org#@#.advert_area
 ||demurerbewary.live^
 ||denansgdfier.info^
 ||denansgdfierc.com^
+||denarocepa.com^
 ||denbeigemark.com^
 ||denbsd.com^
 ||dencejvlq.com^
@@ -27630,6 +27631,7 @@ browsershots.org#@#.advert_area
 ||eggerscorr.com^
 ||egglessunfrees.uno^
 ||eggsiswensa.com^
+||eggsreunitedpainful.com^
 ||eggytiptops.com^
 ||egknjiycidfj.com^
 ||egldvmz.com^
@@ -41184,6 +41186,7 @@ browsershots.org#@#.advert_area
 ||resinyanthdia.com^
 ||resistcorrectly.com^
 ||resistsarcasm.com^
+||resistshy.com^
 ||resizerlooch.com^
 ||resnaulum.com^
 ||resniks.pro^
@@ -42106,6 +42109,7 @@ browsershots.org#@#.advert_area
 ||savouryadolescent.com^
 ||savoyedpollet.life^
 ||savtvkdny.xyz^
+||sawalinitwits.com^
 ||sawanincreasein.info^
 ||saweatherco.com^
 ||sawfishdiapsid.com^
@@ -43042,6 +43046,7 @@ browsershots.org#@#.advert_area
 ||slimlyeneas.com^
 ||slimreply.pro^
 ||slimy-sport.pro^
+||slinkyfoliot.com^
 ||slipperspinchingsyntax.com^
 ||slipperswallpaper.com^
 ||slippery-bed.pro^
@@ -43678,6 +43683,7 @@ browsershots.org#@#.advert_area
 ||starvationdefence.com^
 ||starvegingerwaist.com^
 ||starverwear.com^
+||starvybryan.com^
 ||stastips.net^
 ||stat-rock.com^
 ||statcamp.net^
@@ -44296,6 +44302,7 @@ browsershots.org#@#.advert_area
 ||syruphamster.com^
 ||sysdmt.com^
 ||syseinpoundaym.info^
+||sysoutvariola.com^
 ||system-notify.app^
 ||systeme-business.online^
 ||systemengagedwisely.com^
@@ -45731,10 +45738,12 @@ browsershots.org#@#.advert_area
 ||tuffoonincaged.com^
 ||tufteraureous.digital^
 ||tugarmyindistinct.com^
+||tuglikevertigo.com^
 ||tugust.com^
 ||tuitionpancake.com^
 ||tujajnatzbmo.com^
 ||tujourda.net^
+||tukeelsy.com^
 ||tukulordimera.com^
 ||tulasitoughie.com^
 ||tuleceti.com^
@@ -45887,6 +45896,7 @@ browsershots.org#@#.advert_area
 ||tytothwarts.com^
 ||tytyeastfeukufun.info^
 ||tywdchppfgds.xyz^
+||tzaristdiploma.com^
 ||tzegilo.com^
 ||tzgygfy.com^
 ||tzugumojfm.com^
@@ -46166,6 +46176,7 @@ browsershots.org#@#.advert_area
 ||unevenregime.com^
 ||unfainfraseirs.org^
 ||unfairpromritual.com^
+||unfaithfulgoddess.com^
 ||unfaithfulmakeryearly.com^
 ||unfeeddizoic.com^
 ||unfieryneutral.com^
@@ -48461,6 +48472,7 @@ browsershots.org#@#.advert_area
 ||xprivate.cc^
 ||xpsavuyxtfnqphw.com^
 ||xqdfnqfgixjwpdb.xyz^
+||xqfwhxbfxhpjko.com^
 ||xqgwymog.xyz^
 ||xqhifbjhixb.com^
 ||xqmyebdrunebsh.xyz^
@@ -53394,6 +53406,7 @@ browsershots.org#@#.advert_area
 ||resetenhancementsillegal.com^$popup
 ||residelikingminister.com^$popup
 ||residenceseeingstanding.com^$popup
+||resistshy.com^$popup
 ||responsiverender.com^$popup
 ||resterent.com^$popup
 ||restorationbowelsunflower.com^$popup
@@ -63204,6 +63217,7 @@ donedeal.ie##div[class^="DFP__StyledAdSlot-"]
 genius.com##div[class^="DfpAd__Container-"]
 dailymotion.com##div[class^="DisplayAd"]
 games.dailymail.co.uk,nba.com##div[class^="DisplayAd_"]
+alternativeto.net##div[class^="GamAds_"]
 games.dailymail.co.uk##div[class^="GameTemplate__displayAdTop_"]
 benzinga.com##div[class^="GoogleAdBlock_"]
 livescore.com##div[class^="HeaderAdsHolder_"]
@@ -63692,9 +63706,7 @@ youtube.com###related > div#player-ads
 youtube.com###ytd-player button.ytp-suggested-action-badge
 youtube.com##.ad-showing > .html5-video-container
 youtube.com##.companion-ad-container
-youtube.com##.list-view[style="margin: 7px 0pt;"]
 youtube.com##.promoted-sparkles-text-search-root-container
-youtube.com##.promoted-videos
 youtube.com##.statement-banner-foreground-content
 youtube.com##.ytd-action-companion-ad-renderer
 youtube.com##.ytd-carousel-ad-renderer
