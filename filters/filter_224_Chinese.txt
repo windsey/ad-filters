@@ -1,10 +1,9 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-07T06:24:29.177Z
+! Last modified: 2023-12-07T12:35:50.258Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
-
 ||aziekg.xyz^
 ||max211.top^
 ||st-fly.b-cdn.net^
@@ -992,6 +991,8 @@
 ||lvzkfcm.cn^
 ||cwrxgb.icu^
 ||manymgsgn.com^
+||bmatgg18.xyz^
+||44180055.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
