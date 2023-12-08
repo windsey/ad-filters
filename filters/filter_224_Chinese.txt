@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-07T18:23:56.016Z
+! Last modified: 2023-12-08T01:21:54.982Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -999,6 +999,13 @@
 ||zyzo.cn^
 ||zzyy17.top^
 ||zzyy18.top^
+||uito.top^
+||ydv7k.cyou^
+||wwhsxwow.xyz^
+||cnqaaa.xyz^
+||hdbppx.xyz^
+||murdyq.com^
+||wzzlnld.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
