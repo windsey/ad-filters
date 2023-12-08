@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-08T12:34:55.859Z
+! Last modified: 2023-12-08T18:23:26.110Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -885,6 +885,8 @@
 ||zpzlbv.xyz^
 ||ytlcz.cn^
 ||lsce.top^
+||88dml.top^
+||valerieavisnba.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
