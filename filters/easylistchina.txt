@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-09T12:32:46.583Z
+! Last modified: 2023-12-09T18:21:37.004Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -453,6 +453,7 @@
 ||knuaxfv.cn^
 ||koyuod.xyz^
 ||kqbrgl.icu^
+||kqvvqv.icu^
 ||kshrsf.icu^
 ||ksrgsc.xyz^
 ||ktvtxir.xyz^
@@ -793,6 +794,7 @@
 ||wjoxqd.com^
 ||wkrcbszi.xyz^
 ||wlzlrlp.xyz^
+||wnllmyw.xyz^
 ||woxwhfdo.xyz^
 ||wqvbuj.icu^
 ||wrtjojn.xyz^
@@ -894,8 +896,6 @@
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||wnllmyw.xyz^
-||kqvvqv.icu^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
