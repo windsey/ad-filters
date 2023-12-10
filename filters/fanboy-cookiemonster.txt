@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-10T01:26:16.450Z
+! Last modified: 2023-12-10T06:22:36.020Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -205,6 +205,7 @@
 ||cmp.impress.co.jp^
 ||gdpr.api.bcdn.jp^
 ||gdpr.laxd.com^
+||consensu.infor.pl^
 ||cookie.gazeta.pl^
 ||cookies.fakt.pl^
 ||cookies.forbes.pl^
