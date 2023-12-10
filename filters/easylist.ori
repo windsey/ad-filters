@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BFaH5wfXFS65cHAssK1jHw
-! Version: 202312101220
+! Checksum: LGB1MM0MVfJ3sOnaFVMr2Q
+! Version: 202312101810
 ! Title: EasyList
-! Last modified: 10 Dec 2023 12:20 UTC
+! Last modified: 10 Dec 2023 18:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18363,8 +18363,13 @@ _800x80_
 ##display-ad-component
 ##div[id^="zergnet-widget"]
 ! Kayak
+##.CarResultsList > div > div.Dp1L[role=tab]
+##.ejnn-results-list-wrap > div > div > div > div > div.YTRJ[role="button"][tabindex="0"] > .yuAt-pres-rounded
+##.ev1_-results-list > div > div > div > div.G-5c[role="tab"][tabindex="0"] > .yuAt-pres-rounded
+##.ev1_-results-list > div > div > div > div[data-resultid$="-sponsored"]
 ##.resultsList > div > div > div > div.G-5c[role="tab"][tabindex="0"] > .yuAt-pres-rounded
 ##.resultsList > div > div > div > div[data-resultid$="-sponsored"]
+##.yPOz-adInner
 ! *** easylist:easylist/easylist_allowlist_general_hide.txt ***
 dez.ro#@##ad-carousel
 so-net.ne.jp#@##ad-p3
@@ -29128,6 +29133,7 @@ browsershots.org#@#.advert_area
 ||fortunegossipyattentive.com^
 ||fortunescrollstrap.com^
 ||fortyflattenrosebud.com^
+||fortyphlosiona.com^
 ||forumsotiatry.com^
 ||forunfezanttor.com^
 ||forworksyconus.com^
@@ -32638,6 +32644,7 @@ browsershots.org#@#.advert_area
 ||jgqflgggex.com^
 ||jgszymcphwcege.com^
 ||jgydqhp.com^
+||jhdiujyjihnw.com^
 ||jhfhdkhkh.site^
 ||jhiekkjeyyfbj.com^
 ||jhoncj.com^
@@ -36308,6 +36315,7 @@ browsershots.org#@#.advert_area
 ||nightsboostam.com^
 ||nigion.com^
 ||nigmen.com^
+||nigooshe.net^
 ||nigure.com^
 ||nihiy.com^
 ||nikkiexxxads.com^
@@ -50676,6 +50684,7 @@ browsershots.org#@#.advert_area
 ||bestgames-2022.com^$popup
 ||bestgirls4fuck.com^$popup
 ||bestmoviesflix.xyz^$popup
+||bestplaceforall.com^$popup
 ||bestproducttesters.com^$popup
 ||bestrevenuenetwork.com^$popup
 ||bestvenadvertising.com^$popup
@@ -50965,6 +50974,7 @@ browsershots.org#@#.advert_area
 ||coticoffee.com^$popup
 ||countertrck.com^$popup
 ||countessbridge.com^$popup
+||countvouchers.com^$popup
 ||countypuddleillusion.com^$popup
 ||cpalabtracking.com^$popup
 ||cpaoffers.network^$popup
@@ -51385,6 +51395,7 @@ browsershots.org#@#.advert_area
 ||formulacountess.com^$popup
 ||forooqso.tv^$popup
 ||forthdigestive.com^$popup
+||fortyphlosiona.com^$popup
 ||forzubatr.com^$popup
 ||fostereminent.com^$popup
 ||fourwhenstatistics.com^$popup
@@ -52990,6 +53001,7 @@ browsershots.org#@#.advert_area
 ||rtpdn12.com^$popup
 ||rtyznd.com^$popup
 ||rubylife.go2cloud.org^$popup
+||rudderwebmy.com^$popup
 ||rufflycouncil.com^$popup
 ||rulefloor.com^$popup
 ||rummagemason.com^$popup
@@ -53251,6 +53263,7 @@ browsershots.org#@#.advert_area
 ||stimaariraco.info^$popup
 ||stinglackingrent.com^$popup
 ||stoagergu.com^$popup
+||stoaltoa.top^$popup
 ||stoorgel.com^$popup
 ||stop-adblocker.info^$popup
 ||stopadblocker.com^$popup
@@ -53943,6 +53956,7 @@ browsershots.org#@#.advert_area
 ||yourfreshposts.com^$popup
 ||yourperfectdating.life^$popup
 ||yourprivacy.icu^$popup
+||yourtopwords.com^$popup
 ||ysesials.net^$popup
 ||ytgzz.com^$popup
 ||yukclick.me^$popup
@@ -59127,7 +59141,7 @@ chimpreports.com,collive.com,defence-industry.eu,islandecho.co.uk,locklab.com,ma
 abcya.com##.a-skyscraper
 krebsonsecurity.com##.a-statement
 tellymix.co.uk##.a-text
-androidtrends.com,backthetruckup.com,streamsgeek.com,trendstorys.com##.a-wrap
+androidtrends.com,backthetruckup.com,bingehulu.com,streamsgeek.com,trendstorys.com##.a-wrap
 breitbart.com##.a-wrapper
 cryptfaucet.com##.a1
 getpocket.com##.a1cawpek
@@ -63189,6 +63203,7 @@ youtube.com###content > ytd-ad-slot-renderer
 youtube.com###contents.style-scope.ytd-search-pyv-renderer
 youtube.com###items > ytd-ad-slot-renderer
 youtube.com###main > #banner.ytd-merch-shelf-renderer
+youtube.com###masthead-ad > .ytd-rich-grid-renderer
 youtube.com###related > div#player-ads
 youtube.com###scroll-container > #items.ytd-merch-shelf-renderer
 youtube.com##.ytp-chrome-top-buttons > .ytp-cards-teaser
