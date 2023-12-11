@@ -479,6 +479,10 @@
 ! Bad: ||ad.doubleclick.net^ (should be in adservers.txt)
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/168132
+xbgame.net#@#.google-ads
+xbgame.net#@##google-ads
+xbgame.net#$#.download .content-area > div[class] { background-image: none !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167332
 18comic.vip#%#//scriptlet('prevent-setTimeout', 'float_right > div')
 18comic.org,18comic.vip,18-comic.work#@?#:-abp-has(>ins+script)
@@ -1087,6 +1091,8 @@ nfmovies.com#$#a[onclick*="openurl"][target="_blank"] img[src^="/static/"] { pos
 !--------------------------------------!
 ! SECTION: Chinese - JS
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/168280
+ofiii.com#%#//scriptlet('trusted-replace-fetch-response', '"play_ads":true', '"play_ads":false')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/163538
 v.qq.com#%#//scriptlet('set-constant', 'CreativePlayerwebPlugin.AD_EVENT.AD_DESTROY', '')
 v.qq.com#%#//scriptlet('set-constant', 'CreativePlayerwebPlugin.AD_EVENT.AD_LOAD_START', '')
