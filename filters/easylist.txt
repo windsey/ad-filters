@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-10T18:21:40.214Z
+! Last modified: 2023-12-11T01:22:14.709Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -31422,6 +31422,7 @@
 ||rst.pornyhd.com^
 ||rtb-1.jizzberry.com^
 ||rtb-1.mylust.com^
+||rtb-3.xgroovy.com^
 ||slview.psne.jp^
 ||support.streamjav.top^
 ||tokyo.xhamster.com^

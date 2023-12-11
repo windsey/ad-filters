@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-10T18:21:45.848Z
+! Last modified: 2023-12-11T01:22:20.297Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -34826,6 +34826,7 @@ rgmechanicsgames.com*VPN.exe
 ||ro55cpi1.xhamster.com^
 ||rtb-1.jizzberry.com^
 ||rtb-1.mylust.com^
+||rtb-3.xgroovy.com^
 ||slview.psne.jp^
 ||tokyo.xhamster.com^
 ||wi9u5paiwo.xhamster.com^
