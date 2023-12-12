@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zcuF0zYT8xw3lTSUGV8QpQ
-! Version: 202312121220
+! Checksum: zyGf4vSpk61YgvQ+XTjv7g
+! Version: 202312121810
 ! Title: EasyList
-! Last modified: 12 Dec 2023 12:20 UTC
+! Last modified: 12 Dec 2023 18:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -35435,7 +35435,6 @@ browsershots.org#@#.advert_area
 ||mm-cgnews.com^
 ||mm-syringe.com^
 ||mmadsgadget.com^
-||mmcdn.com^
 ||mmctsvc.com^
 ||mmdyvkndcsiw.com^
 ||mmgads.com^
