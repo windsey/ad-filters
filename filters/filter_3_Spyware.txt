@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-13T12:41:11.341Z
+! Last modified: 2023-12-13T18:22:11.373Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -27,6 +27,7 @@
 ||us.tags.newscgp.com^
 ||smazaz.icu^
 ||mpraven.org^
+||rumt-zh.com^
 ||smatr.net^
 ||meet-buddy.com^
 ||adsmeasurement.com^
@@ -710,6 +711,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||log.znews.vn^
 ||aem-kakao-collector.onkakao.net^
 ||cellar-analytics.mapion.co.jp^
 ||event.hackle.io^
@@ -1413,6 +1415,7 @@
 ||beacon.netflix.com^
 ||beacon.nuskin.com^
 ||beacon.qq.com^
+||beacon.cdn.qq.com^
 ||beacon.riskified.com^
 ||beacon.samsclub.com^
 ||beacon.sojern.com^
