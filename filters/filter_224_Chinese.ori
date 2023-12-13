@@ -80,6 +80,7 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||98765.pw^
 ||cdn.holmesmind.com^$third-party
 ||aziekg.xyz^
 ||max211.top^
@@ -5918,6 +5919,7 @@ newduba.cn###jq_youxi
 ||nefrpt.top^
 ||mstkvnya.xyz^
 ||fgukchz.icu^
+||abcd789.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
