@@ -1092,6 +1092,9 @@ nfmovies.com#$#a[onclick*="openurl"][target="_blank"] img[src^="/static/"] { pos
 !--------------------------------------!
 ! SECTION: Chinese - JS
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/168192
+m.lwxs.com#%#//scriptlet('abort-current-inline-script', 'eval', '_0x')
+m.lwxs.com#%#//scriptlet('abort-current-inline-script', 'document.write', '_0x')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/168280
 ofiii.com#%#//scriptlet('trusted-replace-fetch-response', '"play_ads":true', '"play_ads":false')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/163538
@@ -1447,6 +1450,8 @@ $script,third-party,denyallow=fastly.net|statically.io|sharecast.ws|bunnycdn.ru|
 !
 !
 !
+4gamers.com.tw#?#.container-fluid  > .vue-portal-target:has(> div[style] > .aroma-news-detail-iframe-ads)
+4gamers.com.tw#?#.aroma-news-detail-side > div[media-width]:has(div.aols-wrapper > a[target="_blank"][rel="noopener"])
 ||adsv.svc.litv.tv/ads?ad_unit=$xmlhttprequest,redirect=noopvast-3.0,important,domain=ani.gamer.com.tw
 ||pubads.g.doubleclick.net/gampad/ads?*&description_url=https%3A%2F%2Fani.gamer.com.tw$xmlhttprequest,redirect=noopvast-3.0,important
 gonglue.us###custom_html-6
@@ -4925,6 +4930,8 @@ newduba.cn###jq_youxi
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:120px;"]
 ##center > a[target="_blank"] > img[style="padding- bottom:5px;width:960px;height:60px;"]
 ##div#ad_id
+##.pro1-molnk
+##.prom-olnk
 ##div#xinxi
 ##div[bannerlist]
 ~ix8.la##div[class^="ADTOPLB_"]
@@ -5944,6 +5951,7 @@ newduba.cn###jq_youxi
 ||1229a.xyz^
 ||1227a.xyz^
 ||jdbfknsbkldns.com^
+||88dgn.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-14T12:35:32.222Z
+! Last modified: 2023-12-14T18:23:58.516Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -965,6 +965,7 @@
 ||1229a.xyz^
 ||1227a.xyz^
 ||jdbfknsbkldns.com^
+||88dgn.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
