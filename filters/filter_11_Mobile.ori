@@ -1419,6 +1419,8 @@ sasisa.ru#%#AG_onLoad(function() { window.Umobi = function() {}; });
 !-------CSS---------
 !-------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/168489
+imginn.com#$#body { padding-top: 0 !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/167698
 kantan.game#$#.c-game-footer-ad { display: none !important; }
 kantan.game#$##game_iframe[style*="min-height: calc"] { min-height: 100% !important; }
@@ -2608,6 +2610,9 @@ gamesworld.de,fnn.jp##.Ad
 !
 ! SECTION: Regular rules
 !
+hothardware.com##.ad-block-MedRecMobile
+reuters.com##div[class^="article-body_"] > div[class*="cnx-player__in-article_"]
+tokfm.pl###banP104_DFP
 multporn.net#?#.region-content > div.block-block:has(> div.content > script[data-idzone])
 vologda-poisk.ru##.brn--m-up1
 hostlove.com#$#body.index .top_anc { margin-bottom: 0px !important; }
@@ -2632,7 +2637,6 @@ nifty.com#?#ul > li:has(> a[class*="rticle_ad"])
 definebabe.com##div[class^="mobile_"]
 indy100.com##.sticky-promo-bottom
 bakusai.com##.ad_height50
-fmoviesz.to#?#div.aside-wrapper > aside.main:has(> div.text-center > a[rel="nofollow"][target="_blank"])
 search.yahoo.co.jp##article[class^="W2ARailway_"]
 elpasotimes.com##div[class^="gnt_xmst"]
 tvblog.it##.engageya-widget
