@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-14T01:20:27.283Z
+! Last modified: 2023-12-14T06:24:16.370Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -547,6 +547,7 @@
 ||ambiguousquilt.com^
 ||ambitiousagreement.com^
 ||ambitiousanimal.com^
+||amethystzenith.com^
 ||amusedbucket.com^
 ||amusementmorning.com^
 ||amusinggirls.com^
@@ -1098,6 +1099,7 @@
 ||franticroof.com^
 ||frantictrail.com^
 ||freezingbuilding.com^
+||frequentflesh.com^
 ||fretfulfurniture.com^
 ||friendlycrayon.com^
 ||friendlyfold.com^
@@ -1127,6 +1129,7 @@
 ||gaudybeginner.com^
 ||generalprose.com^
 ||gentlemoonlight.com^
+||giantsvessel.com^
 ||giddycoat.com^
 ||giftedglue.com^
 ||giftedthumb.com^
@@ -1854,6 +1857,7 @@
 ||songssmoke.com^
 ||songsterritory.com^
 ||sootheside.com^
+||soothingglade.com^
 ||sophisticatedstory.com^
 ||sophisticatedstove.com^
 ||sordidsmile.com^
@@ -2044,6 +2048,7 @@
 ||terriblethumb.com^
 ||terrificgoose.com^
 ||terrifictooth.com^
+||testadmiral.com^
 ||testedtouch.com^
 ||teststocking.com^
 ||texturetrick.com^
@@ -2962,6 +2967,7 @@
 ||smart-data-systems.com^
 ||smrt.as^
 ||snowplow.swm.digital^
+||snowplowjs.darwin.cx^
 ||solutions.invocacdn.com^
 ||sp-wukong-tracker.b-cdn.net^
 ||sp.tinymce.com^
@@ -4285,6 +4291,7 @@
 ||pac.thesun.co.uk^
 ||pappagallu.onefootball.com^
 ||perf.mouser.com^
+||performance-logger.minted.com^
 ||perr.hola.org^
 ||pf.newegg.com^
 ||ph.thenextweb.com^
