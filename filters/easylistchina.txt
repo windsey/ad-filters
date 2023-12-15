@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-15T06:24:19.603Z
+! Last modified: 2023-12-15T12:35:08.038Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -974,6 +974,8 @@
 ||qtciam.xyz^
 ||birglucy.xyz^
 ||vjnxpj.xyz^
+||alchemeeten.com^
+||worlderva.com^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
