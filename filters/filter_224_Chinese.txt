@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-15T01:22:24.334Z
+! Last modified: 2023-12-15T06:24:21.615Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1079,7 +1079,6 @@
 ||rwnmcum.cn^
 ||xn--1qwynp09f.net^
 ||smbx8.net^
-||sda1.dev^
 ||mross044.com^
 ||maxun103.top^
 ||kfpicimage.xyz^

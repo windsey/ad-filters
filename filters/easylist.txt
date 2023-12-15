@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-15T01:22:21.725Z
+! Last modified: 2023-12-15T06:24:19.236Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -31573,6 +31573,7 @@
 ||dmxleo.dailymotion.com^
 ||dontent.powzers.lol^
 ||e.cdngeek.com^
+||edge.ads.twitch.tv^
 ||eentent.streampiay.me^
 ||engagesrvr.filefactory.com^
 ||engine.fxempire.com^

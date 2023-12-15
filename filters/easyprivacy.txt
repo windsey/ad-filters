@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-15T01:22:22.886Z
+! Last modified: 2023-12-15T06:24:20.290Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -549,6 +549,7 @@
 ||ambitiousagreement.com^
 ||ambitiousanimal.com^
 ||amethystzenith.com^
+||amuckafternoon.com^
 ||amusedbucket.com^
 ||amusementmorning.com^
 ||amusinggirls.com^
