@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-16T12:32:30.297Z
+! Last modified: 2023-12-16T18:21:46.461Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -4492,8 +4492,6 @@
 ||tracking.christianpost.com^
 ||tracking.digitalocean.com^
 ||tracking.engineering.cloud.seek.com.au^
-||tracking.epicgames.com^
-||tracking.fortnite.com^
 ||tracking.hsn.com^
 ||tracking.shopstyle.co.uk^
 ||tracking.shopstyle.com^
