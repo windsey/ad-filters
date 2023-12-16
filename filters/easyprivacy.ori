@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 8pcbBhQIEd3Yfv58ar8hBA
-! Version: 202312160611
+! Checksum: +rG/qEcnHvw/gdua4XA73w
+! Version: 202312161221
 ! Title: EasyPrivacy
-! Last modified: 16 Dec 2023 06:11 UTC
+! Last modified: 16 Dec 2023 12:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14595,6 +14595,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ! ||hfd.bridgetowermedia.com^
 ! ||seek.intel.com^
 ! ||link.medium.com^
+! ||go.oracle.com^
 ||clickmail.stubhub.com^$image,script
 ||email.mg.everyonesocial.com^$image,script
 ||wl.spotify.com^$image,script
@@ -25315,7 +25316,6 @@ arketing.indianadunes.com^
 ||go.morningstar.com^
 ||go.navepoint.com^
 ||go.netwitness.com^
-||go.oracle.com^
 ||go.petrelocation.com^
 ||go.protools.emerson.com^
 ||go.psentertainment.com^

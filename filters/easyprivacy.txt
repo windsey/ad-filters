@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-16T06:22:29.884Z
+! Last modified: 2023-12-16T12:32:30.297Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -15261,7 +15261,6 @@ arketing.indianadunes.com^
 ||go.morningstar.com^
 ||go.navepoint.com^
 ||go.netwitness.com^
-||go.oracle.com^
 ||go.petrelocation.com^
 ||go.protools.emerson.com^
 ||go.psentertainment.com^
