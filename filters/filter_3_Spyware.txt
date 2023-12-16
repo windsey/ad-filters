@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-15T18:23:33.188Z
+! Last modified: 2023-12-16T01:20:23.332Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -402,6 +402,7 @@
 ||vought.removeads.workers.dev^
 ||analytics.churnzero.net^
 ||trk.reclameaqui.com.br^
+||events-api.gazetadopovo.com.br^
 ||events.busuu.com^
 ||log.intellimize.co^
 ||analytics.tradedoubler.com^
