@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-17T01:26:14.053Z
+! Last modified: 2023-12-17T06:22:35.123Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -142,7 +142,9 @@
 ||consentement.ouest-france.fr^
 ||cookies.leadplace.fr^
 ||privacy.footmercato.net^
+||cmp.vizus.cz^
 ||consent.t-mobile.cz^
+||me9ddf.moebelix.cz^
 ||ccm.npo.nl^
 ||cmp.deondernemer.nl^
 ||cookie.vrt.be^
