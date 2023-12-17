@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-17T06:22:34.779Z
+! Last modified: 2023-12-17T12:32:45.281Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -370,7 +370,6 @@
 ||turbolion.io^
 ||tvpixel.com^
 ||tw.cx^
-||tzegilo.com^
 ||ugdturner.com^
 ||uidapi.com^
 ||uqd.io^
@@ -3717,6 +3716,7 @@
 ||dmpcdn.el-mundo.net^
 ||dmpmetrics.rcsmetrics.it^
 ||evnt.iol.it^
+||heatmaps.lcisoft.it^
 ||limone.iltrovatore.it^
 ||livestats.matrix.it^
 ||log.edidomus.it^

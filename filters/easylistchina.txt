@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-17T06:22:34.067Z
+! Last modified: 2023-12-17T12:32:44.504Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1003,6 +1003,9 @@
 ||nbhixt.xyz^
 ||uphcrjth.xyz^
 ||bphcrjth.xyz^
+||xphcrjth.xyz^
+||tphcrjth.xyz^
+||pengjinvc.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
