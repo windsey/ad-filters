@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-18T06:25:37.527Z
+! Last modified: 2023-12-18T12:36:28.083Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1021,6 +1021,8 @@
 ||alwaysc.com^
 ||vpqrydt.xyz^
 ||opszt.com^
+||xvpqrydt.xyz^
+||tvpqrydt.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
