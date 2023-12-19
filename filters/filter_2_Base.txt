@@ -1,9 +1,17 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-18T18:23:29.957Z
+! Last modified: 2023-12-19T01:20:35.993Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
+
+||ovkamwvdof.com^
+||groacoaz.com^
+||stepchateautolerance.com^
+||strandedpeel.com
+||evwmwnd.com^
+||eneverseen.org^
+||realiukzem.org^
 ||jenwyrjbvvlrl.top^
 ||elwcchbwtnohia.com^
 ||bipidoan.com^
@@ -476,6 +484,7 @@
 ||samsungtvads.com^
 ||adconsent.samsungrs.com^
 
+||d39xdhxlbi0rlm.cloudfront.net^
 ||dvv009j588zal.cloudfront.net^
 ||d18ql5xgy7gz3p.cloudfront.net^
 ||d2f0ixlrgtk7ff.cloudfront.net^
