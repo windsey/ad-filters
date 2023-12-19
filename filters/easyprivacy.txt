@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-19T01:20:31.470Z
+! Last modified: 2023-12-19T06:24:19.060Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -35,6 +35,7 @@
 ||2smt6mfgo.de^
 ||31daa5lnq.de^
 ||3gl.net^
+||4251.tech^
 ||520886.xyz^
 ||a1webstrategy.com^
 ||a8723.com^
@@ -3122,6 +3123,7 @@
 ||telemetry.soundcloud.com^
 ||telemetry.tableausoftware.com^
 ||telemetry.vtex.com^
+||test.takedwn.ws^
 ||timber.sendtonews.com^
 ||timejs.game.163.com^
 ||tk.storetail.io^
@@ -4124,6 +4126,7 @@
 ||d.skk.moe^
 ||data.allstate.com^
 ||data.guide.photobucket.com^
+||data.torry.io^
 ||data.younow.com^
 ||datadome.patreon.com^
 ||dbhsejcg-meetup-com.cdnjs.network^
