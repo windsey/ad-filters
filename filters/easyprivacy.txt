@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-20T06:19:26.611Z
+! Last modified: 2023-12-20T12:28:43.702Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1731,6 +1731,7 @@
 ||scarfsmash.com^
 ||scarfthought.com^
 ||scatteredheat.com^
+||scatteredquiver.com^
 ||scatteredstream.com^
 ||scientificshirt.com^
 ||scientificsneeze.com^
@@ -4087,6 +4088,7 @@
 ||clp-mms.cloudpro.co.uk^
 ||cm-mms.coachmag.co.uk^
 ||cm.nordvpn.com^
+||cmpworker.dotesports.com^
 ||cnt.hd21.com^
 ||cnt.iceporn.com^
 ||cnt.viptube.com^
