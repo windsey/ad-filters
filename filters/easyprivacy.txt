@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-21T01:19:47.177Z
+! Last modified: 2023-12-21T06:24:00.548Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -195,7 +195,9 @@
 ||googleoptimize.com^
 ||googletagmanager.com^
 ||gw-dv.vip^
+||hbiq.net^
 ||hdmtools.com^
+||herbgreencolumn.com^
 ||hs-analytics.net^
 ||hsadspixel.net^
 ||hsleadflows.net^
@@ -2260,6 +2262,7 @@
 ||analytic.rollout.io^
 ||analyticcdn.globalmailer.com^
 ||analytics-1.cavai.com^
+||analytics-api.klickly.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-consent-manager-v2-prod.azureedge.net^
 ||analytics-production.hapyak.com^
