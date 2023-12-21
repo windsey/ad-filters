@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Jqz6q75KPSm0WFzKitG13Q
-! Version: 202312211221
+! Checksum: vCGEtqeuay9Fkjs2AotypA
+! Version: 202312211811
 ! Title: EasyPrivacy
-! Last modified: 21 Dec 2023 12:21 UTC
+! Last modified: 21 Dec 2023 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2732,10 +2732,8 @@ _WebVitalsReporter_
 /ContextLogResource/*
 /statslogresource/*
 ! Amazon
-/action-impressions/*
 /ajax/counter?ctr=
 /batch/1/OE/*
-/batch/1/OP/*
 /insights/reportEvent/*
 /loi/imp?
 /remote-weblab-triggers/*
@@ -4192,6 +4190,7 @@ omni.soundestlink.com$image
 ||exponea.com^$third-party
 ||exposebox.com^$third-party
 ||extole.com^$third-party
+||extrawatch.com^$third-party
 ||extreme-dm.com^$third-party
 ||extreme-ip-lookup.com^$third-party
 ||eyein.com^$third-party
