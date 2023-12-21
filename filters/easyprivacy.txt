@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-21T06:24:00.548Z
+! Last modified: 2023-12-21T12:34:57.518Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -864,6 +864,7 @@
 ||curvycry.com^
 ||cushiondrum.com^
 ||cushionpig.com^
+||cutcurrent.com^
 ||cutecalculator.com^
 ||cutechin.com^
 ||cutecushion.com^
@@ -4092,6 +4093,7 @@
 ||cm-mms.coachmag.co.uk^
 ||cm.nordvpn.com^
 ||cmpworker.dotesports.com^
+||cmpworker.primagames.com^
 ||cnt.hd21.com^
 ||cnt.iceporn.com^
 ||cnt.viptube.com^

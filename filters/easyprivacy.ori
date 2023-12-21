@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 6ne9pE5TsPy2Y2HxogTAxA
-! Version: 202312210611
+! Checksum: Jqz6q75KPSm0WFzKitG13Q
+! Version: 202312211221
 ! Title: EasyPrivacy
-! Last modified: 21 Dec 2023 06:11 UTC
+! Last modified: 21 Dec 2023 12:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6729,6 +6729,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||curvycry.com^
 ||cushiondrum.com^
 ||cushionpig.com^
+||cutcurrent.com^
 ||cutecalculator.com^
 ||cutechin.com^
 ||cutecushion.com^
@@ -13105,6 +13106,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cm-mms.coachmag.co.uk^
 ||cm.nordvpn.com^
 ||cmpworker.dotesports.com^
+||cmpworker.primagames.com^
 ||cnt.hd21.com^
 ||cnt.iceporn.com^
 ||cnt.viptube.com^
