@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: akrYx5S+QXW/eU5rxd8UGw
+! Checksum: kBwC+6ZSZdiZcIbvYcPe2Q
 ! Title: Easylist Cookie List
-! Updated: 2023-12-20 17:45 UTC
+! Updated: 2023-12-21 00:00 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
-! Email: easylist@protonmail.com
+! Email: easylist@protonmail.com 
 ! Homepage: https://easylist.to/
 ! Forums: https://forums.lanik.us/
 !
@@ -22764,7 +22764,7 @@ energiewonen.nl###stOverlay
 energiewonen.nl###stOverlayB
 picnic-supermarkt.nl###switch2
 bingoal.be###tocmask
-schulinck.nl###udtDark
+antwoordop.nl,schulinck.nl###udtDark
 webshop.nl##.Gdpr-module__gdpr___oxQjD
 unionriver.nl##.H_MhpZ
 woonfonds.mijnleninginzicht.nl##.ModalCookie
@@ -23558,6 +23558,7 @@ motopedia.otomoto.pl##.SRaBM
 reportaz.polskieradio.pl##.TermsOfUseModal_modalWrapper__3bWPX
 talixo.pl##.TrackingInfoBox
 przemyslprzyszlosci.gov.pl##._consent
+remedium.md##._cookie_cookies-panel__LMI9a
 genetico.pl##.abcd
 mpastucha.pl##.ad-modal
 alcalia.pl##.alcalia-cookies
