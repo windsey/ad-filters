@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-22T01:19:07.510Z
+! Last modified: 2023-12-22T06:24:10.898Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3822,7 +3822,6 @@
 ||mtag.mman.kr^
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
-||pxl.retaku.net^
 ||saluton.cizion.com^
 ||sas.nsm-corp.com^
 ||teralog.techhub.co.kr^

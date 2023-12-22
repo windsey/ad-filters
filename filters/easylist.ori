@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jSOxP1zXKcj0LYRubLQPHw
-! Version: 202312220106
+! Checksum: dCOXT51rZk2eexxORHIXyQ
+! Version: 202312220611
 ! Title: EasyList
-! Last modified: 22 Dec 2023 01:06 UTC
+! Last modified: 22 Dec 2023 06:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50050,6 +50050,7 @@ browsershots.org#@#.advert_area
 ||cpm.media^$third-party
 ||cpmleader.com^$third-party
 ||crakmedia.com^$third-party
+||crazyrocket.io^$third-party
 ||crispads.com^$third-party
 ||croea.com^$third-party
 ||cryptoads.space^$third-party
