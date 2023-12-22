@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-22T12:33:37.024Z
+! Last modified: 2023-12-22T18:22:33.025Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -695,7 +695,6 @@
 ||storetail.io^
 ||dnsdelegation.io^
 ||at-o.net^
-||atinternet.com^
 ||mj23.eulerian.com^
 ||eulerian.splendia.com^
 ||eulerian.sarenza.com^

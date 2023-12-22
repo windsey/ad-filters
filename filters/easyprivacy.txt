@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-22T12:33:30.901Z
+! Last modified: 2023-12-22T18:22:26.890Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3066,6 +3066,7 @@
 ||t.91syun.com^
 ||t.a3cloud.net^
 ||t.adx.opera.com^
+||t.arcade.show^
 ||t.auditedmedia.org.au^
 ||t.beop.io^
 ||t.bimvid.com^
