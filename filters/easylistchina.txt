@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-24T01:24:22.760Z
+! Last modified: 2023-12-24T06:22:25.963Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1113,6 +1113,7 @@
 ||ielgag.top^
 ||udsahkln.xyz^
 ||sogou.st^
+||bdsahkln.xyz^
 ||zzyy20.top^
 ||002777.xyz^
 ||01v62.xyz^
