@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-23T18:21:38.256Z
+! Last modified: 2023-12-24T01:24:23.796Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -95,7 +95,6 @@
 ||consent.stuff.tv^
 ||consent.thecountrysmallholder.com^
 ||consent.thegreatoutdoorsmag.com^
-||consent.unilad.com^
 ||cookie-consent.festo.com^
 ||cookies.lmt.lv^
 ||fuse.forbes.com^
