@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4m2nGrqxOMHEjfz1ZtklHw
-! Version: 202312241811
+! Checksum: 5QdXOdBn3PbCFxAbmzKDXg
+! Version: 202312250111
 ! Title: EasyList
-! Last modified: 24 Dec 2023 18:11 UTC
+! Last modified: 25 Dec 2023 01:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -63055,6 +63055,7 @@ livability.com##.wp-block-jci-ad-area-two
 bangordailynews.com,michigandaily.com##.wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit
 pedestrian.tv##.wp-block-ped-theme-blocks-pedestrian-recent-jobs
 hyperallergic.com,repeatreplay.com,steamdeckhq.com##.wp-block-spacer
+thewrap.com##.wp-block-the-wrap-ad
 c19-worldnews.com##.wp-caption
 onepagerules.com##.wp-container-6.wp-block-columns
 strangesounds.org##.wp-image-281312
