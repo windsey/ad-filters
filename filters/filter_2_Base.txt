@@ -1,9 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-26T06:23:25.683Z
+! Last modified: 2023-12-26T12:33:11.783Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
+
+||pepapigg.xyz^
 ||elfnxscnmtao.com^
 ||etxahpe.com^
 ||kbadguhvqig.xyz^
