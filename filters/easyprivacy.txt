@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-25T18:22:05.371Z
+! Last modified: 2023-12-26T01:18:03.028Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -730,6 +730,7 @@
 ||castcream.com^
 ||catalogdiscovery.com^
 ||catschickens.com^
+||cattlecommittee.com^
 ||causecherry.com^
 ||cautiouscamera.com^
 ||cautiouscherries.com^
