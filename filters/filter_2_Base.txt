@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-27T01:18:17.047Z
+! Last modified: 2023-12-27T06:24:06.903Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -5016,6 +5016,7 @@ rgmechanicsgames.com*VPN.exe
 ||abyescaplock.guru^
 ||acacdn.com^
 ||acacdn.xyz^
+||academicvast.com^
 ||academyblocked.com^
 ||academyenrage.com^
 ||acalraiz.xyz^
@@ -5471,6 +5472,7 @@ rgmechanicsgames.com*VPN.exe
 ||adsemirate.com^
 ||adsemo.com^
 ||adsensecamp.com^
+||adsensecustomsearchads.com^
 ||adser.io^
 ||adserve.ph^
 ||adserved.net^
@@ -9181,6 +9183,7 @@ rgmechanicsgames.com*VPN.exe
 ||camprime.com^
 ||camptrck.com^
 ||camschat.net^
+||camshq.info^
 ||camsitecash.com^
 ||camsmotes.com^
 ||camstime.life^
@@ -9383,6 +9386,7 @@ rgmechanicsgames.com*VPN.exe
 ||ccieoqej.xyz^
 ||ccjzuavqrh.com^
 ||ccmdcinut.com^
+||ccmiocw.com^
 ||ccn08sth.de^
 ||ccoybmnjw.com^
 ||ccpckbb.com^
@@ -10797,6 +10801,7 @@ rgmechanicsgames.com*VPN.exe
 ||crtracklink.com^
 ||crucianbasyl.com^
 ||crudelouisa.com^
+||cruel-national.pro^
 ||crueltyrefundye.com^
 ||cruetychumpy.com^
 ||cruisetitleclosed.com^
@@ -11016,7 +11021,6 @@ rgmechanicsgames.com*VPN.exe
 ||d3c.site^
 ||d3d98dc11c.com^
 ||d3da127b69.com^
-||d3hfiiy55cbi5t.cloudfront.net^
 ||d4b138a7aa.com^
 ||d4d48974197052ea.com^
 ||d5390684c4.com^
@@ -34977,6 +34981,7 @@ rgmechanicsgames.com*VPN.exe
 ||d1wjz6mrey9f5v.cloudfront.net^
 ||d1wv5x2u0qrvjw.cloudfront.net^
 ||d1xdxiqs8w12la.cloudfront.net^
+||d1xivydscggob7.cloudfront.net^
 ||d1xkyo9j4r7vnn.cloudfront.net^
 ||d1xo0f2fdn5no0.cloudfront.net^
 ||d1xw8yqtkk9ae5.cloudfront.net^
@@ -35298,6 +35303,7 @@ rgmechanicsgames.com*VPN.exe
 ||d3frqqoat98cng.cloudfront.net^
 ||d3g4s1p0bmuj5f.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
+||d3hfiiy55cbi5t.cloudfront.net^
 ||d3hib26r77jdus.cloudfront.net^
 ||d3hitamb7drqut.cloudfront.net^
 ||d3hj4iyx6t1waz.cloudfront.net^
