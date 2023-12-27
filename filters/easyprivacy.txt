@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-27T06:24:02.234Z
+! Last modified: 2023-12-27T12:33:34.543Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -4125,6 +4125,7 @@
 ||collector.xhamster.com^
 ||collector.xhamster.desi^
 ||collector.xhamster2.com^
+||collector.xhamster3.com^
 ||colvk.viki.io^
 ||confiant.msn.com^
 ||console-telemetry.oci.oraclecloud.com^
