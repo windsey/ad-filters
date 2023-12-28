@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-27T18:22:07.499Z
+! Last modified: 2023-12-28T01:18:04.686Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2705,6 +2705,7 @@
 ||hb.vhsrv.com^
 ||hello.staticstuff.net^
 ||hi.hellobar.com^
+||highway.cablecar.sph.com.sg^
 ||hit.mybestpro.com^
 ||hits.dealer.com^
 ||hits.getelevar.com^
@@ -3061,6 +3062,7 @@
 ||statscollector.sd-rtn.com^
 ||statt-collect.herokuapp.com^
 ||stg-data-collector.playbuzz.com^
+||streams.cablecar.sph.com.sg^
 ||sts.eccmp.com^
 ||sunlightmetrics.b-cdn.net^
 ||survey.interquest.com^
