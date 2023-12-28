@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-28T12:33:48.212Z
+! Last modified: 2023-12-28T18:22:54.582Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11,6 +11,8 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||metrics.plaid.com^
+||api.iterable.com^
 ||t.arcade.show^
 ||pxl.retaku.net^
 ||ga.getresponse.com^
@@ -714,6 +716,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||metrics.geekwire.com^
 ||click-performance.assets.rndtech.de^
 ||track.linksynergy.com^
 ||tracking.epicgames.com^
