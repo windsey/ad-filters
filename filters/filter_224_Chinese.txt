@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-29T06:24:14.398Z
+! Last modified: 2023-12-29T12:31:07.503Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1332,6 +1332,11 @@
 ||utnwxhjv.xyz^
 ||djcnetb.icu^
 ||btnwxhjv.xyz^
+||xtnwxhjv.xyz^
+||isoffss.com^
+||ttnwxhjv.xyz^
+||slkdnlkfnskl.com^
+||n522rv1.cn^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
