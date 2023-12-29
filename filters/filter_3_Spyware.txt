@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-29T12:31:12.492Z
+! Last modified: 2023-12-29T18:22:22.565Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -64,7 +64,6 @@
 ||phenomtrackapi-ir.phenompeople.com^
 ||kiwi.mdldb.net^
 ||agrvt.com^
-||sdk.fra-*.braze.eu^
 ||ct2.kutinawa.com^
 ||tg1.premiumimpression.com^
 ||ythingy.com^
