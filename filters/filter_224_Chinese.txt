@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-30T06:22:06.641Z
+! Last modified: 2023-12-30T12:32:11.039Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1348,6 +1348,9 @@
 ||usvkfwth.xyz^
 ||boplgt.icu^
 ||bsvkfwth.xyz^
+||otbeksf.cn^
+||xsvkfwth.xyz^
+||tsvkfwth.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^

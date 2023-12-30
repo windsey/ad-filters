@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: P0/NShgxB2ZnGz8wHixGeA
-! Version: 202312300611
+! Checksum: 0nj98T4fgj5lUBPN1WXomA
+! Version: 202312301220
 ! Title: EasyList
-! Last modified: 30 Dec 2023 06:11 UTC
+! Last modified: 30 Dec 2023 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -60515,6 +60515,7 @@ wikihow.com##.al_method
 altfi.com##.alert
 accessnow.org##.alert-banner
 rapidsave.com##.alert.col-md-offset-2
+peoplematters.in##.alertBar
 majorgeeks.com##.alford > tbody > tr
 shortlist.com##.align-xl-content-between
 livejournal.com##.allbanners
