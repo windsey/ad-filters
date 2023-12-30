@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-29T18:22:16.282Z
+! Last modified: 2023-12-30T01:17:38.989Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1202,6 +1202,7 @@
 ||handyfield.com^
 ||handyfireman.com^
 ||handyincrease.com^
+||haplesshydrant.com^
 ||haplessland.com^
 ||happenhistory.com^
 ||harborcaption.com^
