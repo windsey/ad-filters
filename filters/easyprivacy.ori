@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: EvJeGfH/dk8dABAvJBhfjA
-! Version: 202312310611
+! Checksum: hmiyXkyaRy3LQRozEeU8ZQ
+! Version: 202312311221
 ! Title: EasyPrivacy
-! Last modified: 31 Dec 2023 06:11 UTC
+! Last modified: 31 Dec 2023 12:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9473,6 +9473,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beacon2.indieclick.com^
 ||beacons.mediamelon.com^
 ||beam.mjhlifesciences.com^
+||beamanalytics.b-cdn.net^
 ||bee.tc.easebar.com^
 ||behavior.tongdun.net^
 ||bento.agoda.com^
@@ -9526,6 +9527,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cache2.delvenetworks.com^
 ||cahf4eed.mooo.com^
 ||californiatimes.com/privacy/$image
+||calltrack.co^
 ||calltrk.com/companies/
 ||camel.headfarming.com^
 ||canada.com/js/analytics/
@@ -10410,6 +10412,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||logs-api.shoprunner.com^
 ||logs.animaapp.com^
 ||logs.datadoghq.com^$third-party
+||logs.mezmo.com^
 ||logs.spilgames.com^
 ||logs.thebloggernetwork.com^
 ||logs.viadata.store^
