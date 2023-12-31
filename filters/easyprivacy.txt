@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2023-12-30T18:22:24.811Z
+! Last modified: 2023-12-31T01:25:17.530Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -4328,6 +4328,7 @@
 ||performance-logger.minted.com^
 ||perr.hola.org^
 ||pf.newegg.com^
+||pftk.temu.com^
 ||ph.thenextweb.com^
 ||ping.hungama.com^
 ||pingback.giphy.com^
@@ -21891,6 +21892,7 @@ arketing.indianadunes.com^
 ||analytics.okazii.ro^
 ||views.b1tv.ro^
 ||views.romaniatv.net^
+||a.mts.ru^
 ||a.pikabu.ru^
 ||ad7.bigmir.net^
 ||affilate.hh.ru^
