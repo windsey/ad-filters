@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-03T06:24:00.990Z
+! Last modified: 2024-01-03T12:34:33.886Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1277,6 +1277,10 @@
 ||xlnvvbk.xyz^
 ||kggikf.icu^
 ||bkbbjtfp.xyz^
+||xkbbjtfp.xyz^
+||nhcdn.cn^
+||tkbbjtfp.xyz^
+||ahernssa.com^
 ||ukbbjtfp.xyz^
 ||zzyy20.top^
 ||002777.xyz^

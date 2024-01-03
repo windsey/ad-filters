@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: x5BCtEg86YLnCxuDP8SrIg
-! Version: 202401030611
+! Checksum: Dukg+jpn3fmxgHxJ8cxgPQ
+! Version: 202401031222
 ! Title: EasyList
-! Last modified: 03 Jan 2024 06:11 UTC
+! Last modified: 03 Jan 2024 12:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -64054,6 +64054,7 @@ timeout.com##div[id^="ad-side-"]
 nowgoal8.com##div[id^="ad_"]
 javacodegeeks.com##div[id^="adngin-"]
 agoda.com##div[id^="ads-"]
+pixiv.net##div[id^="adsdk-"]
 antiguanewsroom.com##div[id^="antig-"]
 slidesgo.com##div[id^="article_ads"]
 business-standard.com##div[id^="between_article_content_"]
