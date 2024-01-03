@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: HEMzl3fH9nYGt/2E1RHBTw
-! Version: 202401021811
+! Checksum: t4eXPl5dis0k4+OcLpyY4w
+! Version: 202401030111
 ! Title: EasyPrivacy
-! Last modified: 02 Jan 2024 18:11 UTC
+! Last modified: 03 Jan 2024 01:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32871,6 +32871,7 @@ arketing.indianadunes.com^
 @@||att.com/ui/services_co_myatt_common/$script,~third-party
 @@||att.tv^*/VisitorAPI.js$script,~third-party
 @@||autocomplete.clearbit.com^$xmlhttprequest,domain=dzone.com
+@@||awswaf.com/*/telemetry$domain=platform.ledn.io
 @@||azureedge.net/prod/smi/loader-config.json$domain=pressdemocrat.com
 @@||azureedge.net^*/analytics/eventtracking.js$script,domain=crimemapping.com
 @@||bam.nr-data.net^$script,domain=kapwing.com
