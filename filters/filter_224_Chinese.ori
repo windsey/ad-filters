@@ -657,8 +657,12 @@ pincong.rocks#%#//scriptlet("prevent-setInterval", "Ad Block")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/117369
 1090ys8.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
 @@||cdn.bootcss.com/fuckadblock/3.2.1/fuckadblock.min.js$domain=1090ys8.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/169855
 ! https://github.com/AdguardTeam/AdguardFilters/issues/119683
-waipian5.com#@#a[href*=".umtrack.com/"]
+waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian6.com,waipian7.com,waipian8.com,waipian9.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#@#a[href*=".umtrack.com/"]
+waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian6.com,waipian7.com,waipian8.com,waipian9.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#@#.player-rm > a[target="_blank"]
+waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian6.com,waipian7.com,waipian8.com,waipian9.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#$#a[href*=".umtrack.com/"] { position: absolute !important; left: -3000px !important; }
+waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian6.com,waipian7.com,waipian8.com,waipian9.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#$#.player-rm > a[target="_blank"] { position: absolute !important; left: -3000px !important; }
 ! https://github.com/uBlockOrigin/uAssets/issues/13003
 cocomanga.com#%#//scriptlet('prevent-setTimeout', 'loadErrorTip')
 !+ PLATFORM(ios, ext_android_cb)
@@ -1112,6 +1116,7 @@ x99av.com#%#//scriptlet('set-constant', 'ADSOBJET', 'emptyObj')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/160509
 embedrise.com#%#//scriptlet('prevent-window-open')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/158639
+aiyifan.tv,iyf.tv#%#//scriptlet('abort-on-stack-trace', 'Object.prototype.ppmm', 'invokeInterstitial')
 !#if (!adguard_app_windows && !adguard_app_mac && !adguard_app_android)
 aiyifan.tv,iyf.tv#$#.bg-overlayer { pointer-events: unset !important; }
 aiyifan.tv,iyf.tv#%#//scriptlet('remove-class', 'publicplay', '#main-player')
@@ -1310,9 +1315,11 @@ macapp.so#$##m2 { height: 5px!important; }
 mobile01.com#$#body { overflow: visible!important; }
 mobile01.com#$#.modal-backdrop { display: none!important; }
 ! sync with video.fc2.com in Japanese filters
-shanxivideo.com#$#.app-container[aria-expanded="false"] section.with-ad { width: calc(100% - 20px) !important; }
-shanxivideo.com#$#.with-ad[data-layout="list"] .main-header { width: 100% !important; }
-shanxivideo.com#$#.with-ad[data-layout="list"][data-section-type="new-video"] .content-wrap:nth-child(-n+2) { width: 100% !important; }
+liaoningmovie.net#$#.main_ad_head_wide { padding-top: 0 !important; }
+liaoningmovie.net#$#.c-ad-103 { height: 0 !important; }
+liaoningmovie.net#$#.app-container[aria-expanded="false"] section.with-ad { width: calc(100% - 20px) !important; }
+liaoningmovie.net#$#.with-ad[data-layout="list"] .main-header { width: 100% !important; }
+liaoningmovie.net#$#.with-ad[data-layout="list"][data-section-type="new-video"] .content-wrap:nth-child(-n+2) { width: 100% !important; }
 !
 gamer.com.tw#$##flyRightBox { position: absolute!important; left: -3000px!important; }
 !
@@ -1454,6 +1461,7 @@ $script,third-party,denyallow=fastly.net|statically.io|sharecast.ws|bunnycdn.ru|
 !
 !
 !
+aiyifan.tv,iyf.tv##.video-player > .cc > .ng-star-inserted[style="position: relative;"]
 huya.com##.room-sidebar #public-screen-ab
 vidhub.me,vidhub.tv##.promolnk
 vidhub.me,vidhub.tv##.promote-link
@@ -3069,12 +3077,12 @@ manwa.me##.ad-area > a[target="_blank"]
 ! frequently changed domain
 yeyemo4.com,yeyemo5.com,yeyemo6.com,yeyemo7.com,yeyemo8.com,yeyemo9.com,yeyemo10.com##center > a[target="_blank"] > img
 ! shanxivideo.com - sync video.fc2.com in Japanese filters
-shanxivideo.com##.ad_panelAR
-shanxivideo.com##.list-subCont > li[style$="height: 98px;"]
-shanxivideo.com##.ads-container
-shanxivideo.com##.banner
-shanxivideo.com##div[style^="width: 300px; height: 250px"]
-shanxivideo.com##[class^="c-ad"]
+liaoningmovie.net##.ad_panelAR
+liaoningmovie.net##.list-subCont > li[style$="height: 98px;"]
+liaoningmovie.net##.ads-container
+liaoningmovie.net##.banner
+liaoningmovie.net##div[style^="width: 300px; height: 250px"]
+liaoningmovie.net##[class^="c-ad"]:not(.c-ad-103)
 ! jable.tv
 ||jable.tv/assets/images/wejo/$image
 jable.tv##a[href="http://uus52.com/"]
@@ -5119,6 +5127,7 @@ newduba.cn###jq_youxi
 ||aerbgpn.xyz^
 ||aflsj.com^
 ||agossuoeach.com^
+||ahernssa.com^
 ||ahgfdhp.xyz^
 ||ahpphkc.xyz^
 ||aidmat.icu^
@@ -5188,6 +5197,7 @@ newduba.cn###jq_youxi
 ||bjappzvz.xyz^
 ||bjhhbox.xyz^
 ||bjtgds.xyz^
+||bkbbjtfp.xyz^
 ||bkxuprh.cn^
 ||blthwbe.xyz^
 ||bltmjevd.xyz^
@@ -5593,9 +5603,11 @@ newduba.cn###jq_youxi
 ||kfckcu.xyz^
 ||kflybplr.xyz^
 ||kfpicimage.xyz^
+||kggikf.icu^
 ||kiiepofl.xyz^
 ||kjappzvz.xyz^
 ||kjdbcjkmc.com^
+||kkbbjtfp.xyz^
 ||kkeojk.xyz^
 ||kkisoo.com^
 ||kkmsa.top^
@@ -5710,6 +5722,7 @@ newduba.cn###jq_youxi
 ||mhzftye.xyz^
 ||miiepofl.xyz^
 ||mjappzvz.xyz^
+||mkbbjtfp.xyz^
 ||mlegyu.xyz^
 ||mltmjevd.xyz^
 ||mlumlio.cn^
@@ -5719,6 +5732,7 @@ newduba.cn###jq_youxi
 ||mmtdfxh.xyz^
 ||mmvjuti.cn^
 ||mnfhxszj.xyz^
+||mnfse.cn^
 ||mnhncf.cn^
 ||moqsxdpx.xyz^
 ||motcmn.icu^
@@ -5766,6 +5780,7 @@ newduba.cn###jq_youxi
 ||nerydw.xyz^
 ||newpgqnfapkamg.xyz^
 ||nfldgbt.xyz^
+||nhcdn.cn^
 ||njppuaj.cn^
 ||njpyrn.xyz^
 ||njreka.xyz^
@@ -5778,7 +5793,9 @@ newduba.cn###jq_youxi
 ||nofizx.xyz^
 ||nrfhbd.xyz^
 ||nrzzaep.xyz^
+||nshypdry.xyz^
 ||ntlzvrv.xyz^
+||ntrwnd.xyz^
 ||nubcdaqa.xyz^
 ||nwpcptmm.xyz^
 ||nyfgpbsc.xyz^
@@ -5905,6 +5922,7 @@ newduba.cn###jq_youxi
 ||rkds10.icu^
 ||rkds2.icu^
 ||rkds5.icu^
+||rmhfrtnd.com^$third-party
 ||rntdqwc.xyz^
 ||roio.top^
 ||ronm.top^
@@ -5989,6 +6007,7 @@ newduba.cn###jq_youxi
 ||tipl.top^
 ||titv.top^
 ||tjappzvz.xyz^
+||tkbbjtfp.xyz^
 ||tklnzv.xyz^
 ||tltmjevd.xyz^
 ||tmlwvxae.xyz^
@@ -6043,6 +6062,7 @@ newduba.cn###jq_youxi
 ||uiszwh.icu^
 ||uito.top^
 ||ujappzvz.xyz^
+||ukbbjtfp.xyz^
 ||ukjwyv.icu^
 ||ukkkmg.xyz^
 ||ulrvkee.xyz^
@@ -6172,10 +6192,12 @@ newduba.cn###jq_youxi
 ||xixil.cn^
 ||xjappzvz.xyz^
 ||xjxbdh.xyz^
+||xkbbjtfp.xyz^
 ||xkfigjh.cn^
 ||xkjmjj.com^
 ||xlam.cn^
 ||xlca666.site^
+||xlnvvbk.xyz^
 ||xltmjevd.xyz^
 ||xmvmir.icu^
 ||xn--1qwynp09f.net^
@@ -6239,6 +6261,7 @@ newduba.cn###jq_youxi
 ||yuanxiab.cn^
 ||yutiqf.icu^
 ||yv8zs.online^
+||yxcrcc.xyz^
 ||yxrxsov.xyz^
 ||z0a1b2c3d4.com^
 ||z1wfe.top^
@@ -6280,19 +6303,6 @@ newduba.cn###jq_youxi
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
-||ntrwnd.xyz^
-||mnfse.cn^
-||kkbbjtfp.xyz^
-||yxcrcc.xyz^
-||nshypdry.xyz^
-||xlnvvbk.xyz^
-||kggikf.icu^
-||bkbbjtfp.xyz^
-||xkbbjtfp.xyz^
-||nhcdn.cn^
-||tkbbjtfp.xyz^
-||ahernssa.com^
-||ukbbjtfp.xyz^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -16204,7 +16214,7 @@ wed114.cn##.adtwo
 xinhuanet.com##.adv-column2
 shouji56.com##.adv01 + a
 qq.com##.adv1000
-kdhome.net##.adv2
+kdhome.net,mydown.com##.adv2
 kdhome.net,xinhuanet.com##.adv3
 myhack58.com##.adv32
 it165.net##.adv728a
@@ -16238,6 +16248,7 @@ bitauto.com##.advertise-nav-down
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.advertise_right_index
 aicoin.net.cn,bccn.net,douyuex.com,hkepc.com,iviewui.com,juejin.cn##.advertisement
 3d66.com##.advertisement-carousel
+mydown.com##.advertisement_pic
 chinacar.com.cn##.advertising
 10086.cn##.advertisingOther_img
 speedtest.cn##.advertisingSpace
@@ -16925,6 +16936,7 @@ yufile.com##.fb_r > a
 mydrivers.com##.fbh_float
 baidu.com##.fc-ad-line
 baidu.com##.fc-wenku-ad
+mydown.com##.fcGg
 zhujiceping.com##.fcode > center > table
 jq22.com##.fdad
 maxthon.cn##.feast-gift-search
@@ -17746,6 +17758,7 @@ mtrend.cn##.new_right > .morecontent_next
 mtrend.cn##.new_right > div[style="float:left; width:100%;"]:first-child
 doubibackup.com##.new_zixun
 ali213.net##.newright
+zhuzhai.com##.news-details-ad
 sydneytoday.com##.news-list > .row > .col-xs-12
 eastday.com##.news-promote
 kaifu.com##.news-t-adv
@@ -21319,6 +21332,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||f11.hackhome.com^
 ||fanpingbi*.gaokao.com^
 ||fanyi100.com.cn^
+||fdfda.zhuzhai.com^
 ||fdfghgfdd.yunqishi.net^
 ||ff.guidaye.com^
 ||ff.psd8.com^
