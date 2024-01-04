@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-04T06:24:30.795Z
+! Last modified: 2024-01-04T12:34:17.101Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3695,6 +3695,7 @@
 ||xmlv4.reklama.network^
 ||static.rtb-serve.com^
 ||sp.usatoday.com^
+||succeedscene.com^$badfilter
 ||appcdn01.xyz^$badfilter
 ||aaxwall.com^
 ||cheezwhiz.z9.web.core.windows.net^
@@ -13902,7 +13903,6 @@ rgmechanicsgames.com*VPN.exe
 ||falcatayamalka.com^
 ||falkag.net^
 ||falkwo.com^
-||fallaciousfifth.com^
 ||fallingseveral.com^
 ||fallinsolence.com^
 ||falloutbraidengaged.com^
@@ -28313,7 +28313,6 @@ rgmechanicsgames.com*VPN.exe
 ||shitcustody.com^
 ||shitucka.net^
 ||shivateicher.com^
-||shiverscissors.com^
 ||shlyapajhd2kle8pnc09.com^
 ||shoabsie.xyz^
 ||shoageep.com^

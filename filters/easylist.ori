@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: N0MLV55FOUuxFBUaRqrutw
-! Version: 202401040611
+! Checksum: afgTzw+M5ZGNacKcw6L4cw
+! Version: 202401041221
 ! Title: EasyList
-! Last modified: 04 Jan 2024 06:11 UTC
+! Last modified: 04 Jan 2024 12:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17540,6 +17540,7 @@ _800x80_
 ##[data-revive-zoneid]
 ##[data-role="tile-ads-module"]
 ##[data-template-type="nativead"]
+##[data-testid="adBanner-wrapper"]
 ##[data-testid="ad_testID"]
 ##[data-type="ad-vertical"]
 ##[data-wpas-zoneid]
@@ -17929,6 +17930,7 @@ _800x80_
 ##a[href^="https://yourperfectdating.life/"]
 ##a[style="width:100%;height:100%;z-index:10000000000000000;position:absolute;top:0;left:0;"]
 ##ad-shield-ads
+##ad-slot
 ##app-ad
 ##app-advertisement
 ##app-large-ad
@@ -28698,7 +28700,6 @@ browsershots.org#@#.advert_area
 ||falcatayamalka.com^
 ||falkag.net^
 ||falkwo.com^
-||fallaciousfifth.com^
 ||fallingseveral.com^
 ||fallinsolence.com^
 ||falloutbraidengaged.com^
@@ -43260,7 +43261,6 @@ browsershots.org#@#.advert_area
 ||shitcustody.com^
 ||shitucka.net^
 ||shivateicher.com^
-||shiverscissors.com^
 ||shlyapajhd2kle8pnc09.com^
 ||shoabsie.xyz^
 ||shoageep.com^
@@ -61548,6 +61548,7 @@ mangamiso.net##.extraHeight
 textcompare.org##.ez-sidebar-wall
 futuregaming.io##.ez-video-wrap
 cgpress.org##.ezlazyloaded.header-wrapper
+chorus.fm##.f-soc
 formula1.com##.f1-dfp-banner-wrapper
 audiophilereview.com##.f7e65-midcontent
 audiophilereview.com##.f7e65-sidebar-ad-widget
@@ -64611,6 +64612,7 @@ rawstory.com##.connatix-hodler
 apkmirror.com##.ezo_ad
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-results-ads
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.js-sidebar-ads > .nrn-react-div
+boatsonline.com.au,yachthub.com##.js-sticky
 history.com##.m-balloon-header--ad
 history.com##.m-in-content-ad
 history.com##.m-in-content-ad-row
