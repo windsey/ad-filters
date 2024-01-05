@@ -98,6 +98,9 @@ spletnik.ru#%#//scriptlet('set-local-storage-item', 'adrcid', '$remove$')
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/169949
+! Fixes video player
+nbcsports.com#%#//scriptlet('prevent-element-src-loading', 'script', 'sb.scorecardresearch.com')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/169625
 muratorplus.pl#%#//scriptlet('set-constant', 'GemiusPlayer', 'noopFunc')
 muratorplus.pl#%#//scriptlet('set-constant', 'GemiusPlayer.prototype.newProgram', 'noopFunc')
@@ -4371,8 +4374,8 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !
 ! Bright Data
 ||bright-sdk.com^
-||brightdata.com^
-||brightdata.de^
+||brightdata.com^$third-party
+||brightdata.de^$third-party
 ||perr.l-agent.me^
 ||perr.l-err.biz^
 ||brdtest.com^
@@ -4535,6 +4538,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||prdwebcollector.ruetracking.com^
 ||analytics-api.invideo.io^
 ||tr.staff-start.com^
 ||rtnl.bxcl.de^
@@ -83677,6 +83681,11 @@ inapps.appsflyersdk.com^
 !#endif
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/169949
+! Fixes video player
+||sb.scorecardresearch.com/*/streamingtag_plugin_jwplayer.js$script,redirect=noopjs,domain=nbcsports.com
+!+ PLATFORM(ios, ext_safari, ext_android_cb)
+@@||sb.scorecardresearch.com/*/streamingtag_plugin_jwplayer.js$domain=nbcsports.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/169319
 @@||easyupload.io/cdn-cgi/zaraz/s.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/169590
@@ -85049,8 +85058,6 @@ ntp.msn.com#@%#navigator.getBattery = undefined;
 ! Example link - https://www.cw.com.tw/article/5119022
 !+ PLATFORM(ios, ext_android_cb)
 @@||cdn.qgraph.io/dist/aiqua-wp.js$domain=cw.com.tw
-! https://www.reddit.com/r/uBlockOrigin/comments/r4z0zj/how_to_unblock_elements_tweets_blocked_by_jsnofloc/
-@@||googletagmanager.com/gtm.js$script,domain=insideevs.com
 ! https://github.com/uBlockOrigin/uAssets/issues/10629
 ||cxense.com/cx.js$script,redirect=noopjs,domain=nlab.itmedia.co.jp,important
 @@||cxense.com/cx.js$domain=nlab.itmedia.co.jp

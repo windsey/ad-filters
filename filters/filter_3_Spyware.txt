@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-05T06:24:16.246Z
+! Last modified: 2024-01-05T12:34:24.446Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -655,8 +655,6 @@
 ||c.webengage.com^
 ||z.webengage.com^
 ||bright-sdk.com^
-||brightdata.com^
-||brightdata.de^
 ||perr.l-agent.me^
 ||perr.l-err.biz^
 ||brdtest.com^
@@ -723,6 +721,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||prdwebcollector.ruetracking.com^
 ||analytics-api.invideo.io^
 ||tr.staff-start.com^
 ||rtnl.bxcl.de^
