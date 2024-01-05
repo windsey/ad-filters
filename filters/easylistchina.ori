@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 97oiso8Qsho4ZDZ+h7dwFw
-! Version: 202401041811
+! Checksum: zxNYEofNx8fI1uqH4S1lZA
+! Version: 202401050111
 ! Title: EasyList China
-! Last modified: 04 Jan 2024 18:11 UTC
+! Last modified: 05 Jan 2024 01:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -21,6 +21,7 @@
 -*-*-*-*.as^$script,third-party
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
+/media/fitad/*
 -1316899192.cos.
 -1688-wp-media/ads/
 -90mh-gg.
@@ -1616,6 +1617,7 @@ newduba.cn###jq_youxi
 ##script + #coupletBox
 ##script + #rbbox
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
+##div[style="margin:10px auto;width: 930px;height: 250px;"]
 ##script + a[target="_bank"] > img[src*=".c-ctrip.com"][style="width:100%;height:auto;"]
 ##script + div[id^="a-loading-"]
 ##script[src="/js/sy2.js"] + div[align="center"]
@@ -2936,6 +2938,15 @@ newduba.cn###jq_youxi
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
+||baxbyfn.cn^
+||vnvyhj.xyz^
+||kpyerxzn.xyz^
+||sakguz.icu^
+||wvyqks.xyz^
+||avvfjhg.xyz^
+||szmkr.cn^
+||sd2ua.icu^
+##A[href*="/dsf88.cc"]
 ||zzyy19.top^
 ||zzyy20.top^
 !
@@ -11021,8 +11032,10 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||mddcloud.*/oweApi/ad/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+hqyman.cn##a[href="https://hqyman.cn/taobao/"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -16182,7 +16195,6 @@ hsex.men##div[style="margin:0 auto 10px;width:900px;height:250px"]
 gpsuu.com##div[style="margin:0 auto; padding-bottom:10px;width:960px;height:60px;"]
 dzwww.com##div[style="margin:0;padding:0;width:620px;height:345px;overflow:hidden;background-color:#fff;"]
 morningpost.com.cn##div[style="margin:0;padding:0;width:648px;height:345px;overflow:hidden;background-color:#fff;"]
-ibiquges.info##div[style="margin:10px auto;width: 930px;height: 250px;"]
 html-js.com##div[style="margin:10px auto;width:1000px;"]
 x3cn.com##div[style="margin:3px auto"] + table
 eworldship.com##div[style="padding: 0px;position: fixed;left: 7px; top: 150px;"]
@@ -16780,6 +16792,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||95504.net/Advertisement_
 @@||95599.cn^*ad
 @@||99wbwc.com^$generichide
+@@||pkstep.com^$generichide
 @@||99ybcc.com^$generichide
 @@||9zvip.net/wp-content/plugins/detect-adblock/js/ads.js
 @@||9zvip.net^$elemhide
@@ -18558,7 +18571,6 @@ bookrb.com##a[href="/rmtj.html"]
 bxwx888.org###addiv3
 bxwx888.org###bdstatic
 duanwenxue.com##.qgzdwx
-ishuquge.com##div[style="margin:10px auto;width: 930px;height: 250px;"]
 smjb.net##div[style*="height: 50%"]
 ||139xiaoshuo.com/css/js/tools.
 ||13txt.net/js/ssgdd.
