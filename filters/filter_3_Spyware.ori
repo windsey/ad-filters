@@ -4538,6 +4538,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||trk.tirto.id^
 ||prdwebcollector.ruetracking.com^
 ||analytics-api.invideo.io^
 ||tr.staff-start.com^
@@ -39127,7 +39128,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||favor1.fractal.jp^
 ||video.sp.gmossp-sp.jp^
 !
-! GoDaddy : ads.bid disguised trackers
+! GoDaddy : ads2.bid disguised trackers
 ! included to BaseFilter/sections/cname_adservers.txt
 !
 ! Ingenious Technologies : affex.org disguised trackers

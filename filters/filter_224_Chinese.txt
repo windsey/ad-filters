@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-05T12:34:19.446Z
+! Last modified: 2024-01-05T18:22:54.023Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -272,6 +272,7 @@
 ||autyxdek.xyz^
 ||auvohoxm.xyz^
 ||avplwte.xyz^
+||avvfjhg.xyz^
 ||awareista.com^
 ||awaw.asia^
 ||awzddev.cn^
@@ -281,9 +282,11 @@
 ||bachou.cn^
 ||baitu3lllqubyqmttdkjsv.com^
 ||bavkvoks.xyz^
+||baxbyfn.cn^
 ||bbccf12.xyz^
 ||bbfnrn.xyz^
 ||bbrnpj.xyz^
+||bbyfsfo.cn^
 ||bcovazp.icu^
 ||bcqnbge.cn^
 ||bctxtl.xyz^
@@ -326,6 +329,7 @@
 ||bpdtrfb.xyz^
 ||bphcrjth.xyz^
 ||bplrpf.xyz^
+||bpyerxzn.xyz^
 ||bqjqripb.xyz^
 ||bqxexj.xyz^
 ||brorzpj.cn^
@@ -728,6 +732,7 @@
 ||kkisoo.com^
 ||kkmsa.top^
 ||kkosiso.com^
+||kksjoa.com^
 ||kkyjfdj.xyz^
 ||klfbnklddfbkn.com^
 ||kltmjevd.xyz^
@@ -740,6 +745,7 @@
 ||koqsxdpx.xyz^
 ||koyuod.xyz^
 ||kphcrjth.xyz^
+||kpyerxzn.xyz^
 ||kqbrgl.icu^
 ||kqjqripb.xyz^
 ||kqvvqv.icu^
@@ -854,6 +860,7 @@
 ||mpgsqk.xyz^
 ||mphcrjth.xyz^
 ||mphhgat.xyz^
+||mpyerxzn.xyz^
 ||mqjqripb.xyz^
 ||mqrupjsm.xyz^
 ||mqznjujv.xyz^
@@ -1063,8 +1070,10 @@
 ||s019.com^
 ||s5ue6.com^
 ||sagcyq.xyz^
+||sakguz.icu^
 ||sbhduht.xyz^
 ||scqaaf.cn^
+||sd2ua.icu^
 ||sdjbcjsbdjk.com^
 ||sdkjnbjksbnkjs.com^
 ||sdklcnskvbks.com^
@@ -1099,7 +1108,9 @@
 ||suzoqz.icu^
 ||svhdbmp.cn^
 ||syjkscy.cn^
+||szbpf.cn^
 ||szbxm.cn^
+||szmkr.cn^
 ||tae0t.site^
 ||tafuzcxr.xyz^
 ||tatyboy.top^
@@ -1135,6 +1146,7 @@
 ||toyhyhv.icu^
 ||tozwrqnq.xyz^
 ||tphcrjth.xyz^
+||tpyerxzn.xyz^
 ||tpzatf.xyz^
 ||tqjqripb.xyz^
 ||tqrznqs.cn^
@@ -1193,6 +1205,7 @@
 ||unxuoag.cn^
 ||uoqsxdpx.xyz^
 ||uphcrjth.xyz^
+||upyerxzn.xyz^
 ||uqeuxpl.cn^
 ||uqjqripb.xyz^
 ||uskoie.xyz^
@@ -1248,6 +1261,7 @@
 ||vjzjpt.xyz^
 ||vljjtj.xyz^
 ||vmr6t.icu^
+||vnvyhj.xyz^
 ||vozftn.xyz^
 ||vpqko.fun^
 ||vpqrydt.xyz^
@@ -1284,6 +1298,7 @@
 ||wutsldsk.xyz^
 ||wuyaw.cn^
 ||wvtem.com^
+||wvyqks.xyz^
 ||wwhsxwow.xyz^
 ||wwwww.asia^
 ||wwxufo.com^
@@ -1329,6 +1344,7 @@
 ||xoojqxh.icu^
 ||xoqsxdpx.xyz^
 ||xphcrjth.xyz^
+||xpyerxzn.xyz^
 ||xqgduov.cn^
 ||xqjqripb.xyz^
 ||xrcembm.cn^
@@ -1424,19 +1440,6 @@
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||baxbyfn.cn^
-||vnvyhj.xyz^
-||kpyerxzn.xyz^
-||sakguz.icu^
-||wvyqks.xyz^
-||avvfjhg.xyz^
-||szmkr.cn^
-||sd2ua.icu^
-||upyerxzn.xyz^
-||bpyerxzn.xyz^
-||szbpf.cn^
-||xpyerxzn.xyz^
-||tpyerxzn.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
