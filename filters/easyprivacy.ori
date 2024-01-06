@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: WQiLL2NNk9XSw9q2YnrKHA
-! Version: 202401051811
+! Checksum: yUIoYEZO502MwXmnUQ/s2A
+! Version: 202401060111
 ! Title: EasyPrivacy
-! Last modified: 05 Jan 2024 18:11 UTC
+! Last modified: 06 Jan 2024 01:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -41888,6 +41888,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||as.mirapodo.de^
 ||as.mytoys.de^
 ||as.yomonda.de^
+||autoscout24.de^$ping
 ||basicthinking.de/stats/
 ||behave.sn.at^
 ||berliner-stadtplan.com/t.gif
@@ -41904,7 +41905,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||cnt.wetteronline.de^
 ||comparis.ch/comparis/Tracking/
 ||computerbase.de/api2/$ping,xmlhttprequest
-||computerbase.de/nlytcz
+||computerbase.de/nlytev
 ||cp.finanzfrage.net/stats
 ||cpx.golem.de^
 ||cpxl.golem.de^
@@ -43467,9 +43468,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 !! cxense.com/public/widget/
 @@||cxense.com/public/widget/$domain=bizjournals.com|businessinsider.de|computerbild.de|cxpublic.com|cyclestyle.net|friday.gold|friday.kodansha.co.jp|handelsblatt.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tn.com.ar|wsj.com
 !! cxense.com/cx.cce.js
-@@||cxense.com/cx.cce.js$domain=13.cl|bizjournals.com|businessinsider.de|cxpublic.com|handelsblatt.com|mainichi.jp|marketwatch.com|tarzanweb.jp|tn.com.ar|wpb.shueisha.co.jp|wsj.com
+@@||cxense.com/cx.cce.js$domain=bizjournals.com|businessinsider.de|cxpublic.com|handelsblatt.com|mainichi.jp|marketwatch.com|tarzanweb.jp|tn.com.ar|wpb.shueisha.co.jp|wsj.com
 !! cxense.com/cx.js
-@@||cxense.com/cx.js$domain=bizjournals.com|businessinsider.de|computerbild.de|cyclestyle.net|handelsblatt.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp|wsj.com
+@@||cxense.com/cx.js$domain=13.cl|bizjournals.com|businessinsider.de|computerbild.de|cyclestyle.net|handelsblatt.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp|wsj.com
 !! collector.appconsent.io
 @@||collector.appconsent.io/hello$domain=lachainemeteo.com|lefigaro.fr
 !! imrworldwide.com/*ggc
