@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-06T12:32:52.537Z
+! Last modified: 2024-01-06T18:21:58.429Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2899,19 +2899,16 @@
 ||click-rtb2-apac.newchallenges-dsp.com^
 ||click-rtb2-apac.onenativeads.com^
 ||click-rtb2-apac.xaprio.net^
-||click-rtb2-eu.afkwa.com^
 ||click-rtb2-eu.convergeselect.net^
 ||click-rtb2-eu.e-volution.ai^
 ||click-rtb2-eu.waardex.com^
 ||click-rtb2-eu.xaprio.net^
 ||click-rtb2-useast.adsync.global^
-||click-rtb2-useast.afkwa.com^
 ||click-rtb2-useast.catapultx.com^
 ||click-rtb2-useast.demandzoo.com^
 ||click-rtb2-useast.e-volution.ai^
 ||click-rtb2-useast.newchallenges-dsp.com^
 ||click-rtb2-useast.xaprio.net^
-||click-rtb2-uswest.afkwa.com^
 ||click-v4.celxkpdir.com^
 ||click-v4.expilaclkdir.com^
 ||click-v4.expmdiadi.com^
@@ -3233,7 +3230,6 @@
 ||rtb-as-uswest.pulsefintech.net^
 ||rtb-eu-v4.152media.cloud^
 ||rtb-eu-v4.adlive.io^
-||rtb-eu-v4.afkwa.com^
 ||rtb-eu.152media.com^
 ||rtb-eu.80xmedia.com^
 ||rtb-eu.adcannyads.com^
@@ -3270,7 +3266,6 @@
 ||rtb-eu.wxadserve.xyz^
 ||rtb-useast-v4.152media.cloud^
 ||rtb-useast-v4.admozartexchange.com^
-||rtb-useast-v4.afkwa.com^
 ||rtb-useast-v4.cerineas.com^
 ||rtb-useast-v4.coupontic.com^
 ||rtb-useast-v4.cranberryads.com^
@@ -3343,7 +3338,6 @@
 ||rtb-useast.xrtb.io^
 ||rtb-useast.zaimads.com^
 ||rtb-uswest-v4.152media.cloud^
-||rtb-uswest-v4.afkwa.com^
 ||rtb-uswest.152media.com^
 ||rtb-uswest.adokutrtb.com^
 ||rtb-uswest.adsolut.in^
@@ -3385,7 +3379,6 @@
 ||rtb2-apac.onenativeads.com^
 ||rtb2-apac.programmatics.net^
 ||rtb2-apac.xaprio.net^
-||rtb2-eu.afkwa.com^
 ||rtb2-eu.convergeselect.net^
 ||rtb2-eu.demandzoo.com^
 ||rtb2-eu.e-volution.ai^
@@ -3399,7 +3392,6 @@
 ||rtb2-useast.adhunter.media^
 ||rtb2-useast.adpix.online^
 ||rtb2-useast.adsync.global^
-||rtb2-useast.afkwa.com^
 ||rtb2-useast.assemblyexchange.com^
 ||rtb2-useast.catapultx.com^
 ||rtb2-useast.convergeselect.net^
@@ -3411,7 +3403,6 @@
 ||rtb2-useast.waardex.com^
 ||rtb2-useast.xaprio.net^
 ||rtb2-uswest.a8dsp.com^
-||rtb2-uswest.afkwa.com^
 ||rtb2-uswest.demandzoo.com^
 ||rtb2-uswest.e-volution.ai^
 ||rtb2-uswest.programmatics.net^
@@ -3468,7 +3459,6 @@
 ||win-rtb2-eu.webtradingspot.com^
 ||win-rtb2-eu.xaprio.net^
 ||win-rtb2-useast.adsync.global^
-||win-rtb2-useast.afkwa.com^
 ||win-rtb2-useast.assemblyexchange.com^
 ||win-rtb2-useast.e-volution.ai^
 ||win-rtb2-useast.programmatics.net^
@@ -3476,7 +3466,6 @@
 ||win-rtb2-useast.waardex.com^
 ||win-rtb2-useast.webithr.com^
 ||win-rtb2-useast.xaprio.net^
-||win-rtb2-uswest.afkwa.com^
 ||win-rtb2-uswest.e-volution.ai^
 ||win-rtb2-uswest.programmatics.net^
 ||win-rtb2-uswest.userwave.com^
@@ -5874,6 +5863,7 @@ rgmechanicsgames.com*VPN.exe
 ||afgwciwbjxcsfro.com^
 ||afgwsgl.com^
 ||afgzipohma.com^
+||afkwa.com^
 ||afm01.com^
 ||afodreet.net^
 ||afootulnas.com^
@@ -12363,6 +12353,7 @@ rgmechanicsgames.com*VPN.exe
 ||dreamintim.net^
 ||dreampics.pro^
 ||dreamsaukn.org^
+||dreamsofcryingf.com^
 ||dreamsoppressive.com^
 ||dreamvids.pro^
 ||drearlyknifes.com^
@@ -12423,6 +12414,7 @@ rgmechanicsgames.com*VPN.exe
 ||dryerpreliminarymainly.com^
 ||dryerslegatos.com^
 ||dryinfestinsight.com^
+||drylotsimbil.website^
 ||drystervernile.life^
 ||ds3.biz^
 ||ds7hds92.de^
@@ -18879,6 +18871,7 @@ rgmechanicsgames.com*VPN.exe
 ||kenskitscurt.com^
 ||kentonproxied.com^
 ||kentorjose.com^
+||kepersaonwho.org^
 ||keraclya.com^
 ||kerattogeist.com^
 ||kerbayarugate.com^
@@ -19446,6 +19439,7 @@ rgmechanicsgames.com*VPN.exe
 ||latternarcoticbullet.com^
 ||laudulut.com^
 ||laughbuckle.com^
+||laughedaffront.com^
 ||laughteroccasionallywarp.com^
 ||lauglaph.net^
 ||laugoust.com^
@@ -20070,6 +20064,7 @@ rgmechanicsgames.com*VPN.exe
 ||losingoldfry.com^
 ||losingsplowter.com^
 ||lositz.com^
+||lostdormitory.com^
 ||lostinfuture.com^
 ||lotclergyman.com^
 ||lotionfortunate.com^
@@ -20304,6 +20299,7 @@ rgmechanicsgames.com*VPN.exe
 ||lxpcyvnejhrp.com^
 ||lxstat.com^
 ||lxudshpck.com^
+||lybgzqbuopv.com^
 ||lybunbacwf.com^
 ||lycheenews.com^
 ||lychinset.space^
@@ -27460,6 +27456,7 @@ rgmechanicsgames.com*VPN.exe
 ||rtwdzxstpanmn.com^
 ||rtxbdugpeumpmye.xyz^
 ||rtxrtb.com^
+||rtyufo.com^
 ||rtyznd.com^
 ||rtzblzfgzqw.com^
 ||ru6sapasgs8tror.com^
