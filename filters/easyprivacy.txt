@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-07T01:33:00.298Z
+! Last modified: 2024-01-07T06:22:44.389Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2883,6 +2883,7 @@
 ||pix.spot.im^
 ||pixel-a.basis.net^
 ||pixel.ampry.com^
+||pixel.anyclip.com^
 ||pixel.archipro.co.nz^
 ||pixel.blivenyc.com^
 ||pixel.byspotify.com^
@@ -4160,6 +4161,7 @@
 ||ec.thredup.com^
 ||edge.staging.fullstory.com^
 ||eec.crunchyroll.com^
+||ejlytics.editorji.com^
 ||engagefront.meteomedia.com^
 ||engagefront.theweathernetwork.com^
 ||engine.traceparts.com^
