@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-06T18:21:52.616Z
+! Last modified: 2024-01-07T01:32:59.069Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -25210,6 +25210,7 @@
 ||smartappsfly.com^
 ||smartdating.top^
 ||smartlnk.com^
+||smartpicrotation.com^
 ||smarttds.org^
 ||smarttopchain.nl^
 ||smartytech.io^

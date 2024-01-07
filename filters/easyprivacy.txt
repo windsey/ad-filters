@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-06T18:21:53.842Z
+! Last modified: 2024-01-07T01:33:00.298Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -4546,6 +4546,7 @@
 ||wa.pjplace.com^
 ||wa.sugarandjade.com^
 ||wal.wolfram.com^
+||wapn1.flosports.tv^
 ||weblog.flyasiana.com^
 ||wh.ipaddress.com^
 ||wstats.e-wok.tv^
