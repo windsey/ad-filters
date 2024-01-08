@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-08T12:35:51.403Z
+! Last modified: 2024-01-08T18:24:16.111Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -722,6 +722,10 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||hn-ping*.hashnode.com^
+||o920916.ingest.sentry.io^
+||ping.hashnode.com^
+||o1184810.ingest.sentry.io^
 ||t.la-croix.com^
 ||trk.tirto.id^
 ||prdwebcollector.ruetracking.com^

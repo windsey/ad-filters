@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-08T12:35:45.165Z
+! Last modified: 2024-01-08T18:24:09.671Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -4237,6 +4237,7 @@
 ||heap.drop.com^
 ||hits.cyberdrop.me^
 ||hlogger.heraldcorp.com^
+||hn-ping*.hashnode.com^
 ||htrace.wetvinfo.com^
 ||i.pokernews.com^
 ||iam-rum-intake.datadoghq.com^
@@ -4328,6 +4329,7 @@
 ||pf.newegg.com^
 ||pftk.temu.com^
 ||ph.thenextweb.com^
+||ping.hashnode.com^
 ||ping.hungama.com^
 ||pingback.giphy.com^
 ||pingback.issuu.com^
