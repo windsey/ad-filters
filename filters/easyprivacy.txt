@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-08T18:24:09.671Z
+! Last modified: 2024-01-09T01:22:01.987Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2382,6 +2382,7 @@
 ||analytics.vanillaforums.com^
 ||analytics.vdo.ai^
 ||analytics.vendemore.com^
+||analytics.vixcloud.co^
 ||analytics.webgains.io^
 ||analytics.webpushr.com^
 ||analytics.websolute.it^
@@ -2609,6 +2610,7 @@
 ||ec.walkme.com^
 ||ecomm.events^
 ||ecommstats.s3.amazonaws.com^
+||edge.adobedc.net^
 ||eel.transistor.fm^
 ||ele26126.jscrambler.com^
 ||eq.userneeds.com^
@@ -2748,6 +2750,7 @@
 ||jtracking-gate.lulusoft.com^
 ||k.keyade.com^
 ||k.streamrail.com^
+||k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com^
 ||kalstats.kaltura.com^
 ||kiwi.mdldb.net^
 ||l.ooyala.com^
@@ -31804,6 +31807,7 @@
 ||ens.tagblatt.ch^
 ||epimetheus.navigator.web.de^
 ||event-collector.prd.data.s.joyn.de^
+||events.limango.com^
 ||fc.vodafone.de^
 ||froglytics.eventfrog.ch^
 ||geoip.finanzen.net^
