@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-09T06:24:30.324Z
+! Last modified: 2024-01-09T12:36:12.861Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -30560,7 +30560,7 @@
 ||link.adhdinsight.com^
 ||link.admin.kodakmoments.com^
 ||link.afterpay.com^
-||link.ag.fan^||link.clubmanagergame.com^
+||link.ag.fan^
 ||link.alerts.busuu.app^
 ||link.angelstudios.com^
 ||link.announce.busuu.app^
@@ -30569,6 +30569,7 @@
 ||link.cdl.freshly.com^
 ||link.cheerz.com^
 ||link.clickipo.com^
+||link.clubmanagergame.com^
 ||link.cluno.com^
 ||link.cofyz.com^
 ||link.collectivebenefits.com^
