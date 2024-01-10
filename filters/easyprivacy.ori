@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 7rtQxvGj8inAxh02wOtGbw
-! Version: 202401100111
+! Checksum: LnLQ+fHr6dfncZ6UqvQzMA
+! Version: 202401100611
 ! Title: EasyPrivacy
-! Last modified: 10 Jan 2024 01:11 UTC
+! Last modified: 10 Jan 2024 06:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7456,6 +7456,7 @@ omni.soundestlink.com$image
 ||scratchsofa.com^
 ||screechingfurniture.com^
 ||screechingslip.com^
+||screechingstocking.com^
 ||screechingstove.com^
 ||scribblestring.com^
 ||scrollservice.com^
