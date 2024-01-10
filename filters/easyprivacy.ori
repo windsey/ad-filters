@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: LnLQ+fHr6dfncZ6UqvQzMA
-! Version: 202401100611
+! Checksum: 97sVUAvz295gLvvVL67MhQ
+! Version: 202401101221
 ! Title: EasyPrivacy
-! Last modified: 10 Jan 2024 06:11 UTC
+! Last modified: 10 Jan 2024 12:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7951,6 +7951,7 @@ omni.soundestlink.com$image
 ||youthfulnoise.com^
 ||zbwp6ghm.com^
 ||zealousfield.com^
+||zephyrlabyrinth.com^
 ||zestycrime.com^
 ||zestywire.com^
 ||zipperxray.com^

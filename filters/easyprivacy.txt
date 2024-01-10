@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-10T06:24:40.177Z
+! Last modified: 2024-01-10T12:35:55.849Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2227,6 +2227,7 @@
 ||youthfulnoise.com^
 ||zbwp6ghm.com^
 ||zealousfield.com^
+||zephyrlabyrinth.com^
 ||zestycrime.com^
 ||zestywire.com^
 ||zipperxray.com^
