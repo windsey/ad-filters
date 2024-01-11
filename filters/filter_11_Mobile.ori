@@ -2631,6 +2631,9 @@ chip.de,gamesworld.de,fnn.jp##.Ad
 !
 ! SECTION: Regular rules
 !
+ensonhaber.com###mhome-mansetalti
+cyclesports.jp##[class^="banner"]
+soccer-king.jp##div[style]:has(> div > div[id^="div-gpt-ad"])
 gaming-city.com##.m-top-banner
 gaming-city.com##.mobile-footer-ad
 linternaute.com,journaldunet.com##.ccmcss_oas_top
@@ -2845,6 +2848,7 @@ poginfo.ddo.jp#?#.mx-0.mx-auto:has(> div[style="height: 250px"])
 poginfo.ddo.jp##.footer-menu-bar
 op.gg#?##__next > div[class^="css-"]:has(> div#vm-av)
 op.gg#?##__next > div[class^="css-"] > div[class^="css-"] > div[class^="css-"]:has(> div:not([class]):not([id]) > div.vm-placement)
+op.gg#?##__next > div[class^="css-"] > div[class^="css-"]:has(> div > div.vm-placement)
 lepoint.fr###WRAP_TOP_POS
 tft.op.gg###video-metaTrend-ad
 jmcomic1.me##.div_sticky2
@@ -4033,8 +4037,6 @@ jukenbbs.com##div[style="margin-top:1px; margin-bottom:1px;"]
 jukenbbs.com##div[style="margin-top:10px; margin-bottom:10px; text-align:center;"]
 woman.mynavi.jp##div[style="margin:20px auto 0;text-align: center;"]
 sirogohan.com##.sp-banner
-yomiuri.co.jp##.p-ad-txt-wrap
-yomiuri.co.jp##.p-ad-list-item
 eromanga-kishin.com##.ad_morelow
 eromanga-numa.com,eromanga-yasan.com,eromanga-kishin.com###spwrapper
 eromanga-numa.com,eromanga-kishin.com##.picad2row

@@ -99,6 +99,8 @@ spletnik.ru#%#//scriptlet('set-local-storage-item', 'adrcid', '$remove$')
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/170358
+foxnews.com#%#//scriptlet('set-local-storage-item', 'anon_fpid', '$remove$')
 ! 4players.de - remove onclick tracking
 4players.de#%#//scriptlet('remove-attr', 'onclick', 'a[onclick*="send4PEvent"]')
 4players.de#%#//scriptlet('remove-attr', 'onclick', 'a[onclick*="Buy"]')
@@ -81301,7 +81303,7 @@ tourister.ru##.nt-foot-item[style="overflow:hidden;"]
 ||blozoo.info/js/reversetool/
 ||oculus.com/ajax/bz?
 ||r3.mail.ru/k?sign=
-/api/events|$domain=boticario.com.br|livehdcams.com|pornhublive.com|hog.tv|eudora.com.br|belezanaweb.com.br|vult.com.br|quemdisseberenice.com.br
+/api/events|$domain=boticario.com.br|livehdcams.com|pornhublive.com|hog.tv|eudora.com.br|belezanaweb.com.br|vult.com.br|quemdisseberenice.com.br|bookmark.xxx
 ||images.tcdn.com.br/commerce/assets/store/js/dist/facebook-conversion.js?pixel=
 ||indeed.com/api/datadog-rum/?
 ||indeed.com/api/v0/initialLog?
@@ -84626,6 +84628,8 @@ $cookie=bf_visit
 ! Bad:  ||monerominer.rocks^$third-party (should be in adservers.txt)
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/170358
+||foxnews.com^$cookie=xid
 ! https://github.com/AdguardTeam/AdguardFilters/issues/169629
 ||tvnoviny.sk^$cookie=MS_PPID
 ! rnd.de - analytics
@@ -85874,6 +85878,9 @@ inapps.appsflyersdk.com^
 @@||api2.branch.io^$app=com.reddit.frontpage|com.spotify.music
 @@||app.adjust.world^$app=com.spotify.music
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/170371
+@@||browser-intake-datadoghq.com^$app=com.nttdocomo.android.caboneurecord
+@@||google-analytics.com^$app=com.nttdocomo.android.caboneurecord
 ! https://github.com/AdguardTeam/AdguardFilters/issues/163109
 @@||cdn.reproio.com^$app=jp.co.bookoff.bookoffapp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/160004
