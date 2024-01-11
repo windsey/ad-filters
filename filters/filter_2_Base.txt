@@ -1,10 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-11T06:24:47.539Z
+! Last modified: 2024-01-11T12:35:45.283Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
 
+||giggleostentatious.com^
+||tiny-atmosphere.com^
 ||meksicie.net^
 ||sugpgeaunpet.com^
 ||capletstyldia.com^
