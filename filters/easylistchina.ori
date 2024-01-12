@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c/+qlBeHB0N+xb1XOKofew
-! Version: 202401120611
+! Checksum: d/ZJU3RaJjhY19fdRNh3OQ
+! Version: 202401121221
 ! Title: EasyList China
-! Last modified: 12 Jan 2024 06:11 UTC
+! Last modified: 12 Jan 2024 12:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -3065,6 +3065,12 @@ newduba.cn###jq_youxi
 ||jnwpzq.com^
 ||udjdpyrt.xyz^
 ||bdjdpyrt.xyz^
+||vainanalyst.com^
+||ogouawc.cn^
+||xdjdpyrt.xyz^
+||leizylb.icu^
+||tdjdpyrt.xyz^
+||aknusp.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 !
@@ -18974,7 +18980,7 @@ t66y.com##.tips
 ###video_playr_side.video_playr_sider.videoplayerside
 theporn.cc##.gg-config
 theporn.cc##.toolbar-gg
-69xx.one,69xx487.xyz,8mav.cc,av411.xyz,theav.xyz,thep178.com,theporn.cc,weav.xyz#?#[class]:-abp-has(>a>.q-responsive)
+69xx.one,69xx487.xyz,8mav.cc,av411.xyz,cable2055.cc,theav.xyz,thep178.com,theporn.cc,weav.xyz#?#[class]:-abp-has(>a>.q-responsive)
 ##a[href$="/hjdt9.com"]
 ##a[href$="/xha77.com"]
 ||jsdelivr.net/gh/dashange123/

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-12T06:24:56.996Z
+! Last modified: 2024-01-12T12:35:08.773Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1697,6 +1697,7 @@
 ||sailsuit.com^
 ||samesticks.com^
 ||samestretch.com^
+||samplesamba.com^
 ||satisfycork.com^
 ||satisfyingshirt.com^
 ||satisfyingshow.com^
@@ -32195,6 +32196,7 @@
 ||kyson.kakao.com^
 ||l.m.naver.com^
 ||log.etoday.co.kr^
+||log.kinolights.com^
 ||log.zdnet.co.kr^
 ||nil.naver.com^
 ||pds.auction.co.kr^
