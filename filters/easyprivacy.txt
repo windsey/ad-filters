@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-13T18:22:25.659Z
+! Last modified: 2024-01-14T01:33:17.207Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -880,6 +880,7 @@
 ||decoroustitle.com^
 ||decoycreation.com^
 ||deerbeginner.com^
+||defeatedbadge.com^
 ||defectivedress.com^
 ||defiantrice.com^
 ||delegatediscussion.com^
