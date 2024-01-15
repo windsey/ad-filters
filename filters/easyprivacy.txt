@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-15T06:25:52.031Z
+! Last modified: 2024-01-15T12:36:14.354Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -612,6 +612,7 @@
 ||bikesboard.com^
 ||billowybead.com^
 ||billowybelief.com^
+||birthdaybelief.com^
 ||bitterbear.com^
 ||blackbrake.com^
 ||bleachbubble.com^
@@ -1844,6 +1845,7 @@
 ||smoggysnakes.com^
 ||smoggysongs.com^
 ||smoggystation.com^
+||snailscart.com^
 ||snailsengine.com^
 ||snakemineral.com^
 ||snakeslang.com^

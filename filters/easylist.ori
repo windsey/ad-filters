@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /iXA+6gIAxbiJqYICZoB0w
-! Version: 202401150611
+! Checksum: AV3hDeZl+fliUDaFew2t7A
+! Version: 202401151231
 ! Title: EasyList
-! Last modified: 15 Jan 2024 06:11 UTC
+! Last modified: 15 Jan 2024 12:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18452,6 +18452,7 @@ job.inshokuten.com#@#.ad-title
 lifeinvader.com,marginalreport.net,spanishdict.com,studentski-servis.com#@#.ad-wrapper
 xda-developers.com#@#.ad-zone
 xda-developers.com#@#.ad-zone-container
+wordparts.ru#@#.ad336
 leffatykki.com#@#.ad728x90
 cw.com.tw#@#.adActive
 thoughtcatalog.com#@#.adChoicesLogo
