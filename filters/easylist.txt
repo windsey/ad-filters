@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-15T01:24:42.593Z
+! Last modified: 2024-01-15T06:25:50.833Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -24826,6 +24826,7 @@
 ||servinghandy.com^
 ||servingserved.com^
 ||servtraff97.com^
+||servw.bid^
 ||sesabercuacroo.xyz^
 ||sesameebookspeedy.com^
 ||sesamefiddlesticks.com^

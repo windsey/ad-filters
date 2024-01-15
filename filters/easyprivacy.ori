@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: sUDpgyB2cCvpZUjE9NfFKw
-! Version: 202401150111
+! Checksum: OQGePdedBOtEQRpax62aqw
+! Version: 202401150611
 ! Title: EasyPrivacy
-! Last modified: 15 Jan 2024 01:11 UTC
+! Last modified: 15 Jan 2024 06:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7239,6 +7239,7 @@ omni.soundestlink.com$image
 ||piquantstove.com^
 ||pizzasnut.com^
 ||placeframe.com^
+||placidactivity.com^
 ||placidperson.com^
 ||plainplayground.com^
 ||plainrequest.com^
@@ -7469,6 +7470,7 @@ omni.soundestlink.com$image
 ||screechingslip.com^
 ||screechingstocking.com^
 ||screechingstove.com^
+||scribbleson.com^
 ||scribblestring.com^
 ||scrollservice.com^
 ||scrubswim.com^
