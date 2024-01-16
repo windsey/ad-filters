@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-15T18:23:14.462Z
+! Last modified: 2024-01-16T01:22:07.390Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3632,6 +3632,7 @@
 ||tracking.kdata.fr^
 ||tracking.lqm.io^
 ||tracking.netvigie.com^
+||tracking.voxeus.com^
 ||trk.a-dsp.com^
 ||trk.adbutter.net^
 ||visitping.rossel.be^
@@ -3974,6 +3975,7 @@
 ||analitica.webrpp.com^
 ||analytics.lasegunda.ecn.cl^
 ||analytics.neoogilvy.uy^
+||bpt.webedia-group.com^
 ||collector-videoplayer.5centscdn.net^
 ||contadores.miarroba.com^
 ||contadores.miarroba.es^
