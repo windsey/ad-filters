@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-17T06:24:43.001Z
+! Last modified: 2024-01-17T12:36:05.519Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -49,6 +49,7 @@
 ||counter.packa2.cz^
 ||starszoom.re^
 ||lr-intake.com^
+||intake-lr.com^
 ||collector-api.frspecifics.com^
 ||carrick-ui.advoncommerce.com^
 ||smelel.icu^

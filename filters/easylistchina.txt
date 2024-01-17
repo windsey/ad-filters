@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-17T06:24:35.717Z
+! Last modified: 2024-01-17T12:35:58.323Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1481,6 +1481,7 @@
 ||mec9k.com^
 ||wfpjeul.cn^
 ||yxptcrss.xyz^
+||qsfbmol.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
