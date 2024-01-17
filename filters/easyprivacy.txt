@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-16T18:23:43.587Z
+! Last modified: 2024-01-17T01:22:52.205Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -21,6 +21,7 @@
 ://a869.
 ://analytics-cdn.
 ://client.rum.
+://cmpworker.
 ://elqtrk.
 ://insights-collector.
 ://internal-matomo.
@@ -4126,8 +4127,6 @@
 ||clp-mms.cloudpro.co.uk^
 ||cm-mms.coachmag.co.uk^
 ||cm.nordvpn.com^
-||cmpworker.dotesports.com^
-||cmpworker.primagames.com^
 ||cnt.hd21.com^
 ||cnt.iceporn.com^
 ||cnt.viptube.com^

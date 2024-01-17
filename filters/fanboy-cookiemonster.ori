@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: A62Blcvng99J8a4lKBrZYw
+! Checksum: mcTdbCTZf+XDtQvIeT6xrw
 ! Title: Easylist Cookie List
-! Updated: 2024-01-16 17:40 UTC
+! Updated: 2024-01-17 00:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -11003,6 +11003,7 @@
 ##.contentCookie
 ##.contentCookieBox
 ##.contentRender_name_plugins_common_cookie_banner
+##.contentRender_name_plugins_common_gdpr_banner
 ##.content_cookies
 ##.conteudo-cookie-accepted
 ##.conteudoCookies
@@ -18867,7 +18868,9 @@ cookieshark.eu###cookie--Modal
 peterchristian.co.uk,peterchristianoutfitters.com###cookie-acceptancce
 shop.naturtrend.com###cookie-appliance-popup-box
 velosure.co.uk###cookie-bar-template
+store.azeron.eu###cookie-consent-background
 github.com###cookie-consent-banner
+store.azeron.eu###cookie-consent-foreground
 laspalmerasapartments.com###cookie-consent-notification
 ecigarettedirect.co.uk###cookie-message-slide-in
 renewcanceltv.com###cookie-notice
@@ -19086,6 +19089,7 @@ professionalbatterychargers.com###nscmsboxboxsimple
 spreaker.com###nt_container
 nvu.io###nvu-consent
 northwell.edu###nwh_footer_banner_legal
+novaramedia.com###obligation-bar
 postgraduatesearch.com###ol
 pollylingu.al###opt-form
 atlantic.money###opt-in
@@ -19311,6 +19315,7 @@ traderjoes.com##.CookiesAlert_cookiesAlert__3qSl1
 fitline.com##.CookiesGDPR_initial__2ePNF
 malaysiaairlines.com##.CookiesNotificationBtmOverlaySticky
 andersenlab.com##.CookiesPolicy-module--wrapper--8pHca
+movadex.com##.CookiesPopup_root__h_m4j
 accounts.ucas.com,nngroup.com##.CybotEdge
 basspro.com,cabelas.com##.DisclosurePopupContainer
 tietalent.com##.EQRlj
@@ -23269,6 +23274,7 @@ padovacalcio.it###pi_tracking_opt_in_div
 pusc.it###pixelfabrica-cs-banner
 sportrentino.it###popcookiesbg
 cinquantamila.it###privacy_advisor
+faxiflora.it###privacydiv
 la7.it###puthere
 rds.it###rds-cookie-preferences
 samaritansonlus.org###sB_injected
@@ -24299,6 +24305,7 @@ valher.si##tr > td
 almacen-informatico.com###Informacion
 northgate.es###WindowLoad
 agendadeteatro.es###abdm-cookies-overlay
+us.as.com###acceptationCMPWall
 descifrandolaguerra.es###adam-cookie-banner
 lizipaina.es###additional
 sierraygonzalez.es###anuncio
@@ -24317,6 +24324,7 @@ cdecomunicacion.es###ca_banner
 caf.com###cafModal
 parquesnacionales.cnig.es###capa_galleta
 elpicazo.org###configuracion_cookies
+contasimple.com###consentModeDialogContainer
 hotelhonucai.com###container-screen
 ilebara.es,maslife.es,piensoluegoactuo.com###container_opacity
 tienda.edicionesbabylon.es###cook
@@ -25421,6 +25429,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||embedplus.com/iframe-cookie-consent.aspx$subdocument
 @@||eok.ee/javascripts/cookiebar.js$~third-party
 @@||erlebnissennerei-zillertal.at/typo3conf/ext/bh/Resources/*/cookie-popup.$~third-party
+@@||euromaster.de/v/$script,~third-party
 @@||eurosportplayer.com/cms/articles/cookie-banner?$xmlhttprequest
 @@||evbstatic.com^*/cookie_header.js
 @@||evidon.com/sitenotice/$domain=etonline.com|popsugar.co.uk|telegraph.co.uk
