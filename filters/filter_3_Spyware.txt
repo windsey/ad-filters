@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-17T12:36:05.519Z
+! Last modified: 2024-01-17T18:23:56.477Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -876,7 +876,6 @@
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 ||tags.dxmdp.com^
-||dl.reg.163.com^
 ||adeventtrackermonitoring.spotify.com^
 ||pixel.ionos.com^
 ||d3p8zr0ffa9t17.cloudfront.net^

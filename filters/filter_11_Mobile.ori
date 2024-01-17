@@ -2631,6 +2631,8 @@ chip.de,gamesworld.de,fnn.jp##.Ad
 !
 ! SECTION: Regular rules
 !
+minkou.jp##.mod-listReview-list__ad
+minkou.jp##.js-display-ad
 bellesa.co##div[class^="Column-sc"] > div[class^="MediaQuery__Query-sc"]:has(> div[class^="Structure-sc"] > div[class^="Display__RatioOuter"] > div[class^="Display__RatioInner-sc"]:empty)
 bellesa.co##div[class^="Structure-sc"] > div[class^="MediaQuery__Query-sc"]:has(div[class^="Display__RatioOuter-sc"] > div[class^="Display__RatioInner-sc"]:empty)
 oggi.it##.post > div[class^="wrapper-frame"]:has(> div[id^="rcsad_"])
@@ -5081,7 +5083,7 @@ collectionofbestporn.com##.banner-mobile-header
 javsubtitle.co###mimpanel
 javsubtitle.co##.mid-ads
 javsubtitle.co##.bottom-ads
-javsubtitle##.header-ads
+merlininkazani.com,javsubtitle##.header-ads
 ndtv.com##amp-iframe[src^="https://drop.ndtv.com/"]
 online.anidub.com###dle-content > div[style*="width: 300px;"][style*="height: 300px;"]
 india.com,india.com,bollywoodlife.com,bgr.in##.add-box
