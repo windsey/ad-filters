@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-18T01:21:52.863Z
+! Last modified: 2024-01-18T06:25:12.705Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -9845,6 +9845,7 @@ rgmechanicsgames.com*VPN.exe
 ||checkm8.com^
 ||checkoutfree.com^
 ||checkup02.biz^
+||checkupforecast.com^
 ||checkyofeed.com^
 ||cheddaramusias.life^
 ||cheecmou.com^
