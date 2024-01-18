@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: CNQ4AsIt88wd5S1TR7eKmQ
-! Version: 202401181231
+! Checksum: mri6OWpmf2yTsl+kPSyfEg
+! Version: 202401181811
 ! Title: EasyPrivacy
-! Last modified: 18 Jan 2024 12:31 UTC
+! Last modified: 18 Jan 2024 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10853,7 +10853,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||reverbnation.com/widgets/trk/
 ||rfksrv.com/rfk/$third-party
 ||rfksrv.com/rfkj/$image
-||ria.ru/counter?
 ||richrelevance.com/rrserver/tracking?
 ||rltd.io/tags/
 ||roadster.com/roadster_dealer_analytics
@@ -42965,6 +42964,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||4pda.ru/stat/
 ||a.mts.ru^
 ||a.pikabu.ru^
+||a.ria.ru^
 ||ad.mail.ru/static/sync-loader.js
 ||ad7.bigmir.net^
 ||adme.media/metric-collector
@@ -42976,6 +42976,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||avito.ru/stat/
 ||babyblog.ru/pixel?
 ||c.sibnet.ru^
+||clck.dzen.ru^
 ||consultant.ru/js/counter.js
 ||cosmo.ru/*/.js?i=*&r=
 ||counter.drom.ru^
@@ -42986,6 +42987,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||cvt1.sibnet.ru^
 ||data.glamour.ru^
 ||drom.ru/dummy.
+||dzen.ru/api/*/stats/
+||dzen.ru/pingx
+||dzeninfra.ru/ping?
 ||fb.ru/stat/
 ||fontanka.ru/api/metrics/
 ||fotostrana.ru/start/
@@ -43004,11 +43008,13 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||livelib.ru/service/traffic
 ||livelib.ru/service/visitlist/
 ||lmcdn.ru^*/statistics.js
+||log.dzen.ru^
 ||log.ren.tv^
 ||log.rutube.ru^
 ||mail.ru/count/
 ||metrika.kontur.ru^
 ||mirtesen.ru/js/ms.js
+||ms.dzen.ru^
 ||mts.ru/fe-api/logger
 ||mytoys.ru/ka_z.jpg?
 ||ngs.ru/s/
@@ -43028,7 +43034,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||rbc.ru/count/
 ||rbc.ru/redir/stat/
 ||rbc.ru/rightarror.gif
-||ria.ru/ping?
 ||rt.ru/proxy?
 ||rutube.ru/counters.html?
 ||rutube.ru/dbg/player_stat?
