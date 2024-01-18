@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-18T06:25:07.884Z
+! Last modified: 2024-01-18T12:35:51.252Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2623,6 +2623,7 @@
 ||doug1izaerwt3.cloudfront.net^
 ||dx.mountain.com^
 ||dynamic.ziftsolutions.com^
+||e.channelexco.com^
 ||e.htplayground.com^
 ||e.metarouter.io^
 ||ea.youmaker.com^

@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 43PZjYsrVvf/RHlxzjzBuA
-! Version: 202401180611
+! Checksum: CNQ4AsIt88wd5S1TR7eKmQ
+! Version: 202401181231
 ! Title: EasyPrivacy
-! Last modified: 18 Jan 2024 06:11 UTC
+! Last modified: 18 Jan 2024 12:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -907,6 +907,7 @@
 /fp/top_fp.
 /fp2.compressed.js
 /fp2.min.js$domain=~spweb.auction.co.kr|~spweb.gmarket.co.kr
+/fp3.min.js
 /fp_204?
 /fpc/cookie_js.php
 /fpcookie?
@@ -9875,6 +9876,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dynamicyield.com/var?
 ||e-activist.com^*/broadcast.record.message.open.do?
 ||e-merchant.com/^*/edr.js$third-party
+||e.channelexco.com^
 ||e.ebidtech.com/cv/
 ||e.htplayground.com^
 ||e.metarouter.io^
@@ -43337,6 +43339,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||legendstracking.com/js/legends-tracking.js$~third-party
 @@||lenovo.com/_ui/desktop/common/js/AdobeAnalyticsEvent.js$script,~third-party
 @@||lenovo.com/fea/js/adobeAnalytics/$script,~third-party,xmlhttprequest
+@@||letmegpt.com/js/gpt.js$~third-party
 @@||level.travel/tracker/tracker.js$script,~third-party
 @@||lightning.bleacherreport.com/launch/*-source.min.js$~third-party
 @@||lightning.bleacherreport.com^*/launch-$~third-party
