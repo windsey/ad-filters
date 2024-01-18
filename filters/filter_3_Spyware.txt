@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-17T18:23:56.477Z
+! Last modified: 2024-01-18T01:21:54.521Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -39261,6 +39261,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||sb.scorecard.research.com^
 ||zml-apm-prd.dbv4.noncd.db.de^
 ||api.bytebrew.io^
 ||lg-release-tracking-8080.gcld-line.com^
