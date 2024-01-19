@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-19T06:24:44.600Z
+! Last modified: 2024-01-19T12:38:52.821Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
 
+||snipersex.com^
 ||auhpaewvbgwjr.com^
 ||wokaptoa.com^
 ||lambedbarbal.website^
@@ -29277,7 +29278,6 @@ rgmechanicsgames.com*VPN.exe
 ||snhtvtp.com^
 ||snicherchitra.space^
 ||snidethereto.com^
-||snipersex.com^
 ||snippystowstool.com^
 ||snippyteevee.com^
 ||snippyyuncan.uno^
