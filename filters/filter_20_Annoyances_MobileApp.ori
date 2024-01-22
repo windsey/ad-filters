@@ -392,7 +392,7 @@ ulifestyle.com.hk##.modal-backdrop
 ulifestyle.com.hk###Open-appLink-banner
 three.com.hk##.download-footer
 app.diandian.com###__layout > div > div[class="box dd-base-color"]
-eksisozluk111.com#%#//scriptlet('set-cookie', 'app-suggestion', '1')
+eksisozluk.com#%#//scriptlet('set-cookie', 'app-suggestion', '1')
 myoji-yurai.net#?#a[href="https://play.google.com/store/apps/details?id=net.myoji_yurai.myojiOmikuji"]:upward(1)
 coolapk.com##.download-group
 e1.ru#?##record-header > div[class]:has(> div[class] > a[href^="https://redirect.appmetrica.yandex.com/"])
@@ -2165,7 +2165,7 @@ netkeiba.com,zhihu.com,wayfair.de,shopping.yahoo.co.jp,103.by##.AppBanner
 search.yahoo.co.jp###contentsInner > article[class^="W2ALink_W2ALink__"]
 sports.yahoo.co.jp###prm_text
 baseball.yahoo.co.jp,sports.yahoo.co.jp###prm_sapp
-baseball.yahoo.co.jp,soccer.yahoo.co.jp##.sn-modBanner
+sports.yahoo.co.jp,baseball.yahoo.co.jp,soccer.yahoo.co.jp##.sn-modBanner
 shopping.yahoo.co.jp###h_app
 store.shopping.yahoo.co.jp##.elItemEntryLink[data-ylk^="slk:applnk"]
 thehindu.com###artmeterwrap
@@ -3118,6 +3118,7 @@ m.tokopedia.com#$#div[data-testid="divOverlay"] { display: none!important; }
 ! causes some issues: https://github.com/AdguardTeam/AdguardForMac/issues/550
 ~status.im,~lafenice.io,~kurer-sreda.ru,~chorki.com,~zattoo.com,~zaycev.net,~xltrax.ee,~hitta.se,~mail.ru,~v7player.wostreaming.net,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 !
+pikabu.ru#%#//scriptlet('set-local-storage-item', 'pkb_mobappsh', 'true')
 xfollow.com##div[class^="index-module__iosPrompt"]
 soulgen.net##.fixed.bottom-0
 mobalytics.gg##main > div > div:has(> a[href^="https://mobalytics.gg/lol/glp/download-welcome"])
