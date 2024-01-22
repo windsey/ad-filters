@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-22T06:25:56.414Z
+! Last modified: 2024-01-22T12:37:20.154Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2294,6 +2294,7 @@
 ||analytics-api.klickly.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-consent-manager-v2-prod.azureedge.net^
+||analytics-prd.aws.wehaa.net^
 ||analytics-production.hapyak.com^
 ||analytics-scripts.cablelabs.com^
 ||analytics-sg.tiktok.com^

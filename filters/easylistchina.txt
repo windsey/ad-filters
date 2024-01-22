@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-22T06:25:55.557Z
+! Last modified: 2024-01-22T12:37:19.307Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1543,6 +1543,10 @@
 ||iewtwo.xyz^
 ||ypyjyhny.xyz^
 ||ovykq.online^
+||cpyjyhny.xyz^
+||ovnrmvg.cn^
+||idns.online^
+||xpyjyhny.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
