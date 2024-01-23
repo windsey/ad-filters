@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-23T01:23:54.896Z
+! Last modified: 2024-01-23T06:25:03.820Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1555,6 +1555,9 @@
 ||hrbpopp.cn^
 ||uqueae.xyz^
 ||oyugspe.cn^
+||plotafb.com^
+||nanaimostarkle.com^
+||chubsxmg.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
