@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-24T01:23:33.820Z
+! Last modified: 2024-01-24T06:25:21.381Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1154,6 +1154,7 @@
 ||greyinstrument.com^
 ||gripcorn.com^
 ||groovyornament.com^
+||grouchybrothers.com^
 ||grouchypush.com^
 ||grumpydime.com^
 ||grumpydrawer.com^
