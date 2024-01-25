@@ -82,6 +82,11 @@
 !
 ! ||mobileapptracking.com^ - don't block this domain with all subdomains. https://forum.adguard.com/index.php?threads/23917/
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/171494
+||adx-open-service.youku.com^
+||ad.youku.com^
+||ykad-data.youku.com^
+||cad.youku.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/148028
 ! Dcard app
 ||dad-api.dcard.tw^
@@ -2634,7 +2639,8 @@ chip.de,gamesworld.de,fnn.jp##.Ad
 !
 ! SECTION: Regular rules
 !
-m.winfuture.de##div[id^="taboola-mid-home-thumbnails-mobile"]
+spite.cz##.sda-space--mobile
+geo.fr##.ads-introText
 wtmnews.net##.entry-content > p:has(> a[target="_blank"][rel="nofollow sponsored "] > img)
 wtmnews.net##.aflImage
 wtmnews.net##.aflLinkFlex

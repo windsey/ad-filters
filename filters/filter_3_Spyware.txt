@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-25T12:36:38.919Z
+! Last modified: 2024-01-25T18:24:45.327Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||lab.analyticspodium.com^
 ||trk.sensic.net^
 -s2s.sensic.net^
 ||fc-id.sensic.net^
@@ -731,6 +732,12 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||prebid-log.getpublica.com^
+||dmp.truoptik.com^
+||analytics.nova.foxsports.com^
+||analytics.theta360.com^
+||log.ifood.tv^
+||analytics.pangle-ads.com^
 ||d9jj3mjthpub.cloudfront.net^
 ||wwwstat.rz.uni-leipzig.de^
 ||analytics.fap.bar^
