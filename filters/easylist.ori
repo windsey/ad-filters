@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RxOgk+PTFow4NCyoFQ/xXw
-! Version: 202401250611
+! Checksum: 4d4nm9NONfeJocyr0LUXzg
+! Version: 202401251231
 ! Title: EasyList
-! Last modified: 25 Jan 2024 06:11 UTC
+! Last modified: 25 Jan 2024 12:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18029,6 +18029,7 @@ _800x80_
 ###mgb-container > #mgb
 ! https://github.com/easylist/easylist/pull/11962
 ###kt_player > a[target="_blank"]
+###kt_player > div[style="position: absolute; inset: 0px; z-index: 170;"]
 ! Slashdot "Deals" (covers web/ipfs/onion)
 ###slashboxes > .deals-rail
 ##.scroll-fixable.rail-right > .deals-rail
@@ -62385,6 +62386,7 @@ whatcar.com##.ReviewHero_mastheadStyle__Bv8X0
 geometrydash.io##.RowAdv
 gq.com##.SavingsUnitedCouponsWrapper-humLIe
 lbcgroup.tv##.ScriptDiv
+staples.com##.SearchRootUX2__bannerAndSkuContainer
 coingape.com##.Sidemads
 simkl.com##.SimklTVDetailEpisodeLinksItemHref
 thedailybeast.com##.Sizer
