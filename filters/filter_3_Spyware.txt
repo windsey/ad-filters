@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-26T06:23:31.978Z
+! Last modified: 2024-01-26T12:32:12.680Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -732,6 +732,9 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||pdsssl.gmarket.co.kr^
+||pds.gmarket.co.kr^
+||uts.gmarket.co.kr^
 ||prebid-log.getpublica.com^
 ||dmp.truoptik.com^
 ||analytics.nova.foxsports.com^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-26T06:23:25.817Z
+! Last modified: 2024-01-26T12:32:06.544Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -133,6 +133,7 @@
 ||consent2.rheinische-anzeigenblaetter.de^
 ||consenttool.haendlerbund.de^
 ||cookies.ptj.de^
+||cookies.tanke-guenstig.de^
 ||fc.vodafone.de^
 ||up-cookiemon.wavecdn.net^
 ||cmp.histoire-et-civilisations.com^
