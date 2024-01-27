@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-27T06:20:46.782Z
+! Last modified: 2024-01-27T12:28:52.742Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1609,6 +1609,8 @@
 ||chgpuxim.xyz^
 ||dmdnlr.xyz^
 ||kaurieseluxate.com^
+||lioyfmp.cn^
+||xhgpuxim.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
@@ -5682,7 +5684,6 @@
 ||v1.phb123.com^
 ||v1.taksh.cn^
 ||v1.wphonelife.com^
-||ve.kj-cy.cn^
 ||vip.panggugu.com^
 ||vv1.pyhfxdm.cn^
 ||vvv.ieduw.com^

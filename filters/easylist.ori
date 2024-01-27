@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kA4FAqPFOZKA24aGH7Cx/A
-! Version: 202401270611
+! Checksum: maygMLesQUwR5US+OGPaWg
+! Version: 202401271221
 ! Title: EasyList
-! Last modified: 27 Jan 2024 06:11 UTC
+! Last modified: 27 Jan 2024 12:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7303,6 +7303,7 @@ _800x80_
 ##.aboveCommentAds
 ##.abovead
 ##.ac-banner-ad
+##.ac-widget-placeholder
 ##.ac_adbox
 ##.acm-ad-container
 ##.acm-ad-tag-unit
@@ -67428,6 +67429,7 @@ cockdude.com##.after-boxes-ver2
 hentaidude.xxx##.ai_widget
 hentai2read.com##.alert-danger
 dvdgayonline.com##.aligncenter
+lewdzone.com##.alnk
 punishworld.com##.alrt-ver2
 freeadultcomix.com##.anuncios
 hotmovs.com##.app-banners
