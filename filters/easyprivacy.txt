@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-26T18:21:39.988Z
+! Last modified: 2024-01-27T01:15:07.029Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2289,6 +2289,7 @@
 ||amplifypixel.outbrain.com^
 ||ams-pageview-public.s3.amazonaws.com^
 ||analyse.bcovery.com^
+||analyse.lnearn.com^
 ||analytic.rollout.io^
 ||analyticcdn.globalmailer.com^
 ||analytics-1.cavai.com^
@@ -2964,7 +2965,6 @@
 ||reach-id.orbit.tm-awx.com^
 ||realm.hearst3pcc.com^
 ||recs.shareaholic.com^
-||refer.ccbill.com^
 ||refer.wordpress.com^
 ||referrer.disqus.com^
 ||removeads.workers.dev^
@@ -3342,6 +3342,7 @@
 ||v.shopify.com^
 ||vdrn.redplum.com^
 ||vercel-vitals.axiom.co^
+||verify.lnearn.com^
 ||video-ad-stats.googlesyndication.com^
 ||videoevents.outbrain.com^
 ||vortex.data.microsoft.com^

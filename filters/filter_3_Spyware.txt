@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-26T18:21:46.471Z
+! Last modified: 2024-01-27T01:15:13.590Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2626,7 +2626,6 @@
 ||tr.ds.kakao.com^
 ||tr.junaroad.com^
 ||tr.marsflag.com^
-||tr.namu.wiki^
 ||tr.outbrain.com^
 ||tr.snapchat.com^
 ||tr.suedkurier.de^
