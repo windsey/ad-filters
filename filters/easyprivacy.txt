@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-27T12:28:53.606Z
+! Last modified: 2024-01-27T18:19:29.884Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -4254,6 +4254,7 @@
 ||geoip.ifunny.co^
 ||geolocation.forbes.com^
 ||glassmoni.researchgate.net^
+||gmetrics.getbeamer.com^
 ||gnar.grammarly.com^
 ||go.pardot.com^
 ||gotie.tunein.com^
