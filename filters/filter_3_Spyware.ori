@@ -555,6 +555,8 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !
 !
 !
+||trackerscript.sqreemtech.com^$third-party
+||infinity-tracking.com^$third-party
 ||system-debug-1.b-cdn.net^$third-party
 ||lab.analyticspodium.com^
 ||trk.sensic.net^
@@ -1730,7 +1732,6 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ||p.tinynewsfeed.com^$third-party
 ||clarivoy.com^$third-party
 ||aufp.io^$third-party
-||datadome.co^$third-party
 ||celebrus.com^$third-party
 ||techlab-cdn.com^$third-party
 ||mpianalytics.com^$third-party
@@ -4558,6 +4559,8 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analyticswritenew.xerevo.com^
+||tracking.staff-start.com^
 ||p-aw2-adapt-beacon.awsprodops.movetv.com^
 ||p-cg64-slinganalytics.movetv.com^
 ||pdsssl.gmarket.co.kr^
@@ -83620,6 +83623,7 @@ _tracking.php?b=
 /analytics.js$domain=tokyometro.jp|resumes.breakdownexpress.com|techcult.com|inbox.lv|kopeda.com|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de|newsdig.tbs.co.jp|imore.com|city.kushiro.lg.jp|emeraldbridal.com.au|emarat-news.ae|imobie.jp|tikla.com.tr|rusvideos.porn|jrkyushu.co.jp|amiunique.org|edit.ing|konami.com
 ||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com|euronews.com|newshub.co.nz|fredmeyer.com|viabcp.com|carsales.com.au|falabella.com|aarp.org|thehill.com|realtor.com|nzherald.co.nz|aia.com.ph|baynews9.com|thesaurus.com|dhc.co.jp
 !
+||static.staff-start.com/js/track/*/staffstart.*.min.js
 ||sales-crowd.jp/js/sc-web-access-analysis.js
 ||dhc.co.jp/com/cookie.jsp
 ||ana.co.jp/common/js/GTMTOP.js
@@ -84883,7 +84887,6 @@ politring.com##a[href="https://metrika.yandex.ru/"]
 ||payments-amazon.com^*/analytics.js
 ||std-lab.jp/js/analytics.js.php
 ||gplinks.co/auth/ads_stats_controller.php
-||mynewsmedia.co/*/linkpage/ads_stats_controller.php
 ||infusionsoft.com/app/webTracking/getTrackingCode
 ||useinsider.com^$domain=francfranc.com
 ||api.bunjang.co.kr/api/log/
@@ -85748,7 +85751,6 @@ kanobu.ru##a[href^="https://www.liveinternet.ru/click"]
 ||csi.gstatic.com^$domain=promiflash.de,redirect=nooptext,important
 ||bilder-a.akamaihd.net/ip/js/ipdvdc/dbav.js
 ||js-agent.newrelic.com^$domain=chaturbate.com,redirect=nooptext,important
-||api-js.datadome.co/js/
 ||subscribe.washingtonpost.com/acquisition/views/tracking
 ||a.nytimes.com/svc/nyt/data-layer?sourceApp
 ||a.pr-cy.ru/assets/js/counter.sqi.min.js
@@ -89051,6 +89053,8 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||log.dramaboxdb.com^
+||log.51changdu.com^
 ||autotrack.studyquicks.com^
 ||stats.studyquicks.com^
 ||fm-analytics-api.pocketfm.com^
@@ -89840,6 +89844,9 @@ inapps.appsflyersdk.com^
 !#endif
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/171678
+! Fixes loading video player
+@@||googletagmanager.com/gtm.js$domain=immobilier.lefigaro.fr
 ! https://github.com/uBlockOrigin/uAssets/issues/22217
 @@||beacon.cdn.qq.com/sdk/*/beacon_web.min.js$domain=guanjia.qq.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/171312
@@ -90086,9 +90093,6 @@ alternativeto.net#%#//scriptlet('prevent-element-src-loading', 'script', 'double
 ! https://github.com/AdguardTeam/AdguardFilters/issues/160224
 @@||googletagmanager.com/gtm.js$domain=orami.co.id
 ||googletagmanager.com/gtm.js$script,redirect=google-analytics,domain=orami.co.id,important
-! https://github.com/AdguardTeam/AdguardFilters/issues/159983
-@@||js.datadome.co/tags.js$domain=auth.garena.com
-@@||api-js.datadome.co/js/|$xmlhttprequest,domain=auth.garena.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159972
 @@||manage.wix.com/_api/wix-laboratory-server/laboratory/conductAllInScope?scope=vod$domain=editor.wixapps.net
 ! https://github.com/AdguardTeam/AdguardFilters/issues/159566
@@ -90155,8 +90159,6 @@ alternativeto.net#%#//scriptlet('prevent-element-src-loading', 'script', 'double
 ! https://github.com/uBlockOrigin/uAssets/issues/19221
 ||ab.blogs.es/abtest.png$image,redirect=1x1-transparent.gif,domain=xataka.com|trendencias.com,important
 @@||ab.blogs.es/abtest.png$image,domain=xataka.com|trendencias.com
-! https://github.com/AdguardTeam/AdguardFilters/issues/157508
-@@||js.datadome.co/tags.js$domain=account.samsung.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/157549
 @@||googletagmanager.com/gtm.js$domain=larousse.fr
 ! https://github.com/AdguardTeam/AdguardFilters/issues/157420
@@ -90779,15 +90781,12 @@ goodwillfinds.com#%#//scriptlet("set-constant", "_etmc", "emptyArr")
 @@||id.cxense.com/public/user/id?json=$domain=itmedia.co.jp
 !#endif
 ! https://github.com/AdguardTeam/AdguardFilters/issues/126945
-@@||api.cxense.com/document/search?$domain=itmedia.co.jp
+@@||api.cxense.com/document/search?
 ! https://forum.adguard.com/index.php?threads/the-app-zappn-does-not-work-correctly-after-updating-to-3-6-9.49442/
 @@||middleware.p7s1.io^$app=at.zappn
 ! https://github.com/AdguardTeam/AdguardFilters/issues/127213
 @@||track.nzz.ch/*/api/auth_v*/
 @@||track.nzz.ch/*/api/oauth/
-! https://github.com/uBlockOrigin/uAssets/issues/14401
-@@||datadome.co/js/$xmlhttprequest,domain=sso.garena.com
-@@||datadome.co/tags.js$domain=sso.garena.com
 ! https://github.com/uBlockOrigin/uAssets/issues/13630
 @@||googletagmanager.com/gtm.js$domain=hepsiburada.com
 ! fix navigation
@@ -91535,8 +91534,6 @@ woman.excite.co.jp#%#//scriptlet('remove-attr', 'data-woman-ex', 'a[href][data-w
 @@||googletagmanager.com/gtm.js$domain=learning.edx.org
 @@||google-analytics.com/analytics.js$domain=learning.edx.org
 !#endif
-! https://github.com/AdguardTeam/AdguardFilters/issues/85087
-@@||js.datadome.co/tags.js^$domain=hermes.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/85133
 @@||online-metrix.net/*/tags.js$domain=secure.getcreditscore.com.au
 @@||online-metrix.net/*/check.js$domain=secure.getcreditscore.com.au
@@ -91582,7 +91579,6 @@ woman.excite.co.jp#%#//scriptlet('remove-attr', 'data-woman-ex', 'a[href][data-w
 ! https://github.com/tofukko/filter/issues/24
 @@||googletagmanager.com/gtm.js$script,domain=okwave.jp
 ! https://github.com/hirorpt/filters/commit/77dee0653d19032081631b329b784f724eb7221b
-@@||api.cxense.com/document/search?$script,domain=tv-tokyo.co.jp
 @@||cxense.com/cx.js$script,domain=tv-tokyo.co.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/83074
 !+ PLATFORM(ios, ext_safari)
