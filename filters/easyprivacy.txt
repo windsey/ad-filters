@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-30T01:16:08.814Z
+! Last modified: 2024-01-30T06:23:12.603Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2963,6 +2963,7 @@
 ||pl.connatix.com^
 ||platform.iteratehq.com^
 ||play.adtonos.com^
+||player-metrics.instaread.co^
 ||pm.boostintegrated.com^
 ||popup-static.unisender.com^
 ||porpoise.azettl.net^
