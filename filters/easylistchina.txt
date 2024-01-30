@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-30T12:31:52.074Z
+! Last modified: 2024-01-30T18:22:07.460Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1651,6 +1651,7 @@
 ||pmnct63.shop^
 ||czresus.cn^
 ||xpwlctfk.xyz^
+||adasdz.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
