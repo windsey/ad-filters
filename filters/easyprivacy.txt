@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-29T18:21:52.072Z
+! Last modified: 2024-01-30T01:16:08.814Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -234,6 +234,7 @@
 ||lsdm.co^
 ||maggieeatstheangel.com^
 ||matheranalytics.com^
+||mathilde-ads.com^
 ||maxepv.com^
 ||maxtrafixx.tech^
 ||mb-tracking.com^

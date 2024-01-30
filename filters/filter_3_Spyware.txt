@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-29T18:21:58.714Z
+! Last modified: 2024-01-30T01:16:15.422Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -84,7 +84,6 @@
 ||getter.cfd^
 ||track.gaconnector.com^
 ||trafico.prensaiberica.es^
-||collector-*.px-cloud.net^
 ||ediemidnightzombies.com^
 ||deqik.com^
 ||meowlytics.bignutty.xyz^
@@ -342,7 +341,6 @@
 ||sd-tagging.azurefd.net^
 ||metrics.pico.tools^
 ||client.botchk.net^
-||b.px-cdn.net^
 ||t.trsbf.com^
 ||analytics*.prezly.com^
 ||gapp1.com^
