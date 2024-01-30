@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-30T06:23:19.126Z
+! Last modified: 2024-01-30T12:31:59.537Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -730,6 +730,10 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||assets.datarize.ai^
+||dtr-onsite-feed.datarize.ai^
+||realtime-profiling.datarize.ai^
+||log.pipeline.datarize.io^
 ||analyticswritenew.xerevo.com^
 ||tracking.staff-start.com^
 ||p-aw2-adapt-beacon.awsprodops.movetv.com^

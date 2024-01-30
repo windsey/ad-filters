@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-30T06:23:13.896Z
+! Last modified: 2024-01-30T12:31:54.237Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1776,6 +1776,8 @@
 ||ovbgeum.cn^
 ||cpwlctfk.xyz^
 ||pmnct63.shop^
+||czresus.cn^
+||xpwlctfk.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
@@ -4525,18 +4527,12 @@
 ||1.i999d.cn^
 ||100.admin5.com^
 ||100.pncdn.cn^
-||113.17.188.*.js
-||120.27.*.html
-||122.225.103.*.htm
 ||2016.bkill.net^
-||218.26.217.*.html
 ||3337723.com^
 ||3337738.com^
 ||5y9nfpes.52pk.com^
 ||614514.com^
 ||7xsf3h.com1.z0.glb.clouddn.com^
-||8*.tianya.cn^
-||801.tianyaui.com^
 ||874547.men^
 ||8jkx.com^
 ||9fum.ifeng.com^
@@ -4566,7 +4562,6 @@
 ||adf.dahe.cn^
 ||adi*.cnool.net^
 ||adimg.liba.com^
-||adm.265g.com^
 ||adm.52swine.com^
 ||adm.6park.com^
 ||adm.beimg.com^
@@ -4611,14 +4606,12 @@
 ||c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com^
 ||c.nuhcpf.com^
 ||cacafly.net^
-||cbjs.ciwei.in^
 ||cdgfa.ifeng.com^
 ||cdn.wuyou.ca^
 ||chidir.com^
 ||cmm.xmfish.com^
 ||cp2.eastmoney.com^
 ||cpm.cm.kankan.com^
-||css.huvmi.com^
 ||d-test.39.net^
 ||d0.xcar.com.cn^
 ||d1.3158.cn^
@@ -4653,12 +4646,9 @@
 ||ganjituiguang.ganji.com^
 ||gdt.qq.com^
 ||gg.0598yu.com^
-||gg.4kdy.net^
 ||gg.blueidea.com^
 ||gg.cs090.com^
 ||gg.gsdlcn.com^
-||gg.gw032.com^
-||gg.huahaimi.work^
 ||gg.kugou.com^
 ||gg.sonhoo.com^
 ||gg.uuu9.com^
@@ -4673,7 +4663,6 @@
 ||go.hangzhou.com.cn^
 ||goto.www.iciba.com^
 ||gp.jstv.com^
-||greenhouseglobal.cn^
 ||gt.duowan.com^
 ||gt.yy.com^
 ||guang1.zhakao.cn^
@@ -4686,7 +4675,6 @@
 ||iads.xinmin.cn^
 ||idcot.com^
 ||img.3sjt.com^
-||img.meipic.net^
 ||img1.126.net^
 ||img2.126.net^
 ||img2.titan007.com^
@@ -4697,16 +4685,13 @@
 ||itv.hexun.com
 ||ivy.pconline.com.cn^
 ||iwanad.baidu.com^
-||j.avz4.com^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
 ||js.bju888.com^
 ||js.duotegame.com^
-||js.hkslg520.com^
 ||jsyefc.com^
 ||jxad.jx163.com^
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
-||libfre.obs.cn-east-3.myhuaweicloud.com^
 ||ll.gxsky.com^
 ||lxting.com^
 ||m.aty.sohu.com^
@@ -4720,15 +4705,11 @@
 ||miniye.xjts.cn^
 ||mixer.sina.cn^
 ||mm.nwell.net^
-||money.qz828.com^
-||nirentang.com^
-||ok.432kkk.com^
 ||p.7060.la^
 ||p.zol-img.com.cn^
 ||p4p.sina.com.cn^
 ||p8u.hinet.net^
 ||panda.kdnet.net^
-||pekingpk10.com^
 ||pg-ad-b1.nosdn.127.net^
 ||phpad.cqnews.net^
 ||pic.0597kk.com^
@@ -4771,7 +4752,6 @@
 ||union.china.com.cn^
 ||union.yihaodian.com^
 ||untitled.dwstatic.com^
-||up.hiao.com^
 ||vupload.duowan.com^
 ||web.900.la^
 ||wew.dushiwenxue.net^

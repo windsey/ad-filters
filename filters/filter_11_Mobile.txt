@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-30T06:23:13.250Z
+! Last modified: 2024-01-30T12:31:53.584Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -88,6 +88,8 @@
 ||startup.mobile.yandex.net^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
+||diopousg.com^
+||ruuaqkw.com^
 ||ads-*-nfl.yinzcam.com^
 ||prod.adjoe.zone^
 ||aan.amazon.*^

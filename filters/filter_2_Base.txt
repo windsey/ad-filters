@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-30T06:23:17.395Z
+! Last modified: 2024-01-30T12:31:57.818Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -544,6 +544,7 @@
 ||samsungtvads.com^
 ||adconsent.samsungrs.com^
 
+||ads.environmentalleader.com^
 ||edge.ads.twitch.tv^
 ||dic9vgwbkxd8r.cloudfront.net^
 ||fentent.stre4mplay.one^
