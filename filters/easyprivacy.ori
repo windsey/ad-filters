@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: +MAIMZuF6W1U5uXL3Hysgw
-! Version: 202401311221
+! Checksum: NBgijpiekJok5MhOZGbunQ
+! Version: 202401311811
 ! Title: EasyPrivacy
-! Last modified: 31 Jan 2024 12:21 UTC
+! Last modified: 31 Jan 2024 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13069,6 +13069,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api-hotmart-tracking-manager.hotmart.com^
 ||api-js.mixpanel.com^
 ||api-router.kaspersky-labs.com/logger2/metrics/
+||api.channel.io/*/events
 ||api.ffm.to/sl/e/$image
 ||api.narrativ.com/favicon.ico
 ||api.privacyguides.net^
@@ -13168,7 +13169,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||change.org/api-proxy/-/bandit/pull
 ||change.org/api-proxy/-/et
 ||change.org/api-proxy/-/event_tracker
-||channel.io/front/v6/channels/1/events
+||channel.io/front/v*/channels/*/events
 ||chatfuel.com/cf-analytics/
 ||chatroll.com/t.gif
 ||chickadvisor.com/js/detect.min.js
