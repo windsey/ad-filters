@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-31T06:22:37.186Z
+! Last modified: 2024-01-31T12:32:35.589Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3878,8 +3878,10 @@
 ||webbc.fivecdm.com^
 ||x9.shinobi.jp^
 ||acelogger.heraldcorp.com^
+||applog.ssgdfs.com^
 ||assets.datarize.ai^
 ||cm-exchange.toast.com^
+||dadispapi.gmarket.co.kr^
 ||dtr-onsite-feed.datarize.ai^
 ||event.hackle.io^
 ||log.adplex.co.kr^
@@ -3890,6 +3892,7 @@
 ||logger.bzu.kr^
 ||logs-partners.coupang.com^
 ||megadata.co.kr^
+||montelena.auction.co.kr^
 ||mtag.mman.kr^
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
@@ -3900,6 +3903,7 @@
 ||teralog.techhub.co.kr^
 ||tracker.adbinead.com^
 ||tracker.digitalcamp.co.kr^
+||utsgw.auction.co.kr^
 ||counter.hackers.lv^
 ||cis.schibsted.com^
 ||collect.adplogger.no^
