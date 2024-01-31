@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-01-30T18:22:13.255Z
+! Last modified: 2024-01-31T01:16:51.247Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3111,7 +3111,6 @@
 ||filter.nativexml.com^
 ||filter.octov8.com^
 ||filter.plarimoplus.com^
-||filter.poprtb.com^
 ||filter.poprtb.pro^
 ||filter.push-sense.com^
 ||filter.pushit.work^
@@ -3137,7 +3136,6 @@
 ||filter.webmedxml.com^
 ||filter.xmladsystem.com^
 ||filter.xmlfusion.com^
-||filter.xmlking.com^
 ||filter.xmlppc.net^
 ||filter.zaimads.com^
 ||filter3.danarimedia.com^
@@ -3650,7 +3648,6 @@
 ||xml.octov8.com^
 ||xml.plarimoplus.com^
 ||xml.pop.adacts.com^
-||xml.poprtb.com^
 ||xml.poprtb.pro^
 ||xml.pulsefintech.net^
 ||xml.push-sense.com^
@@ -3688,7 +3685,6 @@
 ||xml.xml-brain.com^
 ||xml.xmladsystem.com^
 ||xml.xmlfusion.com^
-||xml.xmlking.com^
 ||xml.xmlppc.net^
 ||xml.zaimads.com^
 ||xml1.adsimilate.com^
@@ -9371,6 +9367,7 @@ rgmechanicsgames.com*VPN.exe
 ||caboclonymphly.com^
 ||cabotsmuskit.com^
 ||cachegorilla.com^
+||cachegorilla.net^
 ||cackssandhog.com^
 ||cacmatch.com^
 ||cacvduyrybba.xyz^
@@ -26834,6 +26831,7 @@ rgmechanicsgames.com*VPN.exe
 ||popmyads.com^
 ||popnc.com^
 ||poppysol.com^
+||poprtb.com^
 ||popruexo.com^
 ||popsads.com^
 ||popsads.net^
@@ -30981,6 +30979,7 @@ rgmechanicsgames.com*VPN.exe
 ||solemnlypink.com^
 ||solemnvine.com^
 ||solestudious.com^
+||soliads.io^
 ||soliads.net^
 ||solicitorlaptopfooting.com^
 ||solicitorviewer.com^
@@ -36452,6 +36451,7 @@ rgmechanicsgames.com*VPN.exe
 ||xmlapiclickredirect10102022.com^
 ||xmlgrab.com^
 ||xmlheartbiddotnet.monster^
+||xmlking.com^
 ||xmllover.com^
 ||xmlppcbuzz.com^
 ||xmlrtb.com^
@@ -37423,6 +37423,7 @@ rgmechanicsgames.com*VPN.exe
 ||1419560424.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1556048427.rsc.cdn77.org^
+||1647871863.rsc.cdn77.org^
 ||1661795914.rsc.cdn77.org^
 ||1662864709.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
