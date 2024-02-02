@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-02T06:22:18.851Z
+! Last modified: 2024-02-02T12:31:43.316Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||trandgid.com^
 ||lab.analyticspodium.com^
 ||trk.sensic.net^
 -s2s.sensic.net^
