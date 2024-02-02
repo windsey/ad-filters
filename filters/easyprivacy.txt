@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-02T12:31:36.710Z
+! Last modified: 2024-02-02T18:22:38.502Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2624,6 +2624,7 @@
 ||cws.conviva.com^
 ||d.shareaholic.com^
 ||d1tbj6eaenapdy.cloudfront.net^
+||d2pt12ct4kmq21.cloudfront.net^
 ||d2wa5sea6guof0.cloudfront.net^
 ||d3vebqdofhigrn.cloudfront.net^
 ||dash.getsitecontrol.com^
@@ -3557,6 +3558,7 @@
 ||siteintercept.allegiancetech.com^
 ||trusted-web-seal.cybertrust.ne.jp^
 ||advantage.digitalsunray.com^
+||analytics.agenedia.com^
 ||analytics.audionow.de^
 ||analytics.gameforge.de^
 ||analytics.idfnet.net^
@@ -4022,6 +4024,7 @@
 ||analytics.neoogilvy.uy^
 ||bpt.webedia-group.com^
 ||collector-videoplayer.5centscdn.net^
+||contador.biobiochile.cl^
 ||contadores.miarroba.com^
 ||contadores.miarroba.es^
 ||creatives.sunmedia.tv^
@@ -4292,6 +4295,7 @@
 ||geoip.hmageo.com^
 ||geoip.ifunny.co^
 ||geolocation.forbes.com^
+||gg.vevor.com^
 ||glassmoni.researchgate.net^
 ||gmetrics.getbeamer.com^
 ||gnar.grammarly.com^
@@ -4459,6 +4463,7 @@
 ||rum.condenastdigital.com^
 ||rum.kobo.com^
 ||rvo-cohesion.healthline.com^
+||s.gofile.io^
 ||s.infogram.com^
 ||s.wayfair.com^
 ||saa.insideedition.com^
@@ -32386,6 +32391,7 @@
 ||matt.mercadolibre.
 ||pixel.europapress.net^
 ||px-intl.ucweb.com^
+||realtime.bbcl.cl^
 ||rvv.emol.com^
 ||statsmp2.emol.com^
 ||t-pan.triodos.com^

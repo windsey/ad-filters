@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-02T12:31:43.316Z
+! Last modified: 2024-02-02T18:22:44.973Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -705,7 +705,6 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
-||d3nn82uaxijpm6.cloudfront.net^
 ||hkrpg-log-upload.mihoyo.com^
 ||reporting-api.gannettinnovation.com^
 ||applog.ssgdfs.com^
@@ -39457,6 +39456,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||log.goodreels.com^
 ||log.dramaboxdb.com^
 ||log.51changdu.com^
 ||autotrack.studyquicks.com^
