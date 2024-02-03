@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-03T01:14:40.926Z
+! Last modified: 2024-02-03T06:20:43.229Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2912,6 +2912,7 @@
 ||onespot-tracking.herokuapp.com^
 ||open.delivery.net^
 ||optimeeze.appspot.com^
+||p.cquotient.com^
 ||p.metrilo.com^
 ||p.placed.com^
 ||p.skimresources.com^
