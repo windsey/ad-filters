@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-04T01:26:00.911Z
+! Last modified: 2024-02-04T06:21:08.401Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2530,6 +2530,7 @@
 ||collect.rebelmouse.io^
 ||collect.rewardstyle.com^
 ||collect.usefathom.com^
+||collect.verify.lnearn.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
 ||collector-api.frspecifics.com^
@@ -3339,7 +3340,6 @@
 ||v.shopify.com^
 ||vdrn.redplum.com^
 ||vercel-vitals.axiom.co^
-||verify.lnearn.com^
 ||video-ad-stats.googlesyndication.com^
 ||videoevents.outbrain.com^
 ||vortex.data.microsoft.com^
