@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-05T06:22:56.000Z
+! Last modified: 2024-02-05T12:32:48.933Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -87,6 +87,7 @@
 ||startup.mobile.yandex.net^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
+||ads*.textra.me^
 ||diopousg.com^
 ||ruuaqkw.com^
 ||ads-*-nfl.yinzcam.com^
@@ -187,7 +188,7 @@
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||thecatmachine.com^
 ||blueduckredapple.com^
-||cdn.mobilefuse.com^
+||mobilefuse.com^
 ||api-ad-callback.mobiuspace.net
 ||hb.rayjump.com^
 ||gdl.i9dhjx.ru^
