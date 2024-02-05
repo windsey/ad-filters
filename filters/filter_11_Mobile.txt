@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-05T12:32:48.933Z
+! Last modified: 2024-02-05T18:23:38.463Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -87,6 +87,8 @@
 ||startup.mobile.yandex.net^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
+||rtblab.net^
+||lacunads.com^
 ||ads*.textra.me^
 ||diopousg.com^
 ||ruuaqkw.com^
