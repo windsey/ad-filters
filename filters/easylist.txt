@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-07T06:22:08.699Z
+! Last modified: 2024-02-07T12:31:31.064Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -35303,6 +35303,7 @@
 ||ads.audio.thisisdax.com^
 ||adsbb.depositfiles.com^
 ||aontent.powzers.lol^
+||api.mumuglobal.com^
 ||asgg.ghostbin.me^
 ||b.w3techs.com^
 ||beap.gemini.yahoo.com^
@@ -35361,6 +35362,7 @@
 ||socket.streamable.com^
 ||sontent.powzers.lol^
 ||spike-plant.valorbuff.com^
+||store-api.mumuglobal.com^
 ||t.police1.com^
 ||tpc.googlesyndication.com^
 ||tracking.police1.com^
