@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-07T12:31:32.297Z
+! Last modified: 2024-02-07T18:21:43.021Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -4372,6 +4372,7 @@
 ||r.bbci.co.uk^
 ||rankhit.china.com^
 ||ras.yahoo.com^
+||react-admin-telemetry.marmelab.com^
 ||rec.banggood.com^
 ||relay.fiverr.com^
 ||reports.tunein.com^
