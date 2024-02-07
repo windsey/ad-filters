@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-07T01:14:30.863Z
+! Last modified: 2024-02-07T06:22:09.063Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1760,6 +1760,9 @@
 ||p2ijd.space^
 ||25ktra.cn^
 ||ykgfcs.xyz^
+||xvilxdv.cn^
+||atwqyor.cn^
+||clkdbbvy.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ||002777.xyz^
@@ -4787,6 +4790,7 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||wenxue.youzhicn.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
