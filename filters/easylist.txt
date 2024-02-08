@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-08T01:14:56.880Z
+! Last modified: 2024-02-08T06:23:24.091Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -28022,6 +28022,7 @@
 ||startd0wnload22x.com^
 ||startlemanipulativedamaging.com^
 ||startpagea.com^
+||startperfectsolutions.com^
 ||starvardsee.xyz^
 ||starvationdefence.com^
 ||starvegingerwaist.com^
