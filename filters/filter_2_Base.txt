@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-07T18:21:47.904Z
+! Last modified: 2024-02-08T01:15:03.125Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11680,6 +11680,7 @@ rgmechanicsgames.com*VPN.exe
 ||dauptoawhi.com^
 ||dausoofo.net^
 ||dautegoa.xyz^
+||davctinijon.com^
 ||davjdaauvlp.com^
 ||daweneath.com^
 ||dawirax.com^
@@ -19968,6 +19969,7 @@ rgmechanicsgames.com*VPN.exe
 ||jsfeedadsget.com^
 ||jsfrfeuubna.com^
 ||jsftfmegwcyhsed.com^
+||jsftzha.com^
 ||jsfuz.com^
 ||jsjocrwmcg.com^
 ||jsmentry.com^
@@ -31970,6 +31972,7 @@ rgmechanicsgames.com*VPN.exe
 ||suctionspelts.com^
 ||sudorwauve.com^
 ||sudsguidon.com^
+||sudvclh.com^
 ||suescollum.com^
 ||sufeismmitered.digital^
 ||suffertreasureapproval.com^
@@ -37805,6 +37808,7 @@ rgmechanicsgames.com*VPN.exe
 ||gg.caixin.com^
 ||go.bloxplay.com^
 ||go.ezodn.com^
+||googleads.github.io^
 ||hb.yahoo.net^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
 ||k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com^
