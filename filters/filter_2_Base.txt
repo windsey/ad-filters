@@ -1,10 +1,14 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-08T06:23:30.282Z
+! Last modified: 2024-02-08T12:32:07.365Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
-
+||whimsicalcoat.com^
+||cylindrical-form.com^
+||evoutouk.com^
+||boptegre.com^
+||nisdnwiug.com^
 ||bqeuffmdobmpoe.xyz^
 ||njsbccyenjyq.com^
 ||stethuth.xyz^
@@ -552,7 +556,6 @@
 ||stripe.rs-1028-a.com^
 ||piguiqproxy.com^$badfilter
 ||samsungtvads.com^
-||adconsent.samsungrs.com^
 
 ||ads.videy.co^
 ||ads.sportslocalmedia.com^
