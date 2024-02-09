@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-09T01:14:55.552Z
+! Last modified: 2024-02-09T06:22:26.083Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1796,6 +1796,8 @@
 ||zgwvcv.icu^
 ||erluankuan.com^
 ||88lm04.com^
+||sltbjrf.cn^
+||cldxphtg.xyz^
 ||zzyy20.top^
 ||002777.xyz^
 ||01v62.xyz^
