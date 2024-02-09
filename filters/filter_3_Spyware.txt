@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-09T12:31:19.730Z
+! Last modified: 2024-02-09T18:21:42.333Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -708,6 +708,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||noa.yahoo.com^
+||mdstats.info^
 ||tcx-beacon.docs.aws.dev^
 ||analytics.githubassets.com^
 ||hkrpg-log-upload.mihoyo.com^
@@ -40047,6 +40049,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wiz.sncf-connect.com^
 ||wz.allianz.fr^
 
+||tms.capitalone.com^$badfilter
 ||omns.americanexpress.com^$badfilter
 ||data.digital.costco.ca^$badfilter
 ||data.digital.costco.com^$badfilter
