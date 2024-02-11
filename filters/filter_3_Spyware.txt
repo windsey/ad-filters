@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-11T12:29:57.661Z
+! Last modified: 2024-02-11T18:21:31.859Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -708,6 +708,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||collector.taoxh.life^
 ||noa.yahoo.com^
 ||mdstats.info^
 ||tcx-beacon.docs.aws.dev^

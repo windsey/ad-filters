@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-11T12:29:50.955Z
+! Last modified: 2024-02-11T18:21:25.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -4123,6 +4123,7 @@
 ||collector.githubapp.com^
 ||collector.megaxh.com^
 ||collector.pi.spectrum.net^
+||collector.taoxh.life^
 ||collector.xhamster.com^
 ||collector.xhamster.desi^
 ||collector.xhamster2.com^
