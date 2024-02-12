@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-11T18:21:26.448Z
+! Last modified: 2024-02-12T01:16:10.589Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1951,6 +1951,9 @@
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||lxtuzcb.cn^
+||ydttxdqe.xyz^
+||zpcj8.online^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
