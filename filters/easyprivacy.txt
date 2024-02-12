@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-12T12:32:30.183Z
+! Last modified: 2024-02-12T18:21:25.427Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -38972,6 +38972,7 @@
 ||log.kinolights.com^
 ||log.zdnet.co.kr^
 ||nil.naver.com^
+||nlog.naver.com^
 ||pds.auction.co.kr^
 ||rake.11st.co.kr^
 ||sp.naver.com^
