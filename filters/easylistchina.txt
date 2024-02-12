@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-12T06:23:00.821Z
+! Last modified: 2024-02-12T12:32:29.212Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1836,6 +1836,9 @@
 ||bellessb.com^
 ||cdttxdqe.xyz^
 ||mobiteu.cn^
+||dsceopm.cn^
+||xdttxdqe.xyz^
+||8suis.top^
 ||zzyy20.top^
 ||002777.xyz^
 ||01v62.xyz^
