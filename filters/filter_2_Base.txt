@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-14T12:32:56.514Z
+! Last modified: 2024-02-14T18:22:54.967Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -152,6 +152,10 @@
 ||piguiqproxy.com^$badfilter
 ||samsungtvads.com^
 
+||d1rr5z16sjcy10.cloudfront.net^
+||d2xupcbyjjjfoa.cloudfront.net^
+||d17xmf66fp9kg9.cloudfront.net^
+||d3icekm41k795y.cloudfront.net^
 ||ads.videy.co^
 ||ads.sportslocalmedia.com^
 ||ads.tvp.pl^
@@ -4182,6 +4186,7 @@ rgmechanicsgames.com*VPN.exe
 ||561e861cb4.com^
 ||562i7aqkxu.com^
 ||5661361104.com^
+||5661c81449.com^
 ||5685dceb1b.com^
 ||56bfc388bf12.com^
 ||56efa4d7b7.com^
@@ -5935,6 +5940,7 @@ rgmechanicsgames.com*VPN.exe
 ||aliensplitch.com^
 ||alifafdlnjeruif.com^
 ||alifbouche.digital^
+||alifeupbrast.com^
 ||alightbornbell.com^
 ||alighttelescopecausing.com^
 ||alignmentflattery.com^
@@ -7232,6 +7238,7 @@ rgmechanicsgames.com*VPN.exe
 ||awkljjaaweyzm.top^
 ||awkwardpurfles.com^
 ||awledconside.xyz^
+||awlov.info^
 ||awltovhc.com^
 ||awmbed.com^
 ||awmbriegurries.com^
@@ -8687,6 +8694,7 @@ rgmechanicsgames.com*VPN.exe
 ||bpiomsgxkfphrg.com^
 ||bpjgiwzzmgjp.com^
 ||bpmvdlt.com^
+||bpmvkvb.com^
 ||bpnauclcmo.xyz^
 ||bpnygytgjt.com^
 ||bponxqlit.com^
@@ -12395,6 +12403,7 @@ rgmechanicsgames.com*VPN.exe
 ||dlxohfxenojlpb.com^
 ||dmakingbyth.com^
 ||dmayindallmypi.com^
+||dmehoamo.com^
 ||dmemndrjim.com^
 ||dmeukeuktyoue.info^
 ||dmiredindeed.com^
@@ -13069,6 +13078,7 @@ rgmechanicsgames.com*VPN.exe
 ||eallywasnothy.com^
 ||eallywasnothyca.info^
 ||eamqbaqzaerzb.top^
+||eamsanswer.com^
 ||eanddescri.com^
 ||eanddrsgankru.com.ua^
 ||eanlingtumfie.com^
@@ -13150,6 +13160,7 @@ rgmechanicsgames.com*VPN.exe
 ||ebannertraffic.com^
 ||ebb174824f.com^
 ||ebbetsgourded.com^
+||ebbqytgrtcotb.com^
 ||ebcfjgnjw.com^
 ||ebdlthbijshfj.com^
 ||ebdokvydrvqvrak.xyz^
@@ -18507,6 +18518,7 @@ rgmechanicsgames.com*VPN.exe
 ||ihttscqovzzb.com^
 ||ihzuephjxb.com^
 ||iicheewi.com^
+||iidohheneuda.com^
 ||iifvcfwiqi.com^
 ||iigmlx.com^
 ||iihcjcil.com^
@@ -20547,6 +20559,7 @@ rgmechanicsgames.com*VPN.exe
 ||kjyouhp.com^
 ||kkghcdvxdfvsq.com^
 ||kkixbfuihbhhrj.com^
+||kkjjgban.com^
 ||kkjrwxs.com^
 ||kkjuu.xyz^
 ||kkkpydfok.com^
@@ -20662,6 +20675,7 @@ rgmechanicsgames.com*VPN.exe
 ||kockaiho.com^
 ||kodagupinkoes.com^
 ||kofirusy.pro^
+||kognoaka.net^
 ||kogutcho.net^
 ||kohempcaseins.guru^
 ||koindut.com^
@@ -21999,6 +22013,7 @@ rgmechanicsgames.com*VPN.exe
 ||luyten-98c.com^
 ||luzulabeguile.com^
 ||lvaazvwmmvwev.top^
+||lvbeybbkovbaq.top^
 ||lvbngvy.com^
 ||lvecygampj.com^
 ||lvjptld.com^
@@ -23372,6 +23387,7 @@ rgmechanicsgames.com*VPN.exe
 ||mrvio.com^
 ||mrwdgugoie.com^
 ||mryinerg.com^
+||mrykkulwenw.com^
 ||mrywvxuf.com^
 ||mrzikj.com^
 ||ms3t.club^
@@ -23767,6 +23783,7 @@ rgmechanicsgames.com*VPN.exe
 ||naysaywinless.guru^
 ||naywordumiaks.website^
 ||nazakxodbz.com^
+||nazallhtjfh.com^
 ||nazyepfnko.com^
 ||nbhywngpk.xyz^
 ||nbidqsoy.xyz^
@@ -25738,6 +25755,7 @@ rgmechanicsgames.com*VPN.exe
 ||outwoodeuropa.com^
 ||outyanmegaom.com^
 ||ouveelsa.xyz^
+||ouvrestance.com^
 ||ouxvgihpkjfkhs.xyz^
 ||ouyoqudevfal.com^
 ||ouzavamt.com^
@@ -28283,6 +28301,7 @@ rgmechanicsgames.com*VPN.exe
 ||qe0ckm024b.com^
 ||qedeczzdt.com^
 ||qehwgbwjmjvq.xyz^
+||qekgygdkyewbzv.com^
 ||qel-qel-fie.com^
 ||qelqlunebz.com^
 ||qemyetwxfcwhtyy.com^
@@ -28374,6 +28393,7 @@ rgmechanicsgames.com*VPN.exe
 ||qn-5.com^
 ||qnartpbxjaxep.com^
 ||qnbiiygyrox.com^
+||qnhvvrpkus.com^
 ||qnjyeyc.com^
 ||qnkqurpyntrs.xyz^
 ||qnlranvabaqk.top^
@@ -29539,6 +29559,7 @@ rgmechanicsgames.com*VPN.exe
 ||riskymuzzlebiopsy.com^
 ||risode.com^
 ||ritechimerasanctify.com^
+||rivalthratch.com^
 ||rivatedqualizebruisi.info^
 ||riverhit.com^
 ||riverhita.com^
@@ -29932,6 +29953,7 @@ rgmechanicsgames.com*VPN.exe
 ||ruineddefectivecurb.com^
 ||ruinedpenal.com^
 ||ruinedtolerance.com^
+||ruinjan.com^
 ||rukanw.com^
 ||rukoval.com^
 ||rulingcaviarreliance.com^
@@ -30005,6 +30027,7 @@ rgmechanicsgames.com*VPN.exe
 ||rvrpushserv.com^
 ||rvrpushsrv.com^
 ||rvshjxsbohimgb.com^
+||rvuoghivbylqlr.com^
 ||rvxqnjsczubld.com^
 ||rvygmdlwenyl.com^
 ||rvyuqfjjv.com^
@@ -30113,6 +30136,7 @@ rgmechanicsgames.com*VPN.exe
 ||safetypcchain.com^
 ||safetytds.com^
 ||safewarns.com^
+||saffiantaily.com^
 ||saffianxenian.com^
 ||safprotection.com^
 ||safsdvc.com^
@@ -32017,6 +32041,7 @@ rgmechanicsgames.com*VPN.exe
 ||stgcdn.com^
 ||stgowan.com^
 ||sthenicrefunds.com^
+||stherewerealo.org^
 ||sthgqhb.com^
 ||sthoutte.com^
 ||stialt.com^
