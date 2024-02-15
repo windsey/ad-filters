@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-15T06:22:46.334Z
+! Last modified: 2024-02-15T12:31:45.085Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -34,6 +34,7 @@
 ||szpnz.cn^
 ||cliffnsc.xyz^
 ||xcypgd.icu^
+||xliffnsc.xyz^
 ||xdmnlxtu.xyz^
 ||002777.xyz^
 ||01v62.xyz^
