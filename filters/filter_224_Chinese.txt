@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-14T18:22:51.358Z
+! Last modified: 2024-02-15T01:15:59.075Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -148,6 +148,9 @@
 ||cdmnlxtu.xyz^
 ||ngnxyub.cn^
 ||tyodot.icu^
+||lvdedf.xyz^
+||spsfupq.cn^
+||yliffnsc.xyz^
 ||xdmnlxtu.xyz^
 ||01v62.xyz^
 ||052db.website^
