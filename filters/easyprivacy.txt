@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-16T01:15:49.798Z
+! Last modified: 2024-02-16T06:23:21.774Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2329,6 +2329,7 @@
 ||df.infra.shopee.
 ||discover-metrics.cloud.seek.com.au^
 ||dls-account.di.atlas.samsung.com^
+||dot.nonolive.com^
 ||dp.shoprunner.com^
 ||dtag.breadfinancial.com^
 ||dumpster.cam4.com^
@@ -2693,6 +2694,7 @@
 ||tracking.christianpost.com^
 ||tracking.digitalocean.com^
 ||tracking.engineering.cloud.seek.com.au^
+||tracking.game8.co^
 ||tracking.hsn.com^
 ||tracking.shopstyle.co.uk^
 ||tracking.shopstyle.com^
