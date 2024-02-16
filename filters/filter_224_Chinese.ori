@@ -1474,6 +1474,7 @@ $script,third-party,denyallow=fastly.net|statically.io|sharecast.ws|bunnycdn.ru|
 !
 !
 !
+iyf.tv##vg-player div.vg-bg
 clickhole.com,lifehacker.com,splinternews.com,avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,qz.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##div[class]:has(> div[data-ad-unit]:only-child)
 mcmod.cn##a[href^="https://link.mcmod.cn/target/service-ad-vat"]
 speedtest.cn##div[class^="speed-activity"][class$="wrap-index"]
@@ -5113,6 +5114,14 @@ newduba.cn###jq_youxi
 ||ycqbgm.xyz^
 ||yliffnsc.xyz^
 ||ztxjutz.xyz^
+||js131.cn^
+||ydfhidrk.xyz^
+||kbomku.xyz^
+||lfffzv.xyz^
+||uctutu3789.xyz^
+||gvbta.icu^
+||qlbbowx.xyz^
+||yyddkm526.shop^
 ##[style*="sotv.me"]
 ##a[href$="/lm2p2.com"]
 ##a[href$="/lm39h.com"]
