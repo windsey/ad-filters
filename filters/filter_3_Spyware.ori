@@ -558,6 +558,8 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !
 !
 !
+||gtm.taginstall.com^
+||mdstats.info^
 ||site-config.com^
 ||getui.com^
 ||pixel.glimr.io^
@@ -4373,6 +4375,49 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tagging.anaxago.com^
+||tagging.boataround.com^
+||tagging.bokus.com^
+||tagging.eqs.com^
+||tagging.hansimglueck-burgergrill.de^
+||tagging.lei-manager.com^
+||tagging.src-reizen.nl^
+||tagging.swat.io^
+||tracking.di.se^
+||gtm-sst.crowdin.com^
+||gtm.actic.se^
+||gtm.ahlens.se^
+||gtm.allabolag.se^
+||gtm.asiakastieto.fi^
+||gtm.bswhealth.com^
+||gtm.careercontessa.com^
+||gtm.clutter.com^
+||gtm.diamond.jp^
+||gtm.elementor.com^
+||gtm.elisa.fi^
+||gtm.ellos.se^
+||gtm.guitarzoom.com^
+||gtm.humann.com^
+||gtm.jerseyfinance.je^
+||gtm.jotex.se^
+||gtm.kglteater.dk^
+||gtm.kiwitaxi.com^
+||gtm.korodrogerie.de^
+||gtm.moneybird.nl^
+||gtm.perfectlybasics.nl^
+||gtm.proff.dk^
+||gtm.proff.no^
+||gtm.proff.se^
+||gtm.rains.com^
+||gtm.readytec.it^
+||gtm.restplatzboerse.at^
+||gtm.saostar.vn^
+||gtm.saumag.edu^
+||gtm.skrz.cz^
+||gtm.thermondo.de^
+||gtm.vanmoof.com^
+||gtm.wonderbly.com^
+||gtm.docswell.com^
 ||collector-pxfqtaw5et.px-client.net^
 ||statistik.changing-cities.org^
 ||ping.paidy.com^
@@ -4381,7 +4426,6 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ||nlog.naver.com^
 ||collector.taoxh.life^
 ||noa.yahoo.com^
-||mdstats.info^
 ||tcx-beacon.docs.aws.dev^
 ||analytics.githubassets.com^
 ||hkrpg-log-upload.mihoyo.com^
@@ -92495,8 +92539,8 @@ zmail.neolab.ubilab.me$image
 ! https://github.com/uBlockOrigin/uAssets/issues/9932
 ! ex. https://bitdomain.biz/n06eaqkwkq2d/T6wYzHxHWWzfs/6OWki/4i2D4u/ZIQb2nQkaXSF/cVkUc+zmqKYvfudx/SGqzLxv38jdl/yltwxPN+erfWRFS/LQUKf1hC7dE/t3YI on bitdomain.biz
 /\/[a-z0-9]{12}\/[a-zA-Z0-9\/\+\-]{97,106}$/$match-case,script,~third-party
-! ex. https://b536mpmxoqxa.www.themoneytizer.com/jqO/aoe2/+hwycU5bfpLBN-A4/pYnjxYWBYs1+OBu+xgG/eRq88qtc/9DtP0nFj/vR+FcLmGD68p-vtc8/hFq4kl0b6qNPL/VsuhDg on www.themoneytizer.com
-/^https?:\/\/[0-9a-z]{11,13}\.[^\/]*\/(?=[a-zA-Z0-9\/\-]*\+)[a-zA-Z0-9\/\+\-]{90,106}$/$match-case,script,~third-party
+! ex. https://7mvmjg.www.emanualonline.com/Rl6JuaNr5UmUp7WSOVdguUreol4tlNJ93Broxxy8qBTEtjqX6t7ejC72XctX4mCezSwJrSPCvPRn5YUDawPAaex8j7jlNC6OKJBdAilg on www.emanualonline.com
+/^https?:\/\/(?:[0-9a-z]{10,13}|[0-9a-z]{6})\.[^\/]*\/[a-zA-Z0-9\/\+\-]{80,106}$/$match-case,script,~third-party
 !
 ! https://github.com/AdguardTeam/AdguardFilters/issues/143862
 /^https:\/\/cs\d{3}\.\w+\.com\/cscript\/\d{3}\/[\w\d]+\.js$/$script,third-party,match-case
@@ -92595,6 +92639,8 @@ zmail.neolab.ubilab.me$image
 ! ZhugeIO
 /zhugeio.js
 !
+://tagging.*.js?id=GTM-
+://gtm.*.js?id=GTM-
 /glimr-sdk.
 /assets/userevents/application.js
 /webAnalytics/*$xmlhttprequest,script
@@ -93120,6 +93166,7 @@ _tracking.php?b=
 /analytics.js$domain=tokyometro.jp|resumes.breakdownexpress.com|techcult.com|inbox.lv|kopeda.com|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de|newsdig.tbs.co.jp|imore.com|city.kushiro.lg.jp|emeraldbridal.com.au|emarat-news.ae|imobie.jp|tikla.com.tr|rusvideos.porn|jrkyushu.co.jp|amiunique.org|edit.ing|konami.com
 ||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com|euronews.com|newshub.co.nz|fredmeyer.com|viabcp.com|carsales.com.au|falabella.com|aarp.org|thehill.com|realtor.com|nzherald.co.nz|aia.com.ph|baynews9.com|thesaurus.com|dhc.co.jp
 !
+||d38tudgzjt8cbb.cloudfront.net/log.gif?
 ||fspark-ap.com/ft/analytics_log
 ||go.masterclass-piano.com/v1/track_capi?
 ||ip-approval.com/*/ip-checker-js$script,domain=amiga.sk
@@ -99399,12 +99446,12 @@ inapps.appsflyersdk.com^
 ! https://github.com/AdguardTeam/AdguardFilters/issues/170839
 @@||cdn.tagcommander.com^$domain=secure.galerieslafayette.com
 ! https://github.com/easylist/easylist/issues/18275
-@@/^https:\/\/coomer\.su\/api\/v1\/(?:fansly|onlyfans)\/user\/[0-9A-Z_a-z]+\/post\/[-0-9A-Za-z]+(?:\/flag)?$/$xmlhttprequest,~third-party,match-case,method=post,domain=coomer.su
-@@/^https:\/\/coomer\.su\/api\/v1\/favorites\/creator\/(?:fansly|onlyfans)\/[0-9A-Z_a-z]+$/$xmlhttprequest,~third-party,match-case,method=post,domain=coomer.su
-@@/^https:\/\/coomer\.su\/api\/v1\/favorites\/post\/(?:fansly|onlyfans)\/[0-9A-Z_a-z]+\/\d+$/$xmlhttprequest,~third-party,match-case,method=post,domain=coomer.su
-@@/^https:\/\/kemono\.su\/api\/v1\/(?:afdian|boosty|discord|dlsite|fan(?:box|tia)|gumroad|onlyfans|patreon|subscribestar)\/user\/[0-9A-Z_a-z]+\/post\/[-0-9A-Za-z]+(?:\/flag)?$/$xmlhttprequest,~third-party,match-case,method=post,domain=kemono.su
-@@/^https:\/\/kemono\.su\/api\/v1\/favorites\/creator\/(?:afdian|boosty|discord|dlsite|fan(?:box|tia)|gumroad|onlyfans|patreon|subscribestar)\/[0-9A-Z_a-z]+$/$xmlhttprequest,~third-party,match-case,method=post,domain=kemono.su
-@@/^https:\/\/kemono\.su\/api\/v1\/favorites\/post\/(?:afdian|boosty|discord|dlsite|fan(?:box|tia)|gumroad|onlyfans|patreon|subscribestar)\/[0-9A-Z_a-z]+\/[0-9A-Za-z]+$/$xmlhttprequest,~third-party,match-case,method=post,domain=kemono.su
+@@/^https:\/\/coomer\.su\/api\/v1\/(?:fansly|onlyfans)\/user\/[.0-9A-Z_a-z]+\/post\/[-0-9A-Za-z]+(?:\/flag)?$/$xmlhttprequest,~third-party,match-case,method=post,domain=coomer.su
+@@/^https:\/\/coomer\.su\/api\/v1\/favorites\/creator\/(?:fansly|onlyfans)\/[.0-9A-Z_a-z]+$/$xmlhttprequest,~third-party,match-case,method=post,domain=coomer.su
+@@/^https:\/\/coomer\.su\/api\/v1\/favorites\/post\/(?:fansly|onlyfans)\/[.0-9A-Z_a-z]+\/\d+$/$xmlhttprequest,~third-party,match-case,method=post,domain=coomer.su
+@@/^https:\/\/kemono\.su\/api\/v1\/(?:afdian|boosty|discord|dlsite|fan(?:box|tia)|gumroad|onlyfans|patreon|subscribestar)\/user\/[.0-9A-Z_a-z]+\/post\/[-0-9A-Za-z]+(?:\/flag)?$/$xmlhttprequest,~third-party,match-case,method=post,domain=kemono.su
+@@/^https:\/\/kemono\.su\/api\/v1\/favorites\/creator\/(?:afdian|boosty|discord|dlsite|fan(?:box|tia)|gumroad|onlyfans|patreon|subscribestar)\/[.0-9A-Z_a-z]+$/$xmlhttprequest,~third-party,match-case,method=post,domain=kemono.su
+@@/^https:\/\/kemono\.su\/api\/v1\/favorites\/post\/(?:afdian|boosty|discord|dlsite|fan(?:box|tia)|gumroad|onlyfans|patreon|subscribestar)\/[.0-9A-Z_a-z]+\/[0-9A-Za-z]+$/$xmlhttprequest,~third-party,match-case,method=post,domain=kemono.su
 @@||coomer.su/.well-known/ddos-guard/mark/|
 @@||kemono.su/.well-known/ddos-guard/mark/|
 ! https://github.com/AdguardTeam/AdguardFilters/issues/170633

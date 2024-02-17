@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-17T12:29:49.768Z
+! Last modified: 2024-02-17T18:20:22.101Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -37110,6 +37110,7 @@
 ||d.tv-asahi.co.jp^
 ||eq-beacon.stream.co.jp^
 ||eq-player-log.cdnext.stream.ne.jp^
+||gtm.diamond.jp^
 ||j1.ax.xrea.com^
 ||ln.ameba.jp^
 ||log-lb.skyperfectv.co.jp^

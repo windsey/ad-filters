@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-17T12:29:56.748Z
+! Last modified: 2024-02-17T18:20:28.889Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11,6 +11,8 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||gtm.taginstall.com^
+||mdstats.info^
 ||site-config.com^
 ||getui.com^
 ||pixel.glimr.io^
@@ -712,6 +714,49 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||tagging.anaxago.com^
+||tagging.boataround.com^
+||tagging.bokus.com^
+||tagging.eqs.com^
+||tagging.hansimglueck-burgergrill.de^
+||tagging.lei-manager.com^
+||tagging.src-reizen.nl^
+||tagging.swat.io^
+||tracking.di.se^
+||gtm-sst.crowdin.com^
+||gtm.actic.se^
+||gtm.ahlens.se^
+||gtm.allabolag.se^
+||gtm.asiakastieto.fi^
+||gtm.bswhealth.com^
+||gtm.careercontessa.com^
+||gtm.clutter.com^
+||gtm.diamond.jp^
+||gtm.elementor.com^
+||gtm.elisa.fi^
+||gtm.ellos.se^
+||gtm.guitarzoom.com^
+||gtm.humann.com^
+||gtm.jerseyfinance.je^
+||gtm.jotex.se^
+||gtm.kglteater.dk^
+||gtm.kiwitaxi.com^
+||gtm.korodrogerie.de^
+||gtm.moneybird.nl^
+||gtm.perfectlybasics.nl^
+||gtm.proff.dk^
+||gtm.proff.no^
+||gtm.proff.se^
+||gtm.rains.com^
+||gtm.readytec.it^
+||gtm.restplatzboerse.at^
+||gtm.saostar.vn^
+||gtm.saumag.edu^
+||gtm.skrz.cz^
+||gtm.thermondo.de^
+||gtm.vanmoof.com^
+||gtm.wonderbly.com^
+||gtm.docswell.com^
 ||collector-pxfqtaw5et.px-client.net^
 ||statistik.changing-cities.org^
 ||ping.paidy.com^
@@ -720,7 +765,6 @@
 ||nlog.naver.com^
 ||collector.taoxh.life^
 ||noa.yahoo.com^
-||mdstats.info^
 ||tcx-beacon.docs.aws.dev^
 ||analytics.githubassets.com^
 ||hkrpg-log-upload.mihoyo.com^
@@ -1862,7 +1906,6 @@
 ||gscounters.gigya.com^
 ||gtm.beiersdorf.com^
 ||gtm.udemy.com^
-||gtm.vanmoof.com^
 ||gtmdev.jabra.
 ||guq9.vente-unique.it^
 ||harvester.hbpl.co.uk^
