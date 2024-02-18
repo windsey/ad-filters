@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-18T12:30:10.857Z
+! Last modified: 2024-02-18T18:20:25.755Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -203,6 +203,7 @@
 ||benpsbp.com^
 ||tu2024020388.com^
 ||xdybwjpa.xyz^
+||kksjsa.top^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
