@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-18T06:22:12.112Z
+! Last modified: 2024-02-18T12:30:08.314Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -34814,6 +34814,24 @@
 ||158.247.208.
 ||23.109.82.
 ||23.109.87.
+||utiq-aws.net^
+||utiq.24auto.de^
+||utiq.24hamburg.de^
+||utiq.24rhein.de^
+||utiq.buzzfeed.de^
+||utiq.come-on.de^
+||utiq.einfach-tasty.de^
+||utiq.fnp.de^
+||utiq.fr.de^
+||utiq.hna.de^
+||utiq.ingame.de^
+||utiq.kreiszeitung.de^
+||utiq.merkur.de^
+||utiq.mopo.de^
+||utiq.op-online.de^
+||utiq.soester-anzeiger.de^
+||utiq.tz.de^
+||utiq.wa.de^
 ||feedyourheadmag.com
 ||monsterofnews.com
 ||tausoota.xyz^
