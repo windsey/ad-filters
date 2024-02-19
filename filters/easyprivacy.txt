@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-19T06:24:00.218Z
+! Last modified: 2024-02-19T12:33:15.699Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -37174,6 +37174,7 @@
 ||click.vgnett.no^
 ||data.nrk.no^
 ||stats.proff.no^
+||stm.komplett.no^
 ||analytics.gazeta.pl^
 ||collect.state.centrum24.pl^
 ||entryhit.wp.pl^
