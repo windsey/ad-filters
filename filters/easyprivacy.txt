@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-19T01:17:07.507Z
+! Last modified: 2024-02-19T06:24:00.218Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2211,6 +2211,7 @@
 ||analytics.chase.com^
 ||analytics.cookiefirst.dev^
 ||analytics.designspiration.com^
+||analytics.eip.telegraph.co.uk^
 ||analytics.faceitanalytics.com^
 ||analytics.footballdb.com^
 ||analytics.freemake.com^
