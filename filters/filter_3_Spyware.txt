@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-20T06:23:31.767Z
+! Last modified: 2024-02-20T12:32:43.114Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -716,6 +716,10 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||supportmetrics.apple.com^
+||securemvt.apple.com^
+||metrics.apple.com^
+||eldoradottfha.dataplane.rudderstack.com^
 ||analytics.castel.jp^
 ||tagging.anaxago.com^
 ||tagging.boataround.com^
@@ -42815,7 +42819,9 @@ inapps.appsflyersdk.com^
 ||us-tracking.nextdoor.com^
 ||us-events.api.iheart.com^
 ||notes-analytics-events.apple.com^
+||notes-analytics-events.news.apple-dns.net^
 ||weather-analytics-events.apple.com^
+||weather-analytics-events.news.apple-dns.net^
 ||v-collector.dp.aws.charter.com^
 ||metrics.claspws.tv^
 ||logs.gaaana.com^

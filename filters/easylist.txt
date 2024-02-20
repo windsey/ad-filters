@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-20T06:23:23.306Z
+! Last modified: 2024-02-20T12:32:34.583Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -7466,6 +7466,7 @@
 ||cqrvwq.com^
 ||cqwajn.com^
 ||cr-brands.net^
+||cr.adsappier.com^
 ||cr08.biz^
 ||crabdefend.com^
 ||craccaanybody.com^
