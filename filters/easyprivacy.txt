@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-20T12:32:35.891Z
+! Last modified: 2024-02-20T18:24:22.411Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -317,6 +317,7 @@
 ||stat.ovh^
 ||statisticplatform.com^
 ||statisticsplatform.com^
+||stats.rip^
 ||summerhamster.com^
 ||superpointlesshamsters.com^
 ||t13.io^
@@ -1892,7 +1893,6 @@
 ||rum.marquardmedia.hu^
 ||videostat-new.index.hu^
 ||videostat.index.hu^
-||tracker.oval.id^
 ||analytics.competitoor.com^
 ||analytics.eikondigital.it^
 ||analytics.gtechgroup.it^
@@ -37135,6 +37135,7 @@
 ||sy.ameblo.jp^
 ||t.syosetu.org^
 ||track.buyma.com^
+||tracking.ai.rakuten.co.jp^
 ||tracking.game8.jp^
 ||tracking.gnavi.co.jp^
 ||view.fujitv.co.jp^

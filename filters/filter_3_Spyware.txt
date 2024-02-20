@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-20T12:32:43.114Z
+! Last modified: 2024-02-20T18:24:29.534Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||trk.decido.io^
 ||tracker.oval.id^
 ||event.lib.visumo.io^
 ||gtm.taginstall.com^
@@ -716,6 +717,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||tracking.ai.rakuten.co.jp^
 ||supportmetrics.apple.com^
 ||securemvt.apple.com^
 ||metrics.apple.com^
