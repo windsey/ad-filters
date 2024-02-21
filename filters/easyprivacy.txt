@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-20T18:24:22.411Z
+! Last modified: 2024-02-21T01:16:07.714Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -35376,7 +35376,6 @@
 ||link.nextlevelsports.com^
 ||link.nilclub.com^
 ||link.notifications.busuu.app^
-||link.nubank.com.br^
 ||link.nutty.chat^
 ||link.offers.kodakmoments.com^
 ||link.olympya.com^
