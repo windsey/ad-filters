@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-22T01:15:33.437Z
+! Last modified: 2024-02-22T06:22:57.853Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -251,6 +251,7 @@
 ||rarcff.xyz^
 ||phvfevk.xyz^
 ||rydyvv.xyz^
+||zopuqv.icu^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
