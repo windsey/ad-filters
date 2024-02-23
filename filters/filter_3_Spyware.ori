@@ -556,6 +556,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !
 !
 !
+||adx.promo^
 ||trk.decido.io^
 ||tracker.oval.id^
 ||event.lib.visumo.io^
@@ -4376,6 +4377,9 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||events.caffeine.tv^
+||analytics.totalprosports.com^
+||analytics-conomi.line.me^
 ||sopr-api.cian.ru^
 ||analytics.b2.ai^
 ||tracking.ai.rakuten.co.jp^
@@ -110836,6 +110840,12 @@ inapps.appsflyersdk.com^
 !#endif
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/173368
+||openfpcdn.io/fingerprintjs/v$script,redirect=fingerprintjs3,domain=pdfextra.com
+! If DNS filtering blocks openfpcdn.io
+pdfextra.com#%#//scriptlet('trusted-set-cookie', 'ms::pdf-extra-web::pushtkn', '1')
+!+ PLATFORM(ios, ext_safari, ext_android_cb)
+@@||openfpcdn.io/fingerprintjs/v3$domain=pdfextra.com
 ! fix videos
 @@||tru.am/scripts/custom/reuters.js$domain=reuters.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/172693

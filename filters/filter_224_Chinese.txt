@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-23T12:31:33.661Z
+! Last modified: 2024-02-23T18:22:49.742Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -144,8 +144,10 @@
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||0j775d.cn^
 ||1ny3r.icu^
 ||2jse6.icu^
+||51hir.cyou^
 ||88lm05.com^
 ||8xtm6i.cn^
 ||999xx999kk.com^
@@ -154,11 +156,13 @@
 ||anjdwmq.xyz^
 ||awuvcq.xyz^
 ||bba9603w.com^
+||bdtdat652.shop^
 ||bdxpdz.xyz^
 ||benpsbp.com^
 ||bjswhpy.cn^
 ||bmnbyn.icu^
 ||bwlcpr.xyz^
+||bzzxyyh.xyz^
 ||caomeixz7.xyz^
 ||ccsshn137.shop^
 ||cdfhidrk.xyz^
@@ -166,18 +170,22 @@
 ||cdmnlxtu.xyz^
 ||cdrvkdni.xyz^
 ||cdybwjpa.xyz^
+||chayassa.com^
 ||cliffnsc.xyz^
 ||clywws.xyz^
 ||cvbjctqs.xyz^
+||cvgrszkg.xyz^
 ||cvnxetmq.xyz^
 ||cvudqzoa.xyz^
 ||cwssfg632.shop^
 ||ddielv.cn^
 ||dsbqvj.xyz^
 ||dxrnksm.xyz^
+||dyegif.icu^
 ||ebgwdon.cn^
 ||fmfnrf.xyz^
 ||fwcnex.icu^
+||ghgasdb365.shop^
 ||ghgasdt963.shop^
 ||gicjtss.cn^
 ||gvbta.icu^
@@ -213,9 +221,11 @@
 ||qzalsk.xyz^
 ||rarcff.xyz^
 ||rfnvqpo.xyz^
+||rktddv.xyz^
 ||ruqwgb.icu^
 ||rydyvv.xyz^
 ||shuocyw.cn^
+||soffersk.com^
 ||spsfupq.cn^
 ||szbhb.cn^
 ||szpnz.cn^
@@ -230,6 +240,7 @@
 ||uu22662.com^
 ||uxrdg.cn^
 ||veaiyl.icu^
+||vxfdepn.cn^
 ||wkywrc.cn^
 ||wnmaoc.xyz^
 ||wqcfg.cn^
@@ -241,31 +252,21 @@
 ||xliffnsc.xyz^
 ||xszw0.icu^
 ||xvbjctqs.xyz^
+||xvgrszkg.xyz^
 ||xvudqzoa.xyz^
 ||ycqbgm.xyz^
 ||ydfhidrk.xyz^
 ||ydrvkdni.xyz^
 ||ydybwjpa.xyz^
+||yhqukg.xyz^
 ||yliffnsc.xyz^
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
 ||yyddkm526.shop^
+||zagyjnn.cn^
 ||zopuqv.icu^
 ||ztxjutz.xyz^
-||bdtdat652.shop^
-||ghgasdb365.shop^
-||rktddv.xyz^
-||yhqukg.xyz^
-||0j775d.cn^
-||dyegif.icu^
-||soffersk.com^
-||51hir.cyou^
-||vxfdepn.cn^
-||bzzxyyh.xyz^
-||chayassa.com^
-||zagyjnn.cn^
-||cvgrszkg.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
