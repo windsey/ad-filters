@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-22T18:22:35.918Z
+! Last modified: 2024-02-23T01:14:47.492Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -47,6 +47,7 @@
 ||ddielv.cn^
 ||dsbqvj.xyz^
 ||dxrnksm.xyz^
+||ebgwdon.cn^
 ||fmfnrf.xyz^
 ||fwcnex.icu^
 ||ghgasdt963.shop^
@@ -65,6 +66,7 @@
 ||l5kt1.icu^
 ||lfffzv.xyz^
 ||lvdedf.xyz^
+||misjgy.xyz^
 ||nddld.cn^
 ||ngnxyub.cn^
 ||nkbkor.icu^
@@ -77,11 +79,14 @@
 ||p04qzl.cn^
 ||p0v2ni.cn^
 ||p45m0.icu^
+||phvfevk.xyz^
 ||przbzr.xyz^
 ||qlbbowx.xyz^
 ||qzalsk.xyz^
+||rarcff.xyz^
 ||rfnvqpo.xyz^
 ||ruqwgb.icu^
+||rydyvv.xyz^
 ||shuocyw.cn^
 ||spsfupq.cn^
 ||szbhb.cn^
@@ -97,6 +102,7 @@
 ||uu22662.com^
 ||uxrdg.cn^
 ||veaiyl.icu^
+||wkywrc.cn^
 ||wnmaoc.xyz^
 ||wqcfg.cn^
 ||xcypgd.icu^
@@ -117,14 +123,14 @@
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
 ||yyddkm526.shop^
-||ztxjutz.xyz^
-||misjgy.xyz^
-||wkywrc.cn^
-||rarcff.xyz^
-||phvfevk.xyz^
-||rydyvv.xyz^
 ||zopuqv.icu^
-||ebgwdon.cn^
+||ztxjutz.xyz^
+||bdtdat652.shop^
+||ghgasdb365.shop^
+||rktddv.xyz^
+||yhqukg.xyz^
+||0j775d.cn^
+||dyegif.icu^
 ||002777.xyz^
 ||01v62.xyz^
 ||052db.website^
