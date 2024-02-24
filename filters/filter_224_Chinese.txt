@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-24T12:29:48.661Z
+! Last modified: 2024-02-24T18:22:07.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -154,6 +154,7 @@
 ||aaoisp.com^
 ||agmed.cyou^
 ||anjdwmq.xyz^
+||arqvm.cn^
 ||awuvcq.xyz^
 ||bba9603w.com^
 ||bdtdat652.shop^
@@ -199,8 +200,10 @@
 ||js131.cn^
 ||kbomku.xyz^
 ||kksjsa.top^
+||ktoioo.xyz^
 ||l5kt1.icu^
 ||lfffzv.xyz^
+||luofk.xyz^
 ||lvdedf.xyz^
 ||misjgy.xyz^
 ||nddld.cn^
@@ -216,6 +219,7 @@
 ||p0v2ni.cn^
 ||p45m0.icu^
 ||phvfevk.xyz^
+||pjzxdl.xyz^
 ||przbzr.xyz^
 ||qlbbowx.xyz^
 ||qzalsk.xyz^
@@ -225,8 +229,10 @@
 ||ruqwgb.icu^
 ||rydyvv.xyz^
 ||shuocyw.cn^
+||sjaaquj.cn^
 ||soffersk.com^
 ||spsfupq.cn^
+||srzpsbf.xyz^
 ||szbhb.cn^
 ||szpnz.cn^
 ||szptp.cn^
@@ -241,6 +247,7 @@
 ||uxrdg.cn^
 ||veaiyl.icu^
 ||vxfdepn.cn^
+||wbvfj.xyz^
 ||wkywrc.cn^
 ||wnmaoc.xyz^
 ||wqcfg.cn^
@@ -250,11 +257,13 @@
 ||xdrvkdni.xyz^
 ||xdybwjpa.xyz^
 ||xliffnsc.xyz^
+||xn--wgvp78a61swpe6zdozj.cn^
 ||xszw0.icu^
 ||xvbjctqs.xyz^
 ||xvgrszkg.xyz^
 ||xvudqzoa.xyz^
 ||ycqbgm.xyz^
+||yddjmpjo.xyz^
 ||ydfhidrk.xyz^
 ||ydrvkdni.xyz^
 ||ydybwjpa.xyz^
@@ -268,12 +277,6 @@
 ||zopuqv.icu^
 ||ztxjutz.xyz^
 ||zuvbzl.xyz^
-||arqvm.cn^
-||yddjmpjo.xyz^
-||ktoioo.xyz^
-||srzpsbf.xyz^
-||pjzxdl.xyz^
-||sjaaquj.cn^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
