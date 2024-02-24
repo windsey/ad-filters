@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-23T18:22:48.443Z
+! Last modified: 2024-02-24T01:12:58.474Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1057,6 +1057,7 @@
 ||pages-stats.rbl.ms^
 ||pagesense-collect.zoho.com^
 ||pagesocket.glam.com^
+||pbjs-stream.bydata.com^
 ||pegasus.unifygroup.com^
 ||perf-events.cloud.unity3d.com^
 ||perf.hsforms.com^
@@ -1499,6 +1500,7 @@
 ||vdrn.redplum.com^
 ||vercel-vitals.axiom.co^
 ||video-ad-stats.googlesyndication.com^
+||video-analytics-api.cloudinary.com^
 ||videoevents.outbrain.com^
 ||vortex.data.microsoft.com^
 ||vst.sibnet.ru^
