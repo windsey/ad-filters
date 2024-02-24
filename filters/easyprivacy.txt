@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-24T01:12:58.474Z
+! Last modified: 2024-02-24T12:29:47.308Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -972,7 +972,6 @@
 ||log.nordot.jp^
 ||log.olark.com^
 ||log.outbrain.com^
-||log.outbrainimg.com^
 ||log.pinterest.com^
 ||log.reformal.ru^
 ||log.seekda.com^
