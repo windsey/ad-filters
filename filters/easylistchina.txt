@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-25T01:20:10.387Z
+! Last modified: 2024-02-25T06:21:20.057Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -154,6 +154,8 @@
 ||hexcvb.xyz^
 ||efmtsw.xyz^
 ||b37r5.cyou^
+||ejdhmed.xyz^
+||szmnf.cn^
 ||002777.xyz^
 ||01v62.xyz^
 ||052db.website^
