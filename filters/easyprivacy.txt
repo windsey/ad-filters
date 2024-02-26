@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-26T06:24:08.216Z
+! Last modified: 2024-02-26T12:32:12.266Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2383,6 +2383,7 @@
 ||evs.icy-lake.kickstarter.com^
 ||exr-mms.expertreviews.co.uk^
 ||f362.nola.com^
+||faro-collector-prod-*.grafana.net^
 ||fathom.app.silverbeak.com^
 ||fathom.tdvm.net^
 ||fbo-statistics-collector-tc.is.flippingbook.com^
