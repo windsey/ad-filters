@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-26T12:32:12.266Z
+! Last modified: 2024-02-26T18:22:01.210Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1532,7 +1532,6 @@
 ||xp2023-pix.s3.amazonaws.com^
 ||adsdk.yandex.ru^
 ||analytics-api.samsunghealthcn.com^
-||analytics.b2.ai^
 ||analytics.mobile.yandex.net^
 ||analytics.samsungknox.com^
 ||click.oneplus.cn^

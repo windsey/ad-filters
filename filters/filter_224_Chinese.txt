@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-26T12:32:13.587Z
+! Last modified: 2024-02-26T18:22:02.526Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -159,6 +159,7 @@
 ||hhffks967.shop^
 ||hhffnu135.shop^
 ||hmrwkcx.cn^
+||hozatr.xyz^
 ||jgmywh.icu^
 ||jqpejp.xyz^
 ||js131.cn^
@@ -186,7 +187,11 @@
 ||phvfevk.xyz^
 ||pjzxdl.xyz^
 ||przbzr.xyz^
+||qbhzghb.xyz^
 ||qlbbowx.xyz^
+||qqkkpos.com^
+||qrkhwe.xyz^
+||qrttfmo.cn^
 ||qzalsk.xyz^
 ||rarcff.xyz^
 ||rfnvqpo.xyz^
@@ -199,6 +204,7 @@
 ||spsfupq.cn^
 ||srzpsbf.xyz^
 ||szbhb.cn^
+||szmnd.cn^
 ||szmnf.cn^
 ||szpnz.cn^
 ||szptp.cn^
@@ -212,6 +218,7 @@
 ||uu22662.com^
 ||uxrdg.cn^
 ||veaiyl.icu^
+||vhvwlb.xyz^
 ||vxfdepn.cn^
 ||wbvfj.xyz^
 ||wkywrc.cn^
@@ -222,6 +229,7 @@
 ||xdmnlxtu.xyz^
 ||xdrvkdni.xyz^
 ||xdybwjpa.xyz^
+||xklofoz.cn^
 ||xliffnsc.xyz^
 ||xn--wgvp78a61swpe6zdozj.cn^
 ||xszw0.icu^
@@ -243,13 +251,6 @@
 ||zopuqv.icu^
 ||ztxjutz.xyz^
 ||zuvbzl.xyz^
-||qrttfmo.cn^
-||qbhzghb.xyz^
-||hozatr.xyz^
-||qrkhwe.xyz^
-||vhvwlb.xyz^
-||szmnd.cn^
-||qqkkpos.com^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
