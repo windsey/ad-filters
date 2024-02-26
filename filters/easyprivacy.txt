@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-25T18:20:50.479Z
+! Last modified: 2024-02-26T01:17:27.825Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -340,6 +340,7 @@
 ||transmapp.com^
 ||triplestat.online^
 ||trk-maiorum.com^
+||trkapi.impact.com^
 ||trkbc.com^
 ||trkn.us^
 ||tru.am^

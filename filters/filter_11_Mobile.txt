@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-25T18:20:51.142Z
+! Last modified: 2024-02-26T01:17:28.464Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -77,8 +77,6 @@
 ||ufz.doesxyz.com^
 ||xdrig.com^
 ||usp1.baidu.com^
-||i2.myapkcdn.in^
-||c3.myapkcdn.in^
 ||plugin.mobopay.baidu.com^
 ||mo.freeindoapp.com^
 ||reqde.afreecatv.com^
@@ -396,7 +394,6 @@
 ||sc.smardroid.com^
 ||pssvc.iqzone.com^
 ||cdn-cf.postitial.com^
-||kaffnet.com^
 ||opt8.co^
 ||ads-bidder-api.twitter.com^
 ||speee-ad.akamaized.net^
@@ -537,7 +534,6 @@
 ||admixer.net^
 ||admulti.com^
 ||adonly.com^
-||adotsolution.com^
 ||vm5apis.com^
 ||adprotected.com^
 ||adproxy.tf1.fr^
@@ -689,7 +685,6 @@
 ||intermarkets.net^
 ||intowow.com^
 ||investingchannel.com^
-||javacript.gq^
 ||justad.mobi^
 ||kiosked.com^
 ||kochava.com^
@@ -843,7 +838,6 @@
 ||ads.viber.com^
 ||ads-d.viber.com^
 ||preitem.wshareit.com^
-||mobimagic.com^
 ||api-a.op-mobile.opera.com^
 ||promotion.polarisoffice.com^
 ||newad.ifeng.com^
