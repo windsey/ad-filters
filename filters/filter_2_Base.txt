@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-26T18:22:06.125Z
+! Last modified: 2024-02-27T01:15:09.864Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -18737,6 +18737,7 @@ rgmechanicsgames.com*VPN.exe
 ||iecjqkiawvifx.com^
 ||ieicbkjmmqkcmgq.com^
 ||ieiukkwfqhwuvwy.com^
+||ielmzzm.com^
 ||iemufbuvehrjo.xyz^
 ||iendoo.com^
 ||ieoyptnech.com^
@@ -34304,6 +34305,7 @@ rgmechanicsgames.com*VPN.exe
 ||toyosbullpen.com^
 ||toysrestrictcue.com^
 ||tozoruaon.com^
+||tozqvor.com^
 ||tp1jcgl644jk.com^
 ||tpbsxcsa.com^
 ||tpcenzbgtybq.com^

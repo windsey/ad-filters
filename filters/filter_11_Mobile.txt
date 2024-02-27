@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-26T18:22:01.856Z
+! Last modified: 2024-02-27T01:15:05.590Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -107,7 +107,6 @@
 ||mob*.novanewsapp.com^
 ||adrouter-charter-vod.cadenttech.tv^
 ||ad-*.amazonaws.com^
-||tapulsads.ru^
 ||ads-sdk.nianticlabs.com^
 ||ad.mediamixer.co.kr^
 ||adfork.co.kr^

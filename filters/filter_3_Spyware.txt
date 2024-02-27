@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-26T18:22:08.494Z
+! Last modified: 2024-02-27T01:15:12.194Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -119,7 +119,6 @@
 ||pixel.barion.com^
 ||blueoyster.click^
 ||track.dobrnovosti.com^
-||analytics.elegela.net^
 ||b91.yahoo.co.jp^
 ||services.brightline.tv^
 ||wct-2.com^
@@ -490,7 +489,6 @@
 ||ad-log.dable.io^
 ||tracker.digitalcamp.co.kr^
 ||tracker.adbinead.com^
-||burpee.xyz^
 ||ac.ecai-report.com^
 ||track.span-smt.jp^
 ||trk.fensi.plus^
@@ -507,7 +505,6 @@
 ||taj2.ebis.ne.jp^
 ||d-collector.jennifersoft.com^
 ||adsmetadata.mobileadexchange.net^
-||counter.yandro.ru^
 ||track-aws.notsy.io^
 ||track.notsy.io^
 ||ad-spire.net^
@@ -892,7 +889,6 @@
 ||pixel.aws.pfnetwork.net^
 ||stats.macg.io^
 ||creativeassets.asosservices.com^
-||tracker.p3a.net^
 ||tracking.socketlabs.com^
 ||analytics.elegela.us^
 ||analytics.code.illusion.jp^
@@ -1665,7 +1661,6 @@
 ||counter.all.biz^
 ||counter.entertainmentwise.com^
 ||counter.joins.com^
-||counter.mediastealer.com^
 ||counter.megagroup.ru^
 ||counter.mgronline.com^
 ||counter.nn.ru^
@@ -2664,7 +2659,6 @@
 ||tms.oracle.com^
 ||tools.ranker.com^
 ||top-fwz1.mail.ru^
-||top.gigmir.net^
 ||top.hsdn.org^
 ||top.nydus.org^
 ||top.t-sk.ru^
@@ -2690,7 +2684,6 @@
 ||trac.couponandgo.co.uk^
 ||trac.couponandgo.com^
 ||trac.oferting.co.uk^
-||trac.oferting.com.mx^
 ||trac.oferting.es^
 ||trac.oferting.fr^
 ||trac.oferting.it^
@@ -42674,7 +42667,6 @@ inapps.appsflyersdk.com^
 ||sg.log.ulivetv.net^
 ||tracker.ulivetv.net^
 ||trackernew.ulivetv.net^
-||tracker.dianshige.com^
 ||gamestats.easybrain.com^
 ||am.yahoo.co.jp^
 ||b99.yahoo.co.jp^
@@ -43118,7 +43110,6 @@ inapps.appsflyersdk.com^
 ||sync.adotmob.com^
 ||logger.cloudmobi.net^
 ||tracker.adotmob.com^
-||measuread.com^
 ||analytics-tracker.thescore.com^
 ||rosenberg.appmetrica.webvisor.com^
 ||report*.appmetrica.webvisor.com^
