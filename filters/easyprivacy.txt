@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-27T18:21:19.012Z
+! Last modified: 2024-02-28T01:14:29.042Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1714,6 +1714,7 @@
 ||nexxtv-events.servicebus.windows.net^
 ||omniture.eaeurope.eu^
 ||orbidder.otto.de^
+||owen.prolitteris.ch^
 ||pixel.poptok.com^
 ||plausible.ams.to^
 ||px.staticfiles.at^
@@ -2030,6 +2031,7 @@
 ||log.medietall.no^
 ||analytics.aasaam.com^
 ||analytics.ceneo.pl^
+||ar1.aza.io^
 ||cmp.dreamlab.pl^
 ||dsg.interia.pl^
 ||hit.interia.pl^
