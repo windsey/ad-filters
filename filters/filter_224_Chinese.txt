@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-29T12:32:24.509Z
+! Last modified: 2024-02-29T18:22:55.663Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -108,11 +108,13 @@
 ||3bxe2.cyou^
 ||51hir.cyou^
 ||88lm05.com^
+||88lm06.com^
 ||8xtm6i.cn^
 ||999xx999kk.com^
 ||aaoisp.com^
 ||agmed.cyou^
 ||anjdwmq.xyz^
+||aourgk.xyz^
 ||arqvm.cn^
 ||awuvcq.xyz^
 ||b37r5.cyou^
@@ -122,6 +124,7 @@
 ||benpsbp.com^
 ||bjswhpy.cn^
 ||bmnbyn.icu^
+||bugzmn.icu^
 ||bvxiht.xyz^
 ||bwlcpr.xyz^
 ||bzzxyyh.xyz^
@@ -150,8 +153,11 @@
 ||ebgwdon.cn^
 ||efmtsw.xyz^
 ||ejdhmed.xyz^
+||execuri.com^
+||fefgvh.xyz^
 ||ferriesendless.com^
 ||fmfnrf.xyz^
+||fvpboxu.xyz^
 ||fwcnex.icu^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
@@ -168,6 +174,7 @@
 ||hozatr.xyz^
 ||ijvla.cn^
 ||jgmywh.icu^
+||jioed.cyou^
 ||jqpejp.xyz^
 ||js131.cn^
 ||kbomku.xyz^
@@ -178,6 +185,7 @@
 ||luofk.xyz^
 ||lvdedf.xyz^
 ||misjgy.xyz^
+||mlhtr.cn^
 ||nddld.cn^
 ||ndthdte125.shop^
 ||ndthdtr586.shop^
@@ -213,6 +221,8 @@
 ||ruqwgb.icu^
 ||rydyvv.xyz^
 ||rzfdbsn.cn^
+||sdjkbcjksbdsvv.com^
+||shanvezhu.com^
 ||shuocyw.cn^
 ||sjaaquj.cn^
 ||soffersk.com^
@@ -222,12 +232,14 @@
 ||szbhb.cn^
 ||szmnd.cn^
 ||szmnf.cn^
+||szmnl.cn^
 ||szpnz.cn^
 ||szptp.cn^
 ||szpwh.cn^
 ||tahznx.xyz^
 ||tchdxl.xyz^
 ||tdljuuw.xyz^
+||tduenkq839.shop^
 ||tgccct.icu^
 ||tmjetb.xyz^
 ||tsrvrr.xyz^
@@ -236,6 +248,7 @@
 ||uctutu3789.xyz^
 ||usltmus.cn^
 ||uu22662.com^
+||uxlvk.cn^
 ||uxrdg.cn^
 ||veaiyl.icu^
 ||vhvwlb.xyz^
@@ -254,6 +267,7 @@
 ||xkrnud.icu^
 ||xliffnsc.xyz^
 ||xn--wgvp78a61swpe6zdozj.cn^
+||xsfajf.xyz^
 ||xszw0.icu^
 ||xvbjctqs.xyz^
 ||xvgrszkg.xyz^
@@ -268,24 +282,11 @@
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
-||zsjpi.cn^
-||bugzmn.icu^
-||aourgk.xyz^
-||fvpboxu.xyz^
-||jioed.cyou^
-||xsfajf.xyz^
-||fefgvh.xyz^
-||tduenkq839.shop^
-||execuri.com^
-||88lm06.com^
-||szmnl.cn^
-||sdjkbcjksbdsvv.com^
-||mlhtr.cn^
-||shanvezhu.com^
-||zhaweifeng.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
+||zhaweifeng.com^
 ||zopuqv.icu^
+||zsjpi.cn^
 ||ztxjutz.xyz^
 ||zuvbzl.xyz^
 ||01v62.xyz^
@@ -5644,8 +5645,8 @@
 .m.wenxuemi.cc^
 .m.zineworm.com^
 .wap.x4399.com^
-||d3iih5w7xp5hdg.cloudfront.net^
 ||d2un76zvb5mgzx.cloudfront.net^
+||d3iih5w7xp5hdg.cloudfront.net^
 ||jpg1.oss-cn-beijing.aliyuncs.com^
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
