@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-28T18:22:20.483Z
+! Last modified: 2024-02-29T01:15:10.485Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -3611,7 +3611,6 @@ rgmechanicsgames.com*VPN.exe
 ||bontent.powvideo.net^
 ||concertads-configs.vox-cdn.com^
 ||newopenx.detik.com^
-/^https?:\/\/ii\.apl\d+\.me\/js\/pop\.js$/
 ||consent.cookiefirst.com^$badfilter
 ||trstx.org^$badfilter
 @@||cdn.datatables.net^
@@ -14571,6 +14570,7 @@ rgmechanicsgames.com*VPN.exe
 ||explodemedicine.com^
 ||exploitdevoid.com^
 ||exploitingenious.com^
+||exploittonlets.com^
 ||exploreannihilationquicker.com^
 ||explorecomparison.com^
 ||explorefast-1.com^
@@ -15708,6 +15708,7 @@ rgmechanicsgames.com*VPN.exe
 ||foutoanaugab.com^
 ||foutyoxyaena.website^
 ||fouwiphy.net^
+||fovdvoz.com^
 ||foviyii.com^
 ||foxmeywkh.xyz^
 ||foxpush.io^
@@ -18850,6 +18851,7 @@ rgmechanicsgames.com*VPN.exe
 ||ihtckcitkr.com^
 ||ihttscqovzzb.com^
 ||ihzuephjxb.com^
+||iibhytvj.com^
 ||iicheewi.com^
 ||iidohheneuda.com^
 ||iifvcfwiqi.com^
@@ -20101,6 +20103,7 @@ rgmechanicsgames.com*VPN.exe
 ||jigsawthirsty.com^
 ||jiiglogwdkcqwou.xyz^
 ||jijhkclur.com^
+||jikbwoozvci.com^
 ||jikclwxavkanym.com^
 ||jikicotho.pro^
 ||jikvcrikdvng.com^
@@ -35792,6 +35795,7 @@ rgmechanicsgames.com*VPN.exe
 ||varabs.com^
 ||varasbrijkt.com^
 ||varechphugoid.com^
+||variabilityproducing.com^
 ||variableexternal.com^
 ||variablevisualforty.com^
 ||variationaspenjaunty.com^
@@ -35841,6 +35845,7 @@ rgmechanicsgames.com*VPN.exe
 ||vbijjrg.com^
 ||vbmfeuvrtnxafy.com^
 ||vbqbtfkon.com^
+||vbrbgki.com^
 ||vbtrax.com^
 ||vbzsjkrnsqewy.com^
 ||vcbydvfouqqyls.com^
