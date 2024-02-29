@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-29T06:23:12.858Z
+! Last modified: 2024-02-29T12:32:28.085Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
 
+||gvwdwrtzrs.com^
 ||guangzhuiyuan.com^
 ||aj2555.bid^
 ||vlkxsrhi.com^
@@ -18736,6 +18737,7 @@ rgmechanicsgames.com*VPN.exe
 ||iddjpop.com^
 ||iddpop.com^
 ||ideahealkeeper.com^
+||idealintruder.com^
 ||idealmedia.io^
 ||idelpiyuagjxtk.xyz^
 ||idelv.net^

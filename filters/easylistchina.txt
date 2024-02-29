@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-29T06:23:07.015Z
+! Last modified: 2024-02-29T12:32:22.308Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -190,6 +190,13 @@
 ||xsfajf.xyz^
 ||fefgvh.xyz^
 ||tduenkq839.shop^
+||execuri.com^
+||88lm06.com^
+||szmnl.cn^
+||sdjkbcjksbdsvv.com^
+||mlhtr.cn^
+||shanvezhu.com^
+||zhaweifeng.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zopuqv.icu^
@@ -5576,6 +5583,7 @@
 .m.zineworm.com^
 .wap.x4399.com^
 ||d3iih5w7xp5hdg.cloudfront.net^
+||d2un76zvb5mgzx.cloudfront.net^
 ||jpg1.oss-cn-beijing.aliyuncs.com^
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-29T06:23:06.658Z
+! Last modified: 2024-02-29T12:32:21.956Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -15102,6 +15102,7 @@
 ||iddjpop.com^
 ||iddpop.com^
 ||ideahealkeeper.com^
+||idealintruder.com^
 ||idealmedia.io^
 ||idelpiyuagjxtk.xyz^
 ||idelv.net^

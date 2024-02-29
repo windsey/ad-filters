@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-02-29T06:23:07.965Z
+! Last modified: 2024-02-29T12:32:23.238Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -915,6 +915,7 @@
 ||hspbotdetection.azurewebsites.net^
 ||hydro-ma-proxy.akamaized.net^
 ||i.compendium.com^
+||i.posthog.com^
 ||i.viafoura.co^
 ||iabusprivacy.pmc.com^
 ||icu.getstorybox.com^
@@ -2475,6 +2476,7 @@
 ||mcs-va.tiktokv.com^
 ||mcs.tiktokv.us^
 ||mcs.us.tiktokv.com^
+||megatron.igraal.com^
 ||metrics.audius.co^
 ||metrics.bangbros.com^
 ||metrics.camsoda.com^
@@ -37105,6 +37107,7 @@
 ||track.tesiteca.it^
 ||tracker.stileo.it^
 ||tracking.gruppo.mps.it^
+||analysis.aws.locondo.jp^
 ||analytics.castel.jp^
 ||analytics.cocolog-nifty.com^
 ||analytics.ikyu.com^
