@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: IqU6JRf9+9NDvSE1Qmds2Q
+! Checksum: e9fMsCIp4rZz87kifMDHdQ
 ! Title: Easylist Cookie List
-! Updated: 2024-02-29 00:15 UTC
+! Updated: 2024-02-29 05:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19319,7 +19319,7 @@ here.com###wrapper
 wyze.com###wyze-cookie-banner
 coindix.com###xbanner
 spiceworks.com###zdprivacy-content-new
-framer.com##.--framer-cookie-banner-container
+bunq.com,framer.com##.--framer-cookie-banner-container
 dublininquirer.com##.-alert.-fixed.notice
 alpari.com,alpariforex.org##.-footer__notice
 nhl.com##.-left.nhl-c-toast
@@ -19751,6 +19751,7 @@ aia.com##.cmp-notification-action-panel
 manulife.com##.cmp-ntfbanner
 evoestate.com##.cnc-container
 cnn.com##.cnn-toast--tos
+courthousenews.com##.cns-cg-modal__overlay
 meteopower.com##.cnt223
 candyoffers.com##.co-cookie-message
 canvasondemand.com##.cod-notifications
@@ -20559,6 +20560,7 @@ jacksonsauction.com##.popup-dialog
 cancerresearch.org##.popup-inner
 skippersreview.com##.popup-overlayPop
 haiermedical.com##.popup-window
+mfc.co.uk##.popup-wrapper
 smartclient.com##.popupPolicies
 plsx.com##.popup_block
 abplive.in##.popup_desktop
