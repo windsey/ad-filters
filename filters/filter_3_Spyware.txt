@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-01T12:32:40.638Z
+! Last modified: 2024-03-01T18:24:16.646Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -716,6 +716,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||recv.tbs.co.jp^
 ||tracking.game8.co^
 ||analysis.aws.locondo.jp^
 ||reports.tunein.com^
@@ -2333,7 +2334,6 @@
 ||sayac.tmgrup.com.tr^
 ||sbeacon.sina.com.cn^
 ||sci.intuit.com^
-||scis.tbs.co.jp^
 ||secure-wa-na.unileversolutions.com^
 ||segment-cdn.producthunt.com^
 ||segments.adap.tv^
