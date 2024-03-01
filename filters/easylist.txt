@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-01T01:21:33.793Z
+! Last modified: 2024-03-01T06:23:41.322Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -36599,6 +36599,8 @@
 ||engagesrvr.filefactory.com^
 ||engine.fxempire.com^
 ||engine.laweekly.com^
+||eontent.powzerz.lol^
+||fentent.stre4mplay.one^
 ||fentent.streampiay.fun^
 ||fentent.streampiay.me^
 ||fontent.powzers.lol^
