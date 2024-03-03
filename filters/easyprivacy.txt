@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-03T01:19:22.607Z
+! Last modified: 2024-03-03T06:22:09.189Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2337,6 +2337,7 @@
 ||dc.banggood.com^
 ||dd.auspost.com.au^
 ||dd.nytimes.com^
+||ddome-tag.blablacar.com^
 ||deliver.ptgncdn.com^
 ||df.infra.shopee.
 ||df.infra.sz.shopee.
