@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-04T07:11:17.450Z
+! Last modified: 2024-03-04T12:35:40.156Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -238,6 +238,10 @@
 ||wwjtdjj.cn^
 ||tlfvj.cyou^
 ||seslco.xyz^
+||szmnm.cn^
+||xudarl.xyz^
+||hjshal.com^
+||cijianggun.com^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
@@ -4854,6 +4858,7 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||js.entm.top^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
