@@ -123,6 +123,7 @@ turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepeti.com,rabota.by,temp-
 ! https://github.com/AdguardTeam/AdguardFilters/issues/161301
 temu.com#?#div[role="main"] div[style] > div[style]:has(> div[style] div[js-selector="mobile-download-ui"])
 !
+u.gg##.builds-page-promo
 kundeavisogtilbud.no##.page-promotion-item
 kundeavisogtilbud.no##.mobile-app-banner-small
 mypolacy.de##div[class*="appBanner"]
@@ -140,8 +141,9 @@ japantravel.navitime.com##.l-footer-app-list
 www.op.gg##html[lang="ko"] .tooltip__talkg_ad:has(> .react-tooltip-lite a[href*="talk.op.gg/app-download"])
 youla.ru#%#//scriptlet('set-cookie', 'youla_fullscreenbanner', 'disabled')
 aliexpress.com###mobile-download
-japantravel.navitime.com###appli-japan-travel
-japantravel.navitime.com##.appli-japan-travel-banner
+navitime.co.jp##.appli-japan-travel
+navitime.com###appli-japan-travel
+navitime.com##.appli-japan-travel-banner
 mixch.tv#$#body { overflow: auto !important; }
 mixch.tv#$#.css-n16vot > div.eglqwv00 { display: none !important; }
 mirrativ.com##div[class^="_appDlNoBanner_"]
@@ -3157,6 +3159,10 @@ m.tokopedia.com#$#div[data-testid="divOverlay"] { display: none!important; }
 ! causes some issues: https://github.com/AdguardTeam/AdguardForMac/issues/550
 ~status.im,~lafenice.io,~kurer-sreda.ru,~chorki.com,~zattoo.com,~zaycev.net,~hitta.se,~mail.ru,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 !
+cookpad.com##.ep5ivm0
+cookpad.com##.swiper-wrapper > .swiper-slide:has(> a[href^="https://itunes.apple.com/jp/app/id340368403?"])
+cookpad.com##footer > section:has(> div > div > a[href^="https://itunes.apple.com/jp/app/id340368403?"])
+sports.yahoo.co.jp##.sn-modAppCarousel
 m.vk.com##a[class^="OpenInAppPromoButton-"]
 clubd.co.jp###FixedBanner
 clubd.co.jp###footerBanner

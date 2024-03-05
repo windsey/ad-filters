@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-05T12:32:55.579Z
+! Last modified: 2024-03-05T18:21:59.038Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -96,6 +96,7 @@
 ||cntxtfl.com^
 ||confiant-integrations.net^
 ||convead.io^
+||conversationalsdevelopment.nl^
 ||convertlink.com^
 ||cpx.to^
 ||crwdcntrl.net^
@@ -216,6 +217,7 @@
 ||ldgnrtn.com^
 ||ldnlyap.com^
 ||leadhit.io^
+||lemonpi.io^
 ||liveyield.com^
 ||lltrck.com^
 ||lmepbq.com^
@@ -1623,6 +1625,7 @@
 ||d3m6sept6cnil5.cloudfront.net^
 ||d3mskfhorhi2fb.cloudfront.net^
 ||d3n6i6eorggdxk.cloudfront.net^
+||d3or5d0jdz94or.cloudfront.net^
 ||d3pi0tys5sdysl.cloudfront.net^
 ||d3plfjw9uod7ab.cloudfront.net^
 ||d3qztsm17pgxue.cloudfront.net^
@@ -2153,7 +2156,7 @@
 ||g-stats.openhost.es^
 ||madrid.report.botm.transparentedge.io^
 ||mat.socy.es^
-||mtm.qdqmedia.com^
+||mtm.qdqmedia.com
 ||pub.servidoresge.com^
 ||rt.cdnmedia.tv^
 ||sp.vtex.com^
