@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-06T12:33:12.521Z
+! Last modified: 2024-03-06T18:22:31.892Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -48,6 +48,7 @@
 ||bmnbyn.icu^
 ||bmret.cn^
 ||bugzmn.icu^
+||bvtvlp.xyz^
 ||bvxiht.xyz^
 ||bwlcpr.xyz^
 ||bzzxyyh.xyz^
@@ -76,6 +77,7 @@
 ||ddielv.cn^
 ||difmnd.xyz^
 ||dkjwbv.xyz^
+||dqhxmbx.cn^
 ||dsbqvj.xyz^
 ||dxrnksm.xyz^
 ||dyegif.icu^
@@ -102,6 +104,7 @@
 ||halct.cn^
 ||hbjolp.xyz^
 ||hciwyv.icu^
+||hdtedar126.shop^
 ||heapz.cyou^
 ||hexcvb.xyz^
 ||hgthpj.xyz^
@@ -124,6 +127,7 @@
 ||kfdrc.cyou^
 ||kksjsa.top^
 ||ktoioo.xyz^
+||ktvjpmi.xyz^
 ||l5kt1.icu^
 ||lenvvb.xyz^
 ||lfffzv.xyz^
@@ -160,6 +164,7 @@
 ||przbzr.xyz^
 ||pwhtip.icu^
 ||qbhzghb.xyz^
+||qcohkm.xyz^
 ||qhocciks.com^
 ||qlbbowx.xyz^
 ||qqkkpos.com^
@@ -179,6 +184,8 @@
 ||sdjkbcjksbdsvv.com^
 ||seslco.xyz^
 ||shanvezhu.com^
+||shnpetdb638.shop^
+||shnpetdn185.shop^
 ||shuocyw.cn^
 ||sjaaquj.cn^
 ||smallfo.com^
@@ -202,6 +209,7 @@
 ||tdljuuw.xyz^
 ||tduenkq839.shop^
 ||tgccct.icu^
+||tgwfaz.icu^
 ||tjfbh.icu^
 ||tlfvj.cyou^
 ||tmjetb.xyz^
@@ -216,6 +224,7 @@
 ||uxrdg.cn^
 ||veaiyl.icu^
 ||vhvwlb.xyz^
+||vszzzj.xyz^
 ||vxfdepn.cn^
 ||wbvfj.xyz^
 ||wisealty.com^
@@ -233,6 +242,7 @@
 ||xkrnud.icu^
 ||xliffnsc.xyz^
 ||xn--wgvp78a61swpe6zdozj.cn^
+||xnpuw.cn^
 ||xsfajf.xyz^
 ||xszw0.icu^
 ||xudarl.xyz^
@@ -254,16 +264,6 @@
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zhaweifeng.com^
-||xnpuw.cn^
-||ktvjpmi.xyz^
-||vszzzj.xyz^
-||tgwfaz.icu^
-||bvtvlp.xyz^
-||qcohkm.xyz^
-||shnpetdb638.shop^
-||shnpetdn185.shop^
-||hdtedar126.shop^
-||dqhxmbx.cn^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
