@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-06T06:24:29.519Z
+! Last modified: 2024-03-06T12:33:12.521Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -263,6 +263,7 @@
 ||shnpetdb638.shop^
 ||shnpetdn185.shop^
 ||hdtedar126.shop^
+||dqhxmbx.cn^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^

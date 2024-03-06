@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-06T06:24:37.791Z
+! Last modified: 2024-03-06T12:33:20.637Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -718,6 +718,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||event-router.olympics.com^
 ||ingest.do.brainsland.com^
 ||recv.tbs.co.jp^
 ||tracking.game8.co^
