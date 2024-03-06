@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-05T18:22:00.349Z
+! Last modified: 2024-03-06T01:15:40.938Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -340,6 +340,10 @@
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zhaweifeng.com^
+||xnpuw.cn^
+||ktvjpmi.xyz^
+||vszzzj.xyz^
+||tgwfaz.icu^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
