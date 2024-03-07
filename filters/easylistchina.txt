@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-07T06:23:30.328Z
+! Last modified: 2024-03-07T12:32:15.738Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -271,6 +271,9 @@
 ||hrnkdr.xyz^
 ||cbcvou.xyz^
 ||ha723.icu^
+||wbubgob.cn^
+||rouqiuqq.cn^
+||zhihucloud.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
