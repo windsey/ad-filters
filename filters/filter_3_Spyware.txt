@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-07T12:32:24.019Z
+! Last modified: 2024-03-07T18:22:07.348Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -719,9 +719,10 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+|c.blue.*.com^|
+||apcdp.apnews.com^
 ||3p-udc.yahoo.com^
 ||3p-geo.yahoo.com^
-||blue.nbc4i.com^
 ||t.streetsblog.org^
 ||receive.wmcdp.io^
 ||event-router.olympics.com^
@@ -1562,8 +1563,6 @@
 ||beta.simpel.nl^
 ||bi-eventtracker-*.amazonaws.com^
 ||bia.brightinfo.com^
-||blue.fox8.com^
-||blue.thehill.com^
 ||bonfire.spklw.com^
 ||boomerang.dell.com^
 ||broker.datazoom.io^
