@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-08T06:22:21.415Z
+! Last modified: 2024-03-08T12:32:05.957Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -866,6 +866,7 @@
 ||f-log-test.grammarly.io^
 ||fcmatch.google.com^
 ||fcmatch.youtube.com^
+||feliz.data.tm-awx.com^
 ||filament-stats.herokuapp.com^
 ||fingerprinter-production.herokuapp.com^
 ||firebaselogging-pa.googleapis.com^

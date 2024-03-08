@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-08T06:22:22.671Z
+! Last modified: 2024-03-08T12:32:07.231Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -373,6 +373,7 @@
 ||lardmoni.com^
 ||skfda5.com^
 ||xxle.cn^
+||cherylssb.com^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
