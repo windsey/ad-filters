@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-07T18:21:59.144Z
+! Last modified: 2024-03-08T01:15:40.066Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -275,6 +275,17 @@
 ||zagyjnn.cn^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
+||brixel.cn^
+||tdlyfz.xyz^
+||rpnufv.xyz^
+||buvdkt.icu^
+||onagsc.xyz^
+||nvdtdsd.xyz^
+||hnifdlau.top^
+||inworket.com^
+||tcheeter.com^
+||lardmoni.com^
+||skfda5.com^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
