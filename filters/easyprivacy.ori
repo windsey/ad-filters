@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: uaLsoOekzJPBPcwSnmyJJg
-! Version: 202403090611
+! Checksum: FnEC6cCnOWmUgOLiuo2ojQ
+! Version: 202403091221
 ! Title: EasyPrivacy
-! Last modified: 09 Mar 2024 06:11 UTC
+! Last modified: 09 Mar 2024 12:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3190,6 +3190,7 @@ omni.soundestlink.com$image
 ||gbqofs.com^
 ||geoedge.be^
 ||geotargetly-api-*.com^
+||getdeviceinf.com^
 ||glamipixel.com^
 ||glimr.io^
 ||glookup.info^
