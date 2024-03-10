@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-10T06:21:37.289Z
+! Last modified: 2024-03-10T12:29:26.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -399,6 +399,7 @@
 ||delhirs.com^
 ||6zfem.icu^
 ||lewiooz.cn^
+||0uvt8b.cn^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
