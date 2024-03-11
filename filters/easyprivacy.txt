@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-11T06:24:29.226Z
+! Last modified: 2024-03-11T12:33:04.120Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -37174,7 +37174,6 @@
 ||hits.zdnet.co.kr^
 ||kyson.kakao.com^
 ||l.m.naver.com^
-||ljc.coupang.com^
 ||log.etoday.co.kr^
 ||log.kinolights.com^
 ||log.zdnet.co.kr^
