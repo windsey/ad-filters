@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-12T06:22:50.788Z
+! Last modified: 2024-03-12T12:32:43.669Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -5013,6 +5013,7 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||c81.ipanocloud.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
@@ -5399,7 +5400,6 @@
 ||dm.zjut.cc^
 ||dm.zuowenku.net^
 ||dm1.ddwk8.cn^
-||dm1.guanwawa.com^
 ||dm1.zjydt.com^
 ||dmm.aizhan.com^
 ||dmr.cnhoney.com^

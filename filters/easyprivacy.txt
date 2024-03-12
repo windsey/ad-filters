@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-12T06:22:49.512Z
+! Last modified: 2024-03-12T12:32:42.389Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -48,6 +48,7 @@
 ||adspsp.com^
 ||adstk.io^
 ||adultium.com^
+||aggle.net^
 ||agkn.com^
 ||agma-analytics.de^
 ||allvideometrika.com^
@@ -93,6 +94,7 @@
 ||cliquelead.com^
 ||cloudwp.io^
 ||clrt.ai^
+||cnna.io^
 ||cntxtfl.com^
 ||confiant-integrations.net^
 ||convead.io^
@@ -176,6 +178,7 @@
 ||g990421675.co^
 ||g990421676.co^
 ||gbqofs.com^
+||gcprivacy.com^
 ||geoedge.be^
 ||geotargetly-api-*.com^
 ||getdeviceinf.com^
@@ -715,7 +718,6 @@
 ||collector.appconsent.io^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
-||collector.dmp.cnna.io^
 ||collector.getyourguide.com^
 ||collector.mazeberry.com^
 ||collector.sspinc.io^
@@ -1301,6 +1303,7 @@
 ||t.signalayer.com^
 ||t.skimresources.com^
 ||t.smile.eu^
+||t.spbx.app^
 ||t.splicky.com^
 ||t.spot.im^
 ||t2.t2b.click^
