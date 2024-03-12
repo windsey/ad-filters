@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-12T01:15:07.783Z
+! Last modified: 2024-03-12T06:22:50.788Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -411,6 +411,14 @@
 ||zhihucloud.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
+||hdvsrz.xyz^
+||swsegi.xyz^
+||rcyzsh.icu^
+||snifdlab.top^
+||oppnfev.xyz^
+||0tq6ub.cn^
+||njhvalu.cn^
+||osisk.com^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
