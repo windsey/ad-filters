@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-12T12:32:47.275Z
+! Last modified: 2024-03-12T18:22:05.198Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -39502,6 +39502,7 @@ rgmechanicsgames.com*VPN.exe
 ||p.smartertravel.com^
 ||pacontainer.s3.amazonaws.com^
 ||pagead2.googlesyndication.com^
+||paicdn.privateapi.click^
 ||partner-app.softwareselect.com^
 ||partner.e-conomic.com^
 ||partner.vecteezy.com^

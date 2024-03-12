@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-12T12:32:49.591Z
+! Last modified: 2024-03-12T18:22:07.499Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11,6 +11,8 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||fp.techinasia.com^
+||cadmus.script.ac^
 ||feliz.data.tm-awx.com^
 ||lz-pub-ads.com^
 ||w4h5ae.ru^
@@ -720,6 +722,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||metrics.ceneo.pl^
+||analytics.purelovers.com^
 ||analytics.pixels.ai^
 ||globalservices.conde.digital^
 ||tracking.pennypublications.com^
