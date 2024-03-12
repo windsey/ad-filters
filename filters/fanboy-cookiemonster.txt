@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-11T18:22:19.670Z
+! Last modified: 2024-03-12T01:15:06.865Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -111,7 +111,6 @@
 ||sourcepoint.dexerto.com^
 ||sourcepoint.gizmodo.com^
 ||sourcepoint.jalopnik.com^
-||sourcepoint.lifehacker.com^
 ||sourcepoint.theonion.com^
 ||sourcepoint.theroot.com^
 ||sourcepoint.thetakeout.com^
