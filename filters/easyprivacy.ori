@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: sCQo4cLJrOa5UwlEv5oQkw
-! Version: 202403141221
+! Checksum: zN6lv0gQYtyN5k5x02Iv6Q
+! Version: 202403141811
 ! Title: EasyPrivacy
-! Last modified: 14 Mar 2024 12:21 UTC
+! Last modified: 14 Mar 2024 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1465,7 +1465,7 @@
 /mwTag.js
 /mystats2.px?
 /myTracking.js
-/naLogImpressions?
+/naLogImpressions^
 /natero_analytics.min.js
 /nativendo.js
 /navbar-analytics.js
