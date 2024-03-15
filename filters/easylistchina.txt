@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-15T01:16:21.412Z
+! Last modified: 2024-03-15T06:22:46.908Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -356,6 +356,8 @@
 ||damiul.icu^
 ||xhbshv.xyz^
 ||djxpnuo.xyz^
+||irayedo.cn^
+||o1b04.cyou^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
