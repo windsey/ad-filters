@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-15T12:31:59.810Z
+! Last modified: 2024-03-15T18:23:14.153Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||events-ingestion.services.gorgias.com^
 ||accuratecoal.com^
 ||sdk-cdn.optimove.net^
 ||metrics.kmsmep.com^
@@ -727,6 +728,9 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||t.poki.io^
+||p.armorgames.net^
+||analytics.crazygames.com^
 ||tracker.sqreemtech.com^
 ||analytics.waifu2x.org^
 ||analytics-api.vanceai.com^
