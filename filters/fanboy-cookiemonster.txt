@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-14T18:22:24.069Z
+! Last modified: 2024-03-15T01:16:22.697Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -114,6 +114,7 @@
 ||sourcepoint.theonion.com^
 ||sourcepoint.theroot.com^
 ||sourcepoint.thetakeout.com^
+||transcendcdn.eventbrite.com^
 ||vg247-p2.vg247.com^
 ||vg247-uk.vg247.com^
 ||fundingchoicesmessages.google.com^
