@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sbPesLTgEojxjvzIBjSgPQ
-! Version: 202403151811
+! Checksum: aQ3NS1mSulK+vPcrMH3lfw
+! Version: 202403160101
 ! Title: EasyList
-! Last modified: 15 Mar 2024 18:11 UTC
+! Last modified: 16 Mar 2024 01:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21343,6 +21343,7 @@ browsershots.org#@#.advert_area
 ||arointitacism.com^
 ||aromabirch.com^
 ||aromatic-possibility.pro^
+||arosepageant.com^
 ||arossb.com^
 ||aroundpayslips.com^
 ||arousedcricket.com^
@@ -24472,6 +24473,7 @@ browsershots.org#@#.advert_area
 ||cerningronco.com^
 ||certainalmostcontent.com^
 ||certainlydisparagewholesome.com^
+||certaintyurnincur.com^
 ||certificaterainbow.com^
 ||certified-apps.com^
 ||ces2007.org^
@@ -31750,6 +31752,7 @@ browsershots.org#@#.advert_area
 ||goplayhere.com^
 ||gopushka1.com^
 ||gopushmajor1.com^
+||goraccodisobey.com^
 ||goralogplumach.com^
 ||goraps.com^
 ||gordiustouse.website^
@@ -32733,6 +32736,7 @@ browsershots.org#@#.advert_area
 ||hewhimaulols.com^
 ||hewiseryoun.com^
 ||hewmjifrn4gway.com^
+||hewokhn.com^
 ||hexerpabalum.com^
 ||hexovythi.pro^
 ||heycompassion.com^
@@ -34165,6 +34169,7 @@ browsershots.org#@#.advert_area
 ||insanitynapoleon.com^
 ||inscriptionharm.com^
 ||insectclothe.com^
+||insectearly.com^
 ||insectsaw.com^
 ||insectsmanners.com^
 ||insecurepaint.pro^
@@ -36406,6 +36411,7 @@ browsershots.org#@#.advert_area
 ||lbbzxarfoukaf.com^
 ||lbjxsort.xyz^
 ||lbkezllkewevy.top^
+||lbswotkkpry.com^
 ||lbwjqrtxeeriap.com^
 ||lbxcnbrczmmp.com^
 ||lbxetynjwqyrw.com^
@@ -41905,6 +41911,7 @@ browsershots.org#@#.advert_area
 ||pegloang.com^
 ||peirs5tbakchios.com^
 ||pejzeexukxo.com^
+||pekroace.net^
 ||pelagictanjib.com^
 ||pelamydlours.com^
 ||pelargiunmelt.top^
@@ -56502,6 +56509,7 @@ browsershots.org#@#.advert_area
 ||celeb-trends-gossip.com^$popup
 ||celeritascdn.com^$popup
 ||certainlydisparagewholesome.com^$popup
+||certaintyurnincur.com^$popup
 ||cgeckmydirect.biz^$popup
 ||chaeffulace.com^$popup
 ||chaintopdom.nl^$popup
@@ -57490,6 +57498,7 @@ browsershots.org#@#.advert_area
 ||innovid.com^$popup,third-party
 ||inoradde.com^$popup
 ||inpagepush.com^$popup
+||insectearly.com^$popup
 ||inshelmetan.com^$popup
 ||insidehoarse.com^$popup
 ||insideofnews.com^$popup
@@ -64201,6 +64210,7 @@ godbolt.org###ces
 romsmania.games###click-widget-banner
 xcalibrscans.com###close-teaser
 oneindia.com###closePopupDiv
+slashdot.org###cloud
 whocallsme.com###cnt_1
 whocallsme.com###cnt_2
 whocallsme.com###cnt_btm
@@ -64734,6 +64744,7 @@ holiday-weather.com,omniglot.com,w3schools.com,zerochan.net###skyscraper
 nitrome.com###skyscraper_box
 nitrome.com###skyscraper_shadow
 scrabble-solver.com###skywideupper
+slashdot.org###slashdot_deals
 gunsamerica.com###slidebox
 compleatgolfer.com,sacricketmag.com###slidein
 whatshappening.com.ph###sliderCarousel
@@ -65191,7 +65202,7 @@ ncomputers.org,servertest.online##.ab
 freedownloadmanager.org##.ab1
 freedownloadmanager.org##.ab320
 convertingcolors.com,slickdeals.net,whitecoatinvestor.com##.abc
-merriam-webster.com##.abl
+britannica.com,merriam-webster.com##.abl
 imgbb.com##.abnr
 rankedboost.com##.above-article-section
 creativeuncut.com##.abox-s_i
@@ -69114,6 +69125,8 @@ smartprix.com##sm-dap
 nativeplanet.com##span[class^="oiad-txt"]
 torlock.com##table.hidden-xs
 realitytvworld.com##table[border="0"][align="left"]
+thebbqforum.com##table[border="0"][width]
+thebbqforum.com##table[border="1"][width]
 roadtester.com.au##table[cellpadding="9"][border="0"]
 wifinetnews.com##table[height="260"]
 softpanorama.org##table[height="620"]
