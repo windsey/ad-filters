@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zH/whTcD+taK8lHPPVjl/A
-! Version: 202403161221
+! Checksum: eDvD29g3tvigv2pgCWUJ9Q
+! Version: 202403161811
 ! Title: EasyList
-! Last modified: 16 Mar 2024 12:21 UTC
+! Last modified: 16 Mar 2024 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18055,7 +18055,7 @@ azclick.jp,tubefilter.com#@##topAd
 soundandvision.com,stereophile.com#@##topbannerad
 gamingcools.com#@#.Adsense
 m.motonet.fi#@#.ProductAd
-clickondetroit.com#@#.ac-widget-placeholder
+click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls.com#@#.ac-widget-placeholder
 flightview.com#@#.ad-160-600
 job.inshokuten.com#@#.ad-area
 kincho.co.jp,niji-gazo.com#@#.ad-block
@@ -18165,7 +18165,7 @@ grist.org,ing.dk,version2.dk#@#.advertorial
 stjornartidindi.is#@#.adverttext
 staircase.pl#@#.adwords
 consumerist.com#@#.after-post-ad
-clickorlando.com#@#.anyClipWrapper
+click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls.com#@#.anyClipWrapper
 dailymail.co.uk,thisismoney.co.uk#@#.article-advert
 deluxemusic.tv#@#.article_ad
 adeam.com#@#.atf-wrapper
@@ -31588,6 +31588,7 @@ browsershots.org#@#.advert_area
 ||glyphsmahajan.com^
 ||gmaakjrmpc.com^
 ||gmads.net^
+||gmawlljasi.com^
 ||gmbopxcfbwg.com^
 ||gmcdxivnqegrnl.com^
 ||gmcoanceqoymws.com^
@@ -40613,6 +40614,7 @@ browsershots.org#@#.advert_area
 ||ollsukztoo.com^
 ||olmsoneenh.info^
 ||olnjitvizo.com
+||olnkpexujhuw.com^
 ||olnoklmuxo.com^
 ||ololenopoteretol.info^
 ||olomonautcatho.info^
@@ -41614,6 +41616,7 @@ browsershots.org#@#.advert_area
 ||parcbegulf.com^
 ||pardonsentencegeneral.com^
 ||parecyrclame.com^
+||parentingcalculated.com^
 ||parentlargevia.com^
 ||parentpensionvolunteer.com^
 ||paripartners.ru^
@@ -48007,6 +48010,7 @@ browsershots.org#@#.advert_area
 ||stotinggunne.uno^
 ||stotoowu.net^
 ||stouksom.xyz^
+||stouphou.net^
 ||stoursas.xyz^
 ||stoushgowds.com^
 ||stovearmpitagreeable.com^
@@ -52769,6 +52773,7 @@ browsershots.org#@#.advert_area
 ||wobblyiroha.com^
 ||wocfhqqt.com^
 ||wodycaha.com^
+||woefifty.com^
 ||woejh.com^
 ||woespoke.com^
 ||wofqzuwtkxw.com^
@@ -58306,6 +58311,7 @@ browsershots.org#@#.advert_area
 ||parachuteeffectedotter.com^$popup
 ||paradiseannouncingnow.com^$popup
 ||parallelgds.store^$popup
+||parentingcalculated.com^$popup
 ||parentlargevia.com^$popup
 ||paripartners.ru^$popup
 ||parisjeroleinpg.com^$popup
@@ -63011,7 +63017,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ! firework
 ||fireworkapi1.com^$domain=boldsky.com
 ! In-page video advertising.
-||anyclip.com^$third-party,domain=~clickorlando.com|~dictionary.com|~heute.at|~video.timeout.com
+||anyclip.com^$third-party,domain=~click2houston.com|~clickondetroit.com|~clickorlando.com|~dictionary.com|~heute.at|~ksat.com|~news4jax.com|~video.timeout.com|~wsls.com
 ||api.dailymotion.com^$domain=philstarlife.com
 ||api.fw.tv^
 ||avantisvideo.com^$third-party
