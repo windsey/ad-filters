@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: t9IsJeY+eWkOALeLqEXV1Q
-! Version: 202403170111
+! Checksum: KHbRm/xDyuaG9ziRIhPoaQ
+! Version: 202403170611
 ! Title: EasyList
-! Last modified: 17 Mar 2024 01:11 UTC
+! Last modified: 17 Mar 2024 06:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -66495,6 +66495,7 @@ investing.com##.generalOverlay
 perfectdailygrind.com##.gengpdg
 perfectdailygrind.com##.gengpdg-col
 perfectdailygrind.com##.gengpdg-single
+romaniajournal.ro##.geoc-container
 geotastic.net##.geotastic-net_970x250-container
 thingstodovalencia.com##.get-your-guide
 flickr.com##.getty-search-view
