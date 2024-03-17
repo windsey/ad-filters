@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-17T06:21:12.763Z
+! Last modified: 2024-03-17T12:30:55.412Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -377,6 +377,9 @@
 ||pa4ye.cyou^
 ||lulgef.icu^
 ||fhtfnb.xyz^
+||drummers.cn^
+||zailgrae.com^
+||uljoifw.cn^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
