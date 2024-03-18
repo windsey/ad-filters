@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: pbb5BOrWdA3izxIsogD5rQ
-! Version: 202403181221
+! Checksum: YdjXDY/pZC3cW9impy/5sQ
+! Version: 202403181811
 ! Title: EasyPrivacy
-! Last modified: 18 Mar 2024 12:21 UTC
+! Last modified: 18 Mar 2024 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10455,6 +10455,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bvr.ast.snva.jp^
 ||bvr.snva.jp^
 ||c-rings.net^$script,third-party
+||cdn.ad-platform.jmty.jp^
 ||clipkit.co/clipkit_assets/beacon-
 ||cloudfunctions.net/trackEvent
 ||cnobi.jp^*/js/imp.
@@ -12175,6 +12176,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.netzero.net^
 ||track.sodapdf.com^
 ||track.thesaurus.com^
+||track.ttsave.app^
 ||track.ultimate-guitar.com^
 ||tracker.affiliate.iqbroker.com^
 ||tracker.nbcuas.com^
