@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-20T12:32:19.521Z
+! Last modified: 2024-03-20T18:21:57.242Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2437,10 +2437,12 @@
 ||gnar.grammarly.com^
 ||go.pardot.com^
 ||gotie.tunein.com^
+||grgnsht.nzxt.com^
 ||gtm.wise.com^
 ||gtreus.aliexpress.com^
 ||gurgle.pcmag.com^
 ||gurgle.spiceworks.com^
+||h031.familydollar.com^
 ||health-metrics-api.setapp.com^
 ||heap.drop.com^
 ||hlogger.heraldcorp.com^

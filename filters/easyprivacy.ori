@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: vcpgkH+4PHmXK+LWj9v+dw
-! Version: 202403201221
+! Checksum: /cjbnJSdLEYJB9LCifvetA
+! Version: 202403201811
 ! Title: EasyPrivacy
-! Last modified: 20 Mar 2024 12:21 UTC
+! Last modified: 20 Mar 2024 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11346,6 +11346,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||facebook.com/ajax/*logging.
 ||facebook.com/ajax/mtouch_perf_page_load_timings/
 ||facebook.com/ajax/qm/
+||familydollar.com/ccstoreui/*/analytics/
 ||fanatics.com/api/track
 ||fancentro.com/lapi/statisticWriter/
 ||fancentro.com/trck-
@@ -11457,6 +11458,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||google.com/log?
 ||gotie.tunein.com^
 ||grabify.link/api/js
+||grgnsht.nzxt.com^
 ||groove.so/unlocker.js
 ||groupon.com/analytic/
 ||groupondata.com/tracky
@@ -11467,6 +11469,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gumtree.com.au/tracking/
 ||gurgle.pcmag.com^
 ||gurgle.spiceworks.com^
+||h031.familydollar.com^
 ||hacksplaining.com/track
 ||hankookilbo.com/service/kt/trk.js$script,domain=koreatimes.co.kr
 ||harryrosen.com/analytics/
