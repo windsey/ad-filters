@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wFJK44/V+qs0jL1ixigC8A
-! Version: 202403210611
+! Checksum: vY5uXJisI8dLOfMUb+fqGQ
+! Version: 202403211221
 ! Title: EasyList
-! Last modified: 21 Mar 2024 06:11 UTC
+! Last modified: 21 Mar 2024 12:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1125,6 +1125,7 @@
 /punder.php
 /pup-a9-header-bidder/*
 /purch-ad-
+/push/p.js?u=$third-party
 /pushdownAd.
 /pustrck.js
 /radioAdEmbed.
@@ -25591,6 +25592,7 @@ browsershots.org#@#.advert_area
 ||coolingstiffenlegend.com^
 ||cooljony.com^
 ||coollyadmissibleclack.com^
+||cooloffer.cfd^
 ||coolpornvids.com^
 ||coolserving.com^
 ||coolstreamsearch.com^
@@ -30714,6 +30716,7 @@ browsershots.org#@#.advert_area
 ||funcats.info^
 ||functionfreaklacerate.com^
 ||functionsprecision.com^
+||fundatingquest.fun^
 ||fundingexceptingarraignment.com^
 ||fundsbe.com^
 ||fungianjaggier.digital^
@@ -56658,6 +56661,7 @@ browsershots.org#@#.advert_area
 ||convertmb.com^$popup
 ||coochhastier.top^$popup
 ||cooljony.com^$popup
+||cooloffer.cfd^$popup
 ||cooperativechuckledhunter.com^$popup
 ||cophypserous.com^$popup
 ||cor8ni3shwerex.com^$popup
@@ -66389,11 +66393,11 @@ imgur.com##.fast-grid-ad
 thepointsguy.com##.favorite-cards
 futbin.com##.fb-ad-placement
 triangletribune.com##.fba_links
+newspointapp.com##.fbgooogle-wrapper
 forbes.com##.fbs-ad--mobile-medianet-wrapper
 forbes.com##.fbs-ad--ntv-deskchannel-wrapper
 forbes.com##.fbs-ad--ntv-home-wrapper
 whatismyipaddress.com##.fbx-player-wrapper
-newspointapp.com##.fbgooogle-wrapper
 digminecraft.com##.fc2e5688
 businessinsider.in##.fc_clmb_ad_mrec
 filmdaily.co##.fd-article-sidebar-ad
@@ -67777,7 +67781,7 @@ kit.co##.sidekit-banner
 linuxtopia.org##.sidelinks > .sidelinks
 atlasobscura.com##.siderail-bottom-affix-placeholder
 thespike.gg##.siderail_ad_right
-rockradio.com##.sidewall-ad-component
+classicalradio.com,jazzradio.com,radiotunes.com,rockradio.com,zenradio.com##.sidewall-ad-component
 sifted.eu##.sifted_advert_block
 wncv.com##.simple-image
 nanoreview.net##.sinad_only_desktop
