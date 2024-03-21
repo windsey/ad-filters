@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-21T12:32:14.072Z
+! Last modified: 2024-03-21T18:22:30.586Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -731,11 +731,11 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||taplytics-umami.grubhub.com
 ||s.wayfair.com^
 ||imk.neweggimages.com^
 ||grgnsht.nzxt.com^
 ||h031.familydollar.com^
-||api-gtm.grubhub.com^
 ||event.havasedge.com^
 ||tag.havasedge.com^
 ||d401.dollartree.com^

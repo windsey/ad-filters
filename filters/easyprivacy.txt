@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-21T12:32:07.129Z
+! Last modified: 2024-03-21T18:22:23.662Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -9713,7 +9713,6 @@
 ||samc.zkb.ch^
 ||samc.zuerilaufcup.ch^
 ||sametrics.finn.no^
-||sams.manager-magazin.de^
 ||sams.spiegel.de^
 ||samt.frankly.ch^
 ||samt.swisscanto.com^
