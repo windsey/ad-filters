@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-22T01:15:52.113Z
+! Last modified: 2024-03-22T06:22:41.969Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -325,6 +325,7 @@
 ||statisticplatform.com^
 ||statisticsplatform.com^
 ||stats.rip^
+||sturton-lation.com^
 ||summerhamster.com^
 ||superpointlesshamsters.com^
 ||t13.io^
@@ -2494,6 +2495,7 @@
 ||ma.redhat.com^
 ||marketing.alibaba.com^
 ||mcc-tags.cisco.com^
+||mcs-ie.tiktokw.eu^
 ||mcs-va.tiktokv.com^
 ||mcs.tiktokv.us^
 ||mcs.us.tiktokv.com^
