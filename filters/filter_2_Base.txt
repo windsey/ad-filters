@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-21T18:22:28.625Z
+! Last modified: 2024-03-22T01:15:56.939Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -16600,6 +16600,7 @@ rgmechanicsgames.com*VPN.exe
 ||geasefloria.com^
 ||geazjxqwbr.com^
 ||gebadu.com^
+||geckad.com^
 ||geckibou.com^
 ||gecl.xyz^
 ||geddshippy.com^
