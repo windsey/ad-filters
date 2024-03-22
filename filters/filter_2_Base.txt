@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-22T06:22:47.016Z
+! Last modified: 2024-03-22T12:32:20.636Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -215,6 +215,7 @@
 ||piguiqproxy.com^$badfilter
 ||samsungtvads.com^
 
+||d2psma0az3acui.cloudfront.net^
 ||ads.betweendigital.com^
 ||rec.deezer.com^
 ||ads.greengeeks.com^
