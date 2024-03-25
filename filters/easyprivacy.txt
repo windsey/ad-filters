@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-25T06:24:37.511Z
+! Last modified: 2024-03-25T12:32:15.437Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1160,6 +1160,7 @@
 ||rtxpx-a.akamaihd.net^
 ||rum.azion.com^
 ||rum.azioncdn.net^
+||rum.corewebvitals.io^
 ||rum.ingress.layer0.co^
 ||rum.layer0.co^
 ||rum.perfops.net^
@@ -16973,7 +16974,6 @@
 ||bersondeanstevens.actonservice.com^
 ||bestbuy.actonservice.com^
 ||bestinfo.bluetrustloans.com^
-||beyondmeasure.rigoltech.com^
 ||bgiamericas.actonservice.com^
 ||bi.concordesolutions.com^
 ||bigcustomernetwork.actonservice.com^
