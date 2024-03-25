@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-25T12:32:22.501Z
+! Last modified: 2024-03-25T18:23:13.891Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -732,6 +732,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||metrics.freemake.com^
+||analytics.freemake.com^
 ||matomo.similarweb.io^
 ||taplytics-umami.grubhub.com
 ||s.wayfair.com^
@@ -42786,6 +42788,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||kr-col-ext.nelo.navercorp.com^
 ||events.funnelish.com^
 ||analytics.app.funnelish.com^
 ||analytics.starmakerstudios.com^

@@ -3178,6 +3178,8 @@ m.tokopedia.com#$#div[data-testid="divOverlay"] { display: none!important; }
 ! causes some issues: https://github.com/AdguardTeam/AdguardForMac/issues/550
 ~status.im,~lafenice.io,~kurer-sreda.ru,~chorki.com,~zattoo.com,~zaycev.net,~hitta.se,~mail.ru,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 !
+izumi.jp#$#html[data-smartbanner-original-margin-top="0"][style="margin-top: 84px;"] { margin-top: 0 !important; }
+izumi.jp#$##s_header[style="top: 84px;"] { top: 0 !important; }
 sports.yahoo.co.jp##.sn-modAppBanner
 limia.jp##.Button--appBannerLinkBorder
 trainman.in##.sticky-banner
@@ -3186,7 +3188,7 @@ pokebattler.com##a[title="Pokebattler Raid Party App"]
 cookpad.com##.ep5ivm0
 cookpad.com##.swiper-wrapper > .swiper-slide:has(> a[href^="https://itunes.apple.com/jp/app/id340368403?"])
 cookpad.com##footer > section:has(> div > div > a[href^="https://itunes.apple.com/jp/app/id340368403?"])
-baseball.yahoo.co.jp,sports.yahoo.co.jp##.sn-modAppCarousel
+soccer.yahoo.co.jp,baseball.yahoo.co.jp,sports.yahoo.co.jp##.sn-modAppCarousel
 m.vk.com##a[class^="OpenInAppPromoButton-"]
 clubd.co.jp###FixedBanner
 clubd.co.jp###footerBanner
@@ -3574,6 +3576,7 @@ openrec.tv##div[class*="AppBanner"]
 openrec.tv##[class*="AppSuggestionCardSection"]
 fpcafe.jp###bnrBott
 paypaymall.yahoo.co.jp###SAB
+page.auctions.yahoo.co.jp###sab
 lulucos-bys.jp##.m-banner-article-download-app
 7eleven.co.th##div[class^="tab-install__MContainer"]
 kurashiru.com##div[class="SpApp"][id="footer_app"]
