@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-26T06:24:41.714Z
+! Last modified: 2024-03-26T12:33:26.893Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -732,6 +732,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||smetrics.jcb.co.jp^
 ||metrics.freemake.com^
 ||analytics.freemake.com^
 ||matomo.similarweb.io^
@@ -20728,7 +20729,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||smetrics.jackson.com^
 ||smetrics.jared.com^
 ||smetrics.jboss.org^
-||smetrics.jcb.co.jp^
 ||smetrics.jcpenney.com^
 ||smetrics.jcrew.com^
 ||smetrics.jeld-wen.com^

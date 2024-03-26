@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-26T06:24:33.716Z
+! Last modified: 2024-03-26T12:33:18.910Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -469,6 +469,10 @@
 ||amidicestrins.com^
 ||hubgets.cn^
 ||rarmkce.cn^
+||destinyssa.com^
+||skdncksklsv.com^
+||batijian.com^
+||computel.cn^
 ||yyttmyy.cn^
 ||zagyjnn.cn^
 ||zailgrae.com^
