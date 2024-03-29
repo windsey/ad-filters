@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-28T18:22:53.287Z
+! Last modified: 2024-03-29T01:16:45.409Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -495,6 +495,10 @@
 ||stlpnom.xyz^
 ||ly55442.com^
 ||wsdwbfs.cn^
+||jedlnn.xyz^
+||xwvnhe.cn^
+||elphhrj.xyz^
+||esqhsm.xyz^
 ||zailgrae.com^
 ||zeqvqb.icu^
 ||zfzys.top^
