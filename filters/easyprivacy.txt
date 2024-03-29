@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-29T06:22:41.872Z
+! Last modified: 2024-03-29T12:34:00.638Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -352,7 +352,6 @@
 ||trkn.us^
 ||tru.am^
 ||truffle.bid^
-||trx-hub.com^
 ||tryzens-analytics.com^
 ||turboeagle.co^
 ||turbolion.io^
