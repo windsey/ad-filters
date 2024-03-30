@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-30T06:21:41.288Z
+! Last modified: 2024-03-30T12:30:04.013Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -527,6 +527,7 @@
 ||pseudonym.cn^
 ||utxmb.cn^
 ||lbyx.xyz^
+||dwbfqmz.cn^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
