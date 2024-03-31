@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-31T01:23:18.825Z
+! Last modified: 2024-03-31T06:22:20.326Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -535,6 +535,7 @@
 ||hnalzlu.top^
 ||pmtrkp.icu^
 ||hptyp.icu^
+||pressit.cn^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^

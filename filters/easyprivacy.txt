@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-31T01:23:19.755Z
+! Last modified: 2024-03-31T06:22:21.248Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2688,6 +2688,7 @@
 ||t.zulily.com^
 ||t2.hulu.com^
 ||tagger.ope.scmp.com^
+||tagging.steelseries.com^
 ||tags.aljazeera.com^
 ||tags.johnlewis.com^
 ||tags.stepstone.com^

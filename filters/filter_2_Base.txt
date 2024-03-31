@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-03-31T01:23:24.843Z
+! Last modified: 2024-03-31T06:22:26.307Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -41202,6 +41202,7 @@ rgmechanicsgames.com*VPN.exe
 ||adsales.snidigital.com^
 ||adserver-2084671375.us-east-1.elb.amazonaws.com^
 ||adserving.unibet.com^
+||adsinteractive-794b.kxcdn.com^
 ||adtechvideo.s3.amazonaws.com^
 ||advast.sibnet.ru^
 ||adx-exchange.toast.com^
