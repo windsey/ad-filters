@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-01T01:23:20.764Z
+! Last modified: 2024-04-01T06:24:03.725Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -544,6 +544,7 @@
 ||eluocs.xyz^
 ||fmssoj.icu^
 ||mpn56e.cn^
+||polepole.cn^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
