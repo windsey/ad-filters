@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 51vHhU/G92L+QQNm6820fQ
+! Checksum: TcFh0XyxykVPU8vnMsAcDA
 ! Title: Easylist Cookie List
-! Updated: 2024-04-02 00:15 UTC
+! Updated: 2024-04-02 05:15 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -19845,6 +19845,7 @@ dreamingreece.com##.cookie-consent-inner
 cameronhouse.co.uk,postimees.ee##.cookie-container
 ford.co.uk,news.northeastern.edu,theatlantic.com##.cookie-disclaimer
 tachyon.eco##.cookie-exp
+finom.co##.cookie-finom__container
 beautybay.com##.cookie-focus
 answerthepublic.com##.cookie-main
 british-assessment.co.uk##.cookie-management-intro
@@ -24846,7 +24847,7 @@ nipa.co.th###cookie-con-head
 settrade.com###pdpa-policy
 siamsport.co.th###popup-ss
 sanook.com##.Pdpa
-thailandpost.co.th##.becookies-outer-container
+pruksa.com,thailandpost.co.th##.becookies-outer-container
 vroom.truevirtualworld.com##.card-cookie
 thaiza.com##.ck-acpt-container
 dict.longdo.com##.consent-div
