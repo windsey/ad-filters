@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-02T06:23:24.806Z
+! Last modified: 2024-04-02T12:34:07.249Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -638,6 +638,7 @@
 ||jwhdgt.icu^
 ||npjvgug.xyz^
 ||szmyl.cn^
+||osusjsga.com^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^

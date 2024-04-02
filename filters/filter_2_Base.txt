@@ -1,10 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-02T06:23:28.661Z
+! Last modified: 2024-04-02T12:34:11.007Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
 
+||cryptoatom.care^
+||rokymedia.com^
 ||pregainpotgut.top^
 ||dedukicationan.info^
 ||munpracticalwh.info^
