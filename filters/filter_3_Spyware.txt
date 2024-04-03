@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-03T12:33:02.148Z
+! Last modified: 2024-04-03T18:22:28.678Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -735,6 +735,9 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||logging.h3z.jp^
+||cv-tracker.stanby.com^
+||cdn-channels-pixel.ex.co^
 ||t.iwara.tv^
 ||collector.xhofficial.com^
 ||logs-partners.coupang.com^
@@ -42595,6 +42598,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||sg.log.ulivetv.net^
 ||kr-col-ext.nelo.navercorp.com^
 ||events.funnelish.com^
 ||analytics.app.funnelish.com^
@@ -42628,7 +42632,6 @@ inapps.appsflyersdk.com^
 ||event-collector.moviesanywhere.com^
 ||us-east-1.paa-reporting-advertising.amazon^
 ||analytics.nianticlabs.com^
-||sg.log.ulivetv.net^
 ||tracker.ulivetv.net^
 ||trackernew.ulivetv.net^
 ||gamestats.easybrain.com^
