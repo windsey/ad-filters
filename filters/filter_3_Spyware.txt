@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-03T06:23:24.092Z
+! Last modified: 2024-04-03T12:33:02.148Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -735,6 +735,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||t.iwara.tv^
 ||collector.xhofficial.com^
 ||logs-partners.coupang.com^
 ||sioa.chewy.com^
@@ -42419,7 +42420,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wiz.empowerhearing.com^
 ||wiz.sncf-connect.com^
 ||wz.allianz.fr^
-
 ||mbox.wegmans.com^$badfilter
 ||tms.capitalone.com^$badfilter
 ||omns.americanexpress.com^$badfilter
