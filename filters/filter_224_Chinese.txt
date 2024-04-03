@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-03T01:16:40.759Z
+! Last modified: 2024-04-03T06:23:18.266Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -645,6 +645,7 @@
 ||nawpyd.icu^
 ||fqbjzj.xyz^
 ||zhnnaxe.xyz^
+||liebaovip.com^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
