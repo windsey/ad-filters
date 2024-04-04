@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-04T12:33:09.650Z
+! Last modified: 2024-04-04T18:23:11.599Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2224,6 +2224,7 @@
 ||alb.reddit.com^
 ||als-svc.nytimes.com^
 ||amethyst.zappos.com^
+||amplitude.chess.com^
 ||ampltd.medal.tv^
 ||ampltd.top.gg^
 ||ampltd2.medal.tv^
