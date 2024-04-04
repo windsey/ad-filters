@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-04T06:22:45.369Z
+! Last modified: 2024-04-04T12:33:08.708Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -575,6 +575,7 @@
 ||cbthkumwa96.shop^
 ||rdiono.cn^
 ||nmntgd.cn^
+||szpwg.cn^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
