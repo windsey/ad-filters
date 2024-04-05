@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-05T12:32:19.348Z
+! Last modified: 2024-04-05T18:22:48.269Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -5336,7 +5336,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||asp.taishokunext.com^
 ||aspa8.ozmall.co.jp^
 ||car-a8.tabirai.net^
-||cart.matsuzaka-steak.com^
 ||click.techtree.jp^
 ||clk.entry.surala.jp^
 ||clk.glam-print.com^
@@ -14867,8 +14866,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||data.descubre.interbank.pe^
 ||data.devbmg.bancobmg.com.br^
 ||data.devmail.northeast.aaa.com^
-||data.digital.costco.ca^
-||data.digital.costco.com^
 ||data.discover.ringcentral.com^
 ||data.dow.com^
 ||data.e.lotteryoffice.com.au^
@@ -15360,7 +15357,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||m.sm.princess.com^
 ||mantis.edge47.testandtarget.omniture.com^
 ||mbox.offermatica.com^
-||mbox.wegmans.com^
 ||mbox12.offermatica.com^
 ||mbox12e.offermatica.com^
 ||mbox3.offermatica.com^
@@ -19213,7 +19209,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||omniture.walmart.ca^
 ||omniture.walmart.com^
 ||omniture.yell.com^
-||omns.americanexpress.com^
 ||omns.crackle.com^
 ||omns.murdoch.edu.au^
 ||ompx.shopbop.com^
@@ -22407,7 +22402,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||data.decathlon.it^
 ||data.ouigo.com^
 ||data.ricaud.com^
-||data.ubi.com^
 ||logger.yp.ca^
 ||sales.disneylandparis.com^
 ||tag.boulanger.fr^
@@ -26629,7 +26623,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||tms.betwayarabia.com^
 ||tms.betwaysatta.com^
 ||tms.betwaysatta1.com^
-||tms.capitalone.com^
 ||tms.delta.com^
 ||tms.experian.com^
 ||tms.kone.com^
@@ -28923,7 +28916,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||data-60d896f23d.radio.es^
 ||data-60d896f23d.radio.fr^
 ||data-60d896f23d.radio.it^
-||data-60d896f23d.radio.net^
 ||data-60d896f23d.radio.pl^
 ||data-60d896f23d.radio.pt^
 ||data-60d896f23d.radio.se^
@@ -34165,6 +34157,7 @@ charlestownwyllie.oaklawnnonantum.com^
 ||images.entreprise.com-bpifrance.fr^
 ||images.excellence.americanregistry.com^
 ||images.experience.eneco.be^
+||images.explore.agilent.com^
 ||images.explore.behr.com^
 ||images.explore.editionhotels.com^
 ||images.fans.mlse.com^
@@ -36451,7 +36444,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||explore.epsilon.com^
 ||go.e.mailchimp.com^
 ||go.kareo.com^
-||go.oracle.com^
 ||go.petrelocation.com^
 ||go.securitymsp.cisco.com^
 ||go.shutterstock.com^
@@ -36617,7 +36609,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||elqtracking.hitachi-powergrids.com^
 ||elqtracking.hitachienergy.com^
 ||eqtrack.americashomeplace.com^
-||explore.agilent.com^
 ||explore.firstnet.com^
 ||fedexfield.redskins.com^
 ||fire.solutions.jci.com^
@@ -42428,18 +42419,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||wiz.empowerhearing.com^
 ||wiz.sncf-connect.com^
 ||wz.allianz.fr^
-
-||mbox.wegmans.com^$badfilter
-||tms.capitalone.com^$badfilter
-||omns.americanexpress.com^$badfilter
-||data.digital.costco.ca^$badfilter
-||data.digital.costco.com^$badfilter
-||explore.agilent.com^$badfilter
-||go.oracle.com^$badfilter
-||data.ubi.com^$badfilter
-||data-60d896f23d.radio.net^$badfilter
-||form.ict-toshiba.jp^$badfilter
-||cart.matsuzaka-steak.com^$badfilter
 -track-inview.
 directtrack.*.js
 -unbxdAnalytics.

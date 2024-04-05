@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-05T12:32:12.282Z
+! Last modified: 2024-04-05T18:22:41.123Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2664,7 +2664,6 @@
 ||stats2.mytuner.mobi^
 ||statsegg.cdngeek.com^
 ||streamstats.prd.dlive.tv^
-||svc.eu01.miro.com^
 ||szrpr.raen.com^
 ||t.9gag.com^
 ||t.airasia.com^
