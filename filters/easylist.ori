@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: I4AHXO83iOvkiVp7VqJfcg
-! Version: 202404041811
+! Checksum: lD53HPAJ2kJhlgnXGAJWXQ
+! Version: 202404050111
 ! Title: EasyList
-! Last modified: 04 Apr 2024 18:11 UTC
+! Last modified: 05 Apr 2024 01:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18288,6 +18288,7 @@ browsershots.org#@#.advert_area
 ||218emo1t.de^
 ||21hn4b64m.de^
 ||21sexturycash.com^
+||21wiz.com^
 ||22081b1c58.com^
 ||22256da88b.com^
 ||2295b1e0bd.com^
@@ -26648,8 +26649,8 @@ browsershots.org#@#.advert_area
 ||decemberaccordingly.com^
 ||decencyjessiebloom.com^
 ||decencysoothe.com^
-||decentpatent.com^
 ||decenthat.com^
+||decentpatent.com^
 ||decentpension.com^
 ||deceptionhastyejection.com^
 ||decibaraglare.com^
@@ -34216,6 +34217,7 @@ browsershots.org#@#.advert_area
 ||imglnke.com^
 ||imgot.info^
 ||imgot.site^
+||imgqmng.com^
 ||imgsdn.com^
 ||imgsniper.com^
 ||imgspics.com^
@@ -49257,6 +49259,7 @@ browsershots.org#@#.advert_area
 ||supervisionprohibit.com^
 ||supervisorabyss.com^
 ||superxxxfree.com^
+||supgedcowxkmzr.com^
 ||suphelper.com^
 ||supied.com^
 ||suppermalignant.com^
@@ -51313,6 +51316,7 @@ browsershots.org#@#.advert_area
 ||tzaqkp.com^
 ||tzaristdiploma.com^
 ||tzegilo.com^
+||tzgcwfvrf.com^
 ||tzgygfy.com^
 ||tzngtmzpvysh.com^
 ||tzrlfzwyicvj.com^
@@ -61841,7 +61845,9 @@ browsershots.org#@#.advert_area
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
 ||1187531871.rsc.cdn77.org^
+||1274355588.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
+||1472566097.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
@@ -67874,9 +67880,6 @@ goodmenproject.com##.gmp-instream-wrap
 givemesport.com##.gms-ad
 givemesport.com##.gms-billboard-container
 givemesport.com##.gms-sidebar-ad
-usatoday.com##.gnt_tb
-usatoday.com##.gnt_tbr
-usatoday.com##.gnt_x__lbl
 guides.gamepressure.com##.go20-pl-guide-right-baner-fix
 coinmarketcap.com##.goXFFk
 dallasinnovates.com,thecoastnews.com,watchesbysjx.com##.gofollow
@@ -68103,6 +68106,7 @@ dexerto.com##.inline-block
 freebeacon.com##.inline-campaign-wrapper
 stocksnap.io##.inline-carbon
 parkers.co.uk##.inline-leaderboard-ad-wrapper
+forbes.com##.inline__zephr
 pcgamesn.com,pockettactics.com##.inlinerail
 nzbindex.com##.inner
 technologynetworks.com##.inner_content_olp_on_site_landing_page
@@ -68430,6 +68434,7 @@ businessplus.ie##.mobile-mpu-widget
 forbes.com##.mobile-sticky-ed-placeholder
 pcmacstore.com##.mobileHide
 serverstoplist.com##.mobile_ad
+tipranks.com##.mobile_displaynone.flexccc
 thedailybeast.com##.mobiledoc-sizer
 criminaljusticedegreehub.com##.mobius-container
 etxt.biz##.mod-cabinet__sidebar-adv
@@ -70589,6 +70594,7 @@ meijer.com##.product-grid__product:has(.product-tile__sponsored)
 maxi.ca##.product-tile-group__list__item:has([data-track-products-array*="sponsored"])
 ksl.com##.queue:has(.sponsored)
 olx.com.pk##.react-swipeable-view-container:has([href*="http://onelink.to"])
+laravel-news.com##.relative:has([wire\:key="article-ad-card"])
 metager.org##.result:has(a[href^="https://metager.org"][href*="/partner/r?"])
 metager.org##.result:has(a[href^="https://r.search.yahoo.com/"])
 qwant.com##.result__ext > div:has([data-testid="adResult"])
