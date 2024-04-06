@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-06T01:15:23.957Z
+! Last modified: 2024-04-06T06:22:34.721Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -22104,6 +22104,7 @@ rgmechanicsgames.com*VPN.exe
 ||kmyunderthf.info^
 ||knackseafood.com^
 ||knaplpdmbrbi.com^
+||knappedmurshid.com^
 ||knaveavo.guru^
 ||knawelgrx.com^
 ||kncecafvdeu.info^
@@ -41268,6 +41269,7 @@ rgmechanicsgames.com*VPN.exe
 ||pics.firstload.de^
 ||popmog.com^
 ||promos.fling.com^
+||proto2ad.durasite.net^
 ||pubfeed.linkby.com^
 ||qsearch-a.akamaihd.net^
 ||random-affiliate.atimaze.com^

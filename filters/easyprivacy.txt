@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-06T01:15:18.869Z
+! Last modified: 2024-04-06T06:22:29.602Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2622,6 +2622,7 @@
 ||servo-report.dvdfab.
 ||shopmetric.rediff.com^
 ||sid.nordstrom.com^
+||sjc.cloud.optable.co^
 ||slipstream.skyscanner.net^
 ||smetrics.couponcabin.com^
 ||smetrics.ralphlauren.com^
