@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-06T18:21:19.901Z
+! Last modified: 2024-04-07T01:23:20.787Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -1649,6 +1649,7 @@
 ||daq0d0aotgq0f.cloudfront.net^
 ||dc8na2hxrj29i.cloudfront.net^
 ||dc8xl0ndzn2cb.cloudfront.net^
+||dcv4p460uqa46.cloudfront.net^
 ||dd6zx4ibq538k.cloudfront.net^
 ||dggaenaawxe8z.cloudfront.net^
 ||dh0c1bz67fuho.cloudfront.net^
@@ -37319,10 +37320,13 @@
 ||hits.antena3.com^
 ||horizon-track.globo.com^
 ||matt.mercadolibre.
+||mega.promodescuentos.com^
+||ocular.promodescuentos.com^
 ||pixel.europapress.net^
 ||px-intl.ucweb.com^
 ||realtime.bbcl.cl^
 ||rvv.emol.com^
+||sst.cooperativa.cl^
 ||statsmp2.emol.com^
 ||t-pan.triodos.com^
 ||unm.emol.com^
