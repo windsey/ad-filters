@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-07T01:23:25.861Z
+! Last modified: 2024-04-07T06:21:32.943Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -42254,7 +42254,6 @@ rgmechanicsgames.com*VPN.exe
 ||1337x.vpnonly.site^
 ||ad.animehub.ac^
 ||ad.imp.joins.com^
-||ad.itweb.co.za^
 ||ad.khan.co.kr^
 ||ad.kimcartoon.si^
 ||ad.kissanime.co^
