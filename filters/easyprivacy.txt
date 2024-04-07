@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-07T06:21:27.804Z
+! Last modified: 2024-04-07T12:30:39.290Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -2353,6 +2353,7 @@
 ||cwt.citywire.info^
 ||d.skk.moe^
 ||d401.dollartree.com^
+||d712.theinformation.com^
 ||dabu.askmediagroup.com^
 ||data.allstate.com^
 ||data.guide.photobucket.com^
