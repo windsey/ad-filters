@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-08T12:33:37.125Z
+! Last modified: 2024-04-08T18:26:08.398Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1072,7 +1072,6 @@
 ||wlog.ifdo.co.kr^
 ||analytics.adultempire.com^
 ||collector.cakeresume.com^
-||astral.nicovideo.jp^
 ||eq-player-log.cdnext.stream.ne.jp^
 ||eq-beacon.stream.co.jp^
 ||s.deepl.com^
