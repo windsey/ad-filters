@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-08T06:24:25.569Z
+! Last modified: 2024-04-08T12:33:28.964Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.23
+! Compiled by @adguard/hostlist-compiler v1.0.24
 !
 -1316632262.cos.
 -1316899192.cos.
@@ -617,6 +617,9 @@
 ||qnalzly.top^
 ||mldzwmt.xyz^
 ||guwohvw.icu^
+||1f84e33459.com^
+||vwyycnq.cn^
+||mmo2350.top^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^

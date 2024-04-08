@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-08T06:24:26.518Z
+! Last modified: 2024-04-08T12:33:29.924Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.23
+! Compiled by @adguard/hostlist-compiler v1.0.24
 !
 -click-tracker.
 -didomi.js
