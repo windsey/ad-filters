@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-09T06:23:50.294Z
+! Last modified: 2024-04-09T12:33:59.632Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -37160,6 +37160,7 @@
 ||analyzer.fc2.com^
 ||analyzer2.fc2.com^
 ||astat.nikkei.com^
+||astral.nicovideo.jp^
 ||bc.nhk.jp^
 ||beacon.watch.impress.co.jp^
 ||beat.yourtv.jp^

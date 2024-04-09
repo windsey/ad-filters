@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-09T06:23:49.369Z
+! Last modified: 2024-04-09T12:33:58.697Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -627,6 +627,8 @@
 ||kpmose.xyz^
 ||ievvo.xyz^
 ||rlxhbff.cn^
+||aoakss.com^
+||yddrqwq.xyz^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
