@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-10T06:24:40.193Z
+! Last modified: 2024-04-10T12:33:22.159Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -132,7 +132,6 @@
 ||analytics.gtflixtv.com^
 ||colossusssp.com^
 ||collect-v*.51.la^
-||cmp.datasign.co^
 ||ip.momentummedia.com.au^
 ||dna8twue3dlxq.cloudfront.net^
 ||public.profitwell.com^
@@ -738,6 +737,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||metrics.baitoru.com^
 ||log.dpa.com^
 ||metrics.thefeed.com^
 ||gtm.thefeed.com^
@@ -18330,7 +18330,6 @@ charlestownwyllie.oaklawnnonantum.com^
 ||metrics.aviationweek.com^
 ||metrics.axs.com^
 ||metrics.babynes.ch^
-||metrics.baitoru.com^
 ||metrics.bananarepublic.eu^
 ||metrics.bancobmg.com.br^
 ||metrics.bankatfirst.com^

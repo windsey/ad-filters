@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-10T06:24:33.088Z
+! Last modified: 2024-04-10T12:33:15.019Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -322,6 +322,7 @@
 ||speedyfox.io^
 ||speedyrhino.co^
 ||spinnaker-js.com^
+||srmdata-eur.com^
 ||stack-sonar.com^
 ||stat.ovh^
 ||statisticplatform.com^
@@ -696,7 +697,6 @@
 ||clouderrorreporting.googleapis.com^
 ||cloudfront-labs.amazonaws.com^
 ||cltgtstor001.blob.core.windows.net^
-||cmp.datasign.co^
 ||cnt.3dmy.net^
 ||cnt.mastorage.net^
 ||cnt.trvdp.com^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-10T06:24:33.425Z
+! Last modified: 2024-04-10T12:33:15.369Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30,6 +30,7 @@
 ||cc.anytrack.de^
 ||ccpa-script.psg.nexstardigital.net^
 ||ccpa.sp-prod.net^
+||cmp.datasign.co^
 ||cmp.gemius.com^
 ||cmp.setupcmp.com^
 ||cmp.sibbo.net^
