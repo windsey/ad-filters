@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-09T18:20:13.371Z
+! Last modified: 2024-04-10T01:16:51.466Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -269,6 +269,7 @@
 ||openfpcdn.io^
 ||oppuz.com^
 ||opti-digital.com^
+||opticksprotection.com^
 ||optistats.ovh^
 ||ostrichesica.com^
 ||p2r14.com^
@@ -673,6 +674,7 @@
 ||capture-api.ap3prod.com^
 ||capture.condenastdigital.com^
 ||caspionlog.appspot.com^
+||castify-trk.playitviral.com^
 ||cc.swiftype.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||cdn-channels-pixel.ex.co^
@@ -1492,6 +1494,7 @@
 ||triggers.wfxtriggers.com^
 ||triplewhale-pixel.web.app^
 ||trk.clinch.co^
+||trk.playitviral.com^
 ||trk.storyly.io^
 ||trk.techtarget.com^
 ||trk2-wtb.swaven.com^
@@ -2504,6 +2507,7 @@
 ||loglady.kiwi.com^
 ||logs.hotstar.com^
 ||logs.naukri.com^
+||logs.netflix.com^
 ||logx.optimizely.com^
 ||ma.redhat.com^
 ||marketing.alibaba.com^
@@ -2569,6 +2573,7 @@
 ||pixel.tuko.co.ke^
 ||pixelzirkus.gameforge.com^
 ||pixiedust.buzzfeed.com^
+||pl.letsblock.it^
 ||plausible.bots.gg^
 ||plausible.dragonfru.it^
 ||plausible.omgapi.org^
