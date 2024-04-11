@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-11T12:33:50.646Z
+! Last modified: 2024-04-11T18:22:20.336Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1069,7 +1069,6 @@
 ||cdn.smlog.co.kr^
 ||collector-statistics.nhn-commerce.com^
 ||insight.danawa.com^
-||las.danawa.com^
 ||wlog.ifdo.co.kr^
 ||analytics.adultempire.com^
 ||collector.cakeresume.com^
@@ -1291,7 +1290,6 @@
 ||clarice.streema.com^
 ||mstm.motorsport.com^
 ||a.thelocal.com^
-||pclog.i4.cn^
 ||sdata.wiley.com^
 ||olaplog.smartmediarep.com^
 ||gateway.cloud.sbs.co.kr^
@@ -1551,7 +1549,6 @@
 ||analytics.tver.jp^
 ||analytics.upworthy.com^
 ||analytics.us.archive.org^
-||analytics.vadio.com^
 ||analytics.vedantu.com^
 ||analytics.webgains.io^
 ||analytics.wondershare.cc^
@@ -1589,7 +1586,6 @@
 ||asumi.shinobi.jp^
 ||atax.teamxbox.com^
 ||atlas1.krone.at^
-||atm.youku.com^
 ||ats.otto.de^
 ||audience.visiblemeasures.com^
 ||awsync.yandex.ru^
@@ -1640,7 +1636,6 @@
 ||c.hit.ua^
 ||c.imrk.net^
 ||c.ipaddress.com^
-||c.microsoft.com^
 ||c.msn.com^
 ||c.pravo.ru^
 ||c.sibnet.ru^
@@ -1729,13 +1724,11 @@
 ||conf.international.baidu.com^
 ||cookie.fuel451.com^
 ||count.channeladvisor.com^
-||count.livetv.ru^
 ||count.munhwa.com^
 ||count.rin.ru^
 ||count.rtl.de^
 ||counter.1gb.ru^
 ||counter.24log.es^
-||counter.adguard.com^
 ||counter.ajansspor.com^
 ||counter.all.biz^
 ||counter.entertainmentwise.com^
@@ -1900,7 +1893,6 @@
 ||epiv.cardlytics.com^
 ||er.mmi.bemobile.ua^
 ||er.search.naver.com^
-||err.rambler.ru^
 ||estat.zum.com^
 ||et.nytimes.com^
 ||eum*.instana.io^
@@ -1963,7 +1955,6 @@
 ||geo.homepage-web.com^
 ||geo.mattel163.com^
 ||geo.metronews.ca^
-||geo.mozilla.org^
 ||geo.xcel.io^
 ||geo.yahoo.com^
 ||geobeacon.ign.com^
@@ -1983,7 +1974,6 @@
 ||geoip.silive.com^
 ||geoip.syracuse.com^
 ||geoip.viamichelin.com^
-||geoiplookup.wikimedia.org^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||geoloc*.geo20120530.com^
 ||geoloc*.geostats.ovh^
@@ -2054,7 +2044,6 @@
 ||js-agent.newrelic.com^
 ||js.stroeermediabrands.de^
 ||jtp.expressen.se^
-||jtrackern.joins.com^
 ||kctag.net^
 ||klik.nrc.nl^
 ||kooappslogs.com^
@@ -2142,7 +2131,6 @@
 ||logger-*.dailymotion.com^
 ||logger.applovefrom.com^
 ||logger.bzu.kr^
-||logger.cbs.co.kr^
 ||logger.goeuro.com^
 ||logger.nerdwallet.com^
 ||logger.snackly.co^
@@ -2358,7 +2346,6 @@
 ||production-mcs.lvp.llnw.net^
 ||prudsys-rde.de^
 ||prx.wayfair.com^
-||put.qostore.daumkakao.io^
 ||pv.hd.sohu.com^
 ||pv.sohu.com^
 ||pvtag.yahoo.co.jp^
@@ -2376,7 +2363,6 @@
 ||r.movad.de^
 ||alt-r.my.com^
 ||r.my.com^
-||r.razer.com^
 ||r.rbc.ru^
 ||rake.11st.co.kr^
 ||ramp.purch.com^
@@ -2555,7 +2541,6 @@
 ||startrekk.flaconi.de^
 ||stat.4u.pl^
 ||stat.5-tv.ru^
-||stat.adguard.com^
 ||stat.adultium.com^
 ||stat.alibaba.com^
 ||stat.alloha.tv^
@@ -2579,7 +2564,6 @@
 ||stat.thestartmagazine.com^
 ||stat.tvigle.ru^
 ||stat.videonow.ru^
-||stat.youku.com^
 ||stat*.1internet.tv^
 ||stat24.meta.ua^
 ||statetc.nate.com^
@@ -2607,7 +2591,6 @@
 ||stats.christianpost.com^
 ||stats.clear-media.com^
 ||stats.dnaindia.com^
-||stats.ebay.com^
 ||stats.firedrive.com^
 ||stats.g.doubleclick.net^
 ||stats.harpercollins.com^
@@ -2624,7 +2607,6 @@
 ||stats.opoloo.de^
 ||stats.otempo.com.br^
 ||stats.pandora.com^
-||stats.paypal.com^
 ||stats.persgroep.be^
 ||stats.persgroep.nl^
 ||stats.piaggio.com^

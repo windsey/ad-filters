@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-11T12:33:44.677Z
+! Last modified: 2024-04-11T18:22:14.377Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -174,6 +174,7 @@
 ||bmnbyn.icu^
 ||bmret.cn^
 ||bnifdlav.top^
+||bnlbecm.xyz^
 ||brixel.cn^
 ||btfzbak.xyz^
 ||btsgroup.cn^
@@ -387,6 +388,7 @@
 ||kksjsa.top^
 ||knalzld.top^
 ||knifdlad.top^
+||koqjok.xyz^
 ||kpmose.xyz^
 ||kssolo.com^
 ||ktoioo.xyz^
@@ -400,9 +402,11 @@
 ||lcefsf.icu^
 ||ldgjwdohqbi.xyz^
 ||lenvvb.xyz^
+||lesasfp.icu^
 ||lewiooz.cn^
 ||lfffzv.xyz^
 ||lfhdryz.xyz^
+||lfrfzr.xyz^
 ||lgtpdt.xyz^
 ||liebaovip.com^
 ||lkpxzt.xyz^
@@ -468,9 +472,11 @@
 ||ok8867s.com^
 ||okwkaa.xyz^
 ||onagsc.xyz^
+||onalzlk.top^
 ||onifdlak.top^
 ||oojjsa.com^
 ||oppnfev.xyz^
+||osafsr.xyz^
 ||osisk.com^
 ||ostjpig.cn^
 ||osusjsga.com^
@@ -618,6 +624,7 @@
 ||udykkl.cn^
 ||uigxgg.xyz^
 ||uiqcf.cn^
+||ujovcb.cn^
 ||uljoifw.cn^
 ||ulwfys.xyz^
 ||unalzlt.top^
@@ -681,6 +688,7 @@
 ||xklrsj.icu^
 ||xkrnud.icu^
 ||xliffnsc.xyz^
+||xmnkgi.cn^
 ||xn--wgvp78a61swpe6zdozj.cn^
 ||xnpuw.cn^
 ||xrdqdd.xyz^
@@ -724,15 +732,7 @@
 ||znhlxvb.xyz^
 ||zojyob.icu^
 ||zopuqv.icu^
-||ujovcb.cn^
-||xmnkgi.cn^
 ||zsjpi.cn^
-||lesasfp.icu^
-||koqjok.xyz^
-||bnlbecm.xyz^
-||lfrfzr.xyz^
-||onalzlk.top^
-||osafsr.xyz^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
 ||zuvbzl.xyz^
@@ -1574,6 +1574,7 @@
 ||dfjd.xyz^
 ||dfninp.xyz^
 ||dfxvkgz.xyz^
+||dgaxrjj0jwpwp.cloudfront.net^
 ||dgayibf.icu^
 ||dgfqqq.com^
 ||dghhot.com^
