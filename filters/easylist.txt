@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-11T06:23:44.967Z
+! Last modified: 2024-04-11T12:33:42.054Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -35686,6 +35686,7 @@
 ||weestuch.com^
 ||weethery.com^
 ||weewowshrinky.com^
+||wefoonsaidoo.com^
 ||weftsgeogeny.com^
 ||wegastroky.com^
 ||wegeeraitsou.xyz^
