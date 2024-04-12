@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-12T12:33:10.009Z
+! Last modified: 2024-04-12T18:18:55.164Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -42785,7 +42785,6 @@ dlsdk.appsflyersdk.com^
 ||banner.appsflyer.com^
 ||cdn-settings.appsflyersdk.com^
 ||cdnappicons.appsflyer.com^
-||conversions.appsflyer.com^
 ||dls2s.appsflyer.com^
 dlsdk.appsflyer.com^
 ||events.appsflyer.com^
@@ -43170,6 +43169,7 @@ inapps.appsflyersdk.com^
 ||telemetry.voxeet.com^
 ||usertrack.appcpi.net^
 ||api*.amplitude.com^
+||conversions.appsflyer.com^
 ||collect.serious.li^
 ||analytics.jodelapis.com^
 ||analytics.mobilegamestats.com^
