@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-12T06:23:58.079Z
+! Last modified: 2024-04-12T12:33:04.071Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -733,6 +733,8 @@
 ||tptgvh.xyz^
 ||lnalzll.top^
 ||waouss.xyz^
+||xamssp.icu^
+||szmwr.cn^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
