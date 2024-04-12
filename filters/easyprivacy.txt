@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-11T18:22:13.079Z
+! Last modified: 2024-04-12T01:18:02.007Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -767,6 +767,7 @@
 ||csi.gstatic.com^
 ||csp-collector.appspot.com^
 ||csp-reporting.cloudflare.com^
+||csp.secureserver.net^
 ||csr.onet.pl^
 ||ct.capterra.com^
 ||ct.corpusapp.com^
@@ -842,6 +843,7 @@
 ||eventlog.chatlead.com^
 ||eventlog.inspsearchapi.com^
 ||events.air.tv^
+||events.api.secureserver.net^
 ||events.attentivemobile.com^
 ||events.audiate.me^
 ||events.brightline.tv^
@@ -2711,6 +2713,7 @@
 ||target.nejm.org^
 ||targeting.washpost.nile.works^
 ||tc.geniusmonkey.com^
+||tccd.douglas.
 ||td.airdroid.com^
 ||ted.dailymail.co.uk^
 ||telegraph.prd.api.max.com^
