@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-12T18:18:48.038Z
+! Last modified: 2024-04-13T01:04:18.669Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2494,6 +2494,7 @@
 ||librato-collector.genius.com^
 ||link.kogan.com^
 ||lists.ccmbg.com^
+||lms.roblox.com^
 ||log-gateway.zoom.us^
 ||log.china.cn^
 ||log.genyt.net^
