@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-14T00:50:08.279Z
+! Last modified: 2024-04-14T07:57:19.183Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -71,6 +71,7 @@
 ||blueoyster.click^
 ||bonne-terre-data-layer.com^
 ||boomtrain.com^
+||botsrv2.com^
 ||bounceexchange.com^
 ||bqstreamer.com^
 ||bringmethehats.com^
@@ -2394,6 +2395,7 @@
 ||eproof.drudgereport.com^
 ||error-collector.ted.com^
 ||errorreports.couponcabin.com^
+||espy.boehs.org^
 ||et.nytimes.com^
 ||et.tidal.com^
 ||etui.fs.ml.com^
@@ -2472,6 +2474,7 @@
 ||iedc.fitbit.com^
 ||iguazu.doordash.com^
 ||ih.newegg.com^
+||improve.tempest.com^
 ||indmetric.rediff.com^
 ||ingest.make.rvohealth.com^
 ||ingress.linktr.ee^
@@ -2741,6 +2744,7 @@
 ||tr.www.cloudflare.com^
 ||track-visit.monday.com^
 ||track.americansongwriter.com^
+||track.bestpornsites.tv^
 ||track.dictionary.com^
 ||track.eurogirlsescort.com^
 ||track.kueez.com^
@@ -37580,6 +37584,7 @@
 ||compare.easyviajar.com^
 ||estadisticas.lanacion.com.ar^
 ||estadonline.publiguias.cl^
+||fnvma.milanuncios.com^
 ||g.siliconweek.es^
 ||geo.emol.cl^
 ||hits.antena3.com^
