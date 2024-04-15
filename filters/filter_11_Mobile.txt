@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-15T06:22:24.771Z
+! Last modified: 2024-04-15T12:32:21.948Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -91,7 +91,6 @@
 ||static.timetreeads.com^
 ||kfvjdvjzhddhc.com^
 ||zgzxs.weathercn.com^
-||cdn-ads.tmap.co.kr^
 ||downloadshi.b-cdn.net^
 ||ads.rmbl.ws^
 ||adsassets-ipv6.waze.com^
