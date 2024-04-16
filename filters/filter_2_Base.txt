@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-16T06:23:39.116Z
+! Last modified: 2024-04-16T12:34:12.791Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
 
+||yhjhjwy.com^
 ||ganchedagrapha.com^
 ||huigt6y.xyz^
 ||kjffqbnug.com^
@@ -3862,8 +3863,6 @@ rgmechanicsgames.com*VPN.exe
 -sidebar-ad.
 -sponsor-ad.
 -sticky-ad-
--strip-ads-
--takeover-ad-
 -top-ads.
 -web-advert-
 -Web-Advert.
@@ -7586,6 +7585,7 @@ rgmechanicsgames.com*VPN.exe
 ||aviewrodlet.com^
 ||avinekernish.digital^
 ||avjbjbeeraebj.top^
+||avjbjbeeramzv.top^
 ||avkktuywj.xyz^
 ||avkyu1tesnwy.com^
 ||avnmjtqu.com^
@@ -12401,6 +12401,7 @@ rgmechanicsgames.com*VPN.exe
 ||daero.pw^
 ||daethana.pw^
 ||daffaite.com^
+||daffyfleecy.top^
 ||daggapartley.life^
 ||daggerwantedliterally.com^
 ||daiboit.com^
@@ -13205,6 +13206,7 @@ rgmechanicsgames.com*VPN.exe
 ||dilatesdubbers.com^
 ||diligentrefrigerator.pro^
 ||dilip-xko.com^
+||dillselias.top^
 ||dilrouthoab.com^
 ||dilruwha.net^
 ||dilutegulpedshirt.com^
@@ -18558,6 +18560,7 @@ rgmechanicsgames.com*VPN.exe
 ||grooksom.com^
 ||groomoub.com^
 ||groomtoo.com^
+||groomysirups.top^
 ||groorsoa.net^
 ||grooseem.net^
 ||groosoum.xyz^
@@ -22439,6 +22442,7 @@ rgmechanicsgames.com*VPN.exe
 ||khuanynodefado.com^
 ||khvphqpsl.com^
 ||kiaughsviner.com^
+||kibnannaewyl.com^
 ||kicationandas.info^
 ||kichelcozier.top^
 ||kickchecking.com^
@@ -27901,6 +27905,7 @@ rgmechanicsgames.com*VPN.exe
 ||oorbfdycj.com^
 ||oordeevum.com^
 ||ooredi.com^
+||oorsooga.com^
 ||oosonechead.org^
 ||oossautsid.com^
 ||oosthvayk.com^
@@ -32831,6 +32836,7 @@ rgmechanicsgames.com*VPN.exe
 ||rollobscurewoke.com^
 ||rollserver.xyz^
 ||rolltrafficroll.com^
+||rolsoupouh.xyz^
 ||rolzqwm.com^
 ||romance-net.com^
 ||romancemind.com^
@@ -39554,6 +39560,7 @@ rgmechanicsgames.com*VPN.exe
 ||vocalreverencepester.com^
 ||vocath.com^
 ||vodjnqarncm.com^
+||vodlpsf.com^
 ||vodobyve.pro^
 ||vodsourg.net^
 ||vohqpgsdn.xyz^
@@ -39655,6 +39662,7 @@ rgmechanicsgames.com*VPN.exe
 ||vrhgfvztgmcl.com^
 ||vrhorus.com^
 ||vriddhiejidal.com^
+||vrime.xyz^
 ||vroaafoi.com^
 ||vrplynsfcr.xyz^
 ||vrquqhnikhcnixn.com^
@@ -40607,6 +40615,7 @@ rgmechanicsgames.com*VPN.exe
 ||wmkyrbx.com^
 ||wmlbjana.com^
 ||wmlfyerssqlipx.com^
+||wmnnjfe.com^
 ||wmober.com^
 ||wmpset.com^
 ||wmptcd.com^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-16T06:23:35.225Z
+! Last modified: 2024-04-16T12:34:08.891Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -767,6 +767,7 @@
 ||orbnarb.xyz^
 ||baucraell.com^
 ||xzrhvv.xyz^
+||szpbh.cn^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^

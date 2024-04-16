@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-16T06:23:33.971Z
+! Last modified: 2024-04-16T12:34:07.615Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -541,6 +541,7 @@
 ||analytics.live.com^
 ||analytics.livestream.com^
 ||analytics.logsss.com^
+||analytics.lunaweb.cloud^
 ||analytics.m7g.twitch.tv^
 ||analytics.maikel.pro^
 ||analytics.mailmunch.co^
@@ -2309,6 +2310,7 @@
 ||boomerang.dell.com^
 ||c.arstechnica.com^
 ||c.fingerprint.com^
+||c.gq.com^
 ||c.newyorker.com^
 ||c.thredup.com^
 ||c.vogue.com^
@@ -2603,6 +2605,7 @@
 ||px.srvcs.tumblr.com^
 ||pxl.indeed.com^
 ||qc.arstechnica.com^
+||qc.gq.com^
 ||qc.newyorker.com^
 ||qc.vogue.com^
 ||qc.wired.com^
@@ -37232,7 +37235,6 @@
 ||4399stat.5054399.com^
 ||a.itsmore.cn^
 ||ac.dun.163.com^
-||ac.dun.163yun.com^
 ||accwww9.53kf.com^
 ||adstats.tencentmusic.com^
 ||al.autohome.com.cn^
