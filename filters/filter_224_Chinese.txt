@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-15T18:22:35.460Z
+! Last modified: 2024-04-16T01:17:29.331Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -760,6 +760,12 @@
 ||zfzys.top^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
+||hspdiom.cn^
+||sjgsgy.xyz^
+||cfugrnc.icu^
+||jdbeht.xyz^
+||orbnarb.xyz^
+||baucraell.com^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
