@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-16T12:34:07.615Z
+! Last modified: 2024-04-16T18:20:51.867Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -71,7 +71,6 @@
 ||blueoyster.click^
 ||bonne-terre-data-layer.com^
 ||boomtrain.com^
-||botsrv2.com^
 ||bounceexchange.com^
 ||bqstreamer.com^
 ||bringmethehats.com^
