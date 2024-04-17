@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-17T01:18:00.950Z
+! Last modified: 2024-04-17T06:26:08.875Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -5276,6 +5276,7 @@ rgmechanicsgames.com*VPN.exe
 ||adbutler-fermion.com^
 ||adbutler.com^
 ||adbuyer.com^
+||adc-teasers.com^
 ||adcannyxml.com^
 ||adcash.com^
 ||adcastplus.net^
@@ -26724,6 +26725,7 @@ rgmechanicsgames.com*VPN.exe
 ||nnmtjmkae.xyz^
 ||nnncrox.com^
 ||nnnfqegwes.xyz^
+||nnowa.com^
 ||nnoyigqsvjud.com^
 ||nnsnniklov.xyz^
 ||nnthewdnez.com^
