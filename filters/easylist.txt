@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-17T06:26:02.387Z
+! Last modified: 2024-04-17T12:33:56.738Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -5052,6 +5052,7 @@
 ||blatwalm.com^
 ||blaze-media.com^
 ||blazesomeplacespecification.com^
+||blazonstowel.com^
 ||blbazybajjevv.top^
 ||blbazybajvzvw.top^
 ||blbesnuff.digital^
@@ -30170,6 +30171,7 @@
 ||sentimentalclient.pro^
 ||sentimenthypocrisy.com^
 ||sentimentsvarious.com^
+||sentinelp.com^
 ||seo-overview.com^
 ||separashparyro.info^
 ||separatecolonist.com^
