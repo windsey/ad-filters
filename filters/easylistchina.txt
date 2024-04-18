@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-18T01:17:29.912Z
+! Last modified: 2024-04-18T06:24:32.238Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -5037,6 +5037,7 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||bm.h576.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
