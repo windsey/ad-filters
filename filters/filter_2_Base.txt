@@ -1,10 +1,13 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-18T12:33:20.770Z
+! Last modified: 2024-04-18T18:23:17.852Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
-
+||antoiew.com^
+||r-q-e.com^
+||adx1js.s3.amazonaws.com^
+||lkhfkjp.com^
 ||aickeebsi.com^
 ||hstbbmtyptovqmw.com^
 ||vmimbrygee.com^
@@ -13541,6 +13544,7 @@ rgmechanicsgames.com*VPN.exe
 ||djldrhxb.com^
 ||djmaza.in^
 ||djmwwdrznntss.com^
+||djmwxpsijxxo.xyz^
 ||djphnuhkbjf.com^
 ||djqacscl.com^
 ||djqitgfjfu.com^
@@ -16758,6 +16762,7 @@ rgmechanicsgames.com*VPN.exe
 ||foodme.info^
 ||foodowingweapon.com^
 ||foogpdywvrswrxl.com^
+||foojeshoops.xyz^
 ||foojimie.net^
 ||foolerybonded.com^
 ||foolish-devil.pro^
@@ -19724,6 +19729,7 @@ rgmechanicsgames.com*VPN.exe
 ||hoodoosdonsky.com^
 ||hoodypledget.top^
 ||hoofexcessively.com^
+||hoofsduke.com^
 ||hoogajee.net^
 ||hooglidi.net^
 ||hoojique.xyz^
@@ -27036,6 +27042,7 @@ rgmechanicsgames.com*VPN.exe
 ||nskwqto.com^
 ||nslokxweviwqbg.com^
 ||nsmartad.com^
+||nsmpydfe.net^
 ||nsoimtgmnnbvi.com^
 ||nspmotion.com^
 ||nspot.co^
