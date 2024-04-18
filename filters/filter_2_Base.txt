@@ -1,10 +1,17 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-17T18:24:11.572Z
+! Last modified: 2024-04-18T01:17:36.023Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
 
+||aickeebsi.com^
+||hstbbmtyptovqmw.com^
+||vmimbrygee.com^
+||auajifblipz.com^
+||profitsence.com^
+||veuuulalu.xyz^
+||ndqxdgnungzfx.com^
 ||guvwolr.com^
 ||rbltedbpjshxb.com^
 ||cirsoaksat.net^
@@ -369,7 +376,6 @@
 ||adtech-prod.nikecloud.com^
 ||newrevive.detik.com^
 ||cdn.aanetwork.vn^
-||res.adx.opera.com^
 ||prebid-*.rubiconproject.com^
 ||d25m254rjp3rii.cloudfront.net^
 ||buyer.dspx.tv^
@@ -6959,6 +6965,7 @@ rgmechanicsgames.com*VPN.exe
 ||apxlv.com^
 ||apyrenealiyos.digital^
 ||apytbfdzy.com^
+||apzawhajrrci.com^
 ||aq7ua5ma85rddeinve.com^
 ||aqbusmueljfy.com^
 ||aqcutwom.xyz^
@@ -14545,6 +14552,7 @@ rgmechanicsgames.com*VPN.exe
 ||eegamaub.net^
 ||eegeeglou.com^
 ||eeghadse.com^
+||eeghooptauy.net^
 ||eeglauftoo.com^
 ||eegnacou.com^
 ||eegookiz.com^
@@ -16026,6 +16034,7 @@ rgmechanicsgames.com*VPN.exe
 ||fbxyuleyktun.com^
 ||fc0a58af2e.com^
 ||fc7c8be451.com^
+||fc861ba414.com^
 ||fc9115d2c7.com^
 ||fcaijpwzvj.com^
 ||fccinteractive.com^
@@ -27008,6 +27017,7 @@ rgmechanicsgames.com*VPN.exe
 ||nrnma.com^
 ||nrqppdgnhaagjq.com^
 ||nrrdxyauavkdrc.com^
+||nrunmoldy.com^
 ||nrvbadypy.com^
 ||nryanocytqc.com^
 ||nryceuula.com^
@@ -37497,6 +37507,7 @@ rgmechanicsgames.com*VPN.exe
 ||tracker-tds2.site^
 ||tracker19875.space^
 ||tracker2.space^
+||trackerrr.com^
 ||trackeverything.co^
 ||trackingmembers.com^
 ||trackingrouter.com^
@@ -41490,6 +41501,7 @@ rgmechanicsgames.com*VPN.exe
 ||ybmebpsmpwueo.com^
 ||ybriifs.com^
 ||ybs2ffs7v.com^
+||ybtkzjm.com^
 ||ybuduzpe.com^
 ||ybujfcuqya.com^
 ||ybwcvhcnulrgbvy.com^
@@ -42516,6 +42528,7 @@ rgmechanicsgames.com*VPN.exe
 ||adtechvideo.s3.amazonaws.com^
 ||advast.sibnet.ru^
 ||adx-exchange.toast.com^
+||adx.opera.com^
 ||aff.bstatic.com^
 ||affiliate.heureka.cz^
 ||affiliate.juno.co.uk^
