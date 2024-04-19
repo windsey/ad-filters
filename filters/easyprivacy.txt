@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-19T01:18:49.136Z
+! Last modified: 2024-04-19T06:24:15.883Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1809,6 +1809,7 @@
 ||tim.nextinpact.com^
 ||track.kyoads.com^
 ||track.myli.io^
+||tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com^
 ||tracking.ecookie.fr^
 ||tracking.kdata.fr^
 ||tracking.lqm.io^
