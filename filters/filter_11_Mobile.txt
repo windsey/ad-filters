@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-19T06:24:16.512Z
+! Last modified: 2024-04-19T12:33:20.474Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -85,6 +85,8 @@
 ||startup.mobile.yandex.net^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
+||splash-ad.classting.com^
+||ad-files.classting.com^
 ||v16-ad.byteoversea.com^
 ||vs-api.voodoo-tech.io^
 ||psvpromo.psvgamestudio.com^

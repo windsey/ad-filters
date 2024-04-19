@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-19T06:24:17.159Z
+! Last modified: 2024-04-19T12:33:21.115Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -788,6 +788,11 @@
 ||szftg.cn^
 ||bdpretc.cn^
 ||vipgogo123.site^
+||kgdyoh.icu^
+||dtjpihv.xyz^
+||kgqcse.xyz^
+||huuocxu.icu^
+||pwbuhb.xyz^
 ||zhnnaxe.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
