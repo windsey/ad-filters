@@ -1,9 +1,26 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-18T18:23:17.852Z
+! Last modified: 2024-04-19T01:18:54.587Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
+
+||nocyjsmirnfwcb.com^
+||oothupeelobs.com^
+||ntreeom.com^
+||aqspcbz.com^
+||retherdoresper.info^
+||afnyfiexpecttha.info^
+||phaitaghy.com^
+||zsanjnpl.com^
+||stbvwfmbzabtyi.com^
+||skygtbwownln.xyz^
+||noxixeffzek.com^
+||kuthoost.net^
+||confounddistressedrectangle.com^
+||uwougheels.net^
+||dropsclank.com^
+||lairauque.com^
 ||antoiew.com^
 ||r-q-e.com^
 ||adx1js.s3.amazonaws.com^
@@ -303,6 +320,7 @@
 ||piguiqproxy.com^$badfilter
 ||samsungtvads.com^
 
+||d2bs5vtcw2lxsv.cloudfront.net^
 ||d2jsvulelid3e4.cloudfront.net^
 ||d3k2wzdv9kuerp.cloudfront.net^
 ||d263ut03kf37wj.cloudfront.net^
