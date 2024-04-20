@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-20T01:17:49.910Z
+! Last modified: 2024-04-20T06:22:56.627Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -718,6 +718,8 @@
 ||wyuwkbe.top^
 ||hrjctx.xyz^
 ||pdnhcks.xyz^
+||88lm10.com^
+||88lm11.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
