@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-20T06:23:02.709Z
+! Last modified: 2024-04-20T12:31:26.684Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -42671,6 +42671,7 @@ rgmechanicsgames.com*VPN.exe
 ||media.netrefer.com^
 ||mmwebhandler.888.com^
 ||monetize-static.viralize.tv^
+||neural.myth.dev^
 ||p.smartertravel.com^
 ||pacontainer.s3.amazonaws.com^
 ||pagead2.googlesyndication.com^

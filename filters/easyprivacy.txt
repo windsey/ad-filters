@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-20T06:22:57.562Z
+! Last modified: 2024-04-20T12:31:21.543Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1004,7 +1004,6 @@
 ||logs.mezmo.com^
 ||logs.spilgames.com^
 ||logs.thebloggernetwork.com^
-||logs.viadata.store^
 ||lps.qantas.com^
 ||lucid.mjhassoc.com^
 ||ma.logsss.com^
@@ -1420,6 +1419,7 @@
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
 ||tracker.mrpfd.com^
+||tracker.myth.dev^
 ||tracker.myyschool.xyz^
 ||tracker.nitropay.com^
 ||tracker.novage.com.ua^

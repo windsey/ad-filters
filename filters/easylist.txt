@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-20T06:22:56.269Z
+! Last modified: 2024-04-20T12:31:20.237Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -38996,6 +38996,7 @@
 ||media.netrefer.com^
 ||mmwebhandler.888.com^
 ||monetize-static.viralize.tv^
+||neural.myth.dev^
 ||p.smartertravel.com^
 ||pacontainer.s3.amazonaws.com^
 ||pagead2.googlesyndication.com^
