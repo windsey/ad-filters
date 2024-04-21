@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-21T12:32:55.882Z
+! Last modified: 2024-04-21T18:22:46.072Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -193,6 +193,7 @@
 ||btyhnraw653.shop^
 ||bugzmn.icu^
 ||buvdkt.icu^
+||bvrzwnq.xyz^
 ||bvtvlp.xyz^
 ||bvxiht.xyz^
 ||bweriov.top^
@@ -343,6 +344,7 @@
 ||ha723.icu^
 ||halct.cn^
 ||hbjolp.xyz^
+||hblarn.xyz^
 ||hbxzlf.xyz^
 ||hciwyv.icu^
 ||hdtedar126.shop^
@@ -386,6 +388,7 @@
 ||inifdlao.top^
 ||inworket.com^
 ||irayedo.cn^
+||irmbyu.xyz^
 ||ityusio.top^
 ||iummqg.xyz^
 ||ivbgpax.cn^
@@ -436,6 +439,7 @@
 ||ktoioo.xyz^
 ||ktvjpmi.xyz^
 ||ktyusid.top^
+||kvyyyde.cn^
 ||kwqnki.xyz^
 ||kyuwkbd.top^
 ||l5kt1.icu^
@@ -585,6 +589,7 @@
 ||qusrow.xyz^
 ||qvnbjjd.xyz^
 ||qw9cu.cyou^
+||qyuwkby.top^
 ||qzalsk.xyz^
 ||qzozsa.xyz^
 ||rarcff.xyz^
@@ -614,6 +619,7 @@
 ||ryrmvd.xyz^
 ||rzfdbsn.cn^
 ||rzpvbl.xyz^
+||sacvmb.icu^
 ||savionl.com^
 ||sdfsad562.xyz^
 ||sdjkbcjksbdsvv.com^
@@ -670,6 +676,7 @@
 ||tdljuuw.xyz^
 ||tdlyfz.xyz^
 ||tduenkq839.shop^
+||tgamtip.icu^
 ||tgccct.icu^
 ||tgwfaz.icu^
 ||threrlak.com^
@@ -747,6 +754,7 @@
 ||wsdwbfs.cn^
 ||wsoqwm.xyz^
 ||wtyusie.top^
+||wubizigeng.com^
 ||wvwqywz.cn^
 ||wwjtdjj.cn^
 ||wxfdmri.xyz^
@@ -808,14 +816,6 @@
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
-||tgamtip.icu^
-||kvyyyde.cn^
-||bvrzwnq.xyz^
-||irmbyu.xyz^
-||hblarn.xyz^
-||sacvmb.icu^
-||qyuwkby.top^
-||wubizigeng.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
