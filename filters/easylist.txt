@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-21T01:23:44.562Z
+! Last modified: 2024-04-21T06:23:41.373Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -39019,6 +39019,7 @@
 ||promos.fling.com^
 ||proto2ad.durasite.net^
 ||pubfeed.linkby.com^
+||pushtoast-a.akamaihd.net^
 ||qsearch-a.akamaihd.net^
 ||random-affiliate.atimaze.com^
 ||rotabanner.kulichki.net^
