@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-24T01:20:56.575Z
+! Last modified: 2024-04-24T06:26:45.574Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1629,6 +1629,7 @@
 ||d34r8q7sht0t9k.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
 ||d36u3psykfwy91.cloudfront.net^
+||d39ion77s0ucuz.cloudfront.net^
 ||d39yds8oe4n4jq.cloudfront.net^
 ||d3bj8nkfly20uo.cloudfront.net^
 ||d3bo67muzbfgtl.cloudfront.net^
