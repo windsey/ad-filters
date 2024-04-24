@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-24T12:40:32.947Z
+! Last modified: 2024-04-24T18:22:32.427Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -56,6 +56,8 @@
 ||88lm09.com^
 ||88lm10.com^
 ||88lm11.com^
+||88lm12.com^
+||88lm13.com^
 ||8t9he.cyou^
 ||8xtm6i.cn^
 ||999bb222ww.com^
@@ -399,6 +401,7 @@
 ||mdhv3.icu^
 ||mdzwjra.cn^
 ||meqanhm.icu^
+||miningzhizhong.top^
 ||misjgy.xyz^
 ||mldzwmt.xyz^
 ||mlhtr.cn^
@@ -460,6 +463,7 @@
 ||oweeiyw.icu^
 ||oxkyaq.xyz^
 ||oxvlxwz.xyz^
+||oyuwkbk.top^
 ||ozhmig.cn^
 ||p04qzl.cn^
 ||p0v2ni.cn^
@@ -513,6 +517,7 @@
 ||qtyusiy.top^
 ||qusrow.xyz^
 ||qvnbjjd.xyz^
+||qvonje.cn^
 ||qw9cu.cyou^
 ||qyuwkby.top^
 ||qzalsk.xyz^
@@ -565,6 +570,7 @@
 ||snalzlb.top^
 ||snifdlab.top^
 ||soffersk.com^
+||sogoks.xyz^
 ||sosakk.xyz^
 ||spsfupq.cn^
 ||srwwce.xyz^
@@ -595,6 +601,7 @@
 ||szpwf.cn^
 ||szpwg.cn^
 ||szpwh.cn^
+||szpxp.cn^
 ||szpzk.cn^
 ||szpzm.cn^
 ||tahznx.xyz^
@@ -700,6 +707,7 @@
 ||xdrvkdni.xyz^
 ||xdybwjpa.xyz^
 ||xedpzh.xyz^
+||xfrahb.xyz^
 ||xgjidt.xyz^
 ||xhbshv.xyz^
 ||xhfxtqt.xyz^
@@ -733,6 +741,8 @@
 ||ydrvkdni.xyz^
 ||ydwkrbg.cn^
 ||ydybwjpa.xyz^
+||yhdemu368.shop^
+||yhderd69.shop^
 ||yhqukg.xyz^
 ||ykkhihg.cn^
 ||yliffnsc.xyz^
@@ -740,6 +750,7 @@
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
+||yvwuesh.icu^
 ||ywhws.cn^
 ||yyddkm526.shop^
 ||yyttmyy.cn^
@@ -751,16 +762,6 @@
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
-||xfrahb.xyz^
-||sogoks.xyz^
-||qvonje.cn^
-||yvwuesh.icu^
-||oyuwkbk.top^
-||88lm13.com^
-||88lm12.com^
-||yhdemu368.shop^
-||yhderd69.shop^
-||szpxp.cn^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
