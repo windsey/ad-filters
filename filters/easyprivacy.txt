@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-25T12:28:38.433Z
+! Last modified: 2024-04-25T18:23:31.750Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -241,6 +241,7 @@
 ||mdstats.info^
 ||mediamathrdrt.com^
 ||mirabelanalytics.com^
+||mircheigeshoa.com^
 ||mitour.de^
 ||mitself.net^
 ||ml-sys.xyz^
@@ -265,6 +266,7 @@
 ||notifpush.com^
 ||ns1p.net^
 ||nxakpj4ac8gkd53.info^
+||o1ych4jb.com^
 ||omappapi.com^
 ||omtrdc.net^
 ||openfpcdn.io^

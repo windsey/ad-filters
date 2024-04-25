@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-25T12:28:39.662Z
+! Last modified: 2024-04-25T18:23:32.996Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -206,6 +206,7 @@
 ||bzverx.xyz^
 ||bzzxyyh.xyz^
 ||c11011.com^
+||caomaotongji.com^
 ||caomeixz7.xyz^
 ||captickc.com^
 ||cbcvou.xyz^
@@ -278,6 +279,7 @@
 ||dzdnffs.xyz^
 ||dzfzak.cn^
 ||dzuht.cn^
+||eaezoi.xyz^
 ||eaqlos.xyz^
 ||ebgwdon.cn^
 ||ebwonro.cn^
@@ -311,12 +313,14 @@
 ||fbfrbt.xyz^
 ||fefgvh.xyz^
 ||fekpcd.icu^
+||fendeyrziz.top^
 ||ferriesendless.com^
 ||fhtfnb.xyz^
 ||fidelius.cn^
 ||fmfnrf.xyz^
 ||fmssoj.icu^
 ||fpjjjh.xyz^
+||fptbdr.xyz^
 ||fpvdrzx.xyz^
 ||fqbjzj.xyz^
 ||fqghykp.cn^
@@ -479,6 +483,7 @@
 ||lvphbj.xyz^
 ||lwrohd.xyz^
 ||ly55442.com^
+||lyuwkbl.top^
 ||lznfuab.xyz^
 ||m1170.top^
 ||m6690.top^
@@ -628,6 +633,7 @@
 ||rnkzhsi.cn^
 ||rnpkxgfp.xyz^
 ||rofmjd.xyz^
+||romiyee.icu^
 ||rouqiuqq.cn^
 ||rpnufv.xyz^
 ||ruqwgb.icu^
@@ -738,11 +744,13 @@
 ||utkauo.xyz^
 ||utxmb.cn^
 ||uu22662.com^
+||uunfybw.cn^
 ||uuvzmba.cn^
 ||uxlvk.cn^
 ||uxrdg.cn^
 ||uxzvjoj.cn^
 ||uyuwkbt.top^
+||uywoynr.cn^
 ||vabzndw.cn^
 ||vaekkfv.cn^
 ||vcnpnf.xyz^
@@ -762,6 +770,7 @@
 ||vuvnix.icu^
 ||vwyycnq.cn^
 ||vxfdepn.cn^
+||vyrpoe.cn^
 ||waouss.xyz^
 ||wbubgob.cn^
 ||wbvfj.xyz^
@@ -847,14 +856,6 @@
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zhnnaxe.xyz^
-||fptbdr.xyz^
-||uunfybw.cn^
-||eaezoi.xyz^
-||lyuwkbl.top^
-||romiyee.icu^
-||uywoynr.cn^
-||vyrpoe.cn^
-||caomaotongji.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
@@ -4842,7 +4843,6 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
-||js.shunqi.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
@@ -5363,6 +5363,7 @@
 ||js.oh100.com^
 ||js.ruiwen.com^
 ||js.shangxueba.com^
+||js.shunqi.com^
 ||js.spreton.com^
 ||js.ubaike.cn^
 ||js.yanyue.cn^
