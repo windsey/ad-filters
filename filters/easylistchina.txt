@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-25T06:24:23.926Z
+! Last modified: 2024-04-25T12:28:37.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -769,6 +769,7 @@
 ||romiyee.icu^
 ||uywoynr.cn^
 ||vyrpoe.cn^
+||caomaotongji.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
@@ -4775,6 +4776,7 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||js.shunqi.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
