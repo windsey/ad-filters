@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-25T18:23:36.884Z
+! Last modified: 2024-04-26T01:19:37.189Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -9802,6 +9802,7 @@ rgmechanicsgames.com*VPN.exe
 ||bureauelderlydivine.com^
 ||bureauxcope.casa^
 ||burgea.com^
+||burghkharwa.com^
 ||burglaryeffectuallyderange.com^
 ||burglaryrunner.com^
 ||burgomeg.com^
@@ -30602,6 +30603,7 @@ rgmechanicsgames.com*VPN.exe
 ||probationpresented.com^
 ||probationtoll.com^
 ||probersnobles.com^
+||probessanggau.com^
 ||probestrike.com^
 ||probitystuck.com^
 ||probtn.com^
