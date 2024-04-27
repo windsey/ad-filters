@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-27T06:24:28.330Z
+! Last modified: 2024-04-27T12:31:20.648Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -73,6 +73,7 @@
 ||bonne-terre-data-layer.com^
 ||boomtrain.com^
 ||bounceexchange.com^
+||bouncex.net^
 ||bqstreamer.com^
 ||bringmethehats.com^
 ||briskeagle.io^
@@ -85,6 +86,7 @@
 ||catsunrunjam.com^
 ||cbdatatracker.com^
 ||cdnhst.xyz^
+||cdnwidget.com^
 ||ciqtracking.com^
 ||cityrobotflower.com^
 ||ck123.io^
@@ -842,7 +844,6 @@
 ||event-service.letslinc.com^
 ||event-stream.spot.im^
 ||event.api.drift.com^
-||event.getblue.io^
 ||event.instiengage.com^
 ||event.syndigo.cloud^
 ||event.webcollage.net^
@@ -2729,6 +2730,7 @@
 ||t.y8.com^
 ||t.zulily.com^
 ||t2.hulu.com^
+||t810.ctpost.com^
 ||tagger.ope.scmp.com^
 ||tagging.steelseries.com^
 ||tags.aljazeera.com^

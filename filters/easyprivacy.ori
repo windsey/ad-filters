@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: akwScZKO2DexVS9dIcNjTQ
-! Version: 202404270611
+! Checksum: SwKMBc1b/h9uVcQVjCIJgA
+! Version: 202404271221
 ! Title: EasyPrivacy
-! Last modified: 27 Apr 2024 06:11 UTC
+! Last modified: 27 Apr 2024 12:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1688,6 +1688,7 @@
 /plog?id
 /plow.lite.js
 /plugins/catman/*
+/plugins/civic-science/js/pixel.js
 /plugins/duracelltomi-google-tag-manager/*
 /plugins/exactmetrics-
 /plugins/nimiq/*$script
@@ -3059,6 +3060,7 @@ omni.soundestlink.com$image
 ||bonne-terre-data-layer.com^
 ||boomtrain.com^
 ||bounceexchange.com^
+||bouncex.net^
 ||bqstreamer.com^
 ||bringmethehats.com^
 ||briskeagle.io^
@@ -3071,6 +3073,7 @@ omni.soundestlink.com$image
 ||catsunrunjam.com^
 ||cbdatatracker.com^
 ||cdnhst.xyz^
+||cdnwidget.com^
 ||ciqtracking.com^
 ||cityrobotflower.com^
 ||ck123.io^
@@ -3813,6 +3816,7 @@ omni.soundestlink.com$image
 ||chtbl.com^$script,third-party,xmlhttprequest
 ||cintnetworks.com^$third-party
 ||cityadstrack.com^$third-party
+||cityspark.com^$third-party
 ||claritytag.com^$third-party
 ||clarium.io^$third-party
 ||clarivoy.com^$third-party
@@ -4270,6 +4274,7 @@ omni.soundestlink.com$image
 ||getaawp.com^$third-party
 ||getambassador.com^$third-party
 ||getbackstory.com^$third-party
+||getblue.io^$third-party
 ||getblueshift.com^$third-party
 ||getclicky.com^$third-party
 ||getconversion.net^$third-party
@@ -7948,7 +7953,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||event-service.letslinc.com^
 ||event-stream.spot.im^
 ||event.api.drift.com^
-||event.getblue.io^
 ||event.instiengage.com^
 ||event.syndigo.cloud^
 ||event.webcollage.net^
@@ -12147,6 +12151,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.y8.com^
 ||t.zulily.com^
 ||t2.hulu.com^
+||t810.ctpost.com^
 ||tagger.ope.scmp.com^
 ||tagging.steelseries.com^
 ||tags.aljazeera.com^
@@ -12640,6 +12645,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||jimmyjohns.com/Abo2Yc8X/init.js
 ||joann.com/qXTWmr91/init.js
 ||kerastase-usa.com/IZ/PXXiuO7QTJ/init.js
+||kget.com/CvbtpUrj/init.js
 ||kickstarter.com/Uy3R669N/init.js
 ||kiehls.com/IZ/PXG8ATFja1/init.js
 ||kiva.org/r3pNVz1F/init.js

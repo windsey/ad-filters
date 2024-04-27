@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-27T06:24:33.524Z
+! Last modified: 2024-04-27T12:31:25.871Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -5687,6 +5687,7 @@ rgmechanicsgames.com*VPN.exe
 ||adswam.com^
 ||adswizz.com^
 ||adsxyz.com^
+||adsymptotic.com^
 ||adt328.com^
 ||adt545.net^
 ||adt567.net^
