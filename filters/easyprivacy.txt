@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-27T01:17:58.647Z
+! Last modified: 2024-04-27T06:24:28.330Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -287,6 +287,7 @@
 ||pixrealm.com^
 ||pjstat.com^
 ||plausiblecdn.co^
+||prfct.co^
 ||procroanalytics.com^
 ||progmxs.com^
 ||pushvisit.xyz^
@@ -396,6 +397,7 @@
 ||zippyfrog.co^
 ||zononi.com^
 ||zqtk.net^
+||ztsrv.com^
 ||abc.pema.cl^
 ||acbp0020171456.page.tl^
 ||adless.io^
@@ -2574,6 +2576,7 @@
 ||pac.thescottishsun.co.uk^
 ||pac.thesun.co.uk^
 ||pappagallu.onefootball.com^
+||pcp.coupert.com^
 ||perf.mouser.com^
 ||performance-logger.minted.com^
 ||perr.hola.org^
