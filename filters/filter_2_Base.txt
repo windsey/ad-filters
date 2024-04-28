@@ -1,10 +1,30 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-28T12:34:06.924Z
+! Last modified: 2024-04-28T18:22:22.597Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
 
+||makeupenumerate.com^
+||hagnutrient.com^
+||naiantcapling.com^
+||nadjyiyolmxfea.com^
+||builtinintriguingchained.com^
+||nrecitnr.com^
+||jerimpob.net^
+||fohikrs.com^
+||xktxemf.com^
+||ejuiashsateam.info^
+||elewasgiwiththi.info^
+||deeppinche.top^
+||prqbdfmzjs.com^
+||aqaggxmhabf.com^
+||dmabpmokxcgm.com^
+||khrrnhjuhdjvx.com^
+||gfwvrltf.xyz^
+||kovhhlbbgs.com^
+||sodytykcbgpkw.com^
+||agehaeamilhfv.com^
 ||thecoreadv.com^
 ||ibetadvdqrn.com^
 ||meseyktphwwxq.com^
@@ -346,6 +366,7 @@
 ||piguiqproxy.com^$badfilter
 ||samsungtvads.com^
 
+||d2g6dhcga4weul.cloudfront.net^
 ||d2ier523in7agz.cloudfront.net^
 ||d2bs5vtcw2lxsv.cloudfront.net^
 ||d2jsvulelid3e4.cloudfront.net^
@@ -3770,6 +3791,7 @@
 ||static-rtb2.xaprio.net^
 ||static.rtb-serve.com^
 ||sp.usatoday.com^
+||footy.to^
 ||succeedscene.com^$badfilter
 ||appcdn01.xyz^$badfilter
 ||aaxwall.com^
