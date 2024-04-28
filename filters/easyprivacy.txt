@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-27T18:21:44.087Z
+! Last modified: 2024-04-28T01:24:32.084Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -193,6 +193,7 @@
 ||hbiq.net^
 ||hdmtools.com^
 ||herbgreencolumn.com^
+||hirsung.de^
 ||hs-analytics.net^
 ||hsadspixel.net^
 ||hsleadflows.net^
@@ -957,6 +958,7 @@
 ||invite.leanlab.co^
 ||invitejs.trustpilot.com^
 ||ip.lovely-app.com^
+||ip.momentummedia.com.au^
 ||iq.sixaxisllc.com^
 ||jas.indeednps.com^
 ||javascriptcounter.appspot.com^
@@ -1919,6 +1921,7 @@
 ||analytics.belgacom.be^
 ||apm.tnet.nl^
 ||dmtgo.upc.biz^
+||go.planetnine.com^
 ||rmgdapfnccsharpprd.azurewebsites.net^
 ||sp.dpgmedia.net^
 ||stat.24liveplus.com^
@@ -37119,6 +37122,7 @@
 ||hokuspokus.tarnkappe.info^
 ||llntrack.messe-duesseldorf.de^
 ||lokalwerben.t-online.de^
+||mat.ukraine-nachrichten.de^
 ||metrics.n-tv.de^
 ||mlm-tracking-service.meinestadt.de^
 ||navigation-timing.meinestadt.de^
@@ -37576,6 +37580,7 @@
 ||counter.sibnet.ru^
 ||cpa.hh.ru^
 ||cs42.pikabu.ru^
+||cs43.pikabu.ru^
 ||cvt1.sibnet.ru^
 ||data.glamour.ru^
 ||goya.rutube.ru^
@@ -37599,6 +37604,7 @@
 ||top-staging.mail.ru^
 ||xray.mail.ru^
 ||yast.rutube.ru^
+||go-usertrack-importer.pub.24ur.si^
 ||tracker.azet.sk^
 ||analytics.bolavip.com^
 ||analytics.emol.com^
