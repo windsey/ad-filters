@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-30T01:19:12.370Z
+! Last modified: 2024-04-30T06:25:26.436Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -894,6 +894,9 @@
 ||xxsmad1.com^
 ||dadxnl.xyz^
 ||uvklgw.xyz^
+||kweriod.top^
+||ukgfniu.cn^
+||sifuwei.com^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^

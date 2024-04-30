@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-30T01:19:16.254Z
+! Last modified: 2024-04-30T06:25:30.297Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -43971,6 +43971,7 @@ rgmechanicsgames.com*VPN.exe
 ||ientent.stre4mplay.one^
 ||ientent.streampiay.fun^
 ||imp.accesstra.de^
+||imp.pixiv.net^
 ||iontent.powzerz.lol^
 ||japfg-trending-content.uc.r.appspot.com^
 ||jentent.streampiay.fun^
