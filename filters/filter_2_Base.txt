@@ -1,10 +1,15 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-30T06:25:30.297Z
+! Last modified: 2024-04-30T12:34:20.905Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
 
+||dwvxmfscptajtll.com^
+||shoopsee.net^
+||pxyympkyvqc.com^
+||securenetguardian.top^
+||cybershieldfortress.buzz^
 ||doostozoa.net^
 ||psomtenga.net^
 ||juhlkuu.com^
@@ -34207,6 +34212,7 @@ rgmechanicsgames.com*VPN.exe
 ||servetean.site^
 ||servetraff.com^
 ||servg1.net^
+||servh.net^
 ||servicegetbook.net^
 ||servicesrc.org^
 ||servicetechtracker.com^

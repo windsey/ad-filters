@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-30T06:25:25.818Z
+! Last modified: 2024-04-30T12:34:16.419Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -348,7 +348,7 @@
 ||jioads.akamaized.net^
 ||ajdivotdelbloab24.jio.com^
 ||adxcorp.kr^
-||api-*.bidmachine.io^
+||api*.bidmachine.io^
 ||tw-api.vpon.com^
 ||imrworldwide.com^
 ||tccbanner.com^

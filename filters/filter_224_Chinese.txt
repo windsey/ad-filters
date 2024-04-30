@@ -1,9 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-04-30T06:25:26.436Z
+! Last modified: 2024-04-30T12:34:17.040Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
+
+||ad.886112.xyz^
 ||98765.pw^
 ||aziekg.xyz^
 ||max211.top^
