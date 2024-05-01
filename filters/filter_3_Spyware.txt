@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-01T12:35:40.636Z
+! Last modified: 2024-05-01T18:24:06.729Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -748,6 +748,10 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||femetrics.grammarly.io^
+||realtimeanalytics.yext.com^
+||stats.indianpornempire.com^
+||lp.spac.me^
 ||analytics.verfacto.com^
 ||flask.us.nextdoor.com^
 ||ev.indianexpress.com^
@@ -2269,8 +2273,6 @@
 ||msmetrics.ws.sonos.com^
 ||mstat.acestream.net^
 ||mtp.spaces.im^
-||mtp.spaces.ru^
-||mtp.spcs.me^
 ||mva1.maeva.com^
 ||n4p-rus.redtram.com^
 ||ncx2.voyage-prive.it^
