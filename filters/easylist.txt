@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-01T06:25:50.733Z
+! Last modified: 2024-05-01T12:35:32.672Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -40326,6 +40326,7 @@
 ||qontent.powzers.lol^
 ||rafvertizing.crazygames.com^
 ||red-shell.speedrun.com^
+||rev.frankspeech.com^
 ||socket.streamable.com^
 ||sontent.powzers.lol^
 ||spike-plant.valorbuff.com^
