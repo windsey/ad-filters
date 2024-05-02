@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-02T06:24:44.773Z
+! Last modified: 2024-05-02T12:35:18.720Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2831,6 +2831,7 @@
 ||z.cdp-dev.cnn.com^
 ||z737.thestar.com^
 ||za.qeeq.com^
+||zion-telemetry-nonprod.api.cnn.io^
 ||zion-telemetry.api.cnn.io^
 ://track.opentable.
 ||substation.confection.io^

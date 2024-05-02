@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-02T06:24:51.185Z
+! Last modified: 2024-05-02T12:35:25.130Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -748,6 +748,11 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||logs.8thwall.com^
+||ingest.make.rvohealth.com^
+||segment-api.goodrx.com^
+||zion-telemetry-nonprod.api.cnn.io^
+||log.suumo.jp^
 ||femetrics.grammarly.io^
 ||realtimeanalytics.yext.com^
 ||stats.indianpornempire.com^
