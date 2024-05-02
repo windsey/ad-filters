@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-01T18:24:05.373Z
+! Last modified: 2024-05-02T01:19:10.508Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
 
+||ad.yieldmanager.com^
 ||bollyocean.com^
 ||leveryone.info^
 ||ightsapph.info^
