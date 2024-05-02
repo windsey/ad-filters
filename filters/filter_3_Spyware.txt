@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-02T12:35:25.130Z
+! Last modified: 2024-05-02T18:24:22.090Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -748,6 +748,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||sgmcdn.racingpost.com^
 ||logs.8thwall.com^
 ||ingest.make.rvohealth.com^
 ||segment-api.goodrx.com^
@@ -41157,6 +41158,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||log-verify.mob.com^
 ||app-analytics-services.com^
 ||sg.log.ulivetv.net^
 ||kr-col-ext.nelo.navercorp.com^
