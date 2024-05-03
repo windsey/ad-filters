@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-03T06:24:59.907Z
+! Last modified: 2024-05-03T12:33:19.539Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -91,6 +91,7 @@
 ||adblock.sina.cn^
 ||symaa.cn^
 ||hbnygj.com^
+||https-filtering-check.adtidy.org^
 ||unpkg.com^$badfilter
 -1316632262.cos.
 -1316899192.cos.
@@ -930,6 +931,9 @@
 ||rczudr.xyz^
 ||tquspo.com^
 ||wwerioe.top^
+||qescaen.com^
+||rxfygd.cn^
+||ringingneo.com^
 ||zuvbzl.xyz^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^

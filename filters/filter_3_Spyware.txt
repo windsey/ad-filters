@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-03T06:25:05.157Z
+! Last modified: 2024-05-03T12:33:24.745Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -748,6 +748,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||sid.nordstrom.com^
+||amethyst.zappos.com^
 ||sgmcdn.racingpost.com^
 ||logs.8thwall.com^
 ||ingest.make.rvohealth.com^
@@ -41038,6 +41040,7 @@ directtrack.*.js
 ||webmetrics.nintendo-europe.com^
 ||webstat.freaks4u.com^
 ||t.yesware.com^
+||https-filtering-check.adtidy.org^
 ||adeventtracker.spotify.com^
 ||do-not-tracker.org^
 ||eviltracker.net^

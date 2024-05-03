@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-03T06:24:59.297Z
+! Last modified: 2024-05-03T12:33:18.911Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -848,6 +848,7 @@
 @@://www.googleadservices.com^|
 @@||auto-api.yelp.com
 /m.realgfporn.com\/[a-z]{1,13}[0-9]{1,13}[a-z]{1,13}.js/
+||https-filtering-check.adtidy.org^
 ||adcenter-api.cashwalk.co^
 ||ads.viber.com^
 ||ads-d.viber.com^

@@ -1,10 +1,9 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-03T06:25:03.830Z
+! Last modified: 2024-05-03T12:33:23.408Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
-
 ||me7x.site^
 ||wrqtcoxjw.com^
 ||atlxpstsf.com^
@@ -3925,6 +3924,7 @@ rgmechanicsgames.com*VPN.exe
 ||bontent.powvideo.net^
 ||concertads-configs.vox-cdn.com^
 ||newopenx.detik.com^
+||https-filtering-check.adtidy.org^
 ||consent.cookiefirst.com^$badfilter
 ||trstx.org^$badfilter
 @@||cdn.datatables.net^
@@ -8850,6 +8850,7 @@ rgmechanicsgames.com*VPN.exe
 ||bigvids.space^
 ||bihake.com^
 ||bihunekus.com^
+||bihussufoob.net^
 ||bijouremudas.space^
 ||bijwehk.com^
 ||bijxpjgtdrgk.com^
@@ -30429,6 +30430,7 @@ rgmechanicsgames.com*VPN.exe
 ||poxaharap.com^
 ||poxcgxylozny.com^
 ||poxykhakis.com^
+||poxypicine.com^
 ||poyqmngbxwsvnav.xyz^
 ||poyusww.com^
 ||pp2ppsch1hount1hf.com^
@@ -32979,6 +32981,7 @@ rgmechanicsgames.com*VPN.exe
 ||rincipledecli.info^
 ||rinddelusional.com^
 ||ringashewasfl.info^
+||ringermuggish.com^
 ||ringexpressbeach.com^
 ||ringsempty.com^
 ||ringtonepartner.com^
