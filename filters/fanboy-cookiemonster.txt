@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-04T12:31:54.929Z
+! Last modified: 2024-05-04T18:23:09.002Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -146,6 +146,7 @@
 ||consent.t-mobile.cz^
 ||me9ddf.moebelix.cz^
 ||cmp.deondernemer.nl^
+||consent.marktplaats.nl
 ||cookie.vrt.be^
 ||cookie.wieni.be^
 ||cookies.jeugdjournaal.nl^
