@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-04T01:19:00.695Z
+! Last modified: 2024-05-04T06:23:40.691Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -25042,6 +25042,7 @@
 ||paicepte.xyz^
 ||paichaus.com^
 ||paid.outbrain.com^
+||paigarohauja.com^
 ||paigna.com^
 ||paikoasa.tv^
 ||paikoaza.net^

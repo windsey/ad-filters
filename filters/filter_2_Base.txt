@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-04T01:19:07.073Z
+! Last modified: 2024-05-04T06:23:47.108Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -28899,6 +28899,7 @@ rgmechanicsgames.com*VPN.exe
 ||paicepte.xyz^
 ||paichaus.com^
 ||paid.outbrain.com^
+||paigarohauja.com^
 ||paigna.com^
 ||paikoasa.tv^
 ||paikoaza.net^

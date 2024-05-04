@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-04T01:19:01.047Z
+! Last modified: 2024-05-04T06:23:41.046Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -851,6 +851,8 @@
 ||azkrya.xyz^
 ||rmbvzh.xyz^
 ||eyuwkbw.top^
+||qwerioy.top^
+||mercor.cn^
 ||zuvbzl.xyz^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^
