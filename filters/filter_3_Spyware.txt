@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-06T12:35:44.111Z
+! Last modified: 2024-05-06T18:26:29.689Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -748,6 +748,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||amethyst.6pm.com^
+||lma.npaw.com^
 ||collect.alphastream.io^
 ||sid.nordstrom.com^
 ||amethyst.zappos.com^
