@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kULCPKs8Y8JgnK3D8la/kA
-! Version: 202405060611
+! Checksum: fvAuc+jUwI+F4kbo9YxreQ
+! Version: 202405061221
 ! Title: EasyList
-! Last modified: 06 May 2024 06:11 UTC
+! Last modified: 06 May 2024 12:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7129,7 +7129,6 @@ _800x80_
 ##.ad-bottomLeft
 ##.ad-bottomleader
 ##.ad-bottomline
-##.ad-box
 ##.ad-box-2
 ##.ad-box-300x250
 ##.ad-box-auto
@@ -7142,6 +7141,7 @@ _800x80_
 ##.ad-box1
 ##.ad-box2
 ##.ad-box3
+##.ad-box:not(#ad-banner):not(:empty)
 ##.ad-box_h
 ##.ad-boxamp-wrapper
 ##.ad-boxbottom
@@ -17235,7 +17235,7 @@ job.inshokuten.com#@#.ad-area
 kincho.co.jp,niji-gazo.com#@#.ad-block
 livesexgirlsrooms.com#@#.ad-body
 ikkaku.net#@#.ad-bottom
-job.inshokuten.com,sexgr.net,webbtelescope.org,websaver.ca#@#.ad-box
+job.inshokuten.com,sexgr.net,webbtelescope.org,websaver.ca#@#.ad-box:not(#ad-banner):not(:empty)
 dbook.docomo.ne.jp,dmagazine.docomo.ne.jp#@#.ad-button
 livedoorblogstyle.jp#@#.ad-center
 newegg.com#@#.ad-click
@@ -58372,6 +58372,7 @@ browsershots.org#@#.advert_area
 ||b211.xyz^$document,popup
 ||b59c.xyz^$document,popup
 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^$document,popup
+||b9f25b.site^$document,popup
 ||bcbe.site^$document,popup
 ||ca3d.site^$document,popup
 ||content-loader.com^$document,popup
