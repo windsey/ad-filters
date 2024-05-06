@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-06T01:21:22.771Z
+! Last modified: 2024-05-06T06:25:45.647Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -109,6 +109,8 @@
 ||hgfutf.xyz^
 ||yxgqgq.xyz^
 ||sxoejoc.icu^
+||verstug.cn^
+||uweriot.top^
 ||0322cfmtl.cc^
 ||0940088.com^
 ||0j775d.cn^
