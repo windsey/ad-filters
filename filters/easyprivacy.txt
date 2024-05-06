@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-05T18:22:18.158Z
+! Last modified: 2024-05-06T01:21:21.539Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -934,6 +934,7 @@
 ||hits.dealer.com^
 ||hits.getelevar.com^
 ||hits.informer.com^
+||hk-trc-events.taboola.com^
 ||hktracker.hankookilbo.com^
 ||hpr.outbrain.com^
 ||hspbotdetection.azurewebsites.net^
