@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-06T18:26:23.251Z
+! Last modified: 2024-05-07T01:20:58.345Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -536,6 +536,7 @@
 ||analytics.firespring.com^
 ||analytics.foresee.com^
 ||analytics.formstack.com^
+||analytics.genial.ly^
 ||analytics.gooogol.com^
 ||analytics.groupe-seb.com^
 ||analytics.growthphysics.com^
@@ -2582,6 +2583,7 @@
 ||ophan.theguardian.com^
 ||optimizely.techtarget.com^
 ||p.hentaiforce.net^
+||p.minds.com^
 ||pac.thescottishsun.co.uk^
 ||pac.thesun.co.uk^
 ||pappagallu.onefootball.com^
@@ -37140,6 +37142,7 @@
 ||pstt.mtb-news.de^
 ||px.derstandard.at^
 ||pxc.otto.de^
+||r.wz.de^
 ||rem-track.bild.de^
 ||responder.wt.heise.de^
 ||rt.bunte.de^
