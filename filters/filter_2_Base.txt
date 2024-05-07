@@ -1,10 +1,14 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-07T06:25:32.697Z
+! Last modified: 2024-05-07T12:34:52.978Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
 
+||tjtmjjigtdoah.com^
+||odssyvfqrlwwj.com^
+||houboajaithu.net^
+||nderpurganismpr.info^
 ||hborq.com^
 ||oszlnxwqlc.com^
 ||fkodq.com^
@@ -35697,7 +35701,6 @@ rgmechanicsgames.com*VPN.exe
 ||spotbeepgreenhouse.com^
 ||spotdimesulky.com^
 ||spotlessabridge.com^
-||spotlightstores.com^
 ||spotofspawn.com^
 ||spotrails.com^
 ||spotscenered.info^
@@ -43117,6 +43120,7 @@ rgmechanicsgames.com*VPN.exe
 ||ah.pricegrabber.com^
 ||allsportsflix.
 ||alt63.chimeratool.com^
+||analytics.analytics-egain.com^
 ||api.140proof.com^
 ||api.bitp.it^
 ||api.localadswidget.com^
