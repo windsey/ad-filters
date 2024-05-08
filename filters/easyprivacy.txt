@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-08T06:22:04.464Z
+! Last modified: 2024-05-08T12:35:42.438Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -27169,7 +27169,6 @@
 ||go.netwitness.com^
 ||go.news.loyaltycompany.com^
 ||go.oilkings.ca^
-||go.oracle.com^
 ||go.paze.com^
 ||go.pearsonvue.com^
 ||go.petrelocation.com^
