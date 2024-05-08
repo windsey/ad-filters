@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-08T12:35:41.507Z
+! Last modified: 2024-05-08T18:24:51.619Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -884,6 +884,7 @@
 ||nrbqgf.cn^
 ||qmgria.cn^
 ||robudpw.cn^
+||qmbdta.cn^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
