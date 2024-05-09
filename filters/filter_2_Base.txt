@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-09T06:25:25.688Z
+! Last modified: 2024-05-09T12:34:33.405Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -9492,6 +9492,7 @@ rgmechanicsgames.com*VPN.exe
 ||bouptosaive.com^
 ||bouqaiewfksqz.com^
 ||bourbonlunches.com^
+||bourrepardale.com^
 ||boustahe.com^
 ||bouwehee.xyz^
 ||bovategunrack.cfd^
@@ -33134,6 +33135,7 @@ rgmechanicsgames.com*VPN.exe
 ||ringashewasfl.info^
 ||ringermuggish.com^
 ||ringexpressbeach.com^
+||ringingneo.com^
 ||ringsempty.com^
 ||ringtonepartner.com^
 ||rinserbefore.com^
