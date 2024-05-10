@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-10T01:21:23.564Z
+! Last modified: 2024-05-10T06:24:57.710Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -900,6 +900,8 @@
 ||zwzdjb.xyz^
 ||elvirassb.com^
 ||mmgap.cn^
+||yssryr.cn^
+||88lm15.com^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
