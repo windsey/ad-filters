@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-11T06:23:21.638Z
+! Last modified: 2024-05-11T12:33:26.480Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -912,6 +912,7 @@
 ||igidskio.top^
 ||adlhxwb.xyz^
 ||6b856ee58e.com^
+||zrdga.cn^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^

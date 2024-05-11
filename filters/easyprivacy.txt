@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-11T06:23:22.560Z
+! Last modified: 2024-05-11T12:33:27.418Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -62,6 +62,7 @@
 ||apenterprise.io^
 ||apxl.io^
 ||as3.io^
+||australiarevival.com^
 ||avads.net^
 ||awmonitor.com^
 ||bfmio.com^
@@ -83,6 +84,7 @@
 ||bx-cloud.com^
 ||bydst.com^
 ||cadsuta.net^
+||cafirebreather.com^
 ||catsunrunjam.com^
 ||cbdatatracker.com^
 ||cdnhst.xyz^
@@ -290,6 +292,7 @@
 ||pixrealm.com^
 ||pjstat.com^
 ||plausiblecdn.co^
+||powerrobotflower.com^
 ||prfct.co^
 ||procroanalytics.com^
 ||progmxs.com^
@@ -375,6 +378,7 @@
 ||venusrevival.com^
 ||vfghe.com^
 ||vfgte.com^
+||videocdnmetrika.com^
 ||videoplayerhub.com^
 ||vkanalytics.net^
 ||vpdcp.com^
