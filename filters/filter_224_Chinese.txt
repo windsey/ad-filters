@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-12T01:32:47.666Z
+! Last modified: 2024-05-12T06:24:49.762Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1008,6 +1008,7 @@
 ||jgidskia.top^
 ||fhvzrr.xyz^
 ||mnpzrgz.xyz^
+||pwuxnr.cn^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
