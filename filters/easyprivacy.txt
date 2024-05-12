@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-12T06:24:48.533Z
+! Last modified: 2024-05-12T12:34:35.551Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2021,6 +2021,7 @@
 ||log.gs3.goo.ne.jp^
 ||log.popin.cc^
 ||log000.goo.ne.jp^
+||logger.torimochi-ad.net^
 ||omt.shinobi.jp^
 ||panda.kasika.io^
 ||ping.paidy.com^
