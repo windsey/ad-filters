@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-11T18:23:21.437Z
+! Last modified: 2024-05-12T01:32:46.441Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -690,6 +690,7 @@
 ||cache2.delvenetworks.com^
 ||cahf4eed.mooo.com^
 ||calltrack.co^
+||calvera-telemetry.polaris.me^
 ||camel.headfarming.com^
 ||capture-api.ap3prod.com^
 ||capture.condenastdigital.com^
