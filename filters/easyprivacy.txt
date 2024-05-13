@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-13T06:26:24.860Z
+! Last modified: 2024-05-13T12:36:13.835Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -930,6 +930,7 @@
 ||go.activengage.com^
 ||green-griffin-860.appspot.com^
 ||gsp1.baidu.com^
+||gtmfsstatic.getgoogletagmanager.com^
 ||gtrk.s3.amazonaws.com^
 ||happen.spkt.io^
 ||hb.vhsrv.com^
