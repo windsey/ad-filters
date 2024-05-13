@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-13T12:36:15.051Z
+! Last modified: 2024-05-13T18:23:10.544Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1018,6 +1018,7 @@
 ||kgidskid.top^
 ||upyzqf.cn^
 ||mdiygc.xyz^
+||dyccdk.xyz^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^

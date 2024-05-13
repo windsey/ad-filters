@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-13T12:36:13.835Z
+! Last modified: 2024-05-13T18:23:09.301Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2042,6 +2042,7 @@
 ||t.seesaa.net^
 ||tag.cribnotes.jp^
 ||targeting.focas.jp^
+||tm.msgs.jp^
 ||tr.c-tag.net^
 ||tr.slvrbullet.com^
 ||track.list-finder.jp^
