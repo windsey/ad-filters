@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-14T06:27:16.986Z
+! Last modified: 2024-05-14T12:36:55.448Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -749,6 +749,9 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||tracking.carsales.com.au^
+||beacon.nc-net.or.jp^
+||lhe-beacon.team-rec.jp^
 ||gtmfsstatic.getgoogletagmanager.com^
 ||analytics.andisearch.com^
 ||stlog.dmarket.docomo.ne.jp^
@@ -2890,7 +2893,6 @@
 ||tracking.bdi-services.de^
 ||tracking.bloomberg.com^
 ||tracking.bonnier.news^
-||tracking.carsales.com.au^
 ||tracking.chacha.com^
 ||tracking.channelsight.com^
 ||tracking.conduit.com^
