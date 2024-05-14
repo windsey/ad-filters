@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-14T12:36:54.139Z
+! Last modified: 2024-05-14T18:24:49.798Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -26026,6 +26026,7 @@ rgmechanicsgames.com*VPN.exe
 ||moonheappyr.com^
 ||moonicorn.network^
 ||moonjahaphodal.com^
+||moonjscdn.info^
 ||moonoafy.net^
 ||moonovernegril.com^
 ||moonrocketaffiliates.com^
