@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-15T12:37:26.791Z
+! Last modified: 2024-05-15T18:24:41.910Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -749,6 +749,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||temp.twicomi.com^
 ||tracking.carsales.com.au^
 ||beacon.nc-net.or.jp^
 ||lhe-beacon.team-rec.jp^
