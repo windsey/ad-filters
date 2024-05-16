@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-15T18:24:35.541Z
+! Last modified: 2024-05-16T01:22:01.912Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1802,6 +1802,7 @@
 ||trecker.aklamio.com^
 ||vtrtl.de^
 ||webcounter.goweb.de^
+||wranalytics.wildrocket.io^
 ||x.bloggurat.net^
 ||zs.dhl.de^
 ||abs.proxistore.com^
