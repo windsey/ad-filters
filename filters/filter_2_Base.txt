@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-16T12:36:44.460Z
+! Last modified: 2024-05-16T18:24:10.864Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -3922,7 +3922,6 @@
 ||push.mywebqsearch.com^
 ||sp.usatoday.com^
 ||footy.to^
-||succeedscene.com^$badfilter
 ||appcdn01.xyz^$badfilter
 ||aaxwall.com^
 ||cheezwhiz.z9.web.core.windows.net^
