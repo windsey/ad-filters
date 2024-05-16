@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-16T06:22:39.203Z
+! Last modified: 2024-05-16T12:36:40.459Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1044,6 +1044,8 @@
 ||wgidskie.top^
 ||bqnxff.xyz^
 ||wacisi.xyz^
+||dpzplb.xyz^
+||fredum.cn^
 ||bpxbzps.xyz^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
