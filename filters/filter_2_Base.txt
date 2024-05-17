@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-17T06:26:06.086Z
+! Last modified: 2024-05-17T12:35:04.907Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -3957,6 +3957,7 @@
 ||traffic.styria.hr^
 ||widget.admiral.hr^
 ||widgets.jutarnji.hr^
+||widget.marktjagd.de^
 ||eph-adsjutarnji.cdn.sysbee.net^
 ||banner.mob.hr^
 ||bannery.navratdoreality.cz^
@@ -8982,6 +8983,7 @@ rgmechanicsgames.com*VPN.exe
 ||bilingualwalking.com^
 ||bilkedsquit.com^
 ||bilkersdtente.uno^
+||bilkersteds.com^
 ||billiardsnotealertness.com^
 ||billiardssequelsticky.com^
 ||billionpops.com^
@@ -10403,6 +10405,7 @@ rgmechanicsgames.com*VPN.exe
 ||carfulsranquel.com^
 ||cargodescent.com^
 ||cargotropical.com^
+||caribedkurukh.com^
 ||caricaturechampionshipeye.com^
 ||caringdeath.pro^
 ||caringdefi.com^
@@ -10429,6 +10432,7 @@ rgmechanicsgames.com*VPN.exe
 ||carsickpractice.com^
 ||cartedneogene.com^
 ||cartining-specute.com^
+||cartmansneest.com^
 ||cartrigechances.com^
 ||caruagedlr.com^
 ||carvedcoming.top^
@@ -15494,6 +15498,7 @@ rgmechanicsgames.com*VPN.exe
 ||epailseptox.com^
 ||epcpbbqi.xyz^
 ||epctwfwy.com^
+||eperlanhelluo.com^
 ||epewvpvddaxtv.com^
 ||ephebedori.life^
 ||ephedrasebait.digital^
@@ -23565,6 +23570,7 @@ rgmechanicsgames.com*VPN.exe
 ||laulme.info^
 ||launchbit.com^
 ||laundrydesert.com^
+||laupelezoow.xyz^
 ||laureevie.com^
 ||lauriestatuestroll.com^
 ||laushoar.xyz^
@@ -38310,6 +38316,7 @@ rgmechanicsgames.com*VPN.exe
 ||treasured-dad.pro^
 ||treasureralludednook.com^
 ||treasureravenvulgar.com^
+||treathuffily.com^
 ||treatmentaeroplane.com^
 ||treatrechurn.uno^
 ||treatyaccuserevil.com^
