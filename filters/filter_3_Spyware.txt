@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-17T12:35:06.181Z
+! Last modified: 2024-05-17T18:25:52.575Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||count.sibbo.net^
 ||logger.torimochi-ad.net^
 ||mainting-minues.xyz^
 ||europe-west1-sonorous-dragon-276210.cloudfunctions.net^
