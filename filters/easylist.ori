@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9ESnKcCzMku+PwBNRfzRog
-! Version: 202405180611
+! Checksum: eSp6EjOV0p2I4i1wNaWJMA
+! Version: 202405181221
 ! Title: EasyList
-! Last modified: 18 May 2024 06:11 UTC
+! Last modified: 18 May 2024 12:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -57816,6 +57816,7 @@ browsershots.org#@#.advert_area
 ||07c225f3.online^$document,popup
 ||07e197.site^$document,popup
 ||1350c3.xyz^$document,popup
+||20519a.xyz^$document,popup
 ||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^$document,popup
 ||295c.site^$document,popup
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^$document,popup
@@ -69065,6 +69066,7 @@ newsroom.co.nz##.foundingpartners
 freepresskashmir.news##.fpkdonate
 theiphoneappreview.com##.frame
 mathgames.com##.frame-container
+ranobes.top##.free-support-top
 freedomfirstnetwork.com##.freed-1
 looperman.com##.freestar
 esports.gg##.freestar-esports_between_articles
@@ -69737,6 +69739,7 @@ mmegi.bw##.mmegi-web-banner
 inhabitat.com##.mn-wrapper
 houstonchronicle.com,mysanantonio.com,sfgate.com##.mnh90px
 allrecipes.com##.mntl-jwplayer-broad
+procyclingstats.com##.mob-ad
 comicbook.com##.mobile
 putlockers.do##.mobile-btn
 birdwatchingdaily.com##.mobile-incontent-ad-label
