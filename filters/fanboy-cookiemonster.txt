@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-17T18:25:46.597Z
+! Last modified: 2024-05-18T01:21:26.878Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -144,6 +144,7 @@
 ||privacy.footmercato.net^
 ||cmp.vizus.cz^
 ||consent.t-mobile.cz^
+||kbyqzt.xxxlutz.cz^
 ||me9ddf.moebelix.cz^
 ||cmp.deondernemer.nl^
 ||consent.marktplaats.nl
