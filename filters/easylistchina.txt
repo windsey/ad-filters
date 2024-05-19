@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-18T18:23:51.083Z
+! Last modified: 2024-05-19T01:32:57.873Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -986,6 +986,12 @@
 ||bpxbzps.xyz^
 ||dsa22.com^
 ||mianyaojsj.com^
+||lnxkrd.xyz^
+||oxmvcg.xyz^
+||ugidskit.top^
+||999fb.cn^
+||ltfpbp.xyz^
+||foscvbu.icu^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
