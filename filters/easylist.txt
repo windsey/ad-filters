@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-20T12:38:02.215Z
+! Last modified: 2024-05-20T18:25:12.489Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -977,6 +977,7 @@
 ||a00s.net^
 ||a06bbd98194c252.com^
 ||a11k.com^
+||a14net.com^
 ||a14refresh.com^
 ||a14tdsa.com^
 ||a15c5009bcbe272.com^
