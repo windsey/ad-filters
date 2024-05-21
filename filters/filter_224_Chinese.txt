@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-21T01:21:58.576Z
+! Last modified: 2024-05-21T06:26:54.117Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1093,6 +1093,7 @@
 ||jy147a.com^
 ||rayajmp.icu^
 ||ca2686564a.com^
+||dpedrt.xyz^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
