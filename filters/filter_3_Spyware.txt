@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-20T18:25:20.166Z
+! Last modified: 2024-05-21T01:22:03.613Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1100,7 +1100,7 @@
 ||d3p8zr0ffa9t17.cloudfront.net^
 ||tracker.dalso.org^
 ||evs.sgmt.loom.com^
-||cdn.p.analitik.bik.gov.tr^
+||p.analitik.bik.gov.tr^
 ||webstat.ws.126.net^
 ||stats.rbc.ua^
 ||stats.img2go.com^

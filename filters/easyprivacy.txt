@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-20T18:25:13.781Z
+! Last modified: 2024-05-21T01:21:57.374Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -199,6 +199,7 @@
 ||hs-analytics.net^
 ||hsadspixel.net^
 ||hsleadflows.net^
+||htplayground.com^
 ||i218435.net^
 ||ia-dmp.com^
 ||iconmediapixel.com^
@@ -830,7 +831,6 @@
 ||dx.mountain.com^
 ||dynamic.ziftsolutions.com^
 ||e.channelexco.com^
-||e.htplayground.com^
 ||ea.youmaker.com^
 ||ec.walkme.com^
 ||ecomm.events^
@@ -886,6 +886,7 @@
 ||events.whisk.com^
 ||events.yourcx.io^
 ||eventsproxy.gargantuan.futureplc.com^
+||evt.24.com^
 ||evt.houzz.com^
 ||experience.contextly.com^
 ||f-log-at.grammarly.io^
@@ -1946,6 +1947,7 @@
 ||sp.dpgmedia.net^
 ||stat.24liveplus.com^
 ||statistics.rbi-nl.com^
+||tags.hilabel.nl^
 ||trkr.shoppingminds.net^
 ||dnt-userreport.com^
 ||tags.op-palvelut.fi^
