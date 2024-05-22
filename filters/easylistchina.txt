@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-22T06:26:14.943Z
+! Last modified: 2024-05-22T12:36:53.769Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1014,6 +1014,9 @@
 ||bxlmrl.xyz^
 ||kyokglm.icu^
 ||zca31.com^
+||shangwenchao4.cn^
+||dceuhnpc57.shop^
+||hsylieu.top^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
