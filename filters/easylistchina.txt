@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-21T18:24:54.112Z
+! Last modified: 2024-05-22T01:22:42.425Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1007,6 +1007,12 @@
 ||rayajmp.icu^
 ||ca2686564a.com^
 ||dpedrt.xyz^
+||csylief.top^
+||yhgfoe.xyz^
+||kytbxcl.cn^
+||sahqoo.com^
+||bxlmrl.xyz^
+||kyokglm.icu^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^

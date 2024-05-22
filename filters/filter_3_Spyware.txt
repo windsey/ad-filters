@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-21T18:25:01.427Z
+! Last modified: 2024-05-22T01:22:49.606Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -62,6 +62,7 @@
 ||pixel.glimr.io^
 ||pt.wisernotify.com^
 ||stats.getaim.org^
+||dev-analytics-cf.bigcrunch.com^
 ||analytics-cf.bigcrunch.com^
 ||trackerapi.ebxcdn.com^
 ||trandgid.com^
@@ -754,6 +755,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||tracking-api.passeidireto.com^
 ||analytics.lasegunda.ecn.cl^
 ||analytics.emol.com^
 ||webc2s.pubgw.yahoo.com^
