@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-22T01:22:43.374Z
+! Last modified: 2024-05-22T06:26:15.864Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2842,6 +2842,7 @@
 ||usmetric.rediff.com^
 ||v.adblockultimate.net^
 ||v.ctrl.blog^
+||vf.startpage.com^
 ||views.arabnews.com^
 ||views.asurascans.com^
 ||vortex.hulu.com^
