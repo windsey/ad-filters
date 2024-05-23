@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-22T18:25:42.943Z
+! Last modified: 2024-05-23T01:22:05.639Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1555,6 +1555,7 @@
 ||vst.sibnet.ru^
 ||vstat.borderlessbd.com^
 ||w4o7aea80ss3-a.akamaihd.net^
+||watchtower.graindata.com^
 ||wco.crownpeak.com^
 ||web-tracker.smsbump.com^
 ||web1.51.la^
