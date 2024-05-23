@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-23T06:27:23.684Z
+! Last modified: 2024-05-23T12:35:48.542Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
 -1316632262.cos.
+||iwanshang*.asia^
 -1316899192.cos.
 -90mh-gg.
 ://dreemdmbabys.oss-cn-
@@ -1026,6 +1027,7 @@
 ||isylieo.top^
 ||mweriox.top^
 ||iwanshang8.asia^
+||udheansv.com^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
