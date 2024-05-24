@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-24T06:26:38.560Z
+! Last modified: 2024-05-24T12:36:06.246Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -37541,6 +37541,7 @@
 ||l.m.naver.com^
 ||log.etoday.co.kr^
 ||log.kinolights.com^
+||log.tossinvest.com^
 ||log.zdnet.co.kr^
 ||nil.naver.com^
 ||nlog.naver.com^
