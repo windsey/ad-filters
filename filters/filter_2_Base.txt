@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-24T12:36:11.377Z
+! Last modified: 2024-05-24T18:25:19.854Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -4008,6 +4008,7 @@
 ||xmlserving.mobagent.com^
 ||xmlv4.reklama.network^
 ||push.mywebqsearch.com^
+||d127s3e8wcl3q6.cloudfront.net^
 ||d31uxzurj3z4fa.cloudfront.net^
 ||dre81lzpy0s7q.cloudfront.net^
 ||d1nug4fmv8zva9.cloudfront.net^
@@ -8938,6 +8939,7 @@ rgmechanicsgames.com*VPN.exe
 ||belovedset.com^
 ||beloveupcreep.com^
 ||beltarklate.live^
+||beltwaythrust.com^
 ||beludicolor.com^
 ||belwrite.com^
 ||bemachopor.com^
@@ -26601,6 +26603,7 @@ rgmechanicsgames.com*VPN.exe
 ||muirpekvl.com^
 ||mujilora.com^
 ||mukhtarproving.com^
+||mulaukso.com^
 ||mulberryay.com^
 ||mulberrydoubloons.com^
 ||mulberryresistoverwork.com^
@@ -29150,6 +29153,7 @@ rgmechanicsgames.com*VPN.exe
 ||outyanmegaom.com^
 ||ouveelsa.xyz^
 ||ouvrestance.com^
+||ouwhejoacie.xyz^
 ||ouxvgihpkjfkhs.xyz^
 ||ouyoqudevfal.com^
 ||ouzavamt.com^
@@ -39236,6 +39240,7 @@ rgmechanicsgames.com*VPN.exe
 ||ulmoyc.com^
 ||ulmpyqgfqkffe.com^
 ||ulmujev.com^
+||ulnaswotter.top^
 ||ulngjwvbhyyfkum.com^
 ||ulnhlnsw.com^
 ||ulnidkdlaxclpo.com^
