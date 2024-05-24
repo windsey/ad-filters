@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-23T18:25:08.157Z
+! Last modified: 2024-05-24T01:22:35.436Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11,6 +11,7 @@
 /^188\.42\.84\.\d{1,3}/
 /^139\.45\.19[5-7]\.\d{1,3}/
 ||piguiqproxy.com^$badfilter
+||outheelrelict.com^
 ||2475april2024.com^
 ||pubtrky.com^
 ||mpqgoircwb.com^
