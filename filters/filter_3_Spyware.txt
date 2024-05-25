@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-25T12:34:31.191Z
+! Last modified: 2024-05-25T18:23:44.649Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -35484,6 +35484,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||backstory.ebay.
+||edgetrksvc.ebay.
 ||analytics.global.sky.com^
 ||analytics.cosmonova.net^
 ||pr-bh.ybp.yahoo.com^
