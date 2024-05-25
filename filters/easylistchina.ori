@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7DdQgGF1BHUjiY9eTmtMyQ
-! Version: 202405241811
+! Checksum: 5ooRpl4AO3FujBSRADGWeg
+! Version: 202405250111
 ! Title: EasyList China
-! Last modified: 24 May 2024 18:11 UTC
+! Last modified: 25 May 2024 01:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1689,6 +1689,10 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 !
 ||wqzmed.cn^
+||jxqdl.cn^
+||ieapak.xyz^
+||piksrie.icu^
+||rbrmhz.xyz^
 ##a[href*=".68hantang.com"]
 ##a[href*=".asd245796.com:"]
 ##a[href*=".asd252466.com:"]
