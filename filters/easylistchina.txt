@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-26T01:34:09.550Z
+! Last modified: 2024-05-26T06:25:02.755Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -33,6 +33,7 @@
 ||ibaglhc.icu^
 ||ssylieb.top^
 ||gw2cddpt2hao.asia^
+||onxeacj.cn^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
