@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-27T06:28:02.459Z
+! Last modified: 2024-05-27T12:36:39.043Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -37690,6 +37690,7 @@
 ||hstats.hepsiburada.com^
 ||stats.birgun.net^
 ||tracker.blutv.com^
+||analytics.cosmonova.net^
 ||counter.nv.ua^
 ||counter.ukr.net^
 ||remp.nv.ua^
