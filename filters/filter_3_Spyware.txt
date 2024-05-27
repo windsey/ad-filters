@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-27T12:36:44.777Z
+! Last modified: 2024-05-27T18:25:16.160Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -16,6 +16,8 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||plausible.scimago.es^
+||analytics.qushad.com^
 ||pageviews.tray.com.br^
 ||elb.the-ozone-project.com^
 ||pbcs.nypost.com^
