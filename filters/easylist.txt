@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-27T18:25:09.043Z
+! Last modified: 2024-05-28T01:22:52.582Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -39106,6 +39106,7 @@
 ||zincdatawipe.com^
 ||zincypalmy.top^
 ||zinipx.xyz^
+||zinovu.com^
 ||zinrora.pw^
 ||zipakrar.com^
 ||zipheeda.xyz^
