@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-30T12:37:07.492Z
+! Last modified: 2024-05-30T18:27:05.244Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -65,6 +65,7 @@
 ||pmblrt.xyz^
 ||retintsmillion.com^
 ||zfcoin.cn^
+||pw2ct1.asia^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
