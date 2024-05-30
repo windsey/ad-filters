@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-30T01:23:21.422Z
+! Last modified: 2024-05-30T06:26:37.157Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -62,6 +62,9 @@
 ||yzgbsg.xyz^
 ||zhengwei3.top^
 ||qsyliey.top^
+||pmblrt.xyz^
+||retintsmillion.com^
+||zfcoin.cn^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^

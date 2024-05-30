@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-30T01:23:21.074Z
+! Last modified: 2024-05-30T06:26:36.810Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1389,6 +1389,7 @@
 ||acutepropose.com^
 ||acvnhayikyutjsn.xyz^
 ||acylasecorers.top^
+||ad-adblock.com^
 ||ad-back.net^
 ||ad-balancer.net^
 ||ad-bay.com^
@@ -17400,6 +17401,7 @@
 ||insrvicigquj.com^
 ||insta-cash.net^
 ||instaflrt.com^
+||install-adblockers.com^
 ||install-adblocking.com^
 ||install-check.com^
 ||install-extension.com^
