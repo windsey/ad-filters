@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-29T18:25:13.277Z
+! Last modified: 2024-05-30T01:23:22.345Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -799,10 +799,6 @@
 ||customfingerprints.bablosoft.com^
 ||cws.conviva.com^
 ||d.shareaholic.com^
-||d1tbj6eaenapdy.cloudfront.net^
-||d2pt12ct4kmq21.cloudfront.net^
-||d2wa5sea6guof0.cloudfront.net^
-||d3vebqdofhigrn.cloudfront.net^
 ||dash.getsitecontrol.com^
 ||data.circulate.com^
 ||data.digitalks.az^
@@ -1626,6 +1622,7 @@
 ||d1rgnfh960lz2b.cloudfront.net^
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d1t9uctetvi0tu.cloudfront.net^
+||d1tbj6eaenapdy.cloudfront.net^
 ||d1vg5xiq7qffdj.cloudfront.net^
 ||d1wix2gc2cgqis.cloudfront.net^
 ||d1xfq2052q7thw.cloudfront.net^
@@ -1651,10 +1648,12 @@
 ||d2nxi61n77zqpl.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
+||d2pt12ct4kmq21.cloudfront.net^
 ||d2r1yp2w7bby2u.cloudfront.net^
 ||d2rnkf2kqy5m6h.cloudfront.net^
 ||d2t77mnxyo7adj.cloudfront.net^
 ||d2tgfbvjf3q6hn.cloudfront.net^
+||d2wa5sea6guof0.cloudfront.net^
 ||d2wu036mkcz52n.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d2z0bn1jv8xwtk.cloudfront.net^
@@ -1688,6 +1687,7 @@
 ||d3sbxpiag177w8.cloudfront.net^
 ||d3tglifpd8whs6.cloudfront.net^
 ||d3uvwl4wtkgzo1.cloudfront.net^
+||d3vebqdofhigrn.cloudfront.net^
 ||d4ax0r5detcsu.cloudfront.net^
 ||d761erxl2qywg.cloudfront.net^
 ||d81mfvml8p5ml.cloudfront.net^
@@ -1706,6 +1706,7 @@
 ||dniyppubkuut7.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
 ||dnxlgencstz4.cloudfront.net^
+||dqif5bl25s0bf.cloudfront.net^
 ||drlimmode9ddd.cloudfront.net^
 ||dsbahmgppc0j4.cloudfront.net^
 ||dtxtngytz5im1.cloudfront.net^
