@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-30T06:26:43.002Z
+! Last modified: 2024-05-30T12:37:13.392Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -5885,6 +5885,7 @@ rgmechanicsgames.com*VPN.exe
 ||acutepropose.com^
 ||acvnhayikyutjsn.xyz^
 ||acylasecorers.top^
+||ad-adblock.com^
 ||ad-back.net^
 ||ad-balancer.net^
 ||ad-bay.com^
@@ -21773,6 +21774,7 @@ rgmechanicsgames.com*VPN.exe
 ||insrvicigquj.com^
 ||insta-cash.net^
 ||instaflrt.com^
+||install-adblockers.com^
 ||install-adblocking.com^
 ||install-check.com^
 ||install-extension.com^
