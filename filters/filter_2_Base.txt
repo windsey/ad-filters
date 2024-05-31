@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-05-31T06:26:32.928Z
+! Last modified: 2024-05-31T12:37:02.863Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30205,6 +30205,7 @@ rgmechanicsgames.com*VPN.exe
 ||perseverehang.com^
 ||persevereindirect.com^
 ||perseverevoice.com^
+||persicrejolt.com^
 ||persistarcticthese.com^
 ||persistbrittle.com^
 ||persona3.tech^
@@ -32512,6 +32513,7 @@ rgmechanicsgames.com*VPN.exe
 ||queergatewayeasier.com^
 ||queersodadults.com^
 ||queersynonymlunatic.com^
+||queerygenets.com^
 ||queiajowan.com^
 ||quellaplentyresolute.com^
 ||quellbustle.com^
