@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-01T12:34:47.617Z
+! Last modified: 2024-06-01T18:24:42.381Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -169,6 +169,7 @@
 ||cpgou.cn^
 ||af9dc9.xyz^
 ||goole20.shop^
+||fzpzrqou.icu^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
