@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-03T12:38:01.674Z
+! Last modified: 2024-06-03T18:27:35.327Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -22957,6 +22957,7 @@ rgmechanicsgames.com*VPN.exe
 ||kmmtxfwntcnyd.com^
 ||kmnkiuqfo.com^
 ||kmodukuleqasfo.info^
+||kmrilock.com^
 ||kmyaklgcik.com^
 ||kmyunderthf.info^
 ||knackseafood.com^
@@ -35298,6 +35299,7 @@ rgmechanicsgames.com*VPN.exe
 ||soundingthunder.com^
 ||soupevents.com^
 ||soupteep.xyz^
+||soupteewhish.com^
 ||souptightswarfare.com^
 ||souraivo.xyz^
 ||sourcebloodless.com^
