@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-04T01:24:39.997Z
+! Last modified: 2024-06-04T06:26:45.721Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -387,8 +387,6 @@
 ||vkanalytics.net^
 ||vpdcp.com^
 ||vstats.me^
-||vturb.com.br^
-||vturb.net^
 ||wct-2.com^
 ||whale3.io^
 ||widgetbe.com^
@@ -484,6 +482,7 @@
 ||a.hcaptcha.com^
 ||a.mobify.com^
 ||a.opumo.net^
+||a.vturb.net^
 ||activity-flow.vtex.com^
 ||activity.wisepops.com^
 ||ad.aloodo.com^
