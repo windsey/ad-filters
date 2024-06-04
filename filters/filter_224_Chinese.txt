@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-04T12:37:04.649Z
+! Last modified: 2024-06-04T18:26:02.676Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -120,6 +120,8 @@
 ||edghkc.xyz^
 ||dyzgdp.xyz^
 ||bing005.shop^
+||xbbhwggj.icu^
+||bing003.shop^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^

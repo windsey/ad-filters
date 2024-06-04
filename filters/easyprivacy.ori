@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: VaCYyErdSv2gcT00oA3Fig
-! Version: 202406041231
+! Checksum: jhYdS3xeW6TrPqqltJtl1Q
+! Version: 202406041820
 ! Title: EasyPrivacy
-! Last modified: 04 Jun 2024 12:31 UTC
+! Last modified: 04 Jun 2024 18:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2537,7 +2537,6 @@
 /web-pixel-shopify-app-pixel@
 /web-pixel-shopify-custom-pixel@
 /web-vitals.
-/web-vitals/*
 /web/push?
 /web_analytics/*
 /web_answertip.js
@@ -47329,6 +47328,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||rt.bunte.de^
 ||schnaeppchenfuchs.com/js/default-
 ||shoop.de/mgtrx/
+||shop.rewe.de/api/xrd/web-vitals
 ||sparkasse.de/frontend/setTrackingCookie.htm
 ||sportnews.bz/pcookie?
 ||spreewaldkarte.de/t.gif
@@ -48056,7 +48056,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||carview.co.jp/include_api/log/
 ||contx.net/collect.js
 ||count.upc.rakuten.co.jp^
-||counter.wikiwiki.jp^
 ||d-log.asahi.co.jp^
 ||d-log.bs-asahi.tv^
 ||d-log.tv-asahi.co.jp^

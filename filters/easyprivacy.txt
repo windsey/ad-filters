@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-04T12:37:03.368Z
+! Last modified: 2024-06-04T18:26:01.452Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -37511,7 +37511,6 @@
 ||beacon.watch.impress.co.jp^
 ||beat.yourtv.jp^
 ||count.upc.rakuten.co.jp^
-||counter.wikiwiki.jp^
 ||d-log.asahi.co.jp^
 ||d-log.bs-asahi.tv^
 ||d-log.tv-asahi.co.jp^
