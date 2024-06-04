@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-03T18:27:30.416Z
+! Last modified: 2024-06-04T01:24:39.997Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1649,6 +1649,7 @@
 ||d2j1fszo1axgmp.cloudfront.net^
 ||d2j74sjmqqyf26.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
+||d2lxqodqbpy7c2.cloudfront.net^
 ||d2nxi61n77zqpl.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
@@ -37493,6 +37494,7 @@
 ||stats.splinder.com^
 ||stats.stylight.it^
 ||stats.suedtirolerjobs.it^
+||t.mediaset.it^
 ||tla.traderlink.com^
 ||track.tesiteca.it^
 ||tracker.stileo.it^
