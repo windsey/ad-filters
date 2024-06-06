@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-06T12:37:36.969Z
+! Last modified: 2024-06-06T18:25:51.176Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -16,6 +16,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||metrics.streaks.jp^
 ||track.mailerlite.com^
 ||a11ybar.com^
 ||trackszn.median.eu^
@@ -60,7 +61,6 @@
 ||e.zg-api.com^
 ||fp.techinasia.com^
 ||cadmus.script.ac^
-||feliz.data.tm-awx.com^
 ||lz-pub-ads.com^
 ||w4h5ae.ru^
 ||hscollectedforms.net^

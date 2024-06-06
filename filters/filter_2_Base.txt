@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-06T12:37:36.129Z
+! Last modified: 2024-06-06T18:25:50.358Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11,6 +11,7 @@
 /^188\.42\.84\.\d{1,3}/
 /^139\.45\.19[5-7]\.\d{1,3}/
 ||piguiqproxy.com^$badfilter
+||wxemjmxevy.com^
 ||deliman.net^
 ||nyihcpzdloe.com^
 ||fualujqbhqyn.xyz^
@@ -1886,7 +1887,6 @@
 ||1f22732747.6ec5c9fcec.com^
 ||214ef3ad99.ab728d9dc8.com^
 ||251f86a5eb.e30a86a427.com^
-||3289892c83.eb36c9bf12.com^
 ||362e373497.4a5936c82e.com^
 ||383e3851cf.0115b2b799.com^
 ||3963da983f.54176897ed.com^
@@ -11344,6 +11344,7 @@ rgmechanicsgames.com*VPN.exe
 ||cifqfyafsolzb.com^
 ||cigaretteintervals.com^
 ||cigarettenotablymaker.com^
+||ciizxsdr.com^
 ||ciksolre.net^
 ||ciliarycetus.com^
 ||cilvhypjiv.xyz^
@@ -14859,6 +14860,7 @@ rgmechanicsgames.com*VPN.exe
 ||eaxhsjrlq.com^
 ||eayeewlvmeqel.top^
 ||eazyleads.com^
+||eb36c9bf12.com^
 ||eb5232b35d.com^
 ||ebannertraffic.com^
 ||ebb174824f.com^
@@ -19622,6 +19624,7 @@ rgmechanicsgames.com*VPN.exe
 ||heftygift.pro^
 ||hegazedatthe.info^
 ||hehighursoo.com^
+||hehnpryefuq.com^
 ||heiressplane.com^
 ||heiressscore.com^
 ||heiresstolerance.com^
@@ -42499,6 +42502,7 @@ rgmechanicsgames.com*VPN.exe
 ||zpbpenn.com^
 ||zpcfnzjq.com^
 ||zpgetworker11.com^
+||zphgadwnjro.com^
 ||zpreland.com^
 ||zprelandappslab.com^
 ||zprelanding.com^
