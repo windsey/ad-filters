@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-07T12:38:38.504Z
+! Last modified: 2024-06-07T18:27:21.493Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -115,6 +115,7 @@
 ||hntkgpd.cn^
 ||itjgwn.xyz^
 ||anbkzt.xyz^
+||uaiosio.top^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
