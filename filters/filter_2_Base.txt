@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-06T18:25:50.358Z
+! Last modified: 2024-06-07T01:26:33.136Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1912,7 +1912,6 @@
 ||93f9e9c378.0165672dd6.com^
 ||96b600f50a.a0e351a3aa.com^
 ||9aba99956a.eb480dde95.com^
-||a1391330c0.f43f5a2390.com^
 ||a778de2012.5c530d2179.com^
 ||a8ec34052d.fb5ab8a79a.com^
 ||ab810b774c.1facd1b75f.com^
@@ -12928,6 +12927,7 @@ rgmechanicsgames.com*VPN.exe
 ||dacmaiss.com^
 ||dacmursaiz.xyz^
 ||dacnmevunbtu.com^
+||dacpibaqwsa.com^
 ||dacronblanchi.guru^
 ||dadsats.com^
 ||dadsimz.com^
@@ -16230,6 +16230,7 @@ rgmechanicsgames.com*VPN.exe
 ||f3663618ff.com^
 ||f3f202565b.com^
 ||f3udfa7nfguhni.com^
+||f43f5a2390.com^
 ||f4823894ba.com^
 ||f48d1c06e4.com^
 ||f4961f1b2e.com^
@@ -17100,6 +17101,7 @@ rgmechanicsgames.com*VPN.exe
 ||fnbauniukvi.com^
 ||fnelqqh.com^
 ||fnnmnupevx.com^
+||fnnvyvxiu.com^
 ||fnqcbxqvodj.com^
 ||fnrrm2fn1njl1.com^
 ||fntphihy.com^
@@ -33300,6 +33302,7 @@ rgmechanicsgames.com*VPN.exe
 ||rpts.org^
 ||rpzbfftekjdz.com^
 ||rqakljxbs.com^
+||rqazepammrl.com^
 ||rqbugumvsprr.com^
 ||rqctubqtcbgeug.com^
 ||rqdcusltmryapg.com^
