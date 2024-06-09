@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-09T01:37:37.740Z
+! Last modified: 2024-06-09T06:26:25.239Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -114,6 +114,7 @@
 ||vbiakpu.icu^
 ||bwjfnj.xyz^
 ||fnjoomqa.icu^
+||hvzrrvj.cn^
 ||bing007.shop^
 ||thgthgfg.cn^
 ||oaqrui.xyz^
