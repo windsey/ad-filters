@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-08T18:24:46.180Z
+! Last modified: 2024-06-09T01:37:36.491Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2846,9 +2846,11 @@
 ||tracking.shopstyle.com^
 ||tracking.unrealengine.com^
 ||trackr.vivenu.com^
+||trck.coomeet.com^
 ||trcksplt.miro.com^
 ||treatment.grammarly.com^
 ||tredir.go.com^
+||trends.privacywall.org^
 ||trk.decido.io^
 ||trk.tirto.id^
 ||trx3.famousfix.com^
