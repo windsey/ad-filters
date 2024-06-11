@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-10T18:26:20.218Z
+! Last modified: 2024-06-11T01:25:52.541Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1719,6 +1719,17 @@
 ||duu8lzqdm8tsz.cloudfront.net^
 ||dy2xcjk8s1dbz.cloudfront.net^
 ||dzgwautxzdtn9.cloudfront.net^
+||anal.sataniskwijt.be^
+||analytics.code.dccouncil.gov^
+||count.vidsrc.pro^
+||goat.hepicgamerz.com^
+||goat.nhimmeo.cf^
+||goat.skeetstats.xyz^
+||goat.tailspace.net^
+||st.mapleranks.com^
+||stats.afrocave.com^
+||stats.boringproxy.io^
+||stats.how.wtf^
 ||am-vid-events.taboola.com^
 ||convsgmp.taboola.com^
 ||la-sync.taboola.com^
