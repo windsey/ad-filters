@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-12T01:25:42.952Z
+! Last modified: 2024-06-12T06:26:59.763Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -62,7 +62,6 @@
 ||widgets.openli.com^
 ||banner.cookiescan.com^
 ||cb-mms.carbuyer.co.uk^
-||cdn259.talksport.com^
 ||cmp-static.nature.com^
 ||cmp.cdn.thesun.co.uk^
 ||cmp.cdn.thesun.ie^
