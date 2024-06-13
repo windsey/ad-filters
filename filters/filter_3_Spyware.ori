@@ -3871,6 +3871,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||merchant-center-analytics.goog^
 ||pxl.knam.pro^
 ||manalyticshub.com^
 ||metrics.streaks.jp^
@@ -39529,6 +39530,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||logs.openbank.com^
 ||plausible.omgapi.org^
 ||geo.wpforms.com^
 ||cdn.track.olx.com.br^
