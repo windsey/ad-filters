@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-12T18:26:43.371Z
+! Last modified: 2024-06-13T01:25:04.208Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -125,6 +125,8 @@
 ||ccm1.dlr.de^
 ||cmp.pcwelt.de^
 ||cmp.tvspielfilm.de^
+||cmp.wetteronline.de^
+||consens.conlabz.de^
 ||consent-wrapper.jameda.de^
 ||consent.berliner-kurier.de^
 ||consent.gutefrage.net^
