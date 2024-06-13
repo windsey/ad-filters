@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-13T06:26:53.376Z
+! Last modified: 2024-06-13T12:37:51.222Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -45,6 +45,7 @@
 ||uuuutp.com^
 ||xn--w9q675dm1p7em.net^
 ||xxxx68xxxx.com^
+||cvfgere96.cn^
 ||0op8kh.cn^
 ||0oqt9i.cn^
 ||0q5joc.cn^
