@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-13T18:27:30.742Z
+! Last modified: 2024-06-14T01:25:20.851Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -35539,6 +35539,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||d9jj3mjthpub.cloudfront.net^
 ||logs.openbank.com^
 ||plausible.omgapi.org^
 ||geo.wpforms.com^
@@ -35784,7 +35785,6 @@
 ||analytics.theta360.com^
 ||log.ifood.tv^
 ||analytics.pangle-ads.com^
-||d9jj3mjthpub.cloudfront.net^
 ||wwwstat.rz.uni-leipzig.de^
 ||analytics.fap.bar^
 ||analytics-batch.blitz.gg^
