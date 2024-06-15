@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-15T01:25:02.845Z
+! Last modified: 2024-06-15T06:25:27.402Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -67,6 +67,7 @@
 ||pwxlbsie.icu^
 ||bbqoa.top^
 ||fogolakda.top^
+||szdpk.cn^
 ||0op8kh.cn^
 ||0oqt9i.cn^
 ||0q5joc.cn^
