@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-15T12:35:45.903Z
+! Last modified: 2024-06-15T18:25:49.404Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -29,6 +29,7 @@
 ://segment-cdn.
 ||adservice.google.
 ||00px.net^
+||1bliq.io^
 ||1cros.net^
 ||2cnt.net^
 ||2l6ddsmnm.de^
@@ -490,6 +491,7 @@
 ||adfox.yandex.ru^
 ||adlog.com.com^
 ||ads-trk.vidible.tv^
+||adv-analytics-collector.videograph.ai^
 ||affiliate-api.raptive.com^
 ||affiliates.minglematch.com^
 ||akatracking.esearchvision.com^
@@ -37291,6 +37293,7 @@
 ||insights.decathlon.net^
 ||kwgs.letudiant.fr^
 ||logstash-3.radio-canada.ca^
+||metrics-broker.prod.p.tf1.fr^
 ||ocular.dealabs.com^
 ||p.pagesjaunes.fr^
 ||pixel.dugwood.com^

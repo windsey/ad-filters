@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-15T12:35:46.239Z
+! Last modified: 2024-06-15T18:25:49.741Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -73,6 +73,7 @@
 ||cmp.lavie.fr^
 ||cmp.lemonde.fr^
 ||cmp.lepoint.fr^
+||cmp.nature.com^
 ||cmp.netzwelt.de^
 ||cmp.nouvelobs.com^
 ||cmp.osano.com^

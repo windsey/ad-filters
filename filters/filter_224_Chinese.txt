@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-15T12:35:47.155Z
+! Last modified: 2024-06-15T18:25:50.649Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -106,6 +106,7 @@
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||dvgjx.cn^
 ||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
