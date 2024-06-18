@@ -1,9 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-18T12:38:02.604Z
+! Last modified: 2024-06-18T18:27:07.361Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
+
+||ttad125.com^
+||996js123.com^
 ||ad.886112.xyz^
 ||98765.pw^
 ||aziekg.xyz^
@@ -130,6 +133,8 @@
 ||dfvmzx.xyz^
 ||fgadsqdma.top^
 ||daksflkalq.top^
+||cduno.cn^
+||infocab888.life^
 ||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
