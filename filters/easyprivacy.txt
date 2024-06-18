@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-17T18:26:23.878Z
+! Last modified: 2024-06-18T01:26:05.624Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -142,6 +142,7 @@
 ||etop.ro^
 ||eu-1-id5-sync.com^
 ||everesttech.net^
+||ew3.io^
 ||experianmatch.info^
 ||ezodn.com^
 ||ezstat.ru^

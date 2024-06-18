@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-17T18:26:28.754Z
+! Last modified: 2024-06-18T01:26:10.569Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2088,7 +2088,6 @@
 ||93f9e9c378.0165672dd6.com^
 ||96b600f50a.a0e351a3aa.com^
 ||9aba99956a.eb480dde95.com^
-||a5a3b2ce93.a717b6d31e.com^
 ||a778de2012.5c530d2179.com^
 ||a8ec34052d.fb5ab8a79a.com^
 ||ab810b774c.1facd1b75f.com^
@@ -5647,6 +5646,7 @@ rgmechanicsgames.com*VPN.exe
 ||a69i.com^
 ||a6dc99d1a8.com^
 ||a700fb9c8d.com^
+||a717b6d31e.com^
 ||a718917a44.com^
 ||a899228ebf.com^
 ||a8rm1m4msbbh.com^
@@ -28198,6 +28198,7 @@ rgmechanicsgames.com*VPN.exe
 ||ojuhfoa.com^
 ||ojuhjcmhemvs.com^
 ||ojwapnolwa.com^
+||ojwonhtrenwi.com^
 ||ojzghaawlf.com^
 ||okaks.com^
 ||okapiropp.top^
@@ -31331,6 +31332,7 @@ rgmechanicsgames.com*VPN.exe
 ||psoorsen.com^
 ||psootchu.net^
 ||psothoms.com^
+||psotudev.com^
 ||psougnoa.net^
 ||psougrie.com^
 ||psoumoalt.com^
