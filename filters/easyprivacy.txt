@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-19T01:26:19.557Z
+! Last modified: 2024-06-19T06:27:27.287Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -682,6 +682,7 @@
 ||bee.tc.easebar.com^
 ||behavior.tongdun.net^
 ||bento.agoda.com^
+||bi.heyloyalty.com^
 ||bi.medscape.com^
 ||bmrg.reflected.net^
 ||bonfire.spklw.com^
