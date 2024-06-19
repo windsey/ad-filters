@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: j+46nWClQZIrIhKElPTRqw
-! Version: 202406191240
+! Checksum: gppt1OfBxQtSpqcTOlgvwg
+! Version: 202406191821
 ! Title: EasyList
-! Last modified: 19 Jun 2024 12:40 UTC
+! Last modified: 19 Jun 2024 18:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20807,6 +20807,7 @@ browsershots.org#@#.advert_area
 ||biblesausage.com^
 ||bibletweak.com^
 ||bibtu.com^
+||bichosdamiana.com^
 ||bicyclelistoffhandpaying.com^
 ||bicyclelistpermanentlyenslave.com^
 ||bicyclelistworst.com^
@@ -22422,6 +22423,7 @@ browsershots.org#@#.advert_area
 ||cc72fceb4f.com^
 ||cc954a8da8.com^
 ||cca63f7d30.com^
+||ccaa0e51d8.com^
 ||ccaahdancza.com^
 ||ccdneniusruhebl.com^
 ||ccdrofvofrfkqah.com^
@@ -43632,6 +43634,7 @@ browsershots.org#@#.advert_area
 ||qlfqkjluvz.com^
 ||qlmwgibhbhar.com^
 ||qlnccjattetsoq.com^
+||qlnkt.com^
 ||qlrpbdhwebzpf.com^
 ||qlrxmuvghs.com^
 ||qlspx.com^
@@ -45507,6 +45510,7 @@ browsershots.org#@#.advert_area
 ||rufwnrguipfep.com^
 ||rugcrucial.com^
 ||rugiomyh2vmr.com^
+||ruglhiahxam.com^
 ||ruineddefectivecurb.com^
 ||ruinedpenal.com^
 ||ruinedpersonnel.com^
@@ -49136,6 +49140,7 @@ browsershots.org#@#.advert_area
 ||texturedetrimentit.com^
 ||textureeffacepleat.com^
 ||tfaln.com^
+||tfauwtzipxob.com^
 ||tfb7jc.de^
 ||tffkroute.com^
 ||tfgdybgb.com^
@@ -56858,6 +56863,7 @@ browsershots.org#@#.advert_area
 ||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^$document,popup
 ||22dd31.xyz^$document,popup
 ||285b0b37.xyz^$document,popup
+||28d591da.xyz^$document,popup
 ||295c.site^$document,popup
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^$document,popup
 ||3a2e.site^$document,popup
@@ -73411,6 +73417,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||signin.verizon.com^*/affiliate/$subdocument,xmlhttprequest
 @@||somewheresouth.net/banner/banner.php$image
 @@||sportsnet.ca/wp-content/plugins/bwp-minify/$domain=sportsnet.ca
+@@||standard.co.uk/js/third-party/prebid8.$~third-party
 @@||startrek.website/pictrs/image/$xmlhttprequest
 @@||stat-rock.com/player/$domain=4shared.com|adplayer.pro
 @@||static.doubleclick.net/instream/ad_status.js$script,domain=ignboards.com

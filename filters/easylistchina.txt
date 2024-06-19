@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-19T12:45:30.360Z
+! Last modified: 2024-06-19T18:26:53.740Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -5296,6 +5296,7 @@
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||ssp.moeli.net^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
