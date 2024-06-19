@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-18T18:27:11.045Z
+! Last modified: 2024-06-19T01:26:24.561Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11,6 +11,7 @@
 /^188\.42\.84\.\d{1,3}/
 /^139\.45\.19[5-7]\.\d{1,3}/
 ||piguiqproxy.com^$badfilter
+||at.adtech.redventures.io^
 ||dcjeeqwrhg.com^
 ||bb.churchkhela.site^
 ||xsfcqjtkkjdp.com^
@@ -2057,7 +2058,6 @@
 ||40dd6c8f55.5b7cb7236e.com^
 ||45cf2c258c.a272118d17.com^
 ||4adfa856fe.d1d0568e46.com^
-||505c675876.7757139f7b.com^
 ||587b0060ba.ca2686564a.com^
 ||5e23859408.7868d5c036.com^
 ||629de87520.f983cf2155.com^
@@ -5434,6 +5434,7 @@ rgmechanicsgames.com*VPN.exe
 ||76a7doiet256.com^
 ||76f74721ab.com^
 ||771703f2e9.com^
+||7757139f7b.com^
 ||775cf6f1ae.com^
 ||776173f9e6.com^
 ||777seo.com^
@@ -21706,6 +21707,7 @@ rgmechanicsgames.com*VPN.exe
 ||inventoryproducedjustice.com^
 ||invertangareb.top^
 ||investcoma.com^
+||investigationsuperbprone.com^
 ||investmentstar.org^
 ||investorequalityfrog.com^
 ||invibravaa.com^
@@ -26881,6 +26883,7 @@ rgmechanicsgames.com*VPN.exe
 ||ncpnth.xyz^
 ||ncpvxltfbsrcavo.com^
 ||ncpxhrurirscgsd.com^
+||ncubadmavfp.com^
 ||ncukgqjfaxjv.com^
 ||ncwabgl.com^
 ||nczxuga.com^
@@ -27501,6 +27504,7 @@ rgmechanicsgames.com*VPN.exe
 ||nougacoush.com^
 ||noughtefface.com^
 ||noughttrustthreshold.com^
+||noukotumorn.com^
 ||noumohur.com^
 ||nounaswarm.com^
 ||nounooch.com^
@@ -29084,6 +29088,7 @@ rgmechanicsgames.com*VPN.exe
 ||owlsalqrarab.com^
 ||owlunimmvn.com^
 ||owndata.network^
+||ownzzohggdfb.com^
 ||owoxauky.com^
 ||owqrtaodb.com^
 ||owrddzml.com^
