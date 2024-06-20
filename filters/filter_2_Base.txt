@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-20T06:27:30.609Z
+! Last modified: 2024-06-20T12:37:20.986Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11,6 +11,9 @@
 /^188\.42\.84\.\d{1,3}/
 /^139\.45\.19[5-7]\.\d{1,3}/
 ||piguiqproxy.com^$badfilter
+||kms-full.com^
+||kmspico.ws^
+||kmspico.io^
 ||at.adtech.redventures.io^
 ||dcjeeqwrhg.com^
 ||bb.churchkhela.site^

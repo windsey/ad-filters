@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-20T06:27:24.793Z
+! Last modified: 2024-06-20T12:37:15.154Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -58,6 +58,7 @@
 ||fpfbbn.xyz^
 ||engwsq.xyz^
 ||jdrlfn.xyz^
+||doujs01.xyz^
 ||lnlkmr.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
