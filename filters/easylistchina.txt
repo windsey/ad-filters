@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-21T01:24:32.601Z
+! Last modified: 2024-06-21T06:28:07.148Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -27,6 +27,8 @@
 ||sggu.cn^
 ||puwkcqp.icu^
 ||kdoshbd.top^
+||wbaj.cn^
+||bfhueh.top^
 ||dvgjx.cn^
 ||ytqeavc.icu^
 ||adzo.cn^
