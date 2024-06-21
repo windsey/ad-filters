@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-21T12:36:57.877Z
+! Last modified: 2024-06-21T18:26:37.438Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
+! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
 ||adx-open-service.youku.com^
@@ -85,6 +85,7 @@
 ||startup.mobile.yandex.net^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
+||s-odx.oleads.com^
 ||mediation.unity3d.com^
 ||cdn-ad.wtzw.com^
 ||appsrv.display.io^

@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-21T12:36:58.498Z
+! Last modified: 2024-06-21T18:26:38.061Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
+! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
 ||ttad125.com^
@@ -121,6 +121,7 @@
 ||wbaj.cn^
 ||bfhueh.top^
 ||szdzn.cn^
+||vppzjv.xyz^
 ||dvgjx.cn^
 ||ytqeavc.icu^
 ||adzo.cn^

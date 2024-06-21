@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-21T12:37:03.098Z
+! Last modified: 2024-06-21T18:26:42.638Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.24
+! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 -s2s.sensic.net^
 ||stat.tiara.
@@ -33711,6 +33711,10 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||events.tryamped.com^
+||track.sendlane.com^
+||tracking-v*.a.run.app^
+||m1tm.motor1.com^
 ||ctr.po-kaki-to.com^
 ||analytics.sonjj.com^
 ||status.techtarget.itmedia.co.jp^
