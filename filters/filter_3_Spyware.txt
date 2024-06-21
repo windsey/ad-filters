@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-21T06:28:13.850Z
+! Last modified: 2024-06-21T12:37:03.098Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -3219,7 +3219,6 @@
 ||yoiku-sub.yoiku.support^
 ||sharpmarketing.eu^
 ||actonsoftware.com^
-||healthgrades.com^
 ||actonservice.com^
 ||3dm.3dimensional.com^
 ||a.evergage.com^
@@ -3294,6 +3293,7 @@
 ||hancockhealth.hancockregional.org^
 ||hello.controlmap.io^
 ||hra.nyp.org^
+||hrm.healthgrades.com^
 ||info.accutrain.com^
 ||info.americanroller.com^
 ||info.ascassociation.org^
@@ -7259,6 +7259,7 @@
 ||som.escapehomes.com^
 ||som.gaservesamerica.com^
 ||som.greatwolf.com^
+||som.healthgrades.com^
 ||som.homeaway.com^
 ||som.homeaway.com.au^
 ||som.homeaway.com.co^
@@ -26702,6 +26703,7 @@
 ||etrack.ext.arubanetworks.com^
 ||evkeeza-e.regeneron.com^
 ||experience.phenomenex.com^
+||go.healthgrades.com^
 ||hydsecure.eaton.com^
 ||info.gtc.net.gt^
 ||investments.virtus.com^
@@ -26718,6 +26720,7 @@
 ||regmdr.pref.ims.dialog-direct.com^
 ||s.clientes.construrama.com^
 ||secure.mdtinternal.medtronic.com^
+||track.hg.healthgrades.com^
 ||tracking.agora.io^
 ||tracking.care.muschealth.org^
 ||tracking.continuingstudies.wisc.edu^
@@ -33708,6 +33711,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||ctr.po-kaki-to.com^
 ||analytics.sonjj.com^
 ||status.techtarget.itmedia.co.jp^
 ||ephemeralcounters.api.roblox.com^
