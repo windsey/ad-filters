@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-20T18:27:13.963Z
+! Last modified: 2024-06-21T01:24:33.534Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -2192,6 +2192,7 @@
 ||counter.photopulse.ru^
 ||counter.pr-cy.ru^
 ||counter.reddigital.ru^
+||counter.smotrim.ru^
 ||crm-analytics.imweb.ru^
 ||d.wi-fi.ru^
 ||dbex-tracker-v2.driveback.ru^
@@ -37680,6 +37681,7 @@
 ||stats.mos.ru^
 ||sync.rambler.ru^
 ||top-staging.mail.ru^
+||vstat.rtr-vesti.ru^
 ||xray.mail.ru^
 ||yast.rutube.ru^
 ||harvester.cms.markiza.sk^
@@ -37726,6 +37728,7 @@
 ||d.haberler.com^
 ||d.sondakika.com^
 ||h.n11.com^
+||hit.cnbce.com^
 ||hstats.hepsiburada.com^
 ||stats.birgun.net^
 ||tracker.blutv.com^
