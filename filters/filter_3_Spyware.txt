@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-22T18:24:58.080Z
+! Last modified: 2024-06-23T01:36:34.580Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -35136,7 +35136,6 @@
 ||lcs.modoo.at^
 ||lcs.naver.com^
 ||lexip.4pcdn.de^
-||lexip.4players.de^
 ||librato-collector.genius.com^
 ||live.rezync.com^
 ||livecounter.theyosh.nl^
@@ -35333,7 +35332,6 @@
 ||pix.sniperlog.ru^
 ||pixel.1und1.de^
 ||pixel.4pcdn.de^
-||pixel.4players.de^
 ||pixel.anyclip.com^
 ||pixel.bridge.dooca.store^
 ||pixel.bullion.media^
@@ -35662,7 +35660,6 @@
 ||stt.nimbusweb.me^
 ||style.onvz.nl^
 ||su.addthis.com^
-||subpixel.4players.de^
 ||swa.metro.co.uk^
 ||sync.1dmp.io^
 ||sync.adap.tv^
