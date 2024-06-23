@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-23T01:36:27.770Z
+! Last modified: 2024-06-23T06:26:19.085Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -24,6 +24,7 @@
 ||saeo.cn^
 ||edoshbw.top^
 ||blciqbk.icu^
+||ycgfdf.cn^
 ||8878tp.com^
 ||ccccc66kkkkk.com^
 ||ccccc78kkkkk.com^
