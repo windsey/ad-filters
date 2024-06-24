@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-24T06:29:10.781Z
+! Last modified: 2024-06-24T12:38:42.852Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -125,6 +125,11 @@
 ||663008888.com^
 ||uutytp.com^
 ||w0057.com^
+||doujs03.xyz^
+||6pznpz.com^
+||baijs02.xyz^
+||baijs03.xyz^
+||google-js-01.xyz^
 ||8878tp.com^
 ||ccccc66kkkkk.com^
 ||ccccc78kkkkk.com^
