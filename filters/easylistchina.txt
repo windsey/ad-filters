@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-24T18:26:33.561Z
+! Last modified: 2024-06-25T01:25:48.863Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -39,6 +39,13 @@
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||google-js-01.xyz^
+||afopr.cn^
+||qdoshby.top^
+||eyislow.top^
+||miwfkm.xyz^
+||dnpalh.xyz^
+||cresqoirz.com^
+||mcighme.icu^
 ||8878tp.com^
 ||ccccc66kkkkk.com^
 ||ccccc78kkkkk.com^
