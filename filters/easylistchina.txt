@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-26T12:39:14.180Z
+! Last modified: 2024-06-26T18:26:00.943Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -50,6 +50,7 @@
 ||qyisloy.top^
 ||dxfidr.xyz^
 ||na06.cn^
+||thruudrad.com^
 ||afopr.cn^
 ||qdoshby.top^
 ||eyislow.top^

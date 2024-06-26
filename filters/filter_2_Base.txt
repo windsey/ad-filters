@@ -1,10 +1,9 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-26T12:39:20.026Z
+! Last modified: 2024-06-26T18:26:06.797Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
-
 ||pepiggies.xyz^
 ||googie-anaiytics.com^
 ||maplecurriculum.com^
