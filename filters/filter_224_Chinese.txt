@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-27T06:27:58.454Z
+! Last modified: 2024-06-27T12:38:15.081Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -119,6 +119,7 @@
 ||ytoeyxz.icu^
 ||szdtf.cn^
 ||tyisloi.top^
+||pjdthz.xyz^
 ||talyrt.xyz^
 ||okagcw.xyz^
 ||vtlyrj.xyz^
