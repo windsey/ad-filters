@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-28T06:28:01.400Z
+! Last modified: 2024-06-28T12:37:55.226Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -331,6 +331,7 @@
 ||seadform.net^
 ||selphiu.com^
 ||seoab.io^
+||sf-insights.io^
 ||sgstats.com^
 ||site24x7rum.eu^
 ||sitecounter.site^
