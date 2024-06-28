@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-28T12:38:00.160Z
+! Last modified: 2024-06-28T18:26:11.956Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -34824,6 +34824,7 @@ rgmechanicsgames.com*VPN.exe
 ||sexyadsrun.com^
 ||sexyepc.com^
 ||seynatcreative.com^
+||sf-ads.io^
 ||sfafabztidi.com^
 ||sfcfssgbrhnsb.com^
 ||sffsdvc.com^
