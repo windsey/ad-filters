@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-29T01:24:32.619Z
+! Last modified: 2024-06-29T06:26:04.067Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1186,6 +1186,7 @@
 ||reach-id.orbit.tm-awx.com^
 ||realm.hearst3pcc.com^
 ||receive.wmcdp.io^
+||recs-api.conde.digital^
 ||recs.shareaholic.com^
 ||refer.wordpress.com^
 ||referrer.disqus.com^
