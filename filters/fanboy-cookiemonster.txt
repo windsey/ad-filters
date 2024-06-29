@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-29T06:26:04.408Z
+! Last modified: 2024-06-29T12:36:16.261Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -56,6 +56,8 @@
 ||privacy.digimedia.com^
 ||ressource.gdpr-banner.awsmpsa.com^
 ||smarteucookiebanner.upsell-apps.com^
+||sync-transcend-cdn.com^
+||transcend-cdn.com^
 ||truyoproductionuscdn.truyo.com^
 ||webcache-eu.datareporter.eu^
 ||webcache.datareporter.eu^
