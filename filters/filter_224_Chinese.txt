@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-28T18:26:08.208Z
+! Last modified: 2024-06-29T01:24:33.844Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -120,6 +120,13 @@
 ||555ppp777ppp.com^
 ||666ppp222ppp.com^
 ||sxlmggx12.com^
+||adhvz.cn^
+||qeedaa.xyz^
+||ldoshbl.top^
+||kfycmiu.icu^
+||xrmfjzqo.xyz^
+||bbxyxt.xyz^
+||5gxs.org^
 ||efhis.cn^
 ||udoshbt.top^
 ||lhtzfn.xyz^

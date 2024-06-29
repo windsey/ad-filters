@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-28T18:26:11.956Z
+! Last modified: 2024-06-29T01:24:37.519Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -11875,7 +11875,6 @@ rgmechanicsgames.com*VPN.exe
 ||clickgate.biz^
 ||clickgate08.biz^
 ||clickintext.com^
-||clickiocdn.com^
 ||clickmi.net^
 ||clickmobad.net^
 ||clicknano.com^
@@ -22983,6 +22982,7 @@ rgmechanicsgames.com*VPN.exe
 ||jyozavoyyykby.top^
 ||jyqekzewvyojy.top^
 ||jyrfbtmbuqeaeo.com^
+||jysocexrxbodh.com^
 ||jytbxzil.com^
 ||jyuirxswk.com^
 ||jywczbx.com^
@@ -29719,6 +29719,7 @@ rgmechanicsgames.com*VPN.exe
 ||pccasia.xyz^
 ||pcdgninekvch.com^
 ||pcfchubby.top^
+||pcglvhrln.com^
 ||pchcwqsfaqpw.com^
 ||pcheahrdnfktvhs.xyz^
 ||pcirurrkeazm.com^
