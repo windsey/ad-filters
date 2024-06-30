@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-30T06:26:26.795Z
+! Last modified: 2024-06-30T12:36:00.399Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -344,6 +344,7 @@
 ||speedyrhino.co^
 ||spinnaker-js.com^
 ||srmdata-eur.com^
+||ssevt.com^
 ||stack-sonar.com^
 ||stat.ovh^
 ||statisticplatform.com^
