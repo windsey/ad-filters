@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-30T12:36:00.399Z
+! Last modified: 2024-06-30T18:26:24.514Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1823,6 +1823,7 @@
 ||t.nativendo.de^
 ||t.quisma.com^
 ||tagm.tchibo.de^
+||tms.danzz.ch^
 ||track2.cliplister.com^
 ||track2.dulingo.com^
 ||track2.mycliplister.com^
