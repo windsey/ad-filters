@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-06-30T01:38:44.779Z
+! Last modified: 2024-06-30T06:26:26.795Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -411,8 +411,6 @@
 ||youboranqs01.com^
 ||zdbb.net^
 ||zenaps.com^
-||zfctrack.net^
-||zhctrack.net^
 ||zippyfrog.co^
 ||zjptg.com^
 ||zononi.com^
