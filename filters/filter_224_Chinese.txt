@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-02T01:26:34.809Z
+! Last modified: 2024-07-02T06:28:54.390Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -114,6 +114,7 @@
 ||ajoqu.cn^
 ||hdtvnr.xyz^
 ||cjgymo.xyz^
+||hzrnbl.xyz^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
