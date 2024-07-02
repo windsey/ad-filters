@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-02T12:36:50.596Z
+! Last modified: 2024-07-02T18:26:44.037Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -115,6 +115,8 @@
 ||hdtvnr.xyz^
 ||cjgymo.xyz^
 ||hzrnbl.xyz^
+||8208tp.com^
+||imgoss511.top^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
