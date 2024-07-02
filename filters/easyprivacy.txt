@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-01T18:26:43.992Z
+! Last modified: 2024-07-02T01:26:33.544Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1419,6 +1419,7 @@
 ||track.digitalriver.com^
 ||track.emerse.com^
 ||track.hubspot.com^
+||track.hydro.online^
 ||track.juno.com^
 ||track.kinetiksoft.com^
 ||track.mailerlite.com^
