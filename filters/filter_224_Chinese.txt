@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-02T18:26:44.037Z
+! Last modified: 2024-07-03T01:26:14.396Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -117,6 +117,14 @@
 ||hzrnbl.xyz^
 ||8208tp.com^
 ||imgoss511.top^
+||ovejqw.xyz^
+||jiusudie.com^
+||cmqxy.cn^
+||pnvtlh.xyz^
+||idipsumo.top^
+||hyislou.top^
+||tlpyft.xyz^
+||jbkqemk.icu^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -714,7 +722,6 @@
 ||jhnnnb.xyz^
 ||jinzige.cn^
 ||jioed.cyou^
-||jiusudie.com^
 ||jivvjl.xyz^
 ||jmesxbe.icu^
 ||jnalzla.top^
