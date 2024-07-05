@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-05T06:28:51.328Z
+! Last modified: 2024-07-05T12:37:22.974Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2070,6 +2070,7 @@
 ||log.popin.cc^
 ||log000.goo.ne.jp^
 ||logger.torimochi-ad.net^
+||mail-count.matsui.co.jp^
 ||metrics.streaks.jp^
 ||omt.shinobi.jp^
 ||panda.kasika.io^

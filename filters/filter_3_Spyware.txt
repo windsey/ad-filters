@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-05T06:28:57.164Z
+! Last modified: 2024-07-05T12:37:28.707Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||srvr.dmvs-apac.com^
 ||analytics.freespee.com^
 ||dash.zintrack.com^
 ||track.fluffyfalcon.com^
@@ -35838,6 +35839,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||peach-analytics.vercel.app^
 ||lfmetrics.loyalfans.com^
 ||track.amebame.com^
 ||pks-analytics.raenonx.cc^
