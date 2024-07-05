@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-05T12:37:22.005Z
+! Last modified: 2024-07-05T18:26:26.889Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -46,6 +46,8 @@
 ||ortlisk.top^
 ||dmnxkj.cn^
 ||gw2cddpt2hao.cloud^
+||gw2cddpt2hao.site^
+||fgwuw.com^
 ||0uyt5b.cn^
 ||0v1syj.cn^
 ||1028images.com^

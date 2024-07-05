@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-05T12:37:27.882Z
+! Last modified: 2024-07-05T18:26:33.128Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -4412,6 +4412,7 @@
 ||static.pressizeteam.com^
 ||static.rvndigital.com^
 ||static-rtb2.applabs.live^
+||advertising-cdn.dpgmedia.cloud^
 ||d2lg0swrp15nsj.cloudfront.net^
 ||dpeqm8xv96fuc.cloudfront.net^
 ||d127s3e8wcl3q6.cloudfront.net^
