@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-05T18:26:27.889Z
+! Last modified: 2024-07-06T01:24:41.880Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1078,6 +1078,7 @@
 ||msadsscale.azureedge.net^
 ||munchkin.marketo.net^
 ||mv.treehousei.com^
+||native-ads-events-api.c4s-rd.services^
 ||neocounter.neoworx-blog-tools.net^
 ||netlify-rum.netlify.app^
 ||ninja.onap.io^
@@ -2172,6 +2173,7 @@
 ||stats.gridmidia.com.br^
 ||tags.cmp.tail.digital^
 ||track.noddus.com^
+||track.zapimoveis.com.br^
 ||tracker.tolvnow.com^
 ||visit-prod-us.occa.ocs.oraclecloud.com^
 ||webstats.sapo.pt^
@@ -2504,6 +2506,7 @@
 ||events-prod.autolist.com^
 ||events-tracker.deliveroo.net^
 ||events.api.godaddy.com^
+||events.clips4sale.com^
 ||events.framer.com^
 ||events.mercadolibre.com^
 ||events.practo.com^
@@ -38767,7 +38770,7 @@
 ||fsm.lapresse.ca^
 ||hits.porn.fr^
 ||hlms.ecologie.gouv.fr^
-||insights.decathlon.net^
+||insights.v3.decathlon.net^
 ||kwgs.letudiant.fr^
 ||logstash-3.radio-canada.ca^
 ||metrics-broker.prod.p.tf1.fr^
