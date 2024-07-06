@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-06T06:25:53.199Z
+! Last modified: 2024-07-06T12:35:24.834Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -148,6 +148,8 @@
 ||kyislod.top^
 ||lijlrz.xyz^
 ||lrtlisl.top^
+||xn--sssy7vrppusjyv0a.com^
+||hknoq.cn^
 ||0uyt5b.cn^
 ||0v1syj.cn^
 ||1028images.com^
