@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-07T12:35:50.747Z
+! Last modified: 2024-07-07T18:25:11.880Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2323,6 +2323,7 @@
 ||ampltd.medal.tv^
 ||ampltd.top.gg^
 ||ampltd2.medal.tv^
+||anal.doubledouble.top^
 ||analytics-api.dvdfab.
 ||analytics-batch.blitz.gg^
 ||analytics-proxy.springboard.com^
