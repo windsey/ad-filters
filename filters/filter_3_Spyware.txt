@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-08T12:38:35.405Z
+! Last modified: 2024-07-08T18:27:18.760Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -11,6 +11,8 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||exacttarget.com^
+||analytics.launch.bz^
 ||qobuz.surveysparrow.com^
 ||srvr.dmvs-apac.com^
 ||analytics.freespee.com^
@@ -7918,11 +7920,9 @@
 ||sc.wa.gto.db.com^
 ||sc2.constantcontact.com^
 ||sc2.infor.com^
-||sc2metrics.exacttarget.com^
 ||sci.intuit.ca^
 ||sci.intuit.co.uk^
 ||sci.quickbooks.com^
-||scmetrics.exacttarget.com^
 ||scode.randomhouse.com^
 ||sconnectstats.mckesson.com^
 ||scp.deltadentalwa.com^
@@ -37097,6 +37097,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||trc.r25.jp^
 ||anal.doubledouble.top^
 ||peach-analytics.vercel.app^
 ||lfmetrics.loyalfans.com^

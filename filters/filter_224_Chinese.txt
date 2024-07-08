@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-08T12:38:30.823Z
+! Last modified: 2024-07-08T18:27:14.156Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -125,6 +125,7 @@
 ||wuisaq.top^
 ||jgvkxp.xyz^
 ||mrtlisx.top^
+||fbqrt.cn^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
