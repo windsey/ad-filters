@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-07T18:25:13.129Z
+! Last modified: 2024-07-08T01:35:41.818Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -117,6 +117,11 @@
 ||xxxx88xxxx.com^
 ||xxxx96xxxx.com^
 ||bdfjw.cn^
+||acqaghx.icu^
+||nyfstb.xyz^
+||lgpjw.cn^
+||eqkvks.xyz^
+||sdipsumb.top^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
