@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-09T01:34:05.312Z
+! Last modified: 2024-07-09T12:40:05.902Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -77,6 +77,7 @@
 ||itadapi.ithome.com.tw^
 ||1002.men^
 
+||srtb.msn.cn^
 ||ad.hot-mob.com^
 ||ad*.on.cc^
 ||adx.36kr.com^
@@ -132,6 +133,9 @@
 ||qpigoa.xyz^
 ||vihqpr.xyz^
 ||goodvibe1.com^
+||vftvbx.xyz^
+||baijs07.xyz^
+||hfptbb.cn^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
