@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-10T06:28:07.619Z
+! Last modified: 2024-07-10T12:39:06.658Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1338,6 +1338,7 @@
 ||t.channeladvisor.com^
 ||t.clic2buy.com^
 ||t.enuygun.com^
+||t.fullres.net^
 ||t.ghostboard.io^
 ||t.irtyc.com^
 ||t.jobsyn.org^
@@ -2737,6 +2738,7 @@
 ||s.gofile.io^
 ||s.infogram.com^
 ||s.wayfair.com^
+||sa.uswitch.com^
 ||saa.insideedition.com^
 ||sapphire-api.target.com^
 ||search.anonymous.ads.brave.com^
