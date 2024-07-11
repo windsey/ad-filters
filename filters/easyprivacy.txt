@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-10T18:28:55.451Z
+! Last modified: 2024-07-11T01:34:30.814Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -246,6 +246,7 @@
 ||lyfnh.io^
 ||maggieeatstheangel.com^
 ||mapixl.com^
+||markadver.com^
 ||matheranalytics.com^
 ||mathilde-ads.com^
 ||maxepv.com^
@@ -997,6 +998,7 @@
 ||l.player.ooyala.com^
 ||l.sharethis.com^
 ||l.typesquare.com^
+||lambda-url.us-east-1.on.aws^
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
 ||lciapi.ninthdecimal.com^
@@ -2205,6 +2207,7 @@
 ||counter.reddigital.ru^
 ||counter.smotrim.ru^
 ||crm-analytics.imweb.ru^
+||csp.yandex.net^
 ||d.wi-fi.ru^
 ||dbex-tracker-v2.driveback.ru^
 ||error.videonow.ru^
@@ -2654,6 +2657,7 @@
 ||noodle.backmarket.io^
 ||observe.metarouter.io^
 ||ohm-dot-hackster-io.appspot.com^
+||ok88okg.infinityscans.net^
 ||ophan.theguardian.com^
 ||optimizely.techtarget.com^
 ||p.hentaiforce.net^
@@ -2810,6 +2814,7 @@
 ||t.nypost.com^
 ||t.pagesix.com^
 ||t.perigold.com^
+||t.poki.io^
 ||t.regionsjob.com^
 ||t.wayfair.ca^
 ||t.wayfair.co.uk^
