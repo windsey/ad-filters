@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-11T06:28:05.531Z
+! Last modified: 2024-07-11T12:39:05.575Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
+||cengqinglin.cn^
 ||sprewcereous.com^
 ||shouldercommandmentlimitless.com^
 ||ttad125.com^
@@ -5615,6 +5616,7 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||hl.dyq.cn^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^

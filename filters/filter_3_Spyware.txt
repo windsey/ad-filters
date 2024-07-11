@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-11T06:28:10.074Z
+! Last modified: 2024-07-11T12:39:10.078Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -37117,6 +37117,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||tm-gta5-prod.ros.rockstargames.com^
 ||beacon.necotracks.jp^
 ||logs2.jobs.com^
 ||t.semafor.com^
@@ -39617,6 +39618,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||tracking.iwhop.cn^
 ||push-api.topaz-analytics.com^
 ||analytics.wildlifestudios.com^
 ||opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io^

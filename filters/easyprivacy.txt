@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-11T06:28:04.275Z
+! Last modified: 2024-07-11T12:39:04.316Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -256,6 +256,7 @@
 ||mdstats.info^
 ||mediamathrdrt.com^
 ||mgln.ai^
+||michiganrobotflower.com^
 ||mirabelanalytics.com^
 ||mircheigeshoa.com^
 ||mitour.de^
