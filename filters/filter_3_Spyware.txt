@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-12T06:28:18.807Z
+! Last modified: 2024-07-12T12:39:09.073Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -40158,6 +40158,7 @@ inapps.appsflyersdk.com^
 ||api.apptentive.com^
 ||api.branch.io^
 ||api2.branch.io^
+||api3.branch.io^
 ||api.gameanalytics.com^
 ||api.gimbal.com^
 ||appmetrica.yandex.net^
