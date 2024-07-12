@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-12T01:33:09.835Z
+! Last modified: 2024-07-12T06:28:17.904Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -18020,6 +18020,7 @@ rgmechanicsgames.com*VPN.exe
 ||fromjoytohappiness.com^
 ||fromoffspringcaliber.com^
 ||frontcognizance.com^
+||frontendcodingtips.com^
 ||fronthlpr.com^
 ||fronthlpric.com^
 ||frookshop-winsive.com^
@@ -29265,6 +29266,7 @@ rgmechanicsgames.com*VPN.exe
 ||parademuscleseurope.com^
 ||paradiseannouncingnow.com^
 ||paradisenookminutes.com^
+||paradizeconstruction.com^
 ||paragraphdisappointingthinks.com^
 ||paragraphopera.com^
 ||parallelgds.store^
