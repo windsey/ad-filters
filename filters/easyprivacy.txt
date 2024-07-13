@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-12T18:29:16.503Z
+! Last modified: 2024-07-13T01:33:44.519Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2218,6 +2218,7 @@
 ||error.videonow.ru^
 ||events.auth.gid.ru^
 ||g4p.redtram.com^
+||ga-tracker-dot-detmir-bonus.appspot.com^
 ||ip.up66.ru^
 ||kraken.rambler.ru^
 ||logs.viavideo.digital^
