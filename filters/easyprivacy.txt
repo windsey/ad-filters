@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-14T06:29:56.533Z
+! Last modified: 2024-07-14T12:43:32.361Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1013,6 +1013,7 @@
 ||literally-analytics.appspot.com^
 ||livecounter.theyosh.nl^
 ||livestats.kaltura.com^
+||lma.npaw.com^
 ||loader-cdn.azureedge.net^
 ||loader.zeroform.com^
 ||log-*.previewnetworks.com^
