@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-14T12:43:32.361Z
+! Last modified: 2024-07-14T18:36:03.258Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -81,6 +81,7 @@
 ||bringmethehats.com^
 ||briskeagle.io^
 ||briskpelican.io^
+||broadstreet.ai^
 ||brsrvr.com^
 ||brwsrfrm.com^
 ||btloader.com^
@@ -886,6 +887,7 @@
 ||events.elev.io^
 ||events.flagship.io^
 ||events.jotform.com^
+||events.mapbox.com^
 ||events.matterport.com^
 ||events.medio.com^
 ||events.missena.io^
@@ -2447,6 +2449,7 @@
 ||collector.githubapp.com^
 ||collector.megaxh.com^
 ||collector.pi.spectrum.net^
+||collector.quillbot.com^
 ||collector.taoxh.life^
 ||collector.xhaccess.com^
 ||collector.xhamster.com^
@@ -2584,6 +2587,7 @@
 ||iedc.fitbit.com^
 ||iguazu.doordash.com^
 ||ih.newegg.com^
+||impressions.svc.abillion.com^
 ||improve.tempest.com^
 ||indmetric.rediff.com^
 ||ingest.make.rvohealth.com^
