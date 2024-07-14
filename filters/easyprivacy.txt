@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-13T18:25:00.996Z
+! Last modified: 2024-07-14T01:41:22.640Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1001,7 +1001,6 @@
 ||l.player.ooyala.com^
 ||l.sharethis.com^
 ||l.typesquare.com^
-||lambda-url.us-east-1.on.aws^
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
 ||lciapi.ninthdecimal.com^
