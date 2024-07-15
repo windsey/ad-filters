@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-15T06:30:30.946Z
+! Last modified: 2024-07-15T12:39:47.743Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -37,6 +37,8 @@
 ||jasdz1.cn^
 ||hyretuu.top^
 ||iteyi.xyz^
+||aoiqa.top^
+||uaiqp.top^
 ||57573zubo36833.com^
 ||imgoss2255.top^
 ||tupian88888.com^
