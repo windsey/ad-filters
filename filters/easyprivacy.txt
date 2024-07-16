@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-15T18:27:08.762Z
+! Last modified: 2024-07-16T01:36:22.049Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1919,6 +1919,7 @@
 ||dup.baidustatic.com^
 ||eclick.baidu.com^
 ||epro.sogou.com^
+||event.tagtoo.co^
 ||experiments.sparanoid.net^
 ||fourier.taobao.com^
 ||g.yccdn.com^
@@ -2701,6 +2702,7 @@
 ||pixiedust.buzzfeed.com^
 ||pks-analytics.raenonx.cc^
 ||pl.letsblock.it^
+||pl.lucida.to^
 ||plausible.bots.gg^
 ||plausible.dragonfru.it^
 ||plausible.omgapi.org^
@@ -39135,7 +39137,6 @@
 ||metrics.uol.com.br^
 ||strapi.clickjogos.com.br^
 ||tags.globo.com^
-||tm.jsuol.com.br^
 ||tm.uol.com.br^
 ||track.exame.com^
 ||track.olx.com.br^
