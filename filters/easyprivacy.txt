@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-17T06:28:43.951Z
+! Last modified: 2024-07-17T12:39:20.681Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -699,6 +699,7 @@
 ||bonfire.spklw.com^
 ||botdetection.hbrsd.com^
 ||browser-intake-datadoghq.com^
+||browser.covatic.io^
 ||browser.pipe.aria.microsoft.com^
 ||bs.yandex.ru^
 ||c.amazinglybrilliant.com.au^
