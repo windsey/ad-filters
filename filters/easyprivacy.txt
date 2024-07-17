@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-16T18:27:31.389Z
+! Last modified: 2024-07-17T01:35:01.338Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -668,6 +668,7 @@
 ||baxter.olx.org^
 ||bc.geocities.
 ||bc.marfeelcache.com^
+||beacon-v2.helpscout.net^
 ||beacon.adelphic.com^
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
@@ -959,7 +960,6 @@
 ||hits.dealer.com^
 ||hits.getelevar.com^
 ||hits.informer.com^
-||hk-trc-events.taboola.com^
 ||hktracker.hankookilbo.com^
 ||hpr.outbrain.com^
 ||hspbotdetection.azurewebsites.net^
@@ -1753,15 +1753,6 @@
 ||stats.afrocave.com^
 ||stats.boringproxy.io^
 ||stats.how.wtf^
-||am-vid-events.taboola.com^
-||convsgmp.taboola.com^
-||la-sync.taboola.com^
-||nr-events.taboola.com^
-||opps.taboola.com^
-||sync.taboola.com^
-||urc.taboolasyndication.com^
-||vidstat.taboola.com^
-||wf.taboola.com^
 ||ascpqnj-oam.global.ssl.fastly.net^
 ||fyrsbckgi-c.global.ssl.fastly.net^
 ||mjca-yijws.global.ssl.fastly.net^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-16T18:27:31.737Z
+! Last modified: 2024-07-17T01:35:01.675Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -35,6 +35,7 @@
 ||cmp.sibbo.net^
 ||consent.dadoslegais.com^
 ||consent.digiapi.com^
+||consent.nitrocnct.com^
 ||consent.prointernet.com^
 ||cookie.consents.app^
 ||cookie.pearshealthcyber.com^
