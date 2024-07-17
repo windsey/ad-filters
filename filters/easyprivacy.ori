@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: RFpWbHJv35zxR5QSzHBvrw
-! Version: 202407171231
+! Checksum: alzrHpWxtpY3Nn93DFpTOg
+! Version: 202407171821
 ! Title: EasyPrivacy
-! Last modified: 17 Jul 2024 12:31 UTC
+! Last modified: 17 Jul 2024 18:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2947,6 +2947,7 @@ _WebVitalsReporter_
 /click.*/q/*$image
 /click.em.nike.com/*$image
 /click.email.$image
+/click.instahyre.com/*$image
 /click.php?c=
 /clicks.*/q/*$image
 /clicks.email.$image

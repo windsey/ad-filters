@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-17T12:39:21.981Z
+! Last modified: 2024-07-17T18:27:25.172Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -126,6 +126,7 @@
 ||qhscsu.xyz^
 ||vxdrfr.xyz^
 ||mkscy6.cn^
+||mikka.app^
 ||gkypgw.xyz^
 ||lyislol.top^
 ||tgrpzl.xyz^
