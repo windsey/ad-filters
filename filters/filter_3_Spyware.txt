@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-18T12:40:00.850Z
+! Last modified: 2024-07-18T18:28:17.241Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -25,7 +25,6 @@
 ||adtrack.adleadevent.com^
 ||metrics-fe-na1.hubspot.com^
 ||pixel.mintigo.com^
-||api.sardine.ai^
 ||au1.qualtrics.com^
 ||siteintercept.qualtrics.com^
 ||tjk-njk.com^
@@ -36704,6 +36703,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||trackid.globoid.globo.com^
 ||stats.habr.com^
 ||analytics.qs-apps.com^
 ||cnt.web-apps-prod.wo-cloud.com^
@@ -36825,7 +36825,6 @@
 ||lp.spac.me^
 ||analytics.verfacto.com^
 ||flask.us.nextdoor.com^
-||ev.indianexpress.com^
 ||c615.denverpost.com^
 ||newsstat.dallasnews.com^
 ||e.channelexco.com^
@@ -39677,7 +39676,6 @@ inapps.appsflyersdk.com^
 ||an.batmobi.net^
 ||analytics.any.do^
 ||m.vpadn.com^
-||api.instabug.com^
 ||sts.batmobi.net^
 ||pps-log.op-mobile.opera.com^
 ||tktracker.aotter.net^
