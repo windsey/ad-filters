@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-19T12:38:03.988Z
+! Last modified: 2024-07-19T18:27:11.894Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||cdn.defractal.com^
 ||pixel.nudgify.com^
 ||t.mm-uxrv.com^
 ||michiganrobotflower.com^
