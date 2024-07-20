@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-20T01:26:30.406Z
+! Last modified: 2024-07-20T06:28:12.319Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -37,6 +37,7 @@
 ||chaoyumiao.com^
 ||rodmfv.xyz^
 ||fhnbrx.xyz^
+||doujs010.xyz^
 ||wnootzc.icu^
 ||eiuoom.xyz^
 ||bavotr.xyz^
