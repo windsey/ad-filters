@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: djIklJpen4hMt9rH/xnTvg
-! Version: 202407201220
+! Checksum: v31wQ7/pMWlUUuyoTPB59g
+! Version: 202407201811
 ! Title: EasyList
-! Last modified: 20 Jul 2024 12:20 UTC
+! Last modified: 20 Jul 2024 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56386,6 +56386,7 @@ browsershots.org#@#.advert_area
 ||b82978.xyz^$document,popup
 ||b903c2.xyz^$document,popup
 ||b9f25b.site^$document,popup
+||bc0ca74b.live^$document,popup
 ||bc98ad.xyz^$document,popup
 ||bcbe.site^$document,popup
 ||bd5a57.xyz^$document,popup
@@ -65320,7 +65321,11 @@ appleworld.today###block-26
 raspians.com###block-29
 raspians.com###block-31
 upfivedown.com###block-4
+club386.com###block-43
+club386.com###block-47
+club386.com###block-49
 game-news24.com###block-50
+club386.com###block-51
 ericpetersautos.com,upfivedown.com###block-6
 systutorials.com###block-7
 upfivedown.com###block-8
@@ -67155,7 +67160,11 @@ rpgsite.net##.block
 soundonsound.com##.block---managed
 worldviewweekend.com##.block--advertisement
 analyticsinsight.net##.block-10
+club386.com##.block-25
+club386.com##.block-30
+club386.com##.block-39
 megagames.com##.block-4
+club386.com##.block-41
 crash.net##.block-ad-manager
 thebaltimorebanner.com##.block-ad-zone
 autocar.co.uk##.block-autocar-ads-lazyloaded-mpu2
