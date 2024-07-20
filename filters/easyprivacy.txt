@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-19T18:27:06.048Z
+! Last modified: 2024-07-20T01:26:31.361Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -38984,6 +38984,7 @@
 ||data.reactandshare.com^
 ||dax.yle.fi^
 ||events.il.fi^
+||logger.omio.com^
 ||rac.ruutu.fi^
 ||stat.mtv3.fi^
 ||stats.fonecta.fi^
