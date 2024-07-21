@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-21T12:36:57.765Z
+! Last modified: 2024-07-21T18:25:23.800Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2870,6 +2870,7 @@
 ||telemetry.api.playstation.com^
 ||telemetry.firez.one^
 ||telemetry.tradingview.com^
+||test.torrentfreak.com^
 ||tgt.maep.ibm.com^
 ||thtk.temu.com^
 ||tif.ionos.com^
