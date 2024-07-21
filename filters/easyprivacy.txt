@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-21T06:28:18.254Z
+! Last modified: 2024-07-21T12:36:57.765Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2014,6 +2014,7 @@
 ||rum.marquardmedia.hu^
 ||videostat-new.index.hu^
 ||videostat.index.hu^
+||parsley.detik.com^
 ||analytics.competitoor.com^
 ||analytics.eikondigital.it^
 ||analytics.gtechgroup.it^
