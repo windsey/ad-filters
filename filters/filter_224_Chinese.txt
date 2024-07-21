@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-21T01:40:27.274Z
+! Last modified: 2024-07-21T06:28:19.566Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -112,10 +112,15 @@
 ||txhfgwgkwt*.asia^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||38.33.15.*.gif
 ||107.167.16.*.gif
 ||121.204.246.*.gif
 ||67.21.92.*.gif
 ||107.167.22.*.gif
+||zqkxlf.com^
+||25662zubo23739.com^
+||88362zubo95838.com^
+||cosmo001.top^
 ||ofebyk.xyz^
 ||mdipsumx.top^
 ||jsdelivr.vip^
@@ -139,6 +144,8 @@
 ||nouusup.icu^
 ||tyretui.top^
 ||zyfnbl.xyz^
+||uyretut.top^
+||ppxscy1.cn^
 ||wnootzc.icu^
 ||eiuoom.xyz^
 ||bavotr.xyz^
@@ -5686,6 +5693,8 @@
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||baijs011.xyz^
+||google-js-09.xyz^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
