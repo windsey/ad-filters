@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-22T06:29:11.843Z
+! Last modified: 2024-07-22T12:39:56.713Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -68,6 +68,7 @@
 ||australiarevival.com^
 ||avads.net^
 ||awmonitor.com^
+||b3mxnuvcer.com^
 ||bfmio.com^
 ||bidgx.com^
 ||bidswitch.net^
@@ -855,7 +856,6 @@
 ||dl.episerver.net^
 ||doppler-beacon.cbsivideo.com^
 ||doppler-client-events.cbsivideo.com^
-||doppler-config.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dx.mountain.com^
 ||dynamic.ziftsolutions.com^
@@ -1490,6 +1490,7 @@
 ||tracker.myth.dev^
 ||tracker.myyschool.xyz^
 ||tracker.nitropay.com^
+||tracker.nocodelytics.com^
 ||tracker.novage.com.ua^
 ||tracker.openwebtorrent.com^
 ||tracker.services.vaix.ai^
@@ -2717,6 +2718,7 @@
 ||plausible.dragonfru.it^
 ||plausible.omgapi.org^
 ||plausible.safing.io^
+||plausible.tubemagic.com^
 ||player-telemetry.vimeo.com^
 ||plenty.vidio.com^
 ||pm.dailykos.com^
