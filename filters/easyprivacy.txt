@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-21T18:25:23.800Z
+! Last modified: 2024-07-22T01:37:52.555Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1357,6 +1357,7 @@
 ||t.cfjump.com^
 ||t.channeladvisor.com^
 ||t.clic2buy.com^
+||t.cometlytrack.com^
 ||t.enuygun.com^
 ||t.fullres.net^
 ||t.ghostboard.io^
@@ -2682,6 +2683,7 @@
 ||ophan.theguardian.com^
 ||optimizely.techtarget.com^
 ||p.hentaiforce.net^
+||p.lucida.to^
 ||p.minds.com^
 ||pac.thescottishsun.co.uk^
 ||pac.thesun.co.uk^
@@ -2711,7 +2713,6 @@
 ||pixiedust.buzzfeed.com^
 ||pks-analytics.raenonx.cc^
 ||pl.letsblock.it^
-||pl.lucida.to^
 ||plausible.bots.gg^
 ||plausible.dragonfru.it^
 ||plausible.omgapi.org^
