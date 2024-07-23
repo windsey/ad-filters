@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-23T06:28:42.507Z
+! Last modified: 2024-07-23T12:39:25.291Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
+||frutwafiwah.com^
 ||maya15.site^
 ||ljr3.site^
 ||lcarlbvwr.com^
