@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-22T18:27:09.505Z
+! Last modified: 2024-07-23T01:35:26.837Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -37,6 +37,7 @@
 ||31daa5lnq.de^
 ||3gl.net^
 ||4251.tech^
+||46rtpw.ru^
 ||a1webstrategy.com^
 ||a8723.com^
 ||aaxwall.com^
