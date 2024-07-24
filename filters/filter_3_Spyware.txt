@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-24T12:38:27.288Z
+! Last modified: 2024-07-24T18:29:09.335Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||b3mxnuvcer.com^
 ||insights-mxp.coursecareers.com^
 ||api.sprig.com^
 ||cdn.defractal.com^
@@ -37129,6 +37130,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||collector.plarium.com^
+||g.ign.com^
 ||beacon.radiko.jp^
 ||a.visme.co^
 ||events.framer.com^
