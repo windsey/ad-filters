@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-24T06:28:49.810Z
+! Last modified: 2024-07-24T12:38:20.582Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -31,6 +31,10 @@
 ||doujs01.shop^
 ||bewr1.com^
 ||heatherssb.com^
+||trafficmanager.net^
+||xs6po.icu^
+||yje912.cn^
+||byretuv.top^
 ||yfasjfk.icu^
 ||hetlwsu.top^
 ||1p3yg.icu^
