@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-26T01:34:02.985Z
+! Last modified: 2024-07-26T06:29:02.242Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2471,6 +2471,7 @@
 ||confiant.msn.com^
 ||console-telemetry.oci.oraclecloud.com^
 ||copilot-telemetry.githubusercontent.com^
+||count.darkreader.app^
 ||count.rin.ru^
 ||counter.darkreader.app^
 ||cpt.itv.com^
@@ -2873,6 +2874,7 @@
 ||telemetry.algolia.com^
 ||telemetry.api.playstation.com^
 ||telemetry.firez.one^
+||telemetry.stytch.com^
 ||telemetry.tradingview.com^
 ||test.torrentfreak.com^
 ||tgt.maep.ibm.com^
