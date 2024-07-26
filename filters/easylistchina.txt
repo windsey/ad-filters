@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-26T12:37:46.731Z
+! Last modified: 2024-07-26T18:25:29.498Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -23,6 +23,8 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||molpmh.xyz^
+||starredvs.com^
 ||dpweupc.icu^
 ||clqjyw.xyz^
 ||xjpmlf.xyz^
@@ -957,7 +959,6 @@
 ||mnpzrgz.xyz^
 ||moberg.cn^
 ||mohvxrvd.xyz^
-||molpmh.xyz^
 ||mondigo.cn^
 ||mpn56e.cn^
 ||mqaoweu.icu^

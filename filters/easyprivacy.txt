@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-26T12:37:47.683Z
+! Last modified: 2024-07-26T18:25:30.491Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2311,6 +2311,7 @@
 ||analytics.kkb.com.tr^
 ||c.keltis.com^
 ||collector.wawlabs.com^
+||sayac.kapital.com.tr^
 ||statistics.daktilo.com^
 ||stats.vidyome.com^
 ||tracking.venturify.at^
