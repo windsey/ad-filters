@@ -1,10 +1,14 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-26T06:29:07.205Z
+! Last modified: 2024-07-26T12:37:52.614Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
+
+||ywmvppnlwwxkgt.com^
+||chouchicky.com^
 /^139\.45\.197\.2(4[0-9]|5[0-4]):/
+||crewedbangup.com^
 ||prwfwayui.com^
 ||pteegostie.com^
 ||frutwafiwah.com^
