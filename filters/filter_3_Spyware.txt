@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-27T06:26:10.094Z
+! Last modified: 2024-07-27T12:38:03.242Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -39653,7 +39653,6 @@ inapps.appsflyersdk.com^
 ||log-verify.mob.com^
 ||app-analytics-services.com^
 ||sg.log.ulivetv.net^
-||kr-col-ext.nelo.navercorp.com^
 ||events.funnelish.com^
 ||analytics.app.funnelish.com^
 ||analytics.starmakerstudios.com^
