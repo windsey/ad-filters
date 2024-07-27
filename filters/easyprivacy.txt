@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-27T01:33:08.326Z
+! Last modified: 2024-07-27T06:26:04.278Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -528,6 +528,7 @@
 ||analyticcdn.globalmailer.com^
 ||analytics-1.cavai.com^
 ||analytics-api.klickly.com^
+||analytics-cf.bigcrunch.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-consent-manager-v2-prod.azureedge.net^
 ||analytics-prd.aws.wehaa.net^
@@ -924,7 +925,6 @@
 ||f-log-test.grammarly.io^
 ||fcmatch.google.com^
 ||fcmatch.youtube.com^
-||feliz.data.tm-awx.com^
 ||filament-stats.herokuapp.com^
 ||fingerprinter-production.herokuapp.com^
 ||firebaselogging-pa.googleapis.com^
@@ -1153,6 +1153,7 @@
 ||pixel.byspotify.com^
 ||pixel.condenastdigital.com^
 ||pixel.driveniq.com^
+||pixel.fohr.co^
 ||pixel.inforsea.com^
 ||pixel.lilystyle.ai^
 ||pixel.locker2.com^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-27T01:33:09.547Z
+! Last modified: 2024-07-27T06:26:05.519Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -121,6 +121,10 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||hwerilxu.top^
+||t0sfe1.com^
+||shbzqkj.cn^
+||jz4u1.icu^
 ||molpmh.xyz^
 ||starredvs.com^
 ||wnmoobz.icu^
@@ -129,6 +133,8 @@
 ||setlwsb.top^
 ||xtrkhv.xyz^
 ||oxoucm.xyz^
+||0h3uds.com^
+||tnzjrj.xyz^
 ||dpweupc.icu^
 ||clqjyw.xyz^
 ||xjpmlf.xyz^
