@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-27T12:38:02.319Z
+! Last modified: 2024-07-27T18:26:44.482Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2916,7 +2916,6 @@ serve.bussyhunter.com^
 ||a.b7q9v8z.com^
 ||a.cant3am.com^
 ||a.etology.com^
-||a.eunow4u.com^
 ||a.n4m5x60.com^
 ||a.r8lnet.com^
 ||a.redpathmedia.com^
@@ -3006,7 +3005,6 @@ serve.bussyhunter.com^
 ||s.elnz03.com^
 ||s.elnz23.com^
 ||s.etology.com^
-||s.eunow4u.com^
 ||s.exv6.com^
 ||s.linkw2e.com^
 ||s.linkw2g.com^
@@ -5884,6 +5882,7 @@ rgmechanicsgames.com*VPN.exe
 ||4087aa0dc1.com^
 ||40ceexln7929.com^
 ||42a5d530ec972d8994.com^
+||42ce2b0955.com^
 ||42d61f012e27b36d53.com^
 ||42e228ef6f.com^
 ||42jdbcb.de^
@@ -15962,6 +15961,7 @@ rgmechanicsgames.com*VPN.exe
 ||effectivemeasure.net^
 ||effectiveperformanceformat.com^
 ||effectiveperformancenetwork.com^
+||effectscouncilman.com^
 ||effectsembower.top^
 ||effectsglancefirmly.com^
 ||effectslacybulb.com^
@@ -16679,6 +16679,7 @@ rgmechanicsgames.com*VPN.exe
 ||eulogiafilial.com^
 ||eulogichebetic.top^
 ||eulogyargin.top^
+||eunow4u.com^
 ||eunzkvf.com^
 ||euonymcalvous.com^
 ||euosicjxjv.com^
@@ -22641,8 +22642,10 @@ rgmechanicsgames.com*VPN.exe
 ||jaupozup.xyz^
 ||jaurouth.xyz^
 ||java8.xyz^
+||javacid.fun^
 ||javascriptcdnlive.com^
 ||javgg.eu^
+||javmust.fun^
 ||jawinfallible.com^
 ||jawlookingchapter.com^
 ||jawsspecific.com^
@@ -24892,6 +24895,7 @@ rgmechanicsgames.com*VPN.exe
 ||local-hot-dates.com^
 ||localadbuy.com^
 ||localedgemedia.com^
+||locallycompare.com^
 ||locallyhastefowl.com^
 ||localsnaughty.com^
 ||locandalorries.com^

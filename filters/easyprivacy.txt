@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-27T12:37:57.375Z
+! Last modified: 2024-07-27T18:26:39.575Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -39054,6 +39054,7 @@
 ||astat.nikkei.com^
 ||astral.nicovideo.jp^
 ||bc.nhk.jp^
+||beacon.radiko.jp^
 ||beacon.watch.impress.co.jp^
 ||beat.yourtv.jp^
 ||count.upc.rakuten.co.jp^
