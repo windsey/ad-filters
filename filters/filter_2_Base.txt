@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-29T12:39:50.761Z
+! Last modified: 2024-07-29T18:27:31.589Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2507,7 +2507,6 @@ serve.bussyhunter.com^
 ||a8ec34052d.fb5ab8a79a.com^
 ||ab810b774c.1facd1b75f.com^
 ||acc6ef1b4a.39963f5717.com^
-||acf9a96aa8.a35e803f21.com^
 ||ajs.bowintelligence.com^
 ||ajs.laketrend.com^
 ||ajs.statelinear.com^
@@ -5226,6 +5225,7 @@ serve.bussyhunter.com^
 ||ado.delfi.ee^
 ||es.ylilauta.org^
 ||sab.fast.ge^
+||target.hidabroot.org^
 ||ban.bhol.co.il^
 ||ext.bhol.co.il^
 ||st1.bhol.co.il^
@@ -6306,6 +6306,7 @@ rgmechanicsgames.com*VPN.exe
 ||a32fc87d2f.com^
 ||a356ff8a25.com^
 ||a3595ccd38.com^
+||a35e803f21.com^
 ||a3ion.com^
 ||a3yqjsrczwwp.com^
 ||a41bd55af8.com^
@@ -6663,6 +6664,7 @@ rgmechanicsgames.com*VPN.exe
 ||acrevenene.com^
 ||acridtaxiworking.com^
 ||acridtubsource.com^
+||acrobaticdesire.com^
 ||acronkkky.com^
 ||acrossbrittle.com^
 ||acrossgigantic.com^
@@ -14377,6 +14379,7 @@ rgmechanicsgames.com*VPN.exe
 ||deshourty.com^
 ||designatejay.com^
 ||designerdeclinedfrail.com^
+||designernoise.com^
 ||designeropened.com^
 ||designingbadlyhinder.com^
 ||designingpupilintermediary.com^
@@ -21602,6 +21605,7 @@ rgmechanicsgames.com*VPN.exe
 ||illusiveremarkstreat.com^
 ||illustcutesy.com^
 ||illustrateartery.com^
+||illustrious-challenge.pro^
 ||illustriousmind.pro^
 ||ilmtudcgmqxa.com^
 ||ilo134ulih.com^
@@ -22634,6 +22638,7 @@ rgmechanicsgames.com*VPN.exe
 ||japw.cloud^
 ||jaqgkyfupna.com^
 ||jaqwtyajwp.com^
+||jaqxaqoxwhce.com^
 ||jargonwillinglybetrayal.com^
 ||jarguvie.xyz^
 ||jarldomtemplar.top^
@@ -43487,6 +43492,7 @@ rgmechanicsgames.com*VPN.exe
 ||1200932035.rsc.cdn77.org^
 ||1201741305.rsc.cdn77.org^
 ||1204491360.rsc.cdn77.org^
+||123-stream.org^
 ||1273167513.rsc.cdn77.org^
 ||1278977604.rsc.cdn77.org^
 ||1288151678.rsc.cdn77.org^
