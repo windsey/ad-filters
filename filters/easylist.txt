@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-29T01:37:52.884Z
+! Last modified: 2024-07-29T06:29:04.847Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -29586,6 +29586,7 @@
 ||sb4you1.com^
 ||sb89347.com^
 ||sbfsdvc.com^
+||sbhight.com^
 ||sbonjqsxicqfo.xyz^
 ||sbqptosht.com^
 ||sbrakepads.com^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-29T01:37:59.143Z
+! Last modified: 2024-07-29T06:29:11.140Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -34485,6 +34485,7 @@ rgmechanicsgames.com*VPN.exe
 ||sb4you1.com^
 ||sb89347.com^
 ||sbfsdvc.com^
+||sbhight.com^
 ||sbonjqsxicqfo.xyz^
 ||sbqptosht.com^
 ||sbrakepads.com^
