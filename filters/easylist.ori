@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: R+Ns9I4QJNkdPdoYgmG4xQ
-! Version: 202407300621
+! Checksum: YpWllWBf3xWO/rV0fIdzpQ
+! Version: 202407301231
 ! Title: EasyList
-! Last modified: 30 Jul 2024 06:21 UTC
+! Last modified: 30 Jul 2024 12:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -48065,7 +48065,6 @@ browsershots.org#@#.advert_area
 ||succeedappointedsteve.com^
 ||succeedingpeacefully.com^
 ||succeedprosperity.com^
-||succeedscene.com^
 ||success-news.net^
 ||successcuff.com^
 ||successfulpatience.com^
@@ -54732,6 +54731,7 @@ browsershots.org#@#.advert_area
 ||zhu-ni-hao-yun.sh^
 ||zxcbaby.ru^
 ! $document blocks
+||123-stream.org^$document
 ||1winpost.com^$document
 ||20trackdomain.com^$document
 ||2ltm627ho.com^$document
@@ -54769,6 +54769,7 @@ browsershots.org#@#.advert_area
 ||adverttulimited.biz^$document
 ||adxproofcheck.com^$document
 ||aferpush.com^$document
+||affcpatrk.com^$document
 ||affflow.com^$document
 ||affiliatestonybet.com^$document
 ||affpa.top^$document
@@ -56399,6 +56400,7 @@ browsershots.org#@#.advert_area
 ||subendorse.com^$third-party
 ||sublimemedia.net^$third-party
 ||submitexpress.co.uk^$third-party
+||succeedscene.com^$third-party,xmlhttprequest
 ||suite6ixty6ix.com^$third-party
 ||suitesmart.com^$third-party
 ||sulvo.co^$third-party
@@ -66655,7 +66657,6 @@ coin360.com##.Sticky_Promo
 slant.co##.SummaryPage-LustreEmbed
 westword.com##.SurveyLinkSlideModal
 newser.com##.TaboolaP1P2
-engadget.com##.Td\(n\).Bdbc\(engadgetGutter\).Py\(40px\)
 dictionary.com##.TeixwVbjB8cchva8bDlg
 imgur.com##.Top300x600
 cnbc.com##.TopBanner-container
@@ -66703,7 +66704,7 @@ baptistnews.com,chimpreports.com,collive.com,defence-industry.eu,islandecho.co.u
 abcya.com##.a-skyscraper
 krebsonsecurity.com##.a-statement
 tellymix.co.uk##.a-text
-androidtrends.com,backthetruckup.com,bingehulu.com,buffalorising.com,streamsgeek.com,techcentral.co.za,techrushi.com,trendstorys.com,vedantbhoomi.com##.a-wrap
+androidtrends.com,aviationa2z.com,backthetruckup.com,bingehulu.com,buffalorising.com,streamsgeek.com,techcentral.co.za,techrushi.com,trendstorys.com,vedantbhoomi.com##.a-wrap
 breitbart.com##.a-wrapper
 getpocket.com##.a1cawpek
 chordify.net##.a1p2y5ib
@@ -70166,6 +70167,7 @@ horoscopes.astro-seek.com##.vyska-sense
 androidpolice.com##.w-pencil-banner
 wsj.com##.w27771
 userscript.zone##.w300
+engadget.com##.wafer-benji
 swimcompetitive.com##.waldo-display-unit
 wetransfer.com##.wallpaper
 goodfon.com##.wallpapers__banner240

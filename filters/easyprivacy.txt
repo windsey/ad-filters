@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-30T06:28:38.108Z
+! Last modified: 2024-07-30T12:39:34.317Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1105,6 +1105,7 @@
 ||netlify-rum.netlify.app^
 ||ninja.onap.io^
 ||nitrous-analytics.s3.amazonaws.com^
+||noa.yahoo.com^
 ||noflake-aggregator-http.narvar.com^
 ||nol.yahoo.com^
 ||nova.dice.net^
@@ -1923,6 +1924,7 @@
 ||da.netease.com^
 ||datacollector-dra.dt.hicloud.com^
 ||dcbpm.suning.cn^
+||dt.xfyun.cn^
 ||dup.baidustatic.com^
 ||eclick.baidu.com^
 ||epro.sogou.com^

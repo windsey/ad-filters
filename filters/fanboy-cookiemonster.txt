@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-30T06:28:38.443Z
+! Last modified: 2024-07-30T12:39:34.654Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -176,6 +176,7 @@
 ||zgody.infor.pl^
 ||cookies.teraz.sk^
 ||cookies.unidadeditorial.es^
+||consent.dermogrup.com^
 ||consent.themeteocompany.com^
 @@||aainflight.com^
 @@||inflight.pacwisp.net^

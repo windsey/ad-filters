@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-30T06:28:39.347Z
+! Last modified: 2024-07-30T12:39:35.555Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
+||qetlwsy.top^
 ||cengqinglin.cn^
 ||sprewcereous.com^
 ||shouldercommandmentlimitless.com^
@@ -121,6 +122,9 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||balili2024.top^
+||w0079.com^
+||w0082.com^
 ||shbzpgs.cn^
 ||bxmazls.icu^
 ||guyhok.xyz^
@@ -128,9 +132,9 @@
 ||hov15.icu^
 ||qvxtzi.xyz^
 ||nxxkxr.xyz^
-||qetlwsy.top^
 ||4oz4n.icu^
 ||kwerilxd.top^
+||shbzngs.cn^
 ||aiqks.top^
 ||sikapo.top^
 ||sikaq.top^
