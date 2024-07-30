@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-30T12:39:40.163Z
+! Last modified: 2024-07-30T18:27:06.688Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -37057,6 +37057,15 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||telemetry.stytch.com^
+||stat.le.com^
+||fe-go.letv.com^
+||dc.letv.com^
+||c.webp2p.letv.com^
+||s-webp2p.letv.com^
+||banana.le.com^
+||apple-*.le.com^
+||sst.thebanker.com^
 ||cllctr.roistat.com^
 ||analytics.mailmunch.co^
 ||tracker.adsales.rakuten.co.jp^
