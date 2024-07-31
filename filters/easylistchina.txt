@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-31T06:23:53.348Z
+! Last modified: 2024-07-31T12:40:01.387Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -31,6 +31,7 @@
 ||tetlwsi.top^
 ||swerilxb.top^
 ||shbznkj.cn^
+||shbzkkj.cn^
 ||balili2024.top^
 ||w0079.com^
 ||w0082.com^

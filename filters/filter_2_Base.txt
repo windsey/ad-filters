@@ -1,10 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-31T06:23:59.270Z
+! Last modified: 2024-07-31T12:40:07.476Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
+||kaxjtkvgo.com^
+||whouvoart.com^
 ||hksnu.com^
 ||cndynza.click^
 ||thauckeesse.net^
@@ -26108,6 +26110,7 @@ rgmechanicsgames.com*VPN.exe
 ||mewgzllnsp.com^
 ||mewlstomolo.top^
 ||mexicantransmission.com^
+||mexoacmaidu.com^
 ||meyopuae.com^
 ||meyximegrgypnv.com^
 ||mf233y3dg6n.shop^
