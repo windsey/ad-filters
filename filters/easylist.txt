@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-31T12:40:01.022Z
+! Last modified: 2024-07-31T18:26:34.005Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -23578,6 +23578,7 @@
 ||ojomrgmhbbpkpz.com^
 ||ojoodoaptouz.com^
 ||ojpem.com^
+||ojrq.net^
 ||ojsxtysilofk.com^
 ||ojtarsdukk.com^
 ||ojtatygrl.xyz^

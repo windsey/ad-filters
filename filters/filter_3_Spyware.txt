@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-31T12:40:08.411Z
+! Last modified: 2024-07-31T18:26:41.276Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -37055,6 +37055,7 @@
 ||wiz.empowerhearing.com^
 ||wiz.sncf-connect.com^
 ||wz.allianz.fr^
+||e.truedata.co^
 
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^

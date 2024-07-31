@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-31T12:40:07.476Z
+! Last modified: 2024-07-31T18:26:40.337Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -28588,6 +28588,7 @@ rgmechanicsgames.com*VPN.exe
 ||ojomrgmhbbpkpz.com^
 ||ojoodoaptouz.com^
 ||ojpem.com^
+||ojrq.net^
 ||ojsxtysilofk.com^
 ||ojtarsdukk.com^
 ||ojtatygrl.xyz^
