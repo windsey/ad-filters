@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-07-31T18:26:35.343Z
+! Last modified: 2024-08-01T01:42:37.799Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -357,6 +357,7 @@
 ||speedyfox.io^
 ||speedyrhino.co^
 ||spinnaker-js.com^
+||sprtnd.com^
 ||srmdata-eur.com^
 ||ssevt.com^
 ||stack-sonar.com^
@@ -1178,6 +1179,7 @@
 ||play.adtonos.com^
 ||player-metrics.instaread.co^
 ||pm.boostintegrated.com^
+||pmi.flowplayer.com^
 ||popup-static.unisender.com^
 ||porpoise.azettl.net^
 ||pr-bh.ybp.yahoo.com^
@@ -1692,6 +1694,7 @@
 ||d2nxi61n77zqpl.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
+||d2pozfvrp52dk4.cloudfront.net^
 ||d2pt12ct4kmq21.cloudfront.net^
 ||d2r1yp2w7bby2u.cloudfront.net^
 ||d2rnkf2kqy5m6h.cloudfront.net^
@@ -2561,6 +2564,7 @@
 ||fbo-statistics-collector-tc.is.flippingbook.com^
 ||fdt.kraken.com^
 ||femetrics.grammarly.io^
+||fgn-plausible.serverable.com^
 ||firebaselogging.googleapis.com^
 ||fp.measure.office.com^
 ||fpa-cdn.adweek.com^
@@ -2777,6 +2781,7 @@
 ||saa.insideedition.com^
 ||sapphire-api.target.com^
 ||search.anonymous.ads.brave.com^
+||services.haaretz.com^
 ||servo-report.dvdfab.
 ||shopmetric.rediff.com^
 ||sid.nordstrom.com^
@@ -39007,6 +39012,7 @@
 ||bravo.israelweather.co.il^
 ||cellstats.mako.co.il^
 ||ds.haaretz.co.il^
+||services.haaretz.co.il^
 ||stats.mako.co.il^
 ||adat.borsonline.hu^
 ||adat.ingatlanbazar.hu^
