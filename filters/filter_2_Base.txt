@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-01T06:29:00.428Z
+! Last modified: 2024-08-01T12:39:48.553Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
+||mlldrlujqg.com^
 ||kaxjtkvgo.com^
 ||whouvoart.com^
 ||hksnu.com^
@@ -4981,6 +4982,7 @@ serve.bussyhunter.com^
 ||xml-eu-v4.pxfind3.com^
 ||xml-v4.pxfind3.com^
 ||xml.pxfind3.com^
+||ad.kisstvshow.es^
 ||tapi.apkpure.net^
 ||advertising-cdn.dpgmedia.cloud^
 ||d2lg0swrp15nsj.cloudfront.net^
