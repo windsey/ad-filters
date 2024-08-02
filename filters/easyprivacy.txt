@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-01T18:27:13.127Z
+! Last modified: 2024-08-02T01:34:56.056Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -160,6 +160,7 @@
 ||fastfinch.co^
 ||fastgull.io^
 ||fasttiger.io^
+||featuregates.org^
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||ffe390afd658c19dcbf707e0597b846d.de^
 ||fn-pz.com^
@@ -532,6 +533,7 @@
 ||analytics-cms.whitebeard.me^
 ||analytics-consent-manager-v2-prod.azureedge.net^
 ||analytics-prd.aws.wehaa.net^
+||analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com^
 ||analytics-production.hapyak.com^
 ||analytics-scripts.cablelabs.com^
 ||analytics-sg.tiktok.com^
@@ -913,6 +915,7 @@
 ||events.splash-screen.net^
 ||events.split.io^
 ||events.storifyme.com^
+||events.tryamped.com^
 ||events.tubecup.org^
 ||events.ubembed.com^
 ||events.whisk.com^
@@ -2538,6 +2541,7 @@
 ||event-api.reverb.com^
 ||event-collector.moviesanywhere.com^
 ||event-router.olympics.com^
+||event.platform.autotrader.com.au^
 ||event.platform.tunein.com^
 ||eventlog.jackpot.de^
 ||events-ingestion.services.gorgias.com^
@@ -2611,15 +2615,18 @@
 ||ih.newegg.com^
 ||impressions.svc.abillion.com^
 ||improve.tempest.com^
+||in.brilliant.org^
 ||indmetric.rediff.com^
 ||ingest.make.rvohealth.com^
 ||ingress.linktr.ee^
+||insights-mxp-cdn.coursecareers.com^
 ||intent.cmo.com.au^
 ||intent.goodgearguide.com.au^
 ||intent.macworld.co.uk^
 ||intent.pcworld.idg.com.au^
 ||intent.techadvisor.com^
 ||internal-analytics.odoo.com^
+||internal-e.posthog.com^
 ||intg.snapchat.com^
 ||intuitvisitorid.api.intuit.com^
 ||ip.cliphunter.com^
@@ -39153,6 +39160,7 @@
 ||stats.teledyski.info^
 ||audience-mostread.r7.com^
 ||click.uol.com.br^
+||csplog.kwai-pro.com^
 ||dejavu.mercadolivre.com.br^
 ||dna.uol.com.br^
 ||g.bit.pt^
@@ -39164,6 +39172,7 @@
 ||log-ads.r7.com^
 ||logger.rm.uol.com.br^
 ||logger.uol.com.br^
+||logsdk.kwai-pro.com^
 ||matt.mercadolivre.com.br^
 ||metrics.uol.com.br^
 ||strapi.clickjogos.com.br^
