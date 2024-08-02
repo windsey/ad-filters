@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-02T06:30:27.665Z
+! Last modified: 2024-08-02T12:38:56.174Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -39060,6 +39060,7 @@
 ||tracking.gruppo.mps.it^
 ||ad-platform.jmty.jp^
 ||analysis.aws.locondo.jp^
+||analysis.prod.joyfru.jiji.com^
 ||analytics.castel.jp^
 ||analytics.cocolog-nifty.com^
 ||analytics.ikyu.com^
