@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-02T01:34:54.633Z
+! Last modified: 2024-08-02T06:30:26.325Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -13,7 +13,6 @@
 -ad-unit.
 -ad-util.
 -ad.jpg.pagespeed.
--adbanner.
 -ads-banner.
 -ads-bottom.
 -auto-ads-
