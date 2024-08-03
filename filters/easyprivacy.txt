@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-02T18:27:35.797Z
+! Last modified: 2024-08-03T01:33:33.334Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1938,6 +1938,7 @@
 ||experiments.sparanoid.net^
 ||fourier.taobao.com^
 ||g.yccdn.com^
+||gdt.qq.com^
 ||haostat.qihoo.com^
 ||hyrankhit.meldingcloud.com^
 ||ia.51.la^
@@ -29451,7 +29452,6 @@
 ||info.marketingcube.com.au^
 ||info.markmonitor.com^
 ||info.mdsol.com^
-||info.medtronicdiabetes.com^
 ||info.metronet.com^
 ||info.metronetbusiness.com^
 ||info.metronetinc.com^
@@ -38890,6 +38890,7 @@
 ||counter.people.cn^
 ||cstm.baidu.com^
 ||data.bilibili.com^
+||df.huya.com^
 ||dig.lianjia.com^
 ||dlswbr.baidu.com^
 ||dolphin.deliver.ifeng.com^
@@ -38913,6 +38914,8 @@
 ||imgstat.baidu.com^
 ||improving.wuzhuiso.com^
 ||jcmonitor.xcar.com.cn^
+||l.web.huya.com^
+||log-upload-os.hoyoverse.com^
 ||log.bitauto.com^
 ||log.flight.qunar.com^
 ||log.m.sm.cn^
@@ -38963,7 +38966,9 @@
 ||stat.y.qq.com^
 ||stat.zol.com.cn^
 ||statistic.qzone.qq.com^
+||statwup.huya.com^
 ||sugar.zhihu.com^
+||t.home.news.cn^
 ||tf.360.cn^
 ||tj.img4399.com^
 ||tongji.mafengwo.cn^
@@ -38977,6 +38982,7 @@
 ||trackcommon.hujiang.com^
 ||tracker.ai.xiaomi.com^
 ||trail.53kf.com^
+||udblog.huya.com^
 ||uestat.video.qiyi.com^
 ||utrack.hexun.com^
 ||vatrack.hinet.net^
