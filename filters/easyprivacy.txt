@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-03T01:33:33.334Z
+! Last modified: 2024-08-03T06:27:56.365Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -903,6 +903,7 @@
 ||events.devcycle.com^
 ||events.elev.io^
 ||events.flagship.io^
+||events.getsitectrl.com^
 ||events.jotform.com^
 ||events.mapbox.com^
 ||events.matterport.com^
