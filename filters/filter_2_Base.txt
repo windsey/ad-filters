@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-03T18:26:38.306Z
+! Last modified: 2024-08-04T01:41:24.940Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -44812,6 +44812,7 @@ rgmechanicsgames.com*VPN.exe
 ||ads.audio.thisisdax.com^
 ||adsbb.depositfiles.com^
 ||adw.heraldm.com^
+||ams.naturalnews.com^
 ||aontent.powzers.lol^
 ||api.mumuglobal.com^
 ||asgg.ghostbin.me^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-03T18:26:33.377Z
+! Last modified: 2024-08-04T01:41:20.021Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2638,6 +2638,7 @@
 ||j927.statnews.com^
 ||jfapiprod.optimonk.com^
 ||jumbo.zomato.com^
+||k.qwant.com^
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||librato-collector.genius.com^
 ||link.kogan.com^
@@ -38996,6 +38997,7 @@
 ||zz.bdstatic.com^
 ||cc.dalten.cz^
 ||jslog.post.cz^
+||sa.kolik.cz^
 ||stat.super.cz^
 ||statistics.csob.cz^
 ||analytics.rambla.be^
