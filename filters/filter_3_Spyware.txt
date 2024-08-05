@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-05T06:29:46.049Z
+! Last modified: 2024-08-05T12:40:53.021Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -37064,6 +37064,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||events.betterhelp.com^
+||web-analytics.lastpass.com^
 ||tracking.aws.judge.me^
 ||analytics.rev.iq^
 ||error-tracking.reddit.com^
@@ -39659,7 +39661,6 @@ inapps.appsflyersdk.com^
 ||ec.adadapted.com^
 ||tracking.viewlift.com^
 ||events.prd.api.discomax.com^
-||events.betterhelp.com^
 ||analytics-gateway.delta.dp.lightricks.com^
 ||log.bloodsugars.live^
 ||logservice1.dbankcloud.cn^
