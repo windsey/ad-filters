@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-06T06:30:33.078Z
+! Last modified: 2024-08-06T12:39:39.380Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
+||bogus-disk.com^
 ||jeoawamjbbzjy.top^
 ||gleempithep.com^
 ||newmownbuttes.com^
