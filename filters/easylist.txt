@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-07T01:36:50.936Z
+! Last modified: 2024-08-07T06:29:10.004Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -38996,7 +38996,6 @@
 ||cxad.cxense.com^
 ||datacluster.club^
 ||dtrk.slimcdn.com^
-||e11956.x.akamaiedge.net^
 ||engine.eroge.com^
 ||epnt.ebay.com^
 ||escape.insites.eu^
