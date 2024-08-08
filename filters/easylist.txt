@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-08T06:29:53.481Z
+! Last modified: 2024-08-08T12:40:09.631Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -37115,6 +37115,7 @@
 ||wopsedoaltuwp.com^
 ||woqycyda.com^
 ||wordbodily.com^
+||wordfence.me^
 ||wordingget.com^
 ||wordpersonify.com^
 ||wordsnought.com^

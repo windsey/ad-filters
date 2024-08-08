@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-08T06:30:00.692Z
+! Last modified: 2024-08-08T12:40:16.976Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -37499,7 +37499,6 @@
 ||stat.gc.my.games^
 ||1l-hit.vkplay.ru^
 ||1l-view.my.games^
-||apptics.zoho.com^
 ||a*.smlog.co.kr^
 ||cdn.smlog.co.kr^
 ||collector-statistics.nhn-commerce.com^
