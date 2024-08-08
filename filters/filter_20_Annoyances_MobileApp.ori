@@ -127,6 +127,7 @@ turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepeti.com,rabota.by,temp-
 temu.com#?#div[role="main"] div[style] > div[style]:has(> div[style] div[js-selector="mobile-download-ui"])
 !
 !
+mynet.com##.mynet-kesfet-banner-box
 teller.jp##div[style*="/install-app-pc-banner/"]
 vaughn.live##.vs_mobileapp_promo
 medyascope.tv##.elementor-element-5bded82f
@@ -2975,9 +2976,7 @@ ecvip.pchome.com.tw,24h.m.pchome.com.tw#$##smartbanner[class*="shown"] + #WRAPPE
 9gag.com#$#body { overflow: auto !important; }
 adidas.ru#$#.mobile_app_baner_container { display: none!important; }
 adidas.ru#$#body > .sticky-wrapper { height: 61px!important; }
-aminoapps.com#$#.get-app { display: none!important; }
-aminoapps.com#$#.overlay { display: none!important; }
-aminoapps.com#$?#html:has(> body) { overflow: visible!important; }
+aminoapps.com#%#//scriptlet('trusted-set-cookie', 'call2action_closed', '1')
 atresplayer.com#?#div[class^="style__StyledGlobalWrapper-"] > div[class^="style__StyledGenericModal-"]:has(> a[title="Descargar la app"])
 bigbasket.com#$#.smart-banner .mdl-layout__drawer-button { top: 0!important; }
 bigbasket.com#$#smart-banner { display: none!important; }
@@ -3391,6 +3390,7 @@ m.tokopedia.com#$#div[data-testid="divOverlay"] { display: none!important; }
 ! causes some issues: https://github.com/AdguardTeam/AdguardForMac/issues/550
 ~status.im,~lafenice.io,~kurer-sreda.ru,~chorki.com,~zattoo.com,~zaycev.net,~hitta.se,~mail.ru,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 !
+moscowtimes.eu,moscowtimes.news,moscowtimes.ru##.button--app
 teller.jp##a[href^="https://tellernovel.onelink.me/sLTh?"]
 hokuohkurashi.com##div[id^="mobile_app_link_"]
 st.benesse.ne.jp#$#.app_download_banner { display: none !important; }
