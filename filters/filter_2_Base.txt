@@ -1,10 +1,13 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-09T12:39:50.242Z
+! Last modified: 2024-08-09T18:28:18.116Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
+||signamentswithded.com^
+||atethebenefitsshe.com^
+||d3nz96k4xfpkvu.cloudfront.net^
 ||boqmjxtkwn.com^
 ||smart1adserver.com^
 ||ktikpuruxasq.com^
