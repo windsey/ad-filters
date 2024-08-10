@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-10T06:27:34.088Z
+! Last modified: 2024-08-10T12:38:07.319Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -37011,6 +37011,33 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||d.analyticsmania.com^
+||gtm.lercio.it^
+||gtm.mandesager.dk^
+||sgtm.anita.com^
+||sgtm.atg.se^
+||sgtm.blume2000.de^
+||sgtm.csas.cz^
+||sgtm.fairmont.
+||sgtm.kaspersky.de^
+||sgtm.macrolibrarsi.it^
+||sgtm.mapei.com^
+||sgtm.milestonesys.com^
+||sgtm.mycall.no^
+||sgtm.myprotein.jp^
+||sgtm.ookla.com^
+||sgtm.open.ac.uk^
+||sgtm.tagmanageritalia.it^
+||sgtm.technikboerse.com^
+||sgtm.tennis-point.de^
+||sgtm.yubico.com^
+||ss.esade.edu^
+||sst.colemanfurniture.com^
+||sst.shopware.com^
+||stream.corporatefinanceinstitute.com^
+||tr.wbstraining.de^
+||trckng.dainese.com^
+||trckng.web55708.greatnet-hosting.de^
 ||fresnel-events.vimeocdn.com^
 ||evt.ilovepdf.com^
 ||beacon.adelphic.com^

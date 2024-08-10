@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-10T06:27:26.876Z
+! Last modified: 2024-08-10T12:38:00.183Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -4712,6 +4712,7 @@
 ||bestcontentproject.top^
 ||bestcontentprovider.top^
 ||bestcontentservice.top^
+||bestcontentsite.top^
 ||bestcontenttrade.top^
 ||bestcontentuse.top^
 ||bestcontentweb.top^
