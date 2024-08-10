@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-10T01:36:48.863Z
+! Last modified: 2024-08-10T06:27:28.191Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -39063,6 +39063,7 @@
 ||execution-ci360.rai.it^
 ||insights.cdt.ch^
 ||ma.register.it^
+||sgtm.tagmanageritalia.it^
 ||stats.splinder.com^
 ||stats.stylight.it^
 ||stats.suedtirolerjobs.it^
