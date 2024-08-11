@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-10T18:25:46.515Z
+! Last modified: 2024-08-11T01:43:08.637Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -23,6 +23,12 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||sravga.xyz^
+||shbzikj.cn^
+||xhlkvx.xyz^
+||dgkship.icu^
+||pojdnf.xyz^
+||pfkgl.top^
 ||wdxxx.top^
 ||ekltes.xyz^
 ||gfchck.xyz^

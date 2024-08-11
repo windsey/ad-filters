@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-10T18:25:52.483Z
+! Last modified: 2024-08-11T01:43:14.656Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -40020,6 +40020,7 @@ rgmechanicsgames.com*VPN.exe
 ||vaccinationinvalidphosphate.com^
 ||vaccinationwear.com^
 ||vaccineconvictedseafood.com^
+||vacpukna.com^
 ||vacuomedogeys.com^
 ||vacwrite.com^
 ||vadokfkulzr.com^

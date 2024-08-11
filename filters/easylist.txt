@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-10T18:25:46.160Z
+! Last modified: 2024-08-11T01:43:08.292Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -36214,6 +36214,7 @@
 ||waframedia5.com^
 ||wagaloo.co.in^
 ||wagecolorful.com^
+||wagenerfevers.com^
 ||wagepulsate.com^
 ||wagerjoint.com^
 ||wagerprocuratorantiterrorist.com^
