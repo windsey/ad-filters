@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-12T06:30:22.052Z
+! Last modified: 2024-08-12T12:41:58.080Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -37011,6 +37011,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||counter.wikiwiki.jp^
 ||applytics.nordvpn.com^
 ||d.analyticsmania.com^
 ||gtm.lercio.it^
@@ -39713,7 +39714,6 @@ inapps.appsflyersdk.com^
 ||r-log.dable.io^
 ||mon*-platform-*.tiktokv.com^
 ||log*-applog-*.tiktokv.com^
-||grs.dbankcloud.
 ||logservice-*.platform.dbankcloud.cn^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||datacollector-*.dt.dbankcloud.cn^
