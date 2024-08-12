@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-11T18:28:48.329Z
+! Last modified: 2024-08-12T01:39:25.658Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2445,6 +2445,7 @@
 ||c.wired.com^
 ||c.wort-suche.com^
 ||c.xbox.com^
+||chronicle.medal.tv^
 ||cl.canva.com^
 ||clanker-events.squarespace.com^
 ||clarice.streema.com^
