@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-12T01:39:26.902Z
+! Last modified: 2024-08-12T06:30:17.592Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -126,6 +126,8 @@
 ||weagehn.icu^
 ||eqygki.xyz^
 ||shbzjgs.cn^
+||jgjyxf.xyz^
+||jrutvnca.top^
 ||11dyw.com^
 ||irutvnco.top^
 ||diskaa.com^
@@ -134,7 +136,6 @@
 ||xhlkvx.xyz^
 ||dgkship.icu^
 ||pojdnf.xyz^
-||pfkgl.top^
 ||wdxxx.top^
 ||ekltes.xyz^
 ||gfchck.xyz^
