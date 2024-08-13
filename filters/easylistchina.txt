@@ -1,12 +1,13 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-12T18:28:55.836Z
+! Last modified: 2024-08-13T01:38:48.938Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 -1316632262.cos.
 -1316899192.cos.
 -1321533417.cos.
+-1325890192.cos.
 -90mh-gg.
 ://dreemdmbabys.oss-cn-
 ://xingkong6688s.oss-
@@ -23,6 +24,9 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||pxqqytk.icu^
+||dshjbn.xyz^
+||shbzjkj.cn^
 ||weagehn.icu^
 ||eqygki.xyz^
 ||shbzjgs.cn^
@@ -30,6 +34,7 @@
 ||jrutvnca.top^
 ||baijs06.shop^
 ||doujs06.shop^
+||ycwuoq.xyz^
 ||11dyw.com^
 ||irutvnco.top^
 ||diskaa.com^
