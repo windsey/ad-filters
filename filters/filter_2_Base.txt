@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-13T06:29:57.327Z
+! Last modified: 2024-08-13T12:40:52.327Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
+||cdn.ads-flipp.com^
 ||ozbnagojbop.com^
 ||uakarisigneur.com^
 ||d3nz96k4xfpkvu.cloudfront.net^
