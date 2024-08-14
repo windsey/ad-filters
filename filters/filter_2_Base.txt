@@ -1,10 +1,13 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-14T12:40:38.638Z
+! Last modified: 2024-08-14T18:27:45.978Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
+||ravm.tv^
+||hjjpsotb.com^
+||zoustara.net^
 ||lapnicjaqxu.com^
 ||cdn.ads-flipp.com^
 ||ozbnagojbop.com^
@@ -2497,7 +2500,6 @@ serve.bussyhunter.com^
 ||2a3fa3df2e.3d285d98de.com^
 ||2d363be680.abf77420f8.com^
 ||2f8c99defc.4d087f527f.com^
-||305f5127dc.5e1b8e9d68.com^
 ||332e4cb7aa.d0e564588b.com^
 ||362e373497.4a5936c82e.com^
 ||36f0cfe37d.db770a49df.com^
@@ -6035,6 +6037,7 @@ rgmechanicsgames.com*VPN.exe
 ||5cbbdb4434.com^
 ||5cf8606941.com^
 ||5d8dd0486a.com^
+||5e1b8e9d68.com^
 ||5e6ef8e03b.com^
 ||5eef1ed9ac.com^
 ||5f5d4f39c.com^
@@ -6517,6 +6520,7 @@ rgmechanicsgames.com*VPN.exe
 ||absoluteroute.com^
 ||absolvecarriagenotify.com^
 ||absolveparticlesanti.com^
+||absolvewednesday.com^
 ||absorbedscholarsvolatile.com^
 ||absorbedswept.com^
 ||absorbinginject.com^
@@ -20055,6 +20059,7 @@ rgmechanicsgames.com*VPN.exe
 ||hrtvluy.com^
 ||hrtyc.com^
 ||hrtye.com^
+||hruwegwayoki.com^
 ||hrxjqyxvdqidpv.com^
 ||hsateamplayeranydw.info^
 ||hsdaknd.com^
@@ -27863,6 +27868,7 @@ rgmechanicsgames.com*VPN.exe
 ||oyyihttyklfwcgy.xyz^
 ||ozationsuchasric.org^
 ||ozayvgkqpymt.com^
+||ozbvlfiggzpxb.com^
 ||ozectynptd.com^
 ||ozesrbglrp.com^
 ||ozgqwv.xyz^
@@ -32455,6 +32461,7 @@ rgmechanicsgames.com*VPN.exe
 ||santosfeltmanager.com^
 ||santosmiddle.com^
 ||santtacklingallaso.com^
+||santuao.xyz^
 ||sapfailedfelon.com^
 ||saplvvogahhc.xyz^
 ||saptiledispatch.com^
@@ -35981,6 +35988,7 @@ rgmechanicsgames.com*VPN.exe
 ||toawaups.net^
 ||toawhulo.com^
 ||tobaccocentgames.com^
+||tobaccoearnestnessmayor.com^
 ||tobaitsie.com^
 ||tobaltoyon.com^
 ||toboads.com^
@@ -40087,6 +40095,7 @@ rgmechanicsgames.com*VPN.exe
 ||yjrlciff.com^
 ||yjuxkncvy.com^
 ||yjvuthpuwrdmdt.xyz^
+||yjvyyndre.com^
 ||yjxhxctqq.com^
 ||ykakassg.com^
 ||ykdwyf.com^
@@ -41976,6 +41985,8 @@ rgmechanicsgames.com*VPN.exe
 ||dzv1ekshu2vbs.cloudfront.net^
 ||dzxr711a4yw31.cloudfront.net^
 ||anti-adblock.herokuapp.com^
+||a.groox.xyz^
+||a.q2b2n4y4ghu320.shop^
 ||a.xvidxxx.com^
 ||aff-jp.dxlive.com^
 ||affiliate.dtiserv.com^
