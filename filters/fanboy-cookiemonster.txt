@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-14T01:37:23.207Z
+! Last modified: 2024-08-14T06:28:47.449Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -79,6 +79,8 @@
 ||cmp.osano.com^
 ||cmp.parkers.co.uk^
 ||cmp.playpilot.com^
+||cmp.springer.com^
+||cmp.springernature.com^
 ||cmp.tech426.com^
 ||cmp.tek.no^
 ||cmp.telerama.fr^

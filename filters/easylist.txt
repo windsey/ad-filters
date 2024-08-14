@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-14T01:37:21.496Z
+! Last modified: 2024-08-14T06:28:45.771Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -26,7 +26,6 @@
 -popunder.
 -publicidad.
 -right-ad.
--side-ad.
 -sidebar-ad.
 -sponsor-ad.
 -sticky-ad-
@@ -28099,6 +28098,7 @@
 ||settledchagrinpass.com^
 ||settlepineapple.com^
 ||settrogens.com^
+||setupad.net^
 ||setupdeliveredteapot.com^
 ||setupslum.com^
 ||seullocogimmous.com^
