@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-14T06:28:51.949Z
+! Last modified: 2024-08-14T12:40:38.638Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -5418,7 +5418,6 @@ rgmechanicsgames.com*VPN.exe
 -popunder.
 -publicidad.
 -right-ad.
--side-ad.
 -sidebar-ad.
 -sponsor-ad.
 -sticky-ad-
@@ -32969,6 +32968,7 @@ rgmechanicsgames.com*VPN.exe
 ||settledchagrinpass.com^
 ||settlepineapple.com^
 ||settrogens.com^
+||setupad.net^
 ||setupdeliveredteapot.com^
 ||setupslum.com^
 ||seullocogimmous.com^
