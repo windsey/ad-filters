@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-16T06:28:13.197Z
+! Last modified: 2024-08-16T12:39:30.731Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -668,7 +668,6 @@
 ||baxter.olx.org^
 ||bc.geocities.
 ||bc.marfeelcache.com^
-||beacon-v2.helpscout.net^
 ||beacon.adelphic.com^
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
