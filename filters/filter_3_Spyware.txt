@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-16T12:39:36.351Z
+! Last modified: 2024-08-16T18:28:02.447Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -11,6 +11,9 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||fndrsp.net^
+||positional.ai^
+||positional-bucket.com^
 ||collector-pxebumdlwe.px-cloud.net^
 ||collector-pxebumdlwe.px-cdn.net^
 ||s2s.adjust.com^
@@ -36058,6 +36061,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||sgmnt.beacons.ai^
+||track.lc.quark.cn^
 ||nsclick.baidu.com^
 ||ipgeolocation.abstractapi.com^
 ||trace.mjyx.com^
