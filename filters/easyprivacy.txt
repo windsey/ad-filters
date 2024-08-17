@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-16T18:27:56.737Z
+! Last modified: 2024-08-17T01:33:35.926Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -813,6 +813,7 @@
 ||data.circulate.com^
 ||data.digitalks.az^
 ||data.eetech.com^
+||data.embeddables.com^
 ||data.gosquared.com^
 ||data.minute.ly^
 ||data.nexxt.com^
@@ -1155,6 +1156,7 @@
 ||prod.ew.srp.navigacloud.com^
 ||prod.fennec.atp.fox^
 ||proxy.dzeio.com^
+||proxy.trysavvy.com^
 ||pt.crossmediaservices.com^
 ||pt.ispot.tv^
 ||ptsc.shoplocal.com^
@@ -1211,6 +1213,7 @@
 ||seg.sharethis.com^
 ||service.trustpid.com^
 ||session.timecommerce.net^
+||sessions.embeddables.com^
 ||sftrack.searchforce.net^
 ||sgali-mcs.byteoversea.com^
 ||shared.65twenty.com^
@@ -2271,6 +2274,7 @@
 ||a10.nationalreview.com^
 ||aa.avvo.com^
 ||ab-machine.forbes.com^
+||ab.chatgpt.com^
 ||ab.fanatical.com^
 ||activity.fiverr.com^
 ||adc-js.nine.com.au^
@@ -2627,6 +2631,7 @@
 ||p.minds.com^
 ||pac.thescottishsun.co.uk^
 ||pac.thesun.co.uk^
+||papi.stylar.ai^
 ||pappagallu.onefootball.com^
 ||pcp.coupert.com^
 ||perf.mouser.com^
