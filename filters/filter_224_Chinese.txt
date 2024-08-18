@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-18T12:38:58.631Z
+! Last modified: 2024-08-18T18:25:33.271Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -124,6 +124,7 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||cb61190372.com^
 ||uloscw.xyz^
 ||gahejiao.com^
 ||nbfsvreu.icu^
@@ -140,6 +141,8 @@
 ||fywaaox.icu^
 ||mumnxiex.top^
 ||shbzhgs.cn^
+||btvbnrwo.icu^
+||uusjaq.top^
 ||nmtcxz.xyz^
 ||doujs07.shop^
 ||izqeyo.xyz^
