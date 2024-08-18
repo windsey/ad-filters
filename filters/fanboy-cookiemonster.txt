@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-18T06:27:21.234Z
+! Last modified: 2024-08-18T12:38:57.719Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -98,6 +98,7 @@
 ||consent.thecountrysmallholder.com^
 ||consent.thegreatoutdoorsmag.com^
 ||cookie-consent.festo.com^
+||cookies.giphy.com^
 ||cookies.lmt.lv^
 ||fuse.forbes.com^
 ||gdpr-api.sharethis.com^
