@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-18T18:25:31.987Z
+! Last modified: 2024-08-19T01:38:42.040Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2250,6 +2250,7 @@
 ||pixel.smartmedia.tj^
 ||sal.isanook.com^
 ||stat.matichon.co.th^
+||0.myikas.com^
 ||analitik.bik.gov.tr^
 ||analytics.kkb.com.tr^
 ||c.keltis.com^
@@ -39147,6 +39148,7 @@
 ||log.rutube.ru^
 ||metrika.kontur.ru^
 ||ms.dzen.ru^
+||ms.vk.com^
 ||pixels.boxberry.ru^
 ||radar.imgsmail.ru^
 ||ssp.rambler.ru^
