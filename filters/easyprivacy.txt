@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-19T06:29:52.254Z
+! Last modified: 2024-08-19T12:39:59.001Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -866,6 +866,7 @@
 ||eventgateway.soundcloud.com^
 ||eventlog.chatlead.com^
 ||eventlog.inspsearchapi.com^
+||events-endpoint.pointandplace.com^
 ||events.air.tv^
 ||events.api.secureserver.net^
 ||events.attentivemobile.com^
@@ -1077,6 +1078,7 @@
 ||nova.dice.net^
 ||nr.static.mmcdn.com^
 ||ns.rvmkitt.com^
+||observe-nexus.pointandplace.com^
 ||observer.ip-label.net^
 ||oda.markitondemand.com^
 ||olytics.omeda.com^

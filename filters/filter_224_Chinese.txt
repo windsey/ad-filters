@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-19T06:29:53.519Z
+! Last modified: 2024-08-19T12:40:00.286Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -129,6 +129,7 @@
 ||iaindu.cn^
 ||dqlrfmwp.icu^
 ||cewrutf.top^
+||grihaith.com^
 ||cb61190372.com^
 ||uloscw.xyz^
 ||gahejiao.com^
