@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-19T12:39:59.001Z
+! Last modified: 2024-08-19T18:27:51.987Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -859,6 +859,7 @@
 ||event-service.letslinc.com^
 ||event-stream.spot.im^
 ||event.api.drift.com^
+||event.collector.scopely.io^
 ||event.instiengage.com^
 ||event.syndigo.cloud^
 ||event.webcollage.net^
@@ -877,6 +878,7 @@
 ||events.devcycle.com^
 ||events.elev.io^
 ||events.flagship.io^
+||events.getmodemagic.com^
 ||events.getsitectrl.com^
 ||events.jotform.com^
 ||events.mapbox.com^
