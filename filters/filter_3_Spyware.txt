@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-20T12:40:27.867Z
+! Last modified: 2024-08-20T18:27:47.951Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -40,7 +40,6 @@
 ||t.mm-uxrv.com^
 ||michiganrobotflower.com^
 ||uid.mediacorp.sg^
-||exacttarget.com^
 ||analytics.launch.bz^
 ||qobuz.surveysparrow.com^
 ||srvr.dmvs-apac.com^
@@ -6627,6 +6626,7 @@
 ||sc2.constantcontact.com^
 ||sci.intuit.ca^
 ||sci.quickbooks.com^
+||scmetrics.exacttarget.com^
 ||scode.randomhouse.com^
 ||sconnectstats.mckesson.com^
 ||scs.allsecur.nl^
@@ -33235,7 +33235,6 @@
 ||trace.mjyx.com^
 ||event-router.chime.com^
 ||t3.cdnpure.com^
-||counter.wikiwiki.jp^
 ||applytics.nordvpn.com^
 ||d.analyticsmania.com^
 ||gtm.lercio.it^
@@ -33825,7 +33824,6 @@
 ||storelog.kode.co.kr^
 ||telemetry*.transcend.io^
 ||ampltd2.medal.tv^
-||l.bfmtv.com^
 ||stats.debatdirect.tweedekamer.nl
 ||cologger.shopping.naver.com^
 ||analytics.dugun.com^
