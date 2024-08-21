@@ -71141,6 +71141,8 @@ zzb.1897pentagram.com$image
 !+ NOT_OPTIMIZED
 /.well-known/private-click-measurement
 !
+/modules/kixelltag/views/js/kst-$script
+/modules/opartstat/*
 /wpm/strict/app/web-pixel
 /openrtb2/auction
 /gciaf/prod/*-GCIAF-STANDARD
@@ -78500,6 +78502,8 @@ inapps.appsflyersdk.com^
 !@@||mc.yandex.ru/metrika/watch.js$domain=
 !#endif
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/186856
+@@||apps.bazaarvoice.com/apps/vendors/bv-ui-core_logger@*_bv_chunk.js$domain=lenovo.com
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1736
 @@||tags.bkrtx.com/js/bk-coretag.js$domain=miclaro.com.hn
 ! https://github.com/AdguardTeam/AdguardFilters/issues/186630

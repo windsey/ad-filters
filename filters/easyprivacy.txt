@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-21T06:28:38.787Z
+! Last modified: 2024-08-21T12:38:11.403Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2280,7 +2280,6 @@
 ||a10.nationalreview.com^
 ||aa.avvo.com^
 ||ab-machine.forbes.com^
-||ab.chatgpt.com^
 ||ab.fanatical.com^
 ||activity.fiverr.com^
 ||adc-js.nine.com.au^
