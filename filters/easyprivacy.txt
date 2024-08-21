@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-20T18:27:42.308Z
+! Last modified: 2024-08-21T01:36:38.620Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2862,6 +2862,7 @@
 ||tracking.engineering.cloud.seek.com.au^
 ||tracking.game8.co^
 ||tracking.hsn.com^
+||tracking.peopleareeverything.com^
 ||tracking.rocketleague.com^
 ||tracking.shopstyle.co.uk^
 ||tracking.shopstyle.com^
@@ -39076,6 +39077,7 @@
 ||stat.tiara.kakao.com^
 ||stat.tiara.tistory.com^
 ||stat.wanted.jobs^
+||tivan.naver.com^
 ||track.tiara.daum.net^
 ||track.tiara.kakao.com^
 ||tracker.cauly.co.kr^
