@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-21T12:38:17.068Z
+! Last modified: 2024-08-21T18:27:57.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -33223,6 +33223,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||tealium.cbsnews.com^
 ||ninja.data.olxcdn.com^
 ||ocular.mydealz.de^
 ||tiq.espritshop.pl^
