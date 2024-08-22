@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-22T12:40:19.243Z
+! Last modified: 2024-08-22T18:28:11.253Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -33223,6 +33223,11 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||plausible.pronouns.cc^
+||umami.subdavis.com^
+||lptag.liveperson.net^
+||sks.mrkhub.com^
+||measuring-pixel-service.alza.cz^
 ||analytics.valotool.com^
 ||suchanalytik.hideandsec.sh^
 ||tealium.cbsnews.com^
