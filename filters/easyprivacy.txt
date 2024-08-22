@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-22T06:28:56.896Z
+! Last modified: 2024-08-22T12:40:13.550Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2257,9 +2257,11 @@
 ||stat.matichon.co.th^
 ||0.myikas.com^
 ||analitik.bik.gov.tr^
+||analytics.faprika.net^
 ||analytics.kkb.com.tr^
 ||c.keltis.com^
 ||collector.wawlabs.com^
+||log.collectaction.com^
 ||sayac.kapital.com.tr^
 ||statistics.daktilo.com^
 ||stats.vidyome.com^
@@ -2667,6 +2669,7 @@
 ||pks-analytics.raenonx.cc^
 ||pl.letsblock.it^
 ||plausible.bots.gg^
+||plausible.corsme.com^
 ||plausible.dragonfru.it^
 ||plausible.omgapi.org^
 ||plausible.safing.io^

@@ -1,10 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-22T06:29:01.713Z
+! Last modified: 2024-08-22T12:40:18.376Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
+||flyads1.com^
+||fasgazazxvi.com^
 ||meableabede.click^
 ||valuatesharki.com^
 ||earshambitty.com^

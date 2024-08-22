@@ -37288,6 +37288,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.valotool.com^
 ||analytics.floris.amsterdam^$third-party
 ||suchanalytik.hideandsec.sh^
 ||tealium.cbsnews.com^
@@ -71789,6 +71790,9 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 /prod/dfm/g2i.min.js$redirect=nooptext,important,domain=dailycamera.com
 /prod/dfm/t8y9347t.min.js$redirect=nooptext,important,domain=dailycamera.com
 !
+||support.microsoft.com/*/ms.analytics-web-*.min.js
+||affine.pro/*/track-link.*.js
+||s.smallpdf.com/static/track-js-*-entrypoint.js
 ||roomvo.com/services/event/
 ||a.poki-cdn.com/t2.js
 ||up.clickiocdn.com/*/log/$image
@@ -77703,6 +77707,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||admob-app-id-*.firebaseio.com^
 ||stats.rustore.ru^
 ||vk-analytics.ru^
 ||tracking.iwhop.cn^

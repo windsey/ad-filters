@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-22T06:29:02.655Z
+! Last modified: 2024-08-22T12:40:19.243Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -33223,6 +33223,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||analytics.valotool.com^
 ||suchanalytik.hideandsec.sh^
 ||tealium.cbsnews.com^
 ||ninja.data.olxcdn.com^
@@ -35805,6 +35806,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||admob-app-id-*.firebaseio.com^
 ||stats.rustore.ru^
 ||vk-analytics.ru^
 ||tracking.iwhop.cn^
