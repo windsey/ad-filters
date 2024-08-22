@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-21T18:27:51.769Z
+! Last modified: 2024-08-22T01:38:26.735Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2216,6 +2216,7 @@
 ||hits.tf.rs^
 ||moa.mediaoutcast.com^
 ||stat.ringier.sk^
+||cpx.smind.si^
 ||1to1.bbva.com^
 ||ab.blogs.es^
 ||analitica.webrpp.com^
@@ -2494,6 +2495,7 @@
 ||events.turbosquid.com^
 ||events2.www.edenfantasys.com^
 ||evs.icy-lake.kickstarter.com^
+||exp.notion.so^
 ||exr-mms.expertreviews.co.uk^
 ||f362.nola.com^
 ||faro-collector-prod-*.grafana.net^
