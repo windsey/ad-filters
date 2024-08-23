@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-23T12:39:36.939Z
+! Last modified: 2024-08-23T18:27:42.472Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -11,6 +11,8 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||confiant-integrations.net^
+||traxex.gannettdigital.com^
 ||events.getmodemagic.com^
 ||martech.condenastdigital.com^
 ||fndrsp.net^
@@ -33223,6 +33225,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||analytics.raenonx.cc^
+||analytics.vixcloud.co^
 ||plausible.pronouns.cc^
 ||umami.subdavis.com^
 ||lptag.liveperson.net^
