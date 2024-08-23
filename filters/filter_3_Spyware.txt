@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-23T06:28:49.184Z
+! Last modified: 2024-08-23T12:39:36.939Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -35811,6 +35811,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||proxy.telemetry.us-ashburn-1.oci.oraclecloud.com^
+||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||admob-app-id-*.firebaseio.com^
 ||stats.rustore.ru^
 ||vk-analytics.ru^
