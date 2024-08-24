@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-24T01:35:14.863Z
+! Last modified: 2024-08-24T06:27:53.195Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -129,6 +129,7 @@
 ||wfsmya.xyz^
 ||eacdf119.cn^
 ||kewrutd.top^
+||sewrutb.top^
 ||irqaci.xyz^
 ||bojyvp.xyz^
 ||acewdf118.cn^
