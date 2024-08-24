@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3wZqBIT0zWLsvE4bDSjoGg
-! Version: 202408231821
+! Checksum: Wt44i2VdybZ4lwObRDy9fQ
+! Version: 202408240121
 ! Title: EasyList
-! Last modified: 23 Aug 2024 18:21 UTC
+! Last modified: 24 Aug 2024 01:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -27004,6 +27004,7 @@ browsershots.org#@#.advert_area
 ||ewesmedia.com^
 ||ewhareey.com^
 ||ewikajs.com^
+||ewogloarge.com^
 ||ewoodandwaveo.com^
 ||ewoutosh.com^
 ||ewoverth.buzz^
@@ -55824,6 +55825,7 @@ browsershots.org#@#.advert_area
 ||ever8trk.com^$popup
 ||ewesmedia.com^$popup
 ||ewhareey.com^$popup
+||ewogloarge.com^$popup
 ||ewoodandwaveo.com^$popup
 ||exaltationinsufficientintentional.com^$popup
 ||exbuggishbe.info^$popup

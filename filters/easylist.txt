@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-23T18:27:35.430Z
+! Last modified: 2024-08-24T01:35:12.275Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -10910,6 +10910,7 @@
 ||ewesmedia.com^
 ||ewhareey.com^
 ||ewikajs.com^
+||ewogloarge.com^
 ||ewoodandwaveo.com^
 ||ewoutosh.com^
 ||ewoverth.buzz^
