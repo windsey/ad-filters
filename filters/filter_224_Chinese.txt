@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-24T18:25:58.703Z
+! Last modified: 2024-08-25T01:44:01.666Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -124,6 +124,11 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||gg3a.cc^
+||ztzdvv.xyz^
+||udolgy.xyz^
+||acdref117.cn^
+||bylwtf.xyz^
 ||bvdenx.xyz^
 ||tehxzz.xyz^
 ||wfsmya.xyz^
@@ -4516,6 +4521,7 @@
 ||z.nowscore.com^
 ||zt2088.com^
 ||ztyumn.ifeng.com^
+||gg.7976.top^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
