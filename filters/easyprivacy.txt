@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-25T12:37:51.162Z
+! Last modified: 2024-08-25T18:25:45.219Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1553,6 +1553,7 @@
 ||user.userguiding.com^
 ||userexperience.thehut.net^
 ||usersegment.wpdigital.net^
+||usr.interactiveone.com^
 ||v.shopify.com^
 ||vdrn.redplum.com^
 ||vercel-vitals.axiom.co^
@@ -1866,6 +1867,7 @@
 ||beaconcdn.qq.com^
 ||bzclk.baidu.com^
 ||c.holmesmind.com^
+||cartx.cloud^
 ||click.bokecc.com^
 ||collector2c.zhihuishu.com^
 ||d17m68fovwmgxj.cloudfront.net^
@@ -2267,6 +2269,7 @@
 ||stats.vidyome.com^
 ||traffic.wdc.center^
 ||informers.sinoptik.ua^
+||tracker.multisearch.io^
 ||tracker.prom.ua^
 ||webvitals.luxnet.ua^
 ||analytics.yomedia.vn^

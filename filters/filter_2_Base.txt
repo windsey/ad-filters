@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-25T12:37:56.092Z
+! Last modified: 2024-08-25T18:25:50.031Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -3157,7 +3157,6 @@ serve.bussyhunter.com^
 ||cdn.uiopkl.com^
 ||cdn.vinit.cloud^
 ||cdn.viowrel.com^
-||cdn.xbcpcn.com^
 ||cdn.zxclan.com^
 ||1.bunkr-cache.se^
 ||4ke5b4ila.codedge.de^
@@ -5693,6 +5692,7 @@ rgmechanicsgames.com*VPN.exe
 ||22media.world^
 ||231dasda3dsd.aniyae.com^
 ||234f6ce965.com^
+||23hssicm9.de^
 ||24-sportnews.com^
 ||240aca2365.com^
 ||2435march2024.com^
@@ -5902,6 +5902,7 @@ rgmechanicsgames.com*VPN.exe
 ||3mhg.site^
 ||3myad.com^
 ||3ng6p6m0.de^
+||3pkf5m0gd.com^
 ||3qfe1gfa.de^
 ||3redlightfix.com^
 ||3twentyfour.xyz^
@@ -5926,6 +5927,7 @@ rgmechanicsgames.com*VPN.exe
 ||445d1bd01a.com^
 ||44a9217f10.com^
 ||44e29c19ac.com^
+||44fc128918.com^
 ||44ffd27303.com^
 ||452tapgn.de^
 ||453130fa9e.com^
@@ -9590,6 +9592,7 @@ rgmechanicsgames.com*VPN.exe
 ||bedaslonejul.cc^
 ||bedbaatvdc.com^
 ||bedevilglare.com^
+||bedirectuklyecon.com^
 ||bedodrioer.com^
 ||bedodrioon.com^
 ||bedrapiona.com^
@@ -10977,6 +10980,7 @@ rgmechanicsgames.com*VPN.exe
 ||bwpirrwsh.com^
 ||bwpuoba.com^
 ||bwvqjqmlkezjk.top^
+||bwwhcljtytrpo.com^
 ||bwzlmmqwrrnea.top^
 ||bxacmsvmxb.com^
 ||bxevkphcx.com^
@@ -12755,6 +12759,7 @@ rgmechanicsgames.com*VPN.exe
 ||copieraback.com^
 ||copieranewcaller.com^
 ||copiercarriage.com^
+||coppercranberrylamp.com^
 ||coptisphraser.top^
 ||copyrightmonastery.com^
 ||coqfsqikizcd.com^
@@ -14218,6 +14223,7 @@ rgmechanicsgames.com*VPN.exe
 ||discospiritirresponsible.com^
 ||discounts4shops.com^
 ||discountstickersky.com^
+||discourseoxidizingtransfer.com^
 ||discoverethelwaiter.com^
 ||discoverybarricaderuse.com^
 ||discoveryreedpiano.com^
@@ -16129,6 +16135,7 @@ rgmechanicsgames.com*VPN.exe
 ||ewesmedia.com^
 ||ewhareey.com^
 ||ewikajs.com^
+||ewnkfnsajr.com^
 ||ewogloarge.com^
 ||ewoodandwaveo.com^
 ||ewoutosh.com^
@@ -16562,6 +16569,7 @@ rgmechanicsgames.com*VPN.exe
 ||fatsosjogs.com^
 ||fatzuclmihih.com^
 ||faudouglaitu.com^
+||faughold.info^
 ||faugrich.info^
 ||faugstat.info^
 ||faujdarunrake.top^
@@ -22445,6 +22453,7 @@ rgmechanicsgames.com*VPN.exe
 ||kettlemisplacestate.com^
 ||keuktyouexpe.info^
 ||kewnemhpbmzkm.com^
+||kexarvamr.com^
 ||kexojito.com^
 ||keyboardvaluesinvoke.com^
 ||keydawnawe.com^
@@ -30508,6 +30517,7 @@ rgmechanicsgames.com*VPN.exe
 ||qakzfubfozaj.com^
 ||qalscihrolwu.com^
 ||qaltulohrol.com^
+||qapzphxvkzs.com^
 ||qarewien.com^
 ||qasforsalesrep.info^
 ||qatsbesagne.com^
@@ -35367,6 +35377,7 @@ rgmechanicsgames.com*VPN.exe
 ||take-prize-now.com^
 ||takeallsoft.ru^
 ||takecareproduct.com^
+||takeingnana.shop^
 ||takelnk.com^
 ||takemybackup.co^
 ||takemydesk.co^
@@ -35740,6 +35751,7 @@ rgmechanicsgames.com*VPN.exe
 ||thawpublicationplunged.com^
 ||thayed.com^
 ||thduyzmbtrb.com^
+||thdwaterverya.info^
 ||theactualnewz.com^
 ||theactualstories.com^
 ||theadgateway.com^
@@ -39813,6 +39825,7 @@ rgmechanicsgames.com*VPN.exe
 ||xazwlyh.com^
 ||xbc8fsvo5w75wwx8.pro^
 ||xbcnvj2mdk1dn1.com^
+||xbcpcn.com^
 ||xbcrohmposa.com^
 ||xblonthyc.com^
 ||xbmczkujzsfkcq.com^
@@ -41510,7 +41523,6 @@ rgmechanicsgames.com*VPN.exe
 ||d1mbgf0ge24riu.cloudfront.net^
 ||d1mbihpm2gncx7.cloudfront.net^
 ||d1mcwmzol446xa.cloudfront.net^
-||d1muf25xaso8hp.cloudfront.net^
 ||d1my7gmbyaxdyn.cloudfront.net^
 ||d1n1ppeppre6d4.cloudfront.net^
 ||d1n3aexzs37q4s.cloudfront.net^
