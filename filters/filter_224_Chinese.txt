@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-25T18:25:46.489Z
+! Last modified: 2024-08-26T01:38:49.835Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -131,6 +131,11 @@
 ||bylwtf.xyz^
 ||eewrutw.top^
 ||afewe611.cn^
+||jinxpn.xyz^
+||lfxozd.xyz^
+||qacdf511.cn^
+||gpmzkg.xyz^
+||arewcdf116.cn^
 ||bvdenx.xyz^
 ||tehxzz.xyz^
 ||wfsmya.xyz^
@@ -4524,6 +4529,7 @@
 ||zt2088.com^
 ||ztyumn.ifeng.com^
 ||gg.7976.top^
+||abody.39.net^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
