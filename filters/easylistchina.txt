@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-27T01:38:59.237Z
+! Last modified: 2024-08-27T06:29:30.813Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -28,6 +28,8 @@
 ||xevzdl.xyz^
 ||dairzih.com^
 ||guifudi.com^
+||acdf115.cn^
+||qewruty.top^
 ||sqszcg.top^
 ||gg3a.cc^
 ||ztzdvv.xyz^
