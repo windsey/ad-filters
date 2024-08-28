@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-28T06:29:31.182Z
+! Last modified: 2024-08-28T12:41:42.231Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -27666,6 +27666,7 @@
 ||rxtgbihqbs99.com^
 ||rxthdr.com^
 ||rxvej.com^
+||ryads.xyz^
 ||ryanfrqxjl.com^
 ||ryauzo.xyz^
 ||ryazabti.com^
