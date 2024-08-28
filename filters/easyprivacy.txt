@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-27T18:28:12.067Z
+! Last modified: 2024-08-28T01:40:02.273Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -515,6 +515,8 @@
 ||amplifypixel.outbrain.com^
 ||ams-pageview-public.s3.amazonaws.com^
 ||analyse.bcovery.com^
+||analytic-client.chickgoddess.com^
+||analytic-client.panowars.com^
 ||analytic.rollout.io^
 ||analyticcdn.globalmailer.com^
 ||analytics-1.cavai.com^
