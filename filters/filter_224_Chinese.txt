@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-28T18:28:14.455Z
+! Last modified: 2024-08-29T01:40:43.685Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -124,6 +124,11 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||zztxfj.xyz^
+||gbfedashb4.fun^
+||acdfwe113.cn^
+||ymwjwe.xyz^
+||dchyjb.xyz^
 ||maiysw.xyz^
 ||gsdedash9b.fun^
 ||acdwef114.cn^
@@ -4559,6 +4564,7 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||daima.wenkuwenku.com^
 ||003store.com^
 ||0941.org^
 ||1.07swz.com^
