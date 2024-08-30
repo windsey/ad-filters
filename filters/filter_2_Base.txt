@@ -1,10 +1,13 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-30T12:40:54.960Z
+! Last modified: 2024-08-30T18:29:21.764Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
+||hadronid.net^
+||postokdesk.live^
+||octonewjs.com^
 ||akaroafrypan.com^
 ||unbeardgorraf.top^
 ||lunse.ajscdn.com^
@@ -5353,6 +5356,7 @@ serve.bussyhunter.com^
 ||xml-eu-v4.pxfind3.com^
 ||xml-v4.pxfind3.com^
 ||xml.pxfind3.com^
+||s.trvdp.com^
 ||undersite.pages.dev^
 ||reklama.shinden.eu^
 ||ad.kisstvshow.es^

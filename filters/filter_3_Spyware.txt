@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-30T12:40:55.803Z
+! Last modified: 2024-08-30T18:29:22.669Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -11,6 +11,8 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||eu-1-id5-sync.com^
+||octotracking.com^
 ||cartx.cloud^
 ||confiant-integrations.net^
 ||traxex.gannettdigital.com^
@@ -32690,6 +32692,9 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||chocolatine.apexlegendsstatus.com^
+||prod.tahoe-analytics.publishers.advertising.a2z.com^
+||x.trvdp.com^
 ||collector.superwall.me^
 ||tracker.grupanya.com^
 ||sapi.tremendous.com^
