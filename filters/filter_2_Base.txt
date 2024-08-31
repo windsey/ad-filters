@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-31T06:28:11.471Z
+! Last modified: 2024-08-31T12:38:41.018Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -18,7 +18,6 @@
 ||tfqvxyajkqu.xyz^
 ||crrvuqgvkwffd.com^
 ||vetchesthiever.com^
-||st.zarebasdezaley.com^
 ||pkazd.xyz^
 ||papatrol.xyz^
 ||wwcpyupbrcuhcsn.com^
@@ -12199,6 +12198,7 @@ rgmechanicsgames.com*VPN.exe
 ||chokupsupto.com^
 ||cholatetapalos.com^
 ||choocmailt.com^
+||choocmee.com^
 ||choogeet.net^
 ||choomsiesurvey.top^
 ||choongou.com^
@@ -24065,6 +24065,7 @@ rgmechanicsgames.com*VPN.exe
 ||llbonxcqltulds.xyz^
 ||llboqevyazylr.top^
 ||lldkgppuwi.com^
+||lllshkre.com^
 ||llmeocaptainh.com^
 ||llohkcllkalodrb.xyz^
 ||llozybovlkekk.top^
@@ -29017,7 +29018,6 @@ rgmechanicsgames.com*VPN.exe
 ||pereliaastroid.com^
 ||perennialsecondly.com^
 ||perfb.com^
-||perfdrive.com^
 ||perfectflowing.com^
 ||perfectionministerfeasible.com^
 ||perfectlywent.com^
@@ -37225,7 +37225,6 @@ rgmechanicsgames.com*VPN.exe
 ||truthhascudgel.com^
 ||truthordarenewsmagazine.com^
 ||truthvexedben.com^
-||trycloudflare.com^
 ||tryingacquaintance.com^
 ||trymynewspirit.com^
 ||trymysadoroh.site^
@@ -41111,6 +41110,7 @@ rgmechanicsgames.com*VPN.exe
 ||zapunited.com^
 ||zaqxwnwwtx.com^
 ||zarame.uno^
+||zarebasdezaley.com^
 ||zarpop.com^
 ||zationservantas.info^
 ||zationsuchasr.com^
@@ -41316,6 +41316,7 @@ rgmechanicsgames.com*VPN.exe
 ||zmrrjyyeqaozq.top^
 ||zmwbrza.com^
 ||zmyjessp.com^
+||zmysashrep.com^
 ||znaptag.com^
 ||zncbitr.com^
 ||zncsdysorwms.com^

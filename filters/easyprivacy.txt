@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-31T06:28:06.687Z
+! Last modified: 2024-08-31T12:38:36.263Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -177,6 +177,7 @@
 ||g12083144435.co^
 ||g12281228770.co^
 ||g1584674682.co^
+||g1584674684.co^
 ||g1782759015.co^
 ||g1782759016.co^
 ||g1980843350.co^
@@ -600,6 +601,7 @@
 ||analytics.pangle-ads.com^
 ||analytics.piksel.com^
 ||analytics.pixels.ai^
+||analytics.plasmic.app^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pop2watch.com^
 ||analytics.prezly.com^
@@ -716,6 +718,7 @@
 ||cc.swiftype.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||cdn-channels-pixel.ex.co^
+||cdn.ravm.tv^
 ||cdn.usefathom.com^
 ||cf.overblog.com^
 ||cgicounter.oneandone.co.uk^
@@ -1209,6 +1212,7 @@
 ||s.beop.io^
 ||s.logsss.com^
 ||s.srvsynd.com^
+||s.vibe.co^
 ||sa.scorpion.co^
 ||scripts.psyma.com^
 ||sd-tagging.azurefd.net^
@@ -1359,6 +1363,7 @@
 ||tag.lexer.io^
 ||tag.mtrcs.samba.tv^
 ||tag.myplay.com^
+||tag.pearldiver.io^
 ||tag.rightmessage.com^
 ||tag.rmp.rakuten.com^
 ||tag.statshop.fr^
@@ -2636,13 +2641,13 @@
 ||na.groupondata.com^
 ||nasi.etherscan.com^
 ||net.haier.com^
+||no88kks.infinityscans.net^
 ||no9pldds1lmn3.soundcloud.com^
 ||noodle.backmarket.io^
 ||nr-data.noelleeming.co.nz^
 ||nr.noelleeming.co.nz^
 ||observe.metarouter.io^
 ||ohm-dot-hackster-io.appspot.com^
-||ok88okg.infinityscans.net^
 ||ophan.theguardian.com^
 ||optimizely.techtarget.com^
 ||p.hentaiforce.net^
@@ -2735,7 +2740,6 @@
 ||sapi.tremendous.com^
 ||sapphire-api.target.com^
 ||search.anonymous.ads.brave.com^
-||services.haaretz.com^
 ||servo-report.dvdfab.
 ||shopmetric.rediff.com^
 ||sid.nordstrom.com^
@@ -2746,6 +2750,7 @@
 ||sofire.terabox.app^
 ||sp.cargurus.co.uk^
 ||sp.ecosia.org^
+||sp.pcoptimum.ca^
 ||sp.welcometothejungle.com^
 ||spectrum.gettyimages.com^
 ||spt.ahram.org.eg^
