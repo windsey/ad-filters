@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-30T18:29:21.764Z
+! Last modified: 2024-08-31T01:40:19.418Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -42941,6 +42941,7 @@ rgmechanicsgames.com*VPN.exe
 ||dyn.tnaflix.com^
 ||go.celebjihad.live^
 ||go.pornav.net^
+||go.redgifs.com^
 ||go.stripchat.beeg.com^
 ||go.strpjmp.com^
 ||madmen2.alastonsuomi.com^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-08-30T18:29:16.934Z
+! Last modified: 2024-08-31T01:40:14.628Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -276,7 +276,6 @@
 ||mors22.com^
 ||mrpdata.net^
 ||mt48.net^
-||mxpnl.com^
 ||mysingleromance.com^
 ||native-track.com^
 ||niblewren.co^
