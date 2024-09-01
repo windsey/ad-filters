@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-01T12:38:49.663Z
+! Last modified: 2024-09-01T18:26:56.505Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -5078,7 +5078,6 @@ serve.bussyhunter.com^
 ||static.felixads.com^
 ||static.fstsrv10.com^
 ||static.fstsrv11.com^
-||static.fstsrv13.com^
 ||static.hotmaracas.fun^
 ||static.konnectads.com^
 ||static.kremsondigital.com^
@@ -5150,7 +5149,6 @@ serve.bussyhunter.com^
 ||xml-eu-v4.cpmvibes.com^
 ||xml-eu-v4.dollopsdigital.com^
 ||xml-eu-v4.fstsrv11.com^
-||xml-eu-v4.fstsrv13.com^
 ||xml-eu-v4.goclickz.net^
 ||xml-eu-v4.hawkads.in^
 ||xml-eu-v4.ldnpointer.online^
@@ -5173,7 +5171,6 @@ serve.bussyhunter.com^
 ||xml-eu-v4.winkleads.com^
 ||xml-eu.adsailor.com^
 ||xml-eu.fstsrv11.com^
-||xml-eu.fstsrv13.com^
 ||xml-eu.re-media.info^
 ||xml-eu.staradsmedia.com^
 ||xml-v4.100conversions.com^
@@ -5197,7 +5194,6 @@ serve.bussyhunter.com^
 ||xml-v4.dollopsdigital.com^
 ||xml-v4.domains-traffic.com^
 ||xml-v4.fstsrv11.com^
-||xml-v4.fstsrv13.com^
 ||xml-v4.glcsrv.com^
 ||xml-v4.goclickz.net^
 ||xml-v4.hawkads.in^
@@ -5280,7 +5276,6 @@ serve.bussyhunter.com^
 ||xml.flyerblaze.com^
 ||xml.fstsrv10.com^
 ||xml.fstsrv11.com^
-||xml.fstsrv13.com^
 ||xml.goclickz.net^
 ||xml.groovyadz.com^
 ||xml.hotmaracas.com^
@@ -13795,6 +13790,7 @@ rgmechanicsgames.com*VPN.exe
 ||debeftib.com^
 ||debism.com^
 ||debitslopenoncommittal.com^
+||deboisedivel.com^
 ||debrisstern.com^
 ||debsis.com^
 ||debtminusmaternal.com^
@@ -16598,6 +16594,7 @@ rgmechanicsgames.com*VPN.exe
 ||falcatayamalka.com^
 ||falkag.net^
 ||falkwo.com^
+||fallenleadingthug.com^
 ||fallhadintense.com^
 ||fallingseveral.com^
 ||fallinsolence.com^
@@ -17723,6 +17720,7 @@ rgmechanicsgames.com*VPN.exe
 ||fsseeewzz.lol^
 ||fsseeewzz.quest^
 ||fstsrv1.com^
+||fstsrv13.com^
 ||fstsrv2.com^
 ||fstsrv3.com^
 ||fstsrv9.com^
@@ -22008,6 +22006,7 @@ rgmechanicsgames.com*VPN.exe
 ||jovialwoman.com^
 ||jowlishdiviner.com^
 ||jowvwrmccakiy.com^
+||jowyylrzbamz.top^
 ||joxaviri.com^
 ||joycreatorheader.com^
 ||joydirtinessremark.com^
@@ -25549,6 +25548,7 @@ rgmechanicsgames.com*VPN.exe
 ||muzoohat.net^
 ||muzzlematrix.com^
 ||muzzlepairhysteria.com^
+||mvblxbuxe.com^
 ||mvcqerddcnyfx.com^
 ||mvcwfqntrnatng.com^
 ||mvgxadljnwyf.com^
@@ -29932,6 +29932,7 @@ rgmechanicsgames.com*VPN.exe
 ||psithich.com^
 ||psixoahi.xyz^
 ||psma02.com^
+||psoacickoots.net^
 ||psoackaw.net^
 ||psoaftob.xyz^
 ||psoageph.com^
@@ -34688,6 +34689,7 @@ rgmechanicsgames.com*VPN.exe
 ||stunning-lift.com^
 ||stunninglover.com^
 ||stunningruin.com^
+||stunoolri.net^
 ||stunsbarbola.website^
 ||stunthedge.com^
 ||stupendousconcept.pro^
@@ -40620,6 +40622,7 @@ rgmechanicsgames.com*VPN.exe
 ||zpcfnzjq.com^
 ||zpgetworker11.com^
 ||zphgadwnjro.com^
+||zplfwuca.com^
 ||zpreland.com^
 ||zprelandappslab.com^
 ||zprelanding.com^
