@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-01T06:30:26.949Z
+! Last modified: 2024-09-01T12:38:46.198Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -113,10 +113,8 @@
 ://xingkong6688s.oss-
 ||ubmcmm.baidustatic.com^
 ||asd8900.oss-*.aliyuncs.com^
-||iwanshang*.asia^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
-||txhfgwgkwt*.asia^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||107.167.16.*.gif
@@ -124,6 +122,7 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||saltsleaseholder.com^
 ||yfaqgk.xyz^
 ||frntzz.xyz^
 ||tyaqzjp.icu^
@@ -393,7 +392,6 @@
 ||shbzqkj.cn^
 ||jz4u1.icu^
 ||shbzogs.cn^
-||molpmh.xyz^
 ||starredvs.com^
 ||wnmoobz.icu^
 ||doujs02.shop^
@@ -1336,6 +1334,7 @@
 ||mnpzrgz.xyz^
 ||moberg.cn^
 ||mohvxrvd.xyz^
+||molpmh.xyz^
 ||mondigo.cn^
 ||mpn56e.cn^
 ||mqaoweu.icu^
