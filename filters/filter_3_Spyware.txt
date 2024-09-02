@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-02T01:43:03.574Z
+! Last modified: 2024-09-02T06:31:18.719Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -32692,6 +32692,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||analytics.raenonx.cc^
 ||chocolatine.apexlegendsstatus.com^
 ||prod.tahoe-analytics.publishers.advertising.a2z.com^
 ||x.trvdp.com^
@@ -32700,7 +32701,6 @@
 ||sapi.tremendous.com^
 ||services.haaretz.com^
 ||track.hydro.online^
-||analytics.raenonx.cc^
 ||analytics.vixcloud.co^
 ||plausible.pronouns.cc^
 ||umami.subdavis.com^
