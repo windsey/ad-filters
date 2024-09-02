@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-02T12:43:08.421Z
+! Last modified: 2024-09-02T18:28:29.895Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -32016,6 +32016,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||l.premium.naver.com^
 ||analytics.raenonx.cc^
 ||chocolatine.apexlegendsstatus.com^
 ||prod.tahoe-analytics.publishers.advertising.a2z.com^
