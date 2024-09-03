@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-03T01:40:14.923Z
+! Last modified: 2024-09-03T06:30:03.607Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1427,7 +1427,6 @@
 ||track.nopaperforms.com^
 ||track.pricespider.com^
 ||track.qoof.com^
-||track.realtimeboard.com^
 ||track.searchignite.com^
 ||track.searchiq.co^
 ||track.shop2market.com^
@@ -1630,7 +1629,6 @@
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
 ||d1qnmu4nrib73p.cloudfront.net^
-||d1qpxk1wfeh8v1.cloudfront.net^
 ||d1r27qvpjiaqj3.cloudfront.net^
 ||d1r2sy6oc0ariq.cloudfront.net^
 ||d1r55yzuc1b1bw.cloudfront.net^
@@ -38686,7 +38684,6 @@
 ||lokalwerben.t-online.de^
 ||mat.ukraine-nachrichten.de^
 ||metrics.n-tv.de^
-||mlm-tracking-service.meinestadt.de^
 ||navigation-timing.meinestadt.de^
 ||nct.ui-portal.de^
 ||oxifwsabgd.nzz.ch^
@@ -38697,7 +38694,6 @@
 ||px.derstandard.at^
 ||pxc.otto.de^
 ||r.wz.de^
-||rem-track.bild.de^
 ||responder.wt.heise.de^
 ||rt.bunte.de^
 ||sgtm.tennis-point.de^
@@ -38803,7 +38799,6 @@
 ||sta.extreme-down.
 ||sta.wawacity.
 ||sta.zone-telechargement.
-||stat.ouedkniss.com^
 ||stats*.credit-cooperatif.coop^
 ||stats.sexemodel.com^
 ||stats.zone-annuaire.
@@ -38837,7 +38832,6 @@
 ||apilog-web.acfun.cn^
 ||apiwmda.58.com.cn^
 ||applog.yiche.com^
-||audit.qiuwen.net.cn^
 ||banana.le.com^
 ||bc.qunar.com^
 ||beacon.qq.com^
@@ -38915,7 +38909,6 @@
 ||shrek.6.cn^
 ||sngmta.qq.com^
 ||sofire.bdstatic.com^
-||ssp.hinet.net^
 ||stadig.ifeng.com^
 ||stat-58home.58che.com^
 ||stat.*.v-56.com^
@@ -38949,7 +38942,6 @@
 ||utrack.hexun.com^
 ||vatrack.hinet.net^
 ||visit.xchina.pics^
-||webstat.kuwo.cn^
 ||wkctj.baidu.com^
 ||ylog.huya.com^
 ||zhihu-web-analytics.zhihu.com^
@@ -38963,16 +38955,13 @@
 ||analytics.rambla.be^
 ||bc34.wijnvoordeel.nl^
 ||c.vrt.be^
-||ds2.independer.nl^
 ||events.reclamefolder.nl^
 ||log.rabobank.nl^
-||logs.ggweb.nl^
 ||metrics.nu.nl^
 ||r.kleertjes.com^
 ||sat.sanoma.fi^
 ||stats.fd.nl^
 ||t.vrt.be^
-||tdep.kvk.nl^
 ||topspin.npo.nl^
 ||track.pexi.nl^
 ||tracking.voordeeluitjes.nl^
@@ -39045,7 +39034,6 @@
 ||beat.yourtv.jp^
 ||count.upc.rakuten.co.jp^
 ||d-log.asahi.co.jp^
-||d-log.bs-asahi.tv^
 ||d-log.tv-asahi.co.jp^
 ||d.tv-asahi.co.jp^
 ||eq-beacon.stream.co.jp^
@@ -39092,7 +39080,6 @@
 ||log.kinolights.com^
 ||log.tossinvest.com^
 ||log.zdnet.co.kr^
-||nil.naver.com^
 ||nlog.naver.com^
 ||pds.auction.co.kr^
 ||rake.11st.co.kr^
@@ -39114,7 +39101,6 @@
 ||weblog2.eseoul.go.kr^
 ||stats.tunt.lv^
 ||event-tracking.hellohealthgroup.com^
-||click.vgnett.no^
 ||data.nrk.no^
 ||stats.proff.no^
 ||stm.komplett.no^
@@ -39199,7 +39185,6 @@
 ||tracker.azet.sk^
 ||analytics.bolavip.com^
 ||analytics.emol.com^
-||analytics.infobae.com^
 ||analytics.redlink.com.ar^
 ||audiencies.ccma.cat^
 ||coletor.terra.com^
