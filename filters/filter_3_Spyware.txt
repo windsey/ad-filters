@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-04T06:30:38.050Z
+! Last modified: 2024-09-04T12:42:49.304Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -11,6 +11,10 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||cdnweb2analytics.com^
+||notix.io^
+||pub.pixels.ai^
+||data.tm-awx.com^
 ||eu-1-id5-sync.com^
 ||octotracking.com^
 ||cartx.cloud^
@@ -467,7 +471,6 @@
 ||browser-intake-datadoghq.com^
 ||analytics.superstructure.ai^
 ||cdn.raekdata.com^
-||felix.data.tm-awx.com^
 ||imzahrwl.xyz^
 ||gae.karte.io^
 ||script.anura.io^

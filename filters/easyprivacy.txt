@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-04T06:30:32.414Z
+! Last modified: 2024-09-04T12:42:43.619Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1176,6 +1176,7 @@
 ||px.owneriq.net^
 ||pylon.micstatic.com^
 ||qubitanalytics.appspot.com^
+||query1.petametrics.com^
 ||r.skimresources.com^
 ||ramp.purch.com^
 ||rampjs-cdn.system1.com^
