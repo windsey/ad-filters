@@ -70252,6 +70252,7 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/152328
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=~golf.com|~today.line.me|~inmuebles24.com|~inside.com.tw|~investing.com|~olx.com.eg|~eksisozluk.com|~heycar.co.uk|~gizmodo.jp
 ! https://github.com/AdguardTeam/AdguardFilters/issues/152079
+! aglint-disable-next-line no-excluded-rules
 !||staff-start.com/js/track/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/187274
 ! Breaks search on shopping.yahoo.co.jp
@@ -79834,7 +79835,6 @@ demae-can.com#%#//scriptlet('remove-attr', 'data-trm-action|data-trm-category|da
 ||googletagservices.com/tag/js/gpt.js$domain=epaper.timesgroup.com,redirect=googletagservices-gpt,important
 @@||googletagservices.com/tag/js/gpt.js$domain=epaper.timesgroup.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/44731
-@@||cloudflare.com/ajax/libs/fingerprintjs2/*/fingerprint2.min.js$domain=nfmovies.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/44656
 @@||cleverbridge.com/*/cleveranalytics.js^$domain=secure.ccleaner.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/44538

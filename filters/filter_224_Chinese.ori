@@ -80,13 +80,9 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
-||uetlwst.top^
-||qetlwsy.top^
 ||cengqinglin.cn^
-||sprewcereous.com^
 ||shouldercommandmentlimitless.com^
 ||ad.ettoday.net^$redirect=nooptext
-||ttad125.com^
 ||996js123.com^
 ||tagtoo.co^$third-party
 ||ad.886112.xyz^
@@ -94,22 +90,11 @@
 ||98765.pw^
 ||cdn.holmesmind.com^$third-party
 ||aziekg.xyz^
-||max211.top^
 ||st-fly.b-cdn.net^
 ||ggsfq.xyz^$third-party
 ||noafoaji.xyz^
 ||bilec.xyz^
-||vkjsnvk.com^
-||yruws6.com^
 ||mlstx.cn^
-||yh18h8s.com^
-||qhx1h2g.com^
-||jh16csf.com^
-||kl91ccp.com^
-||kxm1b0u.com^
-||sa8zdui.com^
-||pr88vhg.com^
-||gw1jvhs.com^
 ||p97387hj.xyz^
 ||tfcdn.jingmiuyyds.com^$all
 ||vzttq.brfvyrrp.com^$all
@@ -123,7 +108,6 @@
 ||uu3192uu.com^
 ||ue8im.com^
 ||uu8811uu.com^
-||u1055.com^
 ||beacher56.xyz^
 ||666579.xyz^
 ||zhibo128x1.xyz^
@@ -141,7 +125,6 @@
 ||dian.brecm.xyz^
 ||awoudsoo.xyz^
 ||1200555.com^
-||kzepp.com^
 ||n0611.com^
 ||jcreje.com^
 ||99886aaa.com^
@@ -153,7 +136,6 @@
 ||73652253191.com^$third-party
 ||ymdxl.com^
 ||wildwist.com^
-||876920.com^
 ||mg.xhkvff.cn^
 ||mc.mwgpg.cn^
 ||pm.poqwua.cn^
@@ -184,7 +166,6 @@
 ||cxdcn9c.fjshxjs.cn^$third-party
 ||sdofp9c.cddrhx.cn^$third-party
 ||dat1.jzjxmj.com^$third-party
-||dlads.cn^$third-party
 ||dns.chuzushijian.cn^$third-party
 ||j.sdqoi2d.com^$third-party
 ||7daystodie.cn^$third-party
@@ -278,7 +259,6 @@
 ||web.51fishplace.com^$third-party
 ||cdntlz.cn^$third-party
 ||m.qhxcdmfj.cn^$third-party
-||emdcadvertise.eastmoney.com^
 ||szjyfund.com^$third-party
 ||y.21haodianmt.com^$third-party
 ||156.233.32.123^$third-party
@@ -295,8 +275,6 @@
 ||ulukaris.com^$third-party
 ||itadapi.ithome.com.tw^
 ||zjgfq.com^$third-party
-!+ NOT_OPTIMIZED
-||1002.men^
 
 !
 ! This section contains the list of advertising networks domains, which are hosted on non advertising sites as subdomains.
@@ -482,8 +460,6 @@ ekamus.info#$#.adsbygoogle { height: 1px !important; }
 ! https://github.com/AdguardTeam/AdguardFilters/issues/151297
 ! https://github.com/AdguardTeam/AdguardFilters/issues/127739
 dyxs23.com,dyxs20.com,dyxs15.com,dyxs14.com,dyxs13.com,dyxs12.com,dyxs11.com##.popupicon
-! https://github.com/AdguardTeam/AdguardFilters/issues/127451
-hkcards.com#@##ad-slot
 ! https://github.com/AdguardTeam/AdguardFilters/issues/124442
 ||freedidi.com/wp-content/plugins/death-luhubaoyu/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/124117
@@ -621,11 +597,9 @@ linetv.tw##.aspect-ratio > img.object-cover + .aspect-ratio-content + div[class^
 ||itad.linetv.tw/api/v2/vmap?ad_id=$xmlhttprequest,redirect=nooptext
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,important,domain=linetv.tw
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=linetv.tw
-@@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.min.js$domain=linetv.tw
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=linetv.tw
 ! https://github.com/AdguardTeam/AdguardFilters/issues/30495
-@@||ez3c.tw/js/adblockDetector.js
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
 @@||ez3c.tw^$generichide
 ! https://github.com/AdguardTeam/AdguardFilters/issues/30422
@@ -687,10 +661,6 @@ slashlook.com#$#body.modal-open { padding-right: 0!important; overflow: visible!
 @@||googleads.github.io/videojs-ima/node_modules/video.js/dist/video-js.min.css$domain=setn.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/13235
 cna.com.tw#$#.fb_fanpage_inpage > .other_news_box_2 { padding: 0 0px!important; margin: 26px 0!important; }
-! https://github.com/AdguardTeam/AdguardFilters/issues/11819
-tt1069.com#@##adbrite
-! https://github.com/AdguardTeam/AdguardFilters/issues/6826
-@@||digiland.tw/advert.js
 ! https://github.com/AdguardTeam/AdguardFilters/issues/7596
 @@||ani.gamer.com.tw^$generichide
 @@||i2.bahamut.com.tw/JS/ad/animeLogo.js^$domain=ani.gamer.com.tw
@@ -907,13 +877,6 @@ hboav.com#%#//scriptlet("set-constant", "adbk", "false")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64326
 popbee.com##.adblocker
 ! https://github.com/AdguardTeam/AdguardFilters/issues/50698
-nfmovies.com##div[id^="sponsorAdDiv"]
-nfmovies.com#@##adleft
-nfmovies.com#$##adright { position: absolute!important; left: -3000px!important; }
-nfmovies.com#$##adleft { position: absolute!important; left: -3000px!important; }
-nfmovies.com#$#img[src^="/pic/tu/"] { visibility: hidden!important; }
-nfmovies.com#$#a[onclick*="openurl"][target="_blank"] img[src^="/static/"] { position: absolute!important; top: -9999px!important; left: -9999px!important; bottom: unset!important; }
-||nfmovies.com/static/*.jpg$image,redirect=1x1-transparent.gif
 
 !---------------------------------------------------------------------------!
 !-------------- General element hiding rules -------------------------------!
@@ -1090,8 +1053,6 @@ bde4.com#%#//scriptlet("adjust-setInterval", "timerAdCountdown", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/64825
 5278.cc#%#//scriptlet("prevent-window-open", "88p2p.com")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/57243
-nfmovies.com#%#//scriptlet("adjust-setInterval", "timerAdCountdownCount", "", "0.02")
-nfmovies.com#%#//scriptlet("prevent-setTimeout", "/document\.getElementById[\s\S]*?\.style\.display\.indexOf/")
 ! NOTE: JS end ⬆️
 ! !SECTION: Chinese - JS
 !
@@ -1307,6 +1268,8 @@ $script,third-party,denyallow=authkong.com|rsc.cdn77.org|linkvertise.com|fastly.
 !
 !
 !
+||bjxty88.com/js/foot.js
+damon624.pixnet.net##aside[data-advertisement="true"]
 anny3805201314.pixnet.net###pilot
 anny3805201314.pixnet.net##.header_web_to_app__container
 ||pic.pimg.tw/promo01/
@@ -1589,8 +1552,6 @@ v2ex.com#?##Rightbar > .box > .inner:has(>a[href]:only-child) + .sidebar_complia
 ithome.com#$?#.t-b.sel > ul.nl > li:has(> a[href*="/lapin."]) { visibility: hidden !important; }
 ants.tw#?##sidebar > section.widget_text > div.textwidget > script[src^="//pagead2.googlesyndication.com/"]:upward(2)
 microsoftnews.msn.cn#?#.riverSections-DS-EntryPoint1-1 > div[style^="display: grid;"] > div[style^="grid-area:"]:last-child > .card-DS-card1-1 > div[class^="nativeAd-DS-card"]:upward(2)
-nfmovies.com#$?#body > .hidden-xs > div[id]:has(> img[src^="/static/"][onclick*="open"]) { position: absolute!important; top: -9999px!important; left: -9999px!important; bottom: unset!important; }
-nfmovies.com#$?#div[id^="aaaDiv"] { remove: true; }
 am730.com.hk#?#.newslist-row > li.newslist-item:has(> div.adbox)
 lzacg.one#?#.sidebar .zib-widget:has(> .textwidget:only-child > a[target="blank"])
 lzacg.one#?#.content-layout .zib-widget:has(> .textwidget:only-child > a[target="blank"])
@@ -2470,7 +2431,6 @@ litv.tv##body > .right_float_poster_container
 .gif$third-party,domain=922tp.com
 cl.wpio.xyz##.tpc_content > a[target="_blank"][onmouseover]
 .gif$third-party,domain=cl.wpio.xyz
-||m.nfydd.com/template/wap1/js/dd.js
 .gif$third-party,domain=yasem5.com
 yasem5.com###cdaas-rand
 yasem5.com##a[href*="yasem5.com/go"][target="_blank"]
@@ -2654,8 +2614,6 @@ v.shensgo.com##body > div[id][class*="animated"][style*="position"][style*="z-in
 v.shensgo.com##brde[id][style*="height"]
 m.lelekan.com##div[id^="myads"]
 jav777.xyz##iframe[src^="//ads.exoclick.com/"]
-nfmovies.com##.container > div.row > div.hy-layout > div.clearfix > a[href][target="_blank"] > img
-/ad*_mobile_banner.png$domain=nfmovies.com
 briian.com##div[class^="hentry-gad-mobile"]
 myptt.cc##p[style="padding:0;margin: 5px 0;color:#ff0000;"] > a[href][target="_blank"][style^="display:inline-block;"] > img
 fashionwaltz.com###single_reading
@@ -2711,7 +2669,6 @@ tw.stock.yahoo.com##tr:has(> td[valign="top"] > .geminiAd)
 tw.stock.yahoo.com##td > div.ysm
 ||vip1.loli.net/2020/02/17/A9jmsY41EwiUzou.png$domain=ddrk.me
 mikanani.me##a[href][onclick*="'ad'"] > img[src^="/images/Masha/"]
-||nfmovies.com/pic/tu/banner-*.jpg
 ||hsex.men/view/img/*.gif
 ltn.com.tw,ctwant.com,mobile01.com##div[id^="_popIn_recommend"]
 tw.yahoo.com##[class*="has-beacon-click"][data-wf-beacons^="https://*.gemini.yahoo.com/"]
@@ -2993,12 +2950,6 @@ $script,third-party,denyallow=myqcloud.com|bytecdntp.com|pddpic.com|googletagman
 ! https://github.com/AdguardTeam/AdguardForWindows/issues/4227
 !+ PLATFORM(windows, mac, android)
 doubibackup.com##body div.guangg
-! nfmovies.com
-nfmovies.com##a[href][onclick^="openurl()"] img[src^="/static/"]
-!+ PLATFORM(ios, ext_safari, ext_android_cb)
-nfmovies.com##body div[id^="aaaDiv"]
-!+ PLATFORM(windows, mac, android)
-||nfmovies.com/static/side.jpg$image,redirect=nooptext,domain=nfmovies.com
 ! fix infinite call
 ||52996.me/upload/ad/$media,redirect=noopmp4-1s
 ! https://github.com/AdguardTeam/AdguardFilters/issues/7114
@@ -3255,7 +3206,6 @@ ettoday.net#@#.iframe-ad
 @@||cdn.rawgit.com/*/lazyload.js$domain=javmost.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/42481
 !#safari_cb_affinity(privacy)
-@@||cloudflare.com/ajax/libs/fingerprintjs2/*/fingerprint2.min.js$domain=nfmovies.com
 !#safari_cb_affinity
 ! https://github.com/AdguardTeam/AdguardFilters/issues/51858
 ! https://github.com/AdguardTeam/AdguardFilters/issues/45000
@@ -3265,8 +3215,6 @@ world.huanqiu.com#@#.ad_all
 ! https://github.com/AdguardTeam/AdguardFilters/issues/88595
 !+ NOT_OPTIMIZED
 @@||img.ads.tvb.com/news/min.js$domain=news.tvb.com
-!+ NOT_OPTIMIZED
-@@||tvb.com^*/videojs.ads.
 !+ NOT_OPTIMIZED
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news.tvb.com
 !+ NOT_OPTIMIZED
@@ -3323,8 +3271,7 @@ bmvc2020-conference.com#@#div[id][style="width: 100%;"] > iframe[scrolling="no"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/66447
 @@||wkstatic.bdimg.com/static/wkcore/widget/commerce/fengchao/*$domain=wenku.baidu.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/57243
-nfmovies.com#@?#div[id]:-abp-has(>img[onclick="openurl()"])
-@@||nfmovies.com/static/side.jpg$xmlhttprequest,domain=nfmovies.com
+
 !---------------------------------------------------------------------------!
 !--------------- EasyList China rules --------------------------------------!
 !---------------------------------------------------------------------------!
@@ -5034,6 +4981,7 @@ newduba.cn###jq_youxi
 ||ifxqubw.icu^
 ||urutvnct.top^
 ||gcvcdashb2.fun^
+||imgoss1380.top^
 ||nlrsrx.xyz^
 ||gbndash2.fun^
 ||geqshb22.fun^
