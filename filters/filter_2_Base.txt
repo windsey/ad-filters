@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-04T18:26:59.749Z
+! Last modified: 2024-09-05T01:41:46.393Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -4990,6 +4990,8 @@ serve.bussyhunter.com^
 ||xml3.danarimedia.com^
 ||xmlserving.mobagent.com^
 ||xmlv4.reklama.network^
+||hesads.akamaized.net^
+||videoads.hotstar.com^
 ||iframe.porndudegirls.com^
 ||cdn.slots.baxter.olx.org^
 ||s.trvdp.com^
