@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-05T06:30:32.704Z
+! Last modified: 2024-09-05T12:42:26.391Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -11,6 +11,8 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||adlc-exchange.toast.com^
+||ad.aceplanet.co.kr^
 ||cdnweb2analytics.com^
 ||notix.io^
 ||pub.pixels.ai^
@@ -740,6 +742,7 @@
 ||fout.jp^
 ||lciapi.ninthdecimal.com^
 ||mqs.ioam.de^
+||query*.petametrics.com^
 ||rcounter.rambler.ru^
 ||rva.outbrain.com^
 ||target.ukr.net^

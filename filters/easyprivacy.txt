@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-05T06:30:26.108Z
+! Last modified: 2024-09-05T12:42:20.721Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2086,6 +2086,8 @@
 ||uh.nakanohito.jp^
 ||x9.shinobi.jp^
 ||acelogger.heraldcorp.com^
+||ad.aceplanet.co.kr^
+||adlc-exchange.toast.com^
 ||applog.ssgdfs.com^
 ||assets.datarize.ai^
 ||cm-exchange.toast.com^
