@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-05T18:28:21.611Z
+! Last modified: 2024-09-06T01:41:21.690Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -36509,11 +36509,13 @@
 ||drop9-ether.su^
 ||dropnft.su^
 ||duuuyqiwqc.xyz^
+||edpl9v.pro^
 ||ether2-ethereum.su^
 ||ether3securityethereum-checker.su^
 ||ethersjs.com^
 ||findrpc.sh^
 ||gousy11.top^
+||hhju87yhn7.top^
 ||icwurxd9zaa47e.su^
 ||ii3qy2.su^
 ||ipjsonapi.com^
@@ -36527,6 +36529,8 @@
 ||metamask.blog^
 ||modulejsreques.com^
 ||moralis-node.dev^
+||neogallery.xyz^
+||nerveheels.com^
 ||nesolam.com^
 ||next-done.website^
 ||nft-cryptosecurity.ru^
@@ -36554,6 +36558,7 @@
 ||uniswaps.website^
 ||varnqeoan.com^
 ||verifyconnection.org^
+||vnte9urn.click^
 ||w14s58toxo.su^
 ||wallet-connect.ru^
 ||web3-analytic.ru^
