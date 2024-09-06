@@ -476,17 +476,25 @@ accountkiller.com#%#window.ga = function(){var a = arguments[5];a&&a.hitCallback
 !
 ! Suppressing Google's "Protected" Audience API:
 ! https://wicg.github.io/turtledove/
-! TODO: Add a scriptlet: https://github.com/AdguardTeam/Scriptlets/issues/395
+! https://github.com/AdguardTeam/Scriptlets/issues/395
+#%#//scriptlet('no-protected-audience')
 !
+!#if (!ext_ublock)
 ! Suppressing both Google's Topics API and Topics API using Permissions policy
-! Works in CoreLibs-based AdGuard versions, the browser extension waits for https://github.com/AdguardTeam/tsurlfilter/issues/66
-! Part with "://*.*" before "$permissions=" is required, otherwise it will be marked as too wide rule
 ! AGLint temporarily disabled for this rule due to https://github.com/AdguardTeam/AGLint/issues/191
 ! TODO: Enable it back when AGLint is fixed.
-! TODO: remove $document modifier after versions with Corelibs 1.14.38+ will be released
-!#if (!ext_ublock)
 ! aglint-disable-next-line
-://*.*$document,permissions=join-ad-interest-group=()\,run-ad-auction=()\,browsing-topics=()
+/.*/$permissions=join-ad-interest-group=()
+! aglint-disable-next-line
+/.*/$permissions=run-ad-auction=()
+! aglint-disable-next-line
+/.*/$permissions=browsing-topics=()
+!
+! Suppressing Private State Token API
+! aglint-disable-next-line
+/.*/$permissions=private-state-token-issuance=()
+! aglint-disable-next-line
+/.*/$permissions=private-state-token-redemption=()
 !#endif
 !
 ! End: Rules for Google "Privacy" Sandbox
@@ -36086,6 +36094,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||log.pdfreaders.net^
 ||track2.tprg.ru^
 ||metrics.camsoda.com^
 ||to.torrentfreak.com^
@@ -70281,6 +70290,7 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 /prod/dfm/g2i.min.js$redirect=nooptext,important,domain=dailycamera.com
 /prod/dfm/t8y9347t.min.js$redirect=nooptext,important,domain=dailycamera.com
 !
+||player.ivideosmart.com/ivsplayer/*/moat-tracker.js
 ||nexon.com/nxlog-collect/
 2gis.*#%#//scriptlet('set-local-storage-item', '/_ym/', '$remove$')
 ||tags.stepstone.com/utag/*/prod/utag.js
