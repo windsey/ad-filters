@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-06T01:41:24.168Z
+! Last modified: 2024-09-06T06:30:14.774Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -106,6 +106,9 @@
 ||kzcayec.icu^
 ||tqbrnd.xyz^
 ||udeias.xyz^
+||fq03.shop^
+||jy05.shop^
+||lrutvncl.top^
 ||wxmmji.xyz^
 ||orutvnck.top^
 ||gedxssashb8.fun^
