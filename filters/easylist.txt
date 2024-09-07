@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-07T01:39:48.044Z
+! Last modified: 2024-09-07T06:28:35.167Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -50,6 +50,7 @@
 ://ad1.
 ://ads2.
 ://adserver1.
+://delivery.ads.
 ://oascentral.
 -dfp-prebid-
 .prebid-bundle.
@@ -5951,6 +5952,7 @@
 ||can-get-some.net^
 ||canadianbedevil.com^
 ||canarystarkcoincidence.com^
+||cancriberths.com^
 ||candiedguilty.com^
 ||candiedtouch.com^
 ||candleannihilationretrieval.com^
@@ -7607,6 +7609,7 @@
 ||corruptclients.com^
 ||corruptsolitaryaudibly.com^
 ||corveseiren.com^
+||cosedluteo.com^
 ||cosesgabbles.top^
 ||cosiequiapo.com^
 ||cosignpresentlyarrangement.com^
@@ -8944,6 +8947,7 @@
 ||dimlmhowvkrag.xyz^
 ||dimlyconfidential.com^
 ||dimmestlasts.top^
+||dimnaamebous.com^
 ||dimnatriazin.com^
 ||dimnessinvokecorridor.com^
 ||dimnessslick.com^
@@ -28879,6 +28883,7 @@
 ||siresouthernpastime.com^
 ||sireundermineoperative.com^
 ||sirmianow.top^
+||siruperunlinks.com^
 ||sisewepod.com^
 ||sismoycheii.cc^
 ||sistercashmerebless.com^
@@ -34021,6 +34026,7 @@
 ||wagtelly.com^
 ||wahile.com^
 ||wahoha.com^
+||waigepsap.net^
 ||waigriwa.xyz^
 ||wailedfrosty.com^
 ||waioowcadhw.xyz^
@@ -34304,6 +34310,7 @@
 ||weekendchinholds.com^
 ||weeklideals.com^
 ||weemofee.com^
+||weensnandow.com^
 ||weephuwe.xyz^
 ||weepingheartache.com^
 ||weepingpretext.com^

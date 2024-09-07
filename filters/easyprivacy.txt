@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-07T01:39:49.361Z
+! Last modified: 2024-09-07T06:28:36.458Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2775,6 +2775,7 @@
 ||statistics.streamdav.com^
 ||stats.aerotime.aero^
 ||stats.calcalist.co.il^
+||stats.chromatone.center^
 ||stats.codeur.com^
 ||stats.davidickedelivery.com^
 ||stats.gateio.ch^
