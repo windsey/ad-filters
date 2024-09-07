@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-07T12:38:18.142Z
+! Last modified: 2024-09-07T18:26:57.421Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -5402,6 +5402,7 @@ rgmechanicsgames.com*VPN.exe
 ://ad1.
 ://ads2.
 ://adserver1.
+://adsserver.
 ://delivery.ads.
 ://oascentral.
 -dfp-prebid-
