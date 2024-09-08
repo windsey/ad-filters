@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-08T06:28:14.546Z
+! Last modified: 2024-09-08T12:38:52.229Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -52,6 +52,7 @@
 ://adserver1.
 ://adserving.
 ://adsserver.
+://aff-ads.
 ://delivery.ads.
 ://oascentral.
 -dfp-prebid-
@@ -1793,7 +1794,6 @@
 ||adsrv.me^
 ||adsrv.wtf^
 ||adstarget.net^
-||adstargets.com^
 ||adstean.com^
 ||adstico.io^
 ||adstook.com^
@@ -2130,6 +2130,7 @@
 ||afvwwjcplvq.com^
 ||afwpc.com^
 ||afxjwyg.com^
+||afy.agency^
 ||afywhecpi.com^
 ||agabreloomr.com^
 ||agacelebir.com^
@@ -37962,6 +37963,7 @@
 ||sontent.powzers.lol^
 ||spike-plant.valorbuff.com^
 ||sponsors.vuejs.org^
+||static.ad.libimseti.cz^
 ||store-api.mumuglobal.com^
 ||t.police1.com^
 ||tontent.powzers.lol^

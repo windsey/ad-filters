@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-08T06:28:20.636Z
+! Last modified: 2024-09-08T12:38:58.354Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -7124,7 +7124,6 @@ rgmechanicsgames.com*VPN.exe
 ||adsrv.me^
 ||adsrv.wtf^
 ||adstarget.net^
-||adstargets.com^
 ||adstean.com^
 ||adstico.io^
 ||adstook.com^
@@ -7456,6 +7455,7 @@ rgmechanicsgames.com*VPN.exe
 ||afvwwjcplvq.com^
 ||afwpc.com^
 ||afxjwyg.com^
+||afy.agency^
 ||afywhecpi.com^
 ||agabreloomr.com^
 ||agacelebir.com^
@@ -42933,6 +42933,7 @@ rgmechanicsgames.com*VPN.exe
 ||sontent.powzers.lol^
 ||spike-plant.valorbuff.com^
 ||sponsors.vuejs.org^
+||static.ad.libimseti.cz^
 ||store-api.mumuglobal.com^
 ||t.police1.com^
 ||tontent.powzers.lol^

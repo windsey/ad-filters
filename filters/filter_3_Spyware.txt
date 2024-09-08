@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-08T06:28:21.490Z
+! Last modified: 2024-09-08T12:38:59.210Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||events.baselime.io^
 ||adlc-exchange.toast.com^
 ||ad.aceplanet.co.kr^
 ||cdnweb2analytics.com^
@@ -32022,6 +32023,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||a-da.invideo.io^
+||pixel.clutter.com^
 ||log.bloodppressure.info^
 ||log.pdfreaders.net^
 ||track2.tprg.ru^
