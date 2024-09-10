@@ -1,10 +1,14 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-10T12:44:37.966Z
+! Last modified: 2024-09-10T18:29:31.905Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
+||xn--mts60is5y5uk.com^
+||dfqzah.xyz^
+||lafacw.xyz^
+||dadatuwz.com^
 ||cengqinglin.cn^
 ||shouldercommandmentlimitless.com^
 ||996js123.com^
