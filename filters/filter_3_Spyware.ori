@@ -36561,6 +36561,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||jitsu.ixbt.com^
 ||a-da.invideo.io^
 ||pixel.clutter.com^
 ||log.bloodppressure.info^
@@ -71748,6 +71749,7 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 /prod/dfm/g2i.min.js$redirect=nooptext,important,domain=dailycamera.com
 /prod/dfm/t8y9347t.min.js$redirect=nooptext,important,domain=dailycamera.com
 !
+||ipokabu.net/js/analytics.js
 ||pi.ai/proxy/api/event
 ||cookpad.com/FqtAw5et/init.js
 ||cookpad.com/*/activity_logs
