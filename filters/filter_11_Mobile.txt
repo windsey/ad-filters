@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-11T12:43:15.802Z
+! Last modified: 2024-09-11T18:29:21.344Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -461,7 +461,6 @@
 ||nycp-hlb.dvgtm.akadns.net^
 ||abbott.vo.llnwd.net^
 ||behance.vo.llnwd.net^
-||kjos.vo.llnwd.net^
 ||synthes.vo.llnwd.net^
 ||teachscape.vo.llnwd.net^
 ||tmz.vo.llnwd.net^
