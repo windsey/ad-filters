@@ -1,10 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-11T06:30:46.041Z
+! Last modified: 2024-09-11T12:43:19.924Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
+||fimrg.ajscdn.com^
+||2497may2024.com^
 ||wgnefmhwookdh.com^
 ||ivggagxczuoc.com^
 ||koushauwhie.xyz^
@@ -5433,7 +5435,6 @@ rgmechanicsgames.com*VPN.exe
 -ad-300x600-
 -ad-458x80.
 -ad-bottom-
--ad-column-
 -ad-right.
 -ad-sidebar.
 -ad-unit.
@@ -19160,6 +19161,7 @@ rgmechanicsgames.com*VPN.exe
 ||groguzoo.net^
 ||groininsightclaimed.com^
 ||groinopposed.com^
+||groleepugny.net^
 ||gronsoad.com^
 ||gronsoakoube.net^
 ||grooksom.com^

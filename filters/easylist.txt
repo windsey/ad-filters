@@ -1,13 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-11T06:30:39.975Z
+! Last modified: 2024-09-11T12:43:13.914Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 -ad-300x600-
 -ad-458x80.
 -ad-bottom-
--ad-column-
 -ad-right.
 -ad-sidebar.
 -ad-unit.
@@ -13838,6 +13837,7 @@
 ||groguzoo.net^
 ||groininsightclaimed.com^
 ||groinopposed.com^
+||groleepugny.net^
 ||gronsoad.com^
 ||gronsoakoube.net^
 ||grooksom.com^
