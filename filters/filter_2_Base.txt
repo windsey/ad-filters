@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-12T06:31:04.575Z
+! Last modified: 2024-09-12T12:41:47.005Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -17303,6 +17303,7 @@ rgmechanicsgames.com*VPN.exe
 ||flipool.com^
 ||flippantguilt.com^
 ||flirtatiousconsultyoung.com^
+||flirtclickmatches.life^
 ||flirtfusiontoys.toys^
 ||flitespashka.top^
 ||flixdot.com^
