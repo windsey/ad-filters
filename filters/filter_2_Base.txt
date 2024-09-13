@@ -1,9 +1,13 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-13T06:31:00.361Z
+! Last modified: 2024-09-13T12:41:25.863Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
+
+||alaudrup.net^
+||shamnmalcwob.com^
+||adshere.online^
 ||fimrg.ajscdn.com^
 ||2497may2024.com^
 ||wgnefmhwookdh.com^

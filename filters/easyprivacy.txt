@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-13T06:30:55.607Z
+! Last modified: 2024-09-13T12:41:21.079Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2625,6 +2625,7 @@
 ||mcs.tiktokv.us^
 ||mcs.tiktokw.us^
 ||mcs.us.tiktokv.com^
+||mdt.crateandbarrel.com^
 ||megatron.igraal.com^
 ||metrics.audius.co^
 ||metrics.bangbros.com^
