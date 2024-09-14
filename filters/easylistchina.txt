@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-14T06:29:42.369Z
+! Last modified: 2024-09-14T12:39:25.784Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -22,6 +22,7 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||hahaql.top^
 ||gkeolwi.icu^
 ||ofqvca.xyz^
 ||vcxv787.fun^
@@ -31,6 +32,7 @@
 ||3625ggtp1.com^
 ||kaiyuantp.vip^
 ||sdickeb.top^
+||drtrs55.fun^
 ||cgskys.xyz^
 ||nroeoxk.icu^
 ||gdd08.com^

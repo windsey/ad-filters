@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-14T06:29:43.345Z
+! Last modified: 2024-09-14T12:39:26.733Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -38377,7 +38377,6 @@
 ||surpreendaapp.hanzo.com.br^
 ||swa.anydma.com^
 ||sxarakia.openapp.link^
-||t.ac.pandora.com^
 ||t.bztest.origin.com.au^
 ||t.comms.thetimes.co.uk^
 ||t.discover.kayosports.com.au^
