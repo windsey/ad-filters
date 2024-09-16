@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-16T01:48:32.933Z
+! Last modified: 2024-09-16T06:31:49.997Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -50,6 +50,7 @@
 ://ads2.
 ://adserver1.
 ://adserving.
+://adsrv.
 ://adsserver.
 ://aff-ads.
 ://ak-ads-ns.
