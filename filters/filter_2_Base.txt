@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-16T12:45:11.093Z
+! Last modified: 2024-09-16T18:30:20.853Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -6003,6 +6003,7 @@ rgmechanicsgames.com*VPN.exe
 ||34yjwa4u6.com^
 ||357dbd24e2.com^
 ||35volitantplimsoles5.com^
+||360news4u.com^
 ||360popads.com^
 ||360protected.com^
 ||360yield-basic.com^
@@ -7676,6 +7677,7 @@ rgmechanicsgames.com*VPN.exe
 ||aigaithojo.com^
 ||aigheebsu.net^
 ||aigneloa.com^
+||aignewha.com^
 ||aigniltosesh.net^
 ||aigretenew.top^
 ||aigsgwowkb.com^
@@ -24385,6 +24387,7 @@ rgmechanicsgames.com*VPN.exe
 ||mapeeree.xyz^
 ||maper.info^
 ||maplecurriculum.com^
+||maptitch.net^
 ||maquiags.com^
 ||marapcana.online^
 ||marazma.com^
@@ -24586,6 +24589,7 @@ rgmechanicsgames.com*VPN.exe
 ||mcpuwpsh.com^
 ||mcpuwpush.com^
 ||mcqgfoc.com^
+||mcrertpgdjbvj.com^
 ||mcrfncrswbeka.com^
 ||mctailqwjke.com^
 ||mcurrentlyse.shop^
@@ -26044,6 +26048,15 @@ rgmechanicsgames.com*VPN.exe
 ||neshigreek.com^
 ||nessainy.net^
 ||nestledmph.com^
+||plenastonk.com^
+||ssfatyozvtbom.com^
+||toisedmoky.com^
+||twoepidemic.com^
+||uhwwrtoesislugj.xyz^
+||wbkfklsl.com^
+||whaickeenie.xyz^
+||xrrdi.com^
+||zlhaekgfrqlu.com^
 ||netcatx.com^
 ||netflopin.com^
 ||nethebravero.com^
@@ -40868,7 +40881,6 @@ rgmechanicsgames.com*VPN.exe
 ||zlacraft.com^
 ||zlbvewof.com^
 ||zlebdfhnampju.com^
-||zlhaekgfrqlu.com^
 ||zlink2.com^
 ||zlink6.com^
 ||zlinkc.com^
@@ -41267,6 +41279,7 @@ rgmechanicsgames.com*VPN.exe
 ||1080872514.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
+||1116283932.rsc.cdn77.org^
 ||1136707664.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1208344341.rsc.cdn77.org^
@@ -41286,6 +41299,7 @@ rgmechanicsgames.com*VPN.exe
 ||1693418686.rsc.cdn77.org^
 ||1710712823.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1866741353.rsc.cdn77.org^
 ||1918837748.rsc.cdn77.org^
 ||1wnurc.com^
 ||a-delivery.rmbl.ws^
@@ -41423,6 +41437,7 @@ rgmechanicsgames.com*VPN.exe
 ||promos.fling.com^
 ||protected-redirect.click^
 ||proto2ad.durasite.net^
+||pub-81f2b77f5bc841c5ae64221394d67f53.r2.dev^
 ||pubfeed.linkby.com^
 ||pushtoast-a.akamaihd.net^
 ||qsearch-a.akamaihd.net^

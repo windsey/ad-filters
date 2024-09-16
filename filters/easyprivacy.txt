@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-16T12:45:06.389Z
+! Last modified: 2024-09-16T18:30:16.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1204,6 +1204,7 @@
 ||rum.azion.com^
 ||rum.azioncdn.net^
 ||rum.corewebvitals.io^
+||rum.hlx.page^
 ||rum.ingress.layer0.co^
 ||rum.layer0.co^
 ||rum.perfops.net^
@@ -1295,6 +1296,7 @@
 ||stats.polldaddy.com^
 ||stats.prebytes.com^
 ||stats.pusher.com^
+||stats.pushloop.io^
 ||stats.sa-as.com^
 ||stats.sawlive.tv^
 ||stats.screenresolution.org^
