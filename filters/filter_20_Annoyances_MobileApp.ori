@@ -125,6 +125,10 @@ turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepeti.com,rabota.by,temp-
 !
 !
 !
+cultura.uol.com.br###homecampanha
+moises.ai##.relative > div.flex-col:has(> div[role="group"] > a[title="App Store"])
+moises.ai##footer + div.fixed
+codenames.game##a[href="https://cge.as/cnapp-store-download-cno"]
 v.daum.net##.box_floating:has(button[data-tiara-action-name="다음앱배너_클릭"])
 member.kms.kuronekoyamato.co.jp##.common-header ~ div > .overlay:has(> .open-app-area)
 wear.jp###app_info
@@ -3420,6 +3424,8 @@ m.tokopedia.com#$#div[data-testid="divOverlay"] { display: none!important; }
 ! causes some issues: https://github.com/AdguardTeam/AdguardForMac/issues/550
 ~status.im,~lafenice.io,~kurer-sreda.ru,~chorki.com,~zattoo.com,~zaycev.net,~hitta.se,~mail.ru,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 !
+goo.ne.jp##.topbanner
+kachimai.jp###appwrap
 ||baby-calendar.jp/nazuke/img/app/header_
 jorudan.co.jp##.appHeaderBnr
 search.brave.com##.download-cta
