@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-16T18:30:16.149Z
+! Last modified: 2024-09-17T01:20:15.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -98,6 +98,7 @@
 ||cityrobotflower.com^
 ||ck123.io^
 ||ckies.net^
+||clanto.cloud^
 ||clarity.ms^
 ||clearbitscripts.com^
 ||click360.io^
@@ -271,6 +272,7 @@
 ||mitself.net^
 ||ml-sys.xyz^
 ||mm-api.agency^
+||mngusr.com^
 ||mobildev.in^
 ||monicaatron.com^
 ||monu.delivery^
@@ -810,6 +812,7 @@
 ||ct.corpusapp.com^
 ||ct.needlive.com^
 ||ct.pinterest.com^
+||cta-service-cms2.hubspot.com^
 ||curated.fieldtest.cc^
 ||customfingerprints.bablosoft.com^
 ||cws.conviva.com^
@@ -1579,6 +1582,7 @@
 ||w4o7aea80ss3-a.akamaihd.net^
 ||watchtower.graindata.com^
 ||wco.crownpeak.com^
+||wds.weqs.me^
 ||web-tracker.smsbump.com^
 ||web1.51.la^
 ||webcare.byside.com^
@@ -2218,6 +2222,7 @@
 ||target.smi2.ru^
 ||tbe.tom.ru^
 ||telemetry.jivosite.com^
+||test.legitcode.ws^
 ||tms-st.cdn.ngenix.net^
 ||tms.dmp.wi-fi.ru^
 ||top.elec.ru^
@@ -39202,6 +39207,7 @@
 ||audiencies.ccma.cat^
 ||coletor.terra.com^
 ||compare.easyviajar.com^
+||data.acierto.com^
 ||estadisticas.lanacion.com.ar^
 ||estadonline.publiguias.cl^
 ||fnvma.milanuncios.com^
