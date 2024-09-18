@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-17T12:43:05.179Z
+! Last modified: 2024-09-18T01:42:24.009Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -22,6 +22,13 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||koytqo.xyz^
+||wkitere.top^
+||dsukqsx.icu^
+||cdscs990.fun^
+||dgrgr34.fun^
+||ijksec.xyz^
+||hsvmtn.xyz^
 ||eeqweqw.fun^
 ||ypkiog.xyz^
 ||esyook.xyz^
@@ -32,6 +39,7 @@
 ||zcypmsp.icu^
 ||frgf99.fun^
 ||wxmhau.xyz^
+||wrsikq.xyz^
 ||bowvses.icu^
 ||mdmuky.xyz^
 ||zyrnbh.xyz^

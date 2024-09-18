@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-17T12:43:06.138Z
+! Last modified: 2024-09-18T01:42:24.980Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -272,7 +272,6 @@
 ||mitself.net^
 ||ml-sys.xyz^
 ||mm-api.agency^
-||mngusr.com^
 ||mobildev.in^
 ||monicaatron.com^
 ||monu.delivery^

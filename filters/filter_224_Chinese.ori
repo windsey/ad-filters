@@ -2888,6 +2888,7 @@ netfly.*,netfly.tv##div[class*="tt-"] > a[target="_blank"] + span.tt-icon-close
 ! Do not hide .bili-video-card container to not mess up content, related - https://github.com/AdguardTeam/AdguardFilters/issues/147194#issuecomment-1500803042
 ! https://user-images.githubusercontent.com/3976203/273172163-25ff30a0-c988-4ec3-9e51-cf4722a90976.jpg
 ! bilibili.com#?#.bili-video-card.is-rcmd > div > a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bili"]) + .bili-video-card__info:upward(2)
+bilibili.com#$?#.container > div.feed-card:not(:has(> div > *)) { remove: true; }
 bilibili.com##.container > div.feed-card:not(:has(> div > *))
 bilibili.com#$?#.container > div.floor-single-card:has(> div.skeleton) { remove: true; }
 bilibili.com##.ad-report
@@ -4989,6 +4990,13 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||koytqo.xyz^
+||wkitere.top^
+||dsukqsx.icu^
+||cdscs990.fun^
+||dgrgr34.fun^
+||ijksec.xyz^
+||hsvmtn.xyz^
 ||eeqweqw.fun^
 ||ypkiog.xyz^
 ||esyook.xyz^
@@ -4999,6 +5007,7 @@ newduba.cn###jq_youxi
 ||zcypmsp.icu^
 ||frgf99.fun^
 ||wxmhau.xyz^
+||wrsikq.xyz^
 ||bowvses.icu^
 ||mdmuky.xyz^
 ||zyrnbh.xyz^
@@ -13448,6 +13457,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||dajiadu8.com/17mb/script/ad.js
 /mpc/*$domain=52xkdy.com|fydy8.com
 szxx.com.cn###A0
+wantgoo.com##.fab-ad
+wantgoo.com##div[type="adv"]
 tmioe.com##.tphf
 39.net##.banner_g
 dcfever.com##.trading_top_banner
