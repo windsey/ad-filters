@@ -36117,6 +36117,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||log-ana.h3z.jp^
 ||ivstat.indavideo.hu^
 ||stat.indidata.com^
 ||plausible.paimon.moe^
@@ -72502,6 +72503,8 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 /prod/dfm/g2i.min.js$redirect=nooptext,important,domain=dailycamera.com
 /prod/dfm/t8y9347t.min.js$redirect=nooptext,important,domain=dailycamera.com
 !
+arstechnica.com###story-recommendations
+||assets.rfdcontent.com/*/analytics/
 ||sprinklr.com/api/livechat/prompt/browse/event|
 ||assets.thdstatic.com/analytics/core/*/appMeasure$domain=homedepot.com
 ||canarytokens.com/*/*/*.$all
@@ -77819,6 +77822,10 @@ $cookie=bf_visit
 ! Bad:  ||monerominer.rocks^$third-party (should be in adservers.txt)
 !
 !
+! clarity.ms
+||clarity.ms^$cookie=MUID
+||clarity.ms^$cookie=CLID
+||clarity.ms^$cookie=ANON
 ! https://github.com/AdguardTeam/AdguardFilters/issues/186196
 ||homerun.co.uk^$cookie=_fingerPrint
 ! https://github.com/AdguardTeam/AdguardFilters/issues/185426
@@ -79291,6 +79298,11 @@ inapps.appsflyersdk.com^
 !@@||mc.yandex.ru/metrika/watch.js$domain=
 !#endif
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/188799
+@@||googletagmanager.com/gtm.js$domain=playactivate.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/189016
+@@||online.rshb.ru/rshb-mbfl/lib/snowplow/
+@@||online.rshb.ru/rshb-mbfl/plugins/
 ! https://github.com/AdguardTeam/AdguardFilters/issues/188967
 ||hm.baidu.com/hm.js$script,redirect=noopjs,domain=qpp.caq.org.cn
 !+ PLATFORM(ios, ext_safari, ext_android_cb)
