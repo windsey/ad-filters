@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-19T12:43:42.002Z
+! Last modified: 2024-09-19T18:29:40.495Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -28836,6 +28836,7 @@ rgmechanicsgames.com*VPN.exe
 ||phumpauk.com^
 ||phupours.com^
 ||phursefter.net^
+||phuthobsee.com^
 ||phuzeeksub.com^
 ||phvhnxebmrzf.com^
 ||phxnkysa.com^
@@ -34564,6 +34565,7 @@ rgmechanicsgames.com*VPN.exe
 ||statsforads.com^
 ||statsmobi.com^
 ||staubsuthil.com^
+||staukaul.com^
 ||staumersleep.com^
 ||staunchchivied.top^
 ||staunchgenetwitch.com^

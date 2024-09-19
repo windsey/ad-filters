@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-19T12:43:42.939Z
+! Last modified: 2024-09-19T18:29:41.388Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -65,7 +65,6 @@
 ||siteintercept.qualtrics.com^
 ||tjk-njk.com^
 ||tracker.insurads.com^
-||cdn.pubnub.com^
 ||ziwelatum.com^
 ||houston.advgo.net^
 ||merchant-center-analytics.goog^
