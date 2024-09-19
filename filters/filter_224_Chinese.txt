@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-19T06:31:08.172Z
+! Last modified: 2024-09-19T12:43:38.463Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
+||mm.wxc.cc^
 ||xn--mts60is5y5uk.com^
 ||dfqzah.xyz^
 ||lafacw.xyz^
@@ -105,6 +106,9 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||dasda64.fun^
+||iffobi.xyz^
+||jauql.top^
 ||ukitert.top^
 ||csdcfvgf4.fun^
 ||megydyk.icu^
