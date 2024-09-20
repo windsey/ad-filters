@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-20T06:31:10.355Z
+! Last modified: 2024-09-20T12:42:51.085Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -2653,6 +2653,7 @@
 ||mktcs.cloudapps.cisco.com^
 ||mon.us.tiktokv.com^
 ||monitor.channel4.com^
+||mp.imgur.com^
 ||mp.theepochtimes.com^
 ||mr.homedepot.ca^
 ||mstm.motorsport.com^
@@ -2823,7 +2824,6 @@
 ||t.dailymail.co.uk^
 ||t.deepnote.com^
 ||t.freelancer.com^
-||t.imgur.com^
 ||t.indeed.com^
 ||t.ionos.com^
 ||t.jossandmain.com^

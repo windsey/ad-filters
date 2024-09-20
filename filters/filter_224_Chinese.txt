@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-20T06:31:11.630Z
+! Last modified: 2024-09-20T12:42:52.368Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -115,6 +115,8 @@
 ||blinxmi.icu^
 ||pjaihds.icu^
 ||lkiterl.top^
+||dkstrtss.xyz^
+||csdsa22.fun^
 ||dasda64.fun^
 ||iffobi.xyz^
 ||jauql.top^
@@ -4192,6 +4194,7 @@
 ||ztyumn.ifeng.com^
 ||gg.7976.top^
 ||abody.39.net^
+||ads.yeeyi.com^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
