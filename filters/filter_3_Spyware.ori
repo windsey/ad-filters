@@ -485,18 +485,19 @@ accountkiller.com#%#window.ga = function(){var a = arguments[5];a&&a.hitCallback
 ! Suppressing both Google's Topics API and Topics API using Permissions policy
 ! AGLint temporarily disabled for this rule due to https://github.com/AdguardTeam/AGLint/issues/191
 ! TODO: Enable it back when AGLint is fixed.
+! TODO: remove document modifier when this issue is fixed - https://github.com/AdguardTeam/AdguardBrowserExtension/issues/2954
 ! aglint-disable-next-line
-/.*/$permissions=join-ad-interest-group=()
+/.*/$permissions=join-ad-interest-group=(),document
 ! aglint-disable-next-line
-/.*/$permissions=run-ad-auction=()
+/.*/$permissions=run-ad-auction=(),document
 ! aglint-disable-next-line
-/.*/$permissions=browsing-topics=()
+/.*/$permissions=browsing-topics=(),document
 !
 ! Suppressing Private State Token API
 ! aglint-disable-next-line
-/.*/$permissions=private-state-token-issuance=()
+/.*/$permissions=private-state-token-issuance=(),document
 ! aglint-disable-next-line
-/.*/$permissions=private-state-token-redemption=()
+/.*/$permissions=private-state-token-redemption=(),document
 !#endif
 !
 ! End: Rules for Google "Privacy" Sandbox
@@ -36118,6 +36119,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||msite.baidu.com^
 ||analitik.pendik.bel.tr^
 ||analytics-api.sconto.cz^
 ||log-ana.h3z.jp^
@@ -72506,6 +72508,8 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 /prod/dfm/g2i.min.js$redirect=nooptext,important,domain=dailycamera.com
 /prod/dfm/t8y9347t.min.js$redirect=nooptext,important,domain=dailycamera.com
 !
+||api.qub.ca/anonymous-id/lib
+||api.qub.ca/collector-service/
 ||javedit.com/e/public/ViewClick/
 onefootball.com##section[class^="XpaTaboolaPlaceholder_"]
 arstechnica.com###story-recommendations
@@ -79305,6 +79309,8 @@ inapps.appsflyersdk.com^
 !@@||mc.yandex.ru/metrika/watch.js$domain=
 !#endif
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/189134
+@@||rat.rakuten.co.jp^$app=jp.co.rakuten.pay
 ! https://github.com/AdguardTeam/AdguardFilters/issues/188799
 @@||googletagmanager.com/gtm.js$domain=playactivate.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/189016
