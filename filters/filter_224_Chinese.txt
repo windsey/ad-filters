@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-20T01:44:15.002Z
+! Last modified: 2024-09-20T06:31:11.630Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -113,6 +113,8 @@
 ||vvadz.cc^
 ||wpsbaq.xyz^
 ||blinxmi.icu^
+||pjaihds.icu^
+||lkiterl.top^
 ||dasda64.fun^
 ||iffobi.xyz^
 ||jauql.top^
