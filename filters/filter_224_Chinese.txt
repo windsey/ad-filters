@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-21T06:29:09.649Z
+! Last modified: 2024-09-21T12:39:20.542Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -106,6 +106,9 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||jy09.shop^
+||vcdfsf99.fun^
+||cosmo100.top^
 ||agufoi.xyz^
 ||sdss99.fun^
 ||mkiterx.top^

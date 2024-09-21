@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-21T06:29:08.394Z
+! Last modified: 2024-09-21T12:39:19.297Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -1003,6 +1003,7 @@
 ||lciapi.ninthdecimal.com^
 ||lcs.naver.com^
 ||leadtracking.plumvoice.com^
+||lh.bigcrunch.com^
 ||lift.acquia.com^
 ||link.informer.com^
 ||links.voyeurweb.com^
@@ -2027,12 +2028,15 @@
 ||vppst.iltrovatore.it^
 ||a.o2u.jp^
 ||ac.prism-world.jp.net^
+||acclog001.shop-pro.jp^
+||acclog002.shop-pro.jp^
 ||ad.daum.net^
 ||analytics-beacon.p.uliza.jp^
 ||analytics.contents.by-fw.jp^
 ||analytics.liveact.cri-mw.jp^
 ||analytics.livesense.marketing^
 ||analytics.partcommunity.com^
+||analytics.spearly.com^
 ||analyzer51.fc2.com^
 ||asumi.shinobi.jp^
 ||b.karte.io^
