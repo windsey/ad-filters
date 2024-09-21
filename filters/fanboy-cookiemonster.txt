@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-21T12:39:19.625Z
+! Last modified: 2024-09-21T18:27:59.972Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -133,7 +133,6 @@
 ||consent-wrapper.jameda.de^
 ||consent.berliner-kurier.de^
 ||consent.gutefrage.net^
-||consent.perry-rhodan.net^
 ||consent.werner-mertz.de^
 ||consent2.rheinische-anzeigenblaetter.de^
 ||consenttool.haendlerbund.de^
