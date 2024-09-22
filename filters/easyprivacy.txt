@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-22T12:40:13.080Z
+! Last modified: 2024-09-22T18:27:43.001Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -38983,7 +38983,6 @@
 ||r.kleertjes.com^
 ||sat.sanoma.fi^
 ||stats.fd.nl^
-||t.vrt.be^
 ||topspin.npo.nl^
 ||track.pexi.nl^
 ||tracking.voordeeluitjes.nl^
