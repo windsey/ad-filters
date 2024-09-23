@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tpzr8hrjU6FNXwOjIH9P+w
-! Version: 202409230141
+! Checksum: 7AKcYA0nosIoeDZdp28lZw
+! Version: 202409230621
 ! Title: EasyList
-! Last modified: 23 Sep 2024 01:41 UTC
+! Last modified: 23 Sep 2024 06:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -61282,6 +61282,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||mafvertizing.crazygames.com^
 ||mail-ads.google.com^
 ||mail.aol.com/d/gemini_api/?adCount=
+||majorgeeks.com/mg/slide/mg-slide.js
 ||manga1000.top/hjshds.js
 ||manga1001.top/gdh/dd.js
 ||manga18.me/usd2023/usd_frontend.js
