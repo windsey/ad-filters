@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-25T06:32:06.135Z
+! Last modified: 2024-09-25T12:46:35.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
 
+||phidianowlet.com^
 ||hfhppxseee.com^
 ||getxmlisi.com^
 ||gotoyahoo.com^
@@ -25975,7 +25976,6 @@ rgmechanicsgames.com*VPN.exe
 ||naive-skin.pro^
 ||naivegirlie.com^
 ||naivescorries.com^
-||nakamasweb.com^
 ||nakedfulfilhairy.com^
 ||nalhedgelnhamf.info^
 ||naliw.xyz^
