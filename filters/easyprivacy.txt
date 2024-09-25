@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-24T18:30:56.177Z
+! Last modified: 2024-09-25T01:48:13.556Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -950,6 +950,7 @@
 ||gtmfsstatic.getgoogletagmanager.com^
 ||gtrk.s3.amazonaws.com^
 ||happen.spkt.io^
+||harvest.graindata.com^
 ||hb.vhsrv.com^
 ||hello.staticstuff.net^
 ||hi.hellobar.com^
@@ -2897,6 +2898,7 @@
 ||track.ttsave.app^
 ||track.ultimate-guitar.com^
 ||tracker.affiliate.iqbroker.com^
+||tracker.bang.com^
 ||tracker.nbcuas.com^
 ||tracker.ranker.com^
 ||tracker.shopclues.com^
