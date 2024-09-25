@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-25T12:46:31.310Z
+! Last modified: 2024-09-25T18:30:31.109Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.26
+! Compiled by @adguard/hostlist-compiler v1.0.28
 !
 
 ||adx-open-service.youku.com^
