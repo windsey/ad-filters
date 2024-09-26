@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-26T06:32:01.725Z
+! Last modified: 2024-09-26T12:46:27.173Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.28
 !
@@ -32707,6 +32707,10 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||counter.best-hit.tv^
+||analytics-op.streak.ninja^
+||track.streak.ninja^
+||panorama.wixapps.net^
 ||msite.baidu.com^
 ||analitik.pendik.bel.tr^
 ||analytics-api.sconto.cz^
