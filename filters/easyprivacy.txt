@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-26T12:46:21.417Z
+! Last modified: 2024-09-26T18:29:21.977Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.28
+! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 -click-tracker.
 -didomi.js
@@ -1982,6 +1982,7 @@
 ||tags.op-palvelut.fi^
 ||analytics.palitra.ge^
 ||links.boom.ge^
+||event-tracker-library.mediaownerscloud.com^
 ||stats-real-clients.zentech.gr^
 ||heartbeat.pmd.444.hu^
 ||pixel.barion.com^

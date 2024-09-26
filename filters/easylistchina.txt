@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-26T12:46:20.434Z
+! Last modified: 2024-09-26T18:29:20.981Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.28
+! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 -1316632262.cos.
 -1316899192.cos.
@@ -22,6 +22,7 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||ghiuge55.fun^
 ||xkgttas.icu^
 ||czpnpjrg.xyz^
 ||kgipui.xyz^
