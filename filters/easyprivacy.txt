@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-27T06:32:51.804Z
+! Last modified: 2024-09-27T12:45:00.293Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2722,6 +2722,7 @@
 ||privacy-api.9gag.com^
 ||privacyfriendly.netlify.app^
 ||prod-events.nykaa.com^
+||proxima.midjourney.com^
 ||pulsar.ebay.com^
 ||pulse.delta.com^
 ||pumpkin.abine.com^
@@ -39042,6 +39043,10 @@
 ||tracker.stileo.it^
 ||tracking.gruppo.mps.it^
 ||ad-platform.jmty.jp^
+||ana.3751chat.com^
+||ana.chat.shalove.net^
+||ana.luvul.net^
+||ana.skypemeet.net^
 ||analysis.aws.locondo.jp^
 ||analysis.prod.joyfru.jiji.com^
 ||analytics.castel.jp^

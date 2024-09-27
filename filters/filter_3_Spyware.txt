@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-27T06:32:57.528Z
+! Last modified: 2024-09-27T12:45:06.142Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||brwsrfrm.com^
 ||mato.clanto.cloud^
 ||matomo.clanto.cloud^
 ||client-log.karte.io^
@@ -32707,6 +32708,10 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||ana.3751chat.com^
+||ana.chat.shalove.net^
+||ana.luvul.net^
+||ana.skypemeet.net^
 ||counter.best-hit.tv^
 ||analytics-op.streak.ninja^
 ||track.streak.ninja^

@@ -1,10 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-27T06:32:56.660Z
+! Last modified: 2024-09-27T12:45:05.266Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 
+||peagsraters.com^
+||qqbqy.com^
 ||phidianowlet.com^
 ||hfhppxseee.com^
 ||getxmlisi.com^
@@ -42787,6 +42789,7 @@ rgmechanicsgames.com*VPN.exe
 ||rafvertizing.crazygames.com^
 ||red-shell.speedrun.com^
 ||rev.frankspeech.com^
+||sasinator.realestate.com.au^
 ||socket.streamable.com^
 ||sontent.powzers.lol^
 ||spike-plant.valorbuff.com^
