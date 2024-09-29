@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-29T06:29:57.133Z
+! Last modified: 2024-09-29T12:40:59.340Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1977,6 +1977,7 @@
 ||statistics.rbi-nl.com^
 ||tags.hilabel.nl^
 ||tr.mediafin.be^
+||trjs2.mediafin.be^
 ||trkr.shoppingminds.net^
 ||dnt-userreport.com^
 ||tags.op-palvelut.fi^
