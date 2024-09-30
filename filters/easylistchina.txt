@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-30T06:33:29.326Z
+! Last modified: 2024-09-30T12:47:57.115Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -30,6 +30,7 @@
 ||keryt111.fun^
 ||mxcmwk.xyz^
 ||xliuits.icu^
+||leryt111.fun^
 ||ayebsc.xyz^
 ||enokouv.icu^
 ||cdszgg.xyz^
