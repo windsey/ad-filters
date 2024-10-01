@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-01T12:46:35.697Z
+! Last modified: 2024-10-01T18:31:05.515Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||covatic.io^
 ||petametrics.com^
 ||ultraimpression.jp^
 ||brwsrfrm.com^
@@ -31431,6 +31432,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||atom.warnermedia.com^
+||zion.api.cnn.io^
 ||t.blog.livedoor.jp^
 ||l.ouest-france.fr^
 ||ana.3751chat.com^
