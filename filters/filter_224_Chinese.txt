@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-09-30T18:30:36.226Z
+! Last modified: 2024-10-01T01:56:16.060Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -106,6 +106,13 @@
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||ieryt111.fun^
+||cwwgqu.xyz^
+||ckyriuf.icu^
+||oshaq.top^
+||4ir17.icu^
+||rsyepnq.icu^
+||xeryt111.fun^
 ||opqnkw.xyz^
 ||rk6h3.icu^
 ||ghwqbii.icu^
