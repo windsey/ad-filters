@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-01T06:33:35.124Z
+! Last modified: 2024-10-01T12:46:35.697Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -31431,6 +31431,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||t.blog.livedoor.jp^
 ||l.ouest-france.fr^
 ||ana.3751chat.com^
 ||ana.chat.shalove.net^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-01T06:33:29.366Z
+! Last modified: 2024-10-01T12:46:29.991Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2082,6 +2082,7 @@
 ||sync.shinobi.jp^
 ||sysmon.kakaku.com^
 ||t.adlpo.com^
+||t.blog.livedoor.jp^
 ||t.seesaa.net^
 ||tag.cribnotes.jp^
 ||targeting.focas.jp^
