@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-02T06:31:42.960Z
+! Last modified: 2024-10-02T12:45:07.684Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -85,6 +85,10 @@
 ||startup.mobile.yandex.net^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
+||ad.snaptube.app^
+||ad.mobiuspace.net^
+||api-ad-callback.falconnet.app^
+||adnami.io^
 ||ads-router-noneu.truecaller.com^
 ||umphek.com^
 ||ahoy-internal-ads-hv.b-cdn.net^
