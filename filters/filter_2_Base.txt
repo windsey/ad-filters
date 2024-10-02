@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-02T12:45:11.892Z
+! Last modified: 2024-10-02T18:31:45.742Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 
+||y.crazyporn.xxx^
 ||cdn2.sales-frontier.com^
 ||xxyrgvielmehx.com^
 ||emaxudrookrora.net^
@@ -2871,7 +2872,6 @@ serve.bussyhunter.com^
 ||c53b96fd6b.d03dbe8a1b.com^
 ||c632b21431.e3103b0963.com^
 ||c96ee2ee55.e1fdc63869.com^
-||cb07f20af1.8de5d7e235.com^
 ||ce1e674f2f.3897e90a2e.com^
 ||cf035299fa.9123c34615.com^
 ||cf545aa526.3eab231aec.com^
@@ -6570,6 +6570,7 @@ rgmechanicsgames.com*VPN.exe
 ||8d1dce99ab.com^
 ||8d96fe2f01.com^
 ||8db4fde90b.com^
+||8de5d7e235.com^
 ||8ec9b7706a.com^
 ||8f2b4c98e7.com^
 ||8f72931b99.com^
@@ -20715,6 +20716,7 @@ rgmechanicsgames.com*VPN.exe
 ||hzdfziaydqawar.com^
 ||hzoywchsp.com^
 ||hzr0dm28m17c.com^
+||hzychcvdmjo.com^
 ||i010b048d3e4a1e4b70aba72b169e70c90971f9.xyz^
 ||i4nstr1gm.com^
 ||i4rsrcj6.top^
@@ -20934,6 +20936,7 @@ rgmechanicsgames.com*VPN.exe
 ||ikonatozee.top^
 ||ikouthaupi.com^
 ||ikrvvsliwar.com^
+||ikssllnhrb.com^
 ||ikunselt.com^
 ||ikwiwnnofgpzq.com^
 ||ikwzrix.com^
@@ -22606,6 +22609,7 @@ rgmechanicsgames.com*VPN.exe
 ||jzokkejmqrbmq.top^
 ||jzokkejmqrkyw.top^
 ||jzpdjbpusgcbr.com^
+||jzplabcvvy.com^
 ||jzqbyykbrrbkq.top^
 ||jzqbyykbrrobw.top^
 ||jzqbyykbrrykz.top^
@@ -24482,6 +24486,7 @@ rgmechanicsgames.com*VPN.exe
 ||lywasnothycanty.info^
 ||lyzenoti.pro^
 ||lzjl.com^
+||lzoasvofvzw.com^
 ||lzukrobrykk.com^
 ||lzxdx24yib.com^
 ||m-rtb.com^
@@ -28421,6 +28426,7 @@ rgmechanicsgames.com*VPN.exe
 ||pacoaniy.net^
 ||pacquetpusher.com^
 ||paddlediscovery.com^
+||paddlemenu.com^
 ||paddleniecehandicraft.com^
 ||padfungusunless.com^
 ||padma-fed.com^
