@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-03T12:45:10.064Z
+! Last modified: 2024-10-03T18:30:47.522Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -34005,6 +34005,7 @@ directtrack.*.js
 ||analytics-sprint.qoqa.com^
 ||analytics.qoqa.ch^
 ||analytics.qoqa.com^
+-attr.appsflyersdk.com
 register.appsflyersdk.com^
 conversions.appsflyersdk.com^
 gcdsdk.appsflyersdk.com^
