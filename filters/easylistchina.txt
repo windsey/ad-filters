@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-04T01:47:18.746Z
+! Last modified: 2024-10-04T06:31:32.710Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -31,6 +31,7 @@
 ||kossog.xyz^
 ||meryt111.fun^
 ||ntiutox.icu^
+||qwursery.top^
 ||033ajy.xyz^
 ||0h3uds.com^
 ||11dyw.com^
