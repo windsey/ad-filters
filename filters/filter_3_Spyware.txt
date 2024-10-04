@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-04T06:31:39.477Z
+! Last modified: 2024-10-04T12:44:38.840Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -31887,7 +31887,6 @@
 ||analytics.cocolog-nifty.com^
 ||stats.totalav.com^
 ||analytics.clubic.com^
-||logs.netflix.com^
 ||analytics.innologica.com^
 ||track.wattpad.com^
 ||analytics.keepstreams.com^
