@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-04T18:30:27.108Z
+! Last modified: 2024-10-05T01:45:41.185Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2980,6 +2980,7 @@
 ||drfdisvc.walmart.com^
 ||event.evtm.53.com^
 ||idstatus.sky.com^
+||img2021.navyfederal.org^
 ||imgs.signifyd.com^
 ||qfp.intuit.com^
 ||rba-screen.healthsafe-id.com^
