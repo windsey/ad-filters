@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-06T01:53:38.198Z
+! Last modified: 2024-10-06T06:30:10.535Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -31,6 +31,7 @@
 ||pbvdlb.xyz^
 ||itakrid.icu^
 ||plfwxtgu.icu^
+||lwurserl.top^
 ||bxqgk.icu^
 ||owurserk.top^
 ||uwursert.top^
