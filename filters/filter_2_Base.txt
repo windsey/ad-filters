@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-05T18:28:17.018Z
+! Last modified: 2024-10-06T01:53:44.086Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -29865,6 +29865,7 @@ rgmechanicsgames.com*VPN.exe
 ||positivedistantstale.com^
 ||positivejudge.com^
 ||positivelyoverall.com^
+||positivelysunday.com^
 ||positivewillingsubqueries.com^
 ||posjnewbgjg.com^
 ||possessdolejest.com^
@@ -34457,6 +34458,7 @@ rgmechanicsgames.com*VPN.exe
 ||snuaphwdaij.com^
 ||snuffdemisedilemma.com^
 ||snugglethesheep.com^
+||snugwednesday.com^
 ||snurpsermon.space^
 ||so1cool.com^
 ||so333o.com^

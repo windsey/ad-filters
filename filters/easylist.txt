@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-05T18:28:10.718Z
+! Last modified: 2024-10-06T01:53:37.848Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -24415,6 +24415,7 @@
 ||positivedistantstale.com^
 ||positivejudge.com^
 ||positivelyoverall.com^
+||positivelysunday.com^
 ||positivewillingsubqueries.com^
 ||posjnewbgjg.com^
 ||possessdolejest.com^
@@ -29061,6 +29062,7 @@
 ||snuaphwdaij.com^
 ||snuffdemisedilemma.com^
 ||snugglethesheep.com^
+||snugwednesday.com^
 ||snurpsermon.space^
 ||so1cool.com^
 ||so333o.com^
