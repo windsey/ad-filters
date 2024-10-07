@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-07T12:46:53.933Z
+! Last modified: 2024-10-07T18:29:11.085Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -27223,6 +27223,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||is-log.furunavi.jp^
 ||eventrecorder.cm.bloomberg.com^
 ||heatmap-events-collector.instapage.com^
 ||atom.warnermedia.com^
