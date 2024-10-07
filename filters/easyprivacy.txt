@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-07T01:50:20.684Z
+! Last modified: 2024-10-07T06:32:44.314Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2346,7 +2346,6 @@
 ||analytics-zone-1.api.leadfamly.com^
 ||analytics.3c5.com^
 ||analytics.academy.com^
-||analytics.adfreetime.com^
 ||analytics.archive.org^
 ||analytics.brave.com^
 ||analytics.chase.com^
@@ -2388,7 +2387,6 @@
 ||api-hotmart-tracking-manager.hotmart.com^
 ||api-js.mixpanel.com^
 ||appanalysis.banggood.com^
-||atrack.allposters.com^
 ||ats.alot.com^
 ||aurum.tirto.id^
 ||b629.electronicdesign.com^
@@ -2589,7 +2587,6 @@
 ||htrace.wetvinfo.com^
 ||i.pokernews.com^
 ||iam-rum-intake.datadoghq.com^
-||iedc.fitbit.com^
 ||iguazu.doordash.com^
 ||ih.newegg.com^
 ||impressions.svc.abillion.com^
@@ -2709,7 +2706,6 @@
 ||pixel.clutter.com^
 ||pixel.convertize.io^
 ||pixel.facebook.com^
-||pixel.honestjohn.co.uk^
 ||pixel.ionos.com^
 ||pixel.nine.com.au^
 ||pixel.tuko.co.ke^
@@ -2872,7 +2868,6 @@
 ||tc.geniusmonkey.com^
 ||tccd.douglas.
 ||td.airdroid.com^
-||ted.dailymail.co.uk^
 ||telegraph.prd.api.max.com^
 ||telem.sre.gopuff.com^
 ||telemetry.adobe.io^
