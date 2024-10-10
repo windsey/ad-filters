@@ -1,10 +1,9 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-10T06:32:14.551Z
+! Last modified: 2024-10-10T12:44:33.940Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
-
 ||zwk7ybbg.net^
 ||65wenv5f.xyz^
 ||ws67eqwwp.pro^
@@ -42741,6 +42740,7 @@ rgmechanicsgames.com*VPN.exe
 ||junkrat-tire.overbuff.com^
 ||api.fw.tv^
 ||dywolfer.de^
+||imgix.video^
 ||play.springboardplatform.com^
 ||video-streaming.ezoic.com^
 ||vplayer.newseveryday.com^
