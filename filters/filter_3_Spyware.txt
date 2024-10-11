@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-11T06:31:56.621Z
+! Last modified: 2024-10-11T12:43:51.051Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11,6 +11,23 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||applog.zijieapi.com^
+||feedback-c.zijieapi.com^
+||log*.zijieapi.com^
+||minigame5-normal-hl.zijieapi.com^
+||minigame5-normal-lq.zijieapi.com^
+||mssdk.zijieapi.com^
+||os-mon.zijieapi.com^
+||pc-mon.zijieapi.com^
+||polaris.zijieapi.com^
+||polaris*-normal-*.zijieapi.com^
+||saveu5-normal-lq.zijieapi.com^
+||starkgame.zijieapi.com^
+||timon.zijieapi.com^
+||tnc*.zijieapi.com^
+||view.zijieapi.com^
+||mcs.zijieapi.com^
+||mon.zijieapi.com^
 ||covatic.io^
 ||petametrics.com^
 ||ultraimpression.jp^
@@ -195,7 +212,6 @@
 ||stat.dongqiudi.com^
 ||sensors-log.dongqiudi.com^
 ||analytics.gnetworks.xyz^
-||mon.zijieapi.com^
 ||statgw.devtodev.com^
 ||dmpmetrics.rcsmetrics.it^
 ||phenomtrackapi-ir.phenompeople.com^
@@ -770,18 +786,6 @@
 ||brdtnet.com^
 ||luminati.io^
 .ay.delivery^
-||rtc-logger-va.tiktokv.com^
-||rtlog.tiktokv.com^
-||mon*-*.tiktokv.us^
-||mon.us.tiktokv.com^
-||mon-*.tiktokv.com^
-||mon.tiktokv.com^
-||xlog.tiktokv.com^
-||xlog-va.tiktokv.com^
-||xlog*-*.tiktokv.com^
-||mcs-va.tiktokv.com^
-||mcs-va-*.tiktokv.com^
-||analytics.tiktok.com^
 ||yourblocksite.com^
 ||taskapi.net^
 ||beacon-fullpage-predictor.goguardian.com^
@@ -29886,10 +29890,8 @@ inapps.appsflyersdk.com^
 ||adui.tg.meitu.com^
 ||meitustat.com^
 ||analysis.vesync.com^
-||log16-normal-useast5.tiktokv.us^
 ||insights.zennioptical.com^
 ||proxy.telemetry.us-ashburn-1.oci.oraclecloud.com^
-||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||admob-app-id-*.firebaseio.com^
 ||stats.rustore.ru^
 ||vk-analytics.ru^
@@ -30021,8 +30023,6 @@ inapps.appsflyersdk.com^
 ||logs.ironsrc.mobi^
 ||events.mz.unity3d.com^
 ||r-log.dable.io^
-||mon*-platform-*.tiktokv.com^
-||log*-applog-*.tiktokv.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||datacollector-*.dt.dbankcloud.cn^
@@ -30120,8 +30120,6 @@ inapps.appsflyersdk.com^
 ||logend.cookpad.com^
 ||viva.api.xiaoying.co^
 ||ub-xjp.vvbrd.com^
-||rtlog*.tiktokv.us^
-||rtlog*.tiktokv.com^
 ||nelo2-col.linecorp.com^
 ||msga.cupid.iqiyi.com^
 ||ndct-data.video.iqiyi.com^
@@ -30164,7 +30162,6 @@ inapps.appsflyersdk.com^
 ||ali-stats.jpush.cn^
 ||msg.simeji.me^
 ||msg.simeji.baidu.jp^
-||log.tiktokv.com^
 ||beacons*.gvt3.com^
 ||post-log.pushwoosh.com^
 ||appanalysis*.banggood.com^
@@ -30502,6 +30499,25 @@ inapps.appsflyersdk.com^
 ||yadro.ru^
 ||ymtracking.com^
 ||zdbb.net^
+||log16-normal-useast5.tiktokv.us^
+||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
+||mon*-platform-*.tiktokv.com^
+||log*-applog-*.tiktokv.com^
+||rtlog*.tiktokv.us^
+||rtlog*.tiktokv.com^
+||log.tiktokv.com^
+||rtc-logger-va.tiktokv.com^
+||rtlog.tiktokv.com^
+||mon*-*.tiktokv.us^
+||mon.us.tiktokv.com^
+||mon-*.tiktokv.com^
+||mon.tiktokv.com^
+||xlog.tiktokv.com^
+||xlog-va.tiktokv.com^
+||xlog*-*.tiktokv.com^
+||mcs-va.tiktokv.com^
+||mcs-va-*.tiktokv.com^
+||analytics.tiktok.com^
 ||localytics.com^
 ||upoll.umengcloud.com^
 ||utop.umengcloud.com^
