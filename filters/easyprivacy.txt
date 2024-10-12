@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-11T18:30:07.621Z
+! Last modified: 2024-10-12T01:44:06.378Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -64,6 +64,7 @@
 ||apharponloun.com^
 ||apxl.io^
 ||as3.io^
+||aseads.com^
 ||australiarevival.com^
 ||avads.net^
 ||awmonitor.com^
