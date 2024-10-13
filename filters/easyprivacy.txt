@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-13T12:41:06.830Z
+! Last modified: 2024-10-13T18:28:37.767Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1798,6 +1798,7 @@
 ||mastertag.q-sis.de^
 ||met.vgwort.de^
 ||nexxtv-events.servicebus.windows.net^
+||nlytcs.idfnet.net^
 ||orbidder.otto.de^
 ||owen.prolitteris.ch^
 ||pixel.poptok.com^
