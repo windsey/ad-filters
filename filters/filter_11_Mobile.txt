@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-15T12:46:05.763Z
+! Last modified: 2024-10-15T18:30:57.679Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -86,7 +86,7 @@
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 ||ad.zijieapi.com^
-||ads*-normal-hl.zijieapi.com^
+||ads*-normal-*.zijieapi.com^
 ||frontier100-toutiao-lf.fqnovel.com^
 ||ad.snaptube.app^
 ||ad.mobiuspace.net^

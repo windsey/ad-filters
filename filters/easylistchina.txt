@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-15T12:46:04.139Z
+! Last modified: 2024-10-15T18:30:56.035Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -33,6 +33,9 @@
 ||lnnahh.xyz^
 ||wcsmvmf.icu^
 ||huresdu.top^
+||2rbda.icu^
+||iuresdo.top^
+||dktad.com^
 ||sjmlmk.xyz^
 ||ymauoo.xyz^
 ||jpwsuix.icu^

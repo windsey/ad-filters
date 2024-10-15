@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-15T12:46:10.842Z
+! Last modified: 2024-10-15T18:31:02.767Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -17,7 +17,7 @@
 ||log*.zijieapi.com^
 ||minigame5-normal-hl.zijieapi.com^
 ||minigame5-normal-lq.zijieapi.com^
-||mssdk.zijieapi.com^
+||mssdk*.zijieapi.com^
 ||os-mon.zijieapi.com^
 ||pc-mon.zijieapi.com^
 ||polaris.zijieapi.com^
@@ -33161,6 +33161,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||tracker.jkplayers.com^
 ||collect.dolap.com^
 ||b.ranking.apis.sankei-digital.co.jp^
 ||is-log.furunavi.jp^
