@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-16T12:45:20.907Z
+! Last modified: 2024-10-16T18:30:59.844Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -33161,6 +33161,10 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||logsdk.kwai-pro.com^
+||w9g7dlhw3kaank.www.eldorado.gg^
+||unl1zvy2zuyn.franchiseplus.nl^
+||mt.gigazine.net^
 ||tracker.jkplayers.com^
 ||collect.dolap.com^
 ||b.ranking.apis.sankei-digital.co.jp^
@@ -35737,7 +35741,7 @@ directtrack.*.js
 ||analytics-sprint.qoqa.com^
 ||analytics.qoqa.ch^
 ||analytics.qoqa.com^
--attr.appsflyersdk.com
+-attr.appsflyersdk.com^
 register.appsflyersdk.com^
 conversions.appsflyersdk.com^
 gcdsdk.appsflyersdk.com^
@@ -35931,6 +35935,7 @@ inapps.appsflyersdk.com^
 ||wsmetrics.batch.com^
 ||log.isnssdk.com^
 ||log-tb.isnssdk.com^
+||rtlog.isnssdk.com^
 ||mon.isnssdk.com^
 ||event.togothermany.com^
 ||oldevent.togothermany.com^
