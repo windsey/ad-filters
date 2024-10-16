@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-16T06:31:51.874Z
+! Last modified: 2024-10-16T12:45:20.907Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -35797,6 +35797,10 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||iot-in-logser.realme.com^
+||push-api.topaz-analytics.com^
+||analytics.wildlifestudios.com^
+||opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io^
 ||mediation.mwmadnetworks.com^
 ||xplosion.de^
 ||theadex.com^
@@ -35809,9 +35813,6 @@ inapps.appsflyersdk.com^
 ||stats.rustore.ru^
 ||vk-analytics.ru^
 ||tracking.iwhop.cn^
-||push-api.topaz-analytics.com^
-||analytics.wildlifestudios.com^
-||opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io^
 ||log-verify.mob.com^
 ||app-analytics-services.com^
 ||sg.log.ulivetv.net^
@@ -36411,7 +36412,8 @@ inapps.appsflyersdk.com^
 ||yadro.ru^
 ||ymtracking.com^
 ||zdbb.net^
-||log16-normal-useast5.tiktokv.us^
+||log-boot.tiktokv.com^
+||log*-normal-*.tiktokv.us^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||mon*-platform-*.tiktokv.com^
 ||log*-applog-*.tiktokv.com^

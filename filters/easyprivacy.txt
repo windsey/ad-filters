@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-16T06:31:46.124Z
+! Last modified: 2024-10-16T12:45:15.185Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -289,6 +289,7 @@
 ||nimbleswan.io^
 ||nmgassets.com^
 ||nmgplatform.com^
+||nmo-ep.nl^
 ||notifpush.com^
 ||ns1p.net^
 ||nxakpj4ac8gkd53.info^
