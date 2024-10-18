@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-18T01:47:48.978Z
+! Last modified: 2024-10-18T06:31:48.077Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -738,6 +738,7 @@
 ||client-analytics.braintreegateway.com^
 ||client-logger.beta.salemove.com^
 ||client-logger.salemove.com^
+||client.perimeterx.net^
 ||clouderrorreporting.googleapis.com^
 ||cloudfront-labs.amazonaws.com^
 ||cloudmetrics.xenforo.com^
