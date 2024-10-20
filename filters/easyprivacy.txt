@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-20T01:55:08.364Z
+! Last modified: 2024-10-20T06:30:33.289Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2680,7 +2680,7 @@
 ||na.groupondata.com^
 ||nasi.etherscan.com^
 ||net.haier.com^
-||no88kks.infinityscans.net^
+||yes88kks.infinityscans.net^
 ||no9pldds1lmn3.soundcloud.com^
 ||noodle.backmarket.io^
 ||nr-data.noelleeming.co.nz^
