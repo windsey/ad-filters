@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-20T06:30:34.526Z
+! Last modified: 2024-10-20T12:43:22.928Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -136,6 +136,7 @@
 ||syshwc.xyz^
 ||ouresdk.top^
 ||atorks.xyz^
+||99jinpin.com^
 ||033ajy.xyz^
 ||0er7pc8.xyz^
 ||0h3uds.com^
