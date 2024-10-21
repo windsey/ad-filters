@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-21T06:33:22.158Z
+! Last modified: 2024-10-21T12:46:16.671Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -30731,7 +30731,6 @@
 ||giftandgamecentral.com^
 ||go.affiliatesleague.com^
 ||go.bloxplay.com^
-||go.ezodn.com^
 ||googleads.github.io^
 ||hb.yahoo.net^
 ||hbid.ams3.cdn.digitaloceanspaces.com^

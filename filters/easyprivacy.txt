@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-21T06:33:23.474Z
+! Last modified: 2024-10-21T12:46:17.973Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -151,7 +151,6 @@
 ||everesttech.net^
 ||ew3.io^
 ||experianmatch.info^
-||ezodn.com^
 ||ezstat.ru^
 ||f27tltnd.de^
 ||fairdatacenter.de^
@@ -38816,6 +38815,7 @@
 ||nrpukcsgboqr0gz2o8.www.bolighub.dk^
 ||analytics.allovoisins.com^
 ||analytics.clubic.com^
+||at.pagesjaunes.fr^
 ||bmly.impots.gouv.fr^
 ||cdtm.cdiscount.com^
 ||compteur.developpez.com^
