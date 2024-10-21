@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-21T12:46:19.184Z
+! Last modified: 2024-10-21T18:31:04.887Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -139,6 +139,8 @@
 ||rbsr0.icu^
 ||buresdv.top^
 ||4fs3r.icu^
+||muresdx.top^
+||on5ga.icu^
 ||lalabaos1020.top^
 ||mdqikg.xyz^
 ||sv2fo.icu^

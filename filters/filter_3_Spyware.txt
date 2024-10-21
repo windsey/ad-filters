@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-21T12:46:23.410Z
+! Last modified: 2024-10-21T18:31:08.975Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11,6 +11,8 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||api.revenuads.com^
+||api.antibanads.com^
 ||accessv.org^
 ||applog.zijieapi.com^
 ||feedback-c.zijieapi.com^
@@ -32936,6 +32938,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||stat.okko.tv^
+||matomo.datago.ru^
 ||analytics.bigdata.samsung.com^
 ||logsdk.kwai-pro.com^
 ||w9g7dlhw3kaank.www.eldorado.gg^

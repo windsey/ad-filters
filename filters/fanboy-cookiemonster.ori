@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vd0T2QbSxaIHMYzE/jKISQ
+! Checksum: vWci/OCqMUz4/uFEXoLbeg
 ! Title: Easylist Cookie List
-! Updated: 2024-10-21 12:15 UTC
+! Updated: 2024-10-21 17:40 UTC
 ! Expires: 9 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -1098,7 +1098,6 @@
 ###Consentement-cookies
 ###CoockieAlert
 ###CoockiesPage
-###Cookie
 ###Cookie-Append
 ###Cookie-Banner
 ###Cookie-Consent
@@ -18870,7 +18869,7 @@ nflp.com###compliance-notice
 msn.com###conditionalbanner
 imei24.com###cons
 yopmail.com###cons-pop
-chessshop.eu,theonion.com###consent-banner-main
+aspose.com,chessshop.eu,theonion.com###consent-banner-main
 products.aspose.com###consent-banner-wall
 allsaints.com,can-am.brp.com,rag-bone.com###consent-dialog
 netcraft.com###consent-form
@@ -19109,6 +19108,7 @@ aqara.com###modal-agreement
 thepointofsale.com###modal-background
 alvin-almazov.com###modal-cache__overlay
 usherbrooke.ca###modal-consent-banner
+zinio.com###modal-consent-init
 oxfordshire.gov.uk###modal-container
 hmc.org.uk###modal-mask
 thepointofsale.com,umm.nordpoolgroup.com###modal-overlay
