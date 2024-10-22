@@ -37020,6 +37020,8 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tag.aftvnews.com^
+||statsjs.klevu.com^
 ||stat.okko.tv^
 ||matomo.datago.ru^
 ||analytics.bigdata.samsung.com^
@@ -89865,6 +89867,9 @@ $cookie=_awl;maxAge=30,domain=nypost.com|al.com|9news.com
 /prod/dfm/g2i.min.js$redirect=nooptext,important,domain=dailycamera.com
 /prod/dfm/t8y9347t.min.js$redirect=nooptext,important,domain=dailycamera.com
 !
+||google.com/images/cleardot.gif
+||drive.google.com/drive/logImpressions|
+||dartington.co.uk/*/WeltPixel_GA4/js/weltpixel_ga4_gtm.js
 ||app.usercentrics.eu/session/1px.png$important
 ||joggo.run/api/events
 ||surfside.io/event/track|
@@ -94493,6 +94498,8 @@ adguard.info,adguard.com,adguard.app#$#.hello_from_adguard_advanced_protection_i
 ! Bad:  ||example.com^$cookie=flat_r_mb (should be in cookies_specific.txt)
 !
 !
+! auriq.com
+$cookie=aqusr
 ! wysistat.com
 $cookie=Wysistat
 ! schibsted.com
@@ -95931,6 +95938,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||client-telemetry.hingeprod.net^
 ||events-api.towneers.prod.data.krmt.io^
 ||event.karrotmarket.com^
 ||iot-in-logser.realme.com^
@@ -97804,7 +97812,7 @@ tieba.baidu.com#%#//scriptlet('set-constant', 'passFingerPrint', 'noopFunc')
 @@||pro.hit.gemius.pl/gstream.js$domain=embed.rtl.hu
 ! https://github.com/AdguardTeam/AdguardFilters/issues/139046
 !+ PLATFORM(ios, ext_android_cb, ext_safari)
-@@||idm.hit.gemius.pl/gplayer.js$domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl|vibefm.pl|urzadzamy.pl
+@@||idm.hit.gemius.pl/gplayer.js$domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl|vibefm.pl|urzadzamy.pl|muratordom.pl
 ! https://github.com/AdguardTeam/AdguardFilters/issues/138964
 @@||googletagmanager.com/gtm.js$domain=petlebi.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/138727

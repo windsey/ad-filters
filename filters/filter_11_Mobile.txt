@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-22T06:31:45.750Z
+! Last modified: 2024-10-22T12:45:50.411Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -86,6 +86,7 @@
 ||startup.mobile.yandex.net^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
+||jjpp.lmtjapi.com^
 ||a.07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com^
 ||a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com^
 ||ad.zijieapi.com^

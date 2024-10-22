@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-22T06:31:50.493Z
+! Last modified: 2024-10-22T12:45:55.245Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -32938,6 +32938,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||tag.aftvnews.com^
+||statsjs.klevu.com^
 ||stat.okko.tv^
 ||matomo.datago.ru^
 ||analytics.bigdata.samsung.com^
@@ -35581,6 +35583,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||client-telemetry.hingeprod.net^
 ||events-api.towneers.prod.data.krmt.io^
 ||event.karrotmarket.com^
 ||iot-in-logser.realme.com^
