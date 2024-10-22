@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-22T12:45:51.013Z
+! Last modified: 2024-10-22T18:30:48.014Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -135,6 +135,8 @@
 ||sbmhqe.xyz^
 ||dayujs.top^
 ||fanjs.top^
+||qjoges.xyz^
+||houvxliu.top^
 ||gpowow.xyz^
 ||jizxnr.xyz^
 ||msmcoa.xyz^

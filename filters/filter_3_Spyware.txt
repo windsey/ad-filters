@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-22T12:45:55.245Z
+! Last modified: 2024-10-22T18:30:52.145Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||rmonitor.qq.com^
 ||api.revenuads.com^
 ||api.antibanads.com^
 ||accessv.org^
@@ -32938,6 +32939,9 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||metrics.imdb.com^
+||global.telemetry.insights.video.a2z.com^
+||ldpsh.fashionnova.com^
 ||tag.aftvnews.com^
 ||statsjs.klevu.com^
 ||stat.okko.tv^
@@ -35583,6 +35587,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||mob2.healthapplines.com^
 ||client-telemetry.hingeprod.net^
 ||events-api.towneers.prod.data.krmt.io^
 ||event.karrotmarket.com^
