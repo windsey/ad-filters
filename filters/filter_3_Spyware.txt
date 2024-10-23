@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-23T12:45:16.405Z
+! Last modified: 2024-10-23T18:30:35.925Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -32939,8 +32939,9 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||analytics-ingestion-production.tubitv.com^
 ||retail-client-events-service.internal.salsify.com^
-||servo-report.keepstreams.com^
+||servo-report.keepstreams.*^
 ||metrics.imdb.com^
 ||global.telemetry.insights.video.a2z.com^
 ||ldpsh.fashionnova.com^
