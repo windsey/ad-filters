@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-24T12:45:40.613Z
+! Last modified: 2024-10-24T18:30:51.861Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -133,6 +133,7 @@
 ||gjnbf.com^
 ||qdjsiyt.icu^
 ||huoxun.wang^
+||macos.space^
 ||rdxqbp.xyz^
 ||sksbgm.xyz^
 ||enkvum.xyz^
