@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-24T01:47:11.519Z
+! Last modified: 2024-10-24T06:32:31.442Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -962,6 +962,7 @@
 ||hit.mybestpro.com^
 ||hits.dealer.com^
 ||hits.getelevar.com^
+||hits.gokwik.co^
 ||hits.informer.com^
 ||hktracker.hankookilbo.com^
 ||hydro-ma-proxy.akamaized.net^
@@ -1182,6 +1183,7 @@
 ||pt.ispot.tv^
 ||ptsc.shoplocal.com^
 ||pub.sheknows.com^
+||pulse.shopflo.com^
 ||px.marchex.io^
 ||px.mountain.com^
 ||px.owneriq.net^
@@ -1251,6 +1253,7 @@
 ||sp.tinymce.com^
 ||spa-tracker.spapi.io^
 ||speedtrap.shopdirect.com^
+||src.freshmarketer.in^
 ||ssa.stepstone.com^
 ||ssr.streamrail.net^
 ||st.cdnco.us^
@@ -2386,6 +2389,7 @@
 ||analytics.tomato.gg^
 ||analytics.tradedoubler.com^
 ||analytics.vedantu.com^
+||analytics.vortexscans.com^
 ||analytics.wavebox.io^
 ||analytics.yugen.to^
 ||analyticsapi.qogita.com^
