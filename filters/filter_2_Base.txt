@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-25T12:45:00.459Z
+! Last modified: 2024-10-25T18:30:45.261Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -10275,6 +10275,7 @@ rgmechanicsgames.com*VPN.exe
 ||brasscurls.com^
 ||brassstacker.com^
 ||brasthingut.com^
+||bravespace.pro^
 ||bravetense.com^
 ||bravotrk.com^
 ||brawerverism.com^
