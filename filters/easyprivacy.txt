@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-26T06:29:55.713Z
+! Last modified: 2024-10-26T12:40:53.456Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -653,6 +653,7 @@
 ||ape-tagit.timeinc.net^
 ||api-analytics-prd.pelcro.com^
 ||api.autopilothq.com^
+||api.june.so^
 ||api.wipmania.com^
 ||apple.www.letv.com^
 ||applets.ebxcdn.com^

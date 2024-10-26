@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-26T06:29:56.933Z
+! Last modified: 2024-10-26T12:40:54.663Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -130,6 +130,8 @@
 ||itjcqlp.icu^
 ||xxqmtod.icu^
 ||qouvxliy.top^
+||ov8ct.icu^
+||fca6f.icu^
 ||sgozmks.icu^
 ||omheth.com^
 ||allkmbr.icu^
