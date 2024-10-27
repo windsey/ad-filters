@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1UtE3p+6sL/o4zeAYXcWXA
-! Version: 202410261811
+! Checksum: Z0li9CMte1y1FoST/gNrRA
+! Version: 202410270141
 ! Title: EasyList
-! Last modified: 26 Oct 2024 18:11 UTC
+! Last modified: 27 Oct 2024 01:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17297,6 +17297,7 @@ browsershots.org#@#.advert_area
 ||adpod.in^
 ||adpointrtb.com^
 ||adpone.com^
+||adpresenter.de^
 ||adqit.com^
 ||adquery.io^
 ||adrcdn.com^
@@ -19888,6 +19889,7 @@ browsershots.org#@#.advert_area
 ||bigheartedresentfulailment.com^
 ||bigneptunesept.com^
 ||bigrourg.net^
+||bigstoreminigames.space^
 ||bigvids.online^
 ||bigvids.space^
 ||bihunekus.com^
@@ -59022,6 +59024,7 @@ pcquest.com##.ads-div-style
 samehadaku.email##.ads-float-bottom
 thetruthaboutcars.com##.ads-fluid-wrap
 spambox.xyz##.ads-four
+bluewin.ch##.ads-group
 fintech.tv##.ads-img
 freeconvert.com##.ads-in-page
 nationthailand.com##.ads-inarticle-2

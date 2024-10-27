@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-26T18:28:31.162Z
+! Last modified: 2024-10-27T01:54:07.945Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -7196,6 +7196,7 @@ rgmechanicsgames.com*VPN.exe
 ||adpod.in^
 ||adpointrtb.com^
 ||adpone.com^
+||adpresenter.de^
 ||adqit.com^
 ||adquery.io^
 ||adrcdn.com^
@@ -9750,6 +9751,7 @@ rgmechanicsgames.com*VPN.exe
 ||bigheartedresentfulailment.com^
 ||bigneptunesept.com^
 ||bigrourg.net^
+||bigstoreminigames.space^
 ||bigvids.online^
 ||bigvids.space^
 ||bihunekus.com^
@@ -34079,6 +34081,7 @@ rgmechanicsgames.com*VPN.exe
 ||waistcoataskeddone.com^
 ||waistdeafgeorgiana.com^
 ||wait4hour.info^
+||waitedprowess.com^
 ||waiterregistrydelusional.com^
 ||waitheja.net^
 ||waiting.biz^
