@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-29T12:46:42.890Z
+! Last modified: 2024-10-29T18:31:32.919Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||prodregistryv2.org^
 ||ads.mythad.com^
 ||ga2.getresponse.com^
 ||events.split.io^
@@ -29491,6 +29492,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||data-ingestion.flowgpt.com^
+||tianji.flowgpt.com^
 ||analytics-ingestion-production.tubitv.com^
 ||retail-client-events-service.internal.salsify.com^
 ||servo-report.keepstreams.*^
