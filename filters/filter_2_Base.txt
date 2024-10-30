@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-29T18:31:32.001Z
+! Last modified: 2024-10-30T01:48:38.496Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -20690,6 +20690,7 @@ rgmechanicsgames.com*VPN.exe
 ||kq272lw4c.com^
 ||kqbjdvighp.com^
 ||kqduogttdmryguw.com^
+||kqhgjmap.com^
 ||kqhi97lf.de^
 ||kqiivrxlal.xyz^
 ||kqjpipl.com^
@@ -23953,6 +23954,7 @@ rgmechanicsgames.com*VPN.exe
 ||nv3tosjqd.com^
 ||nvane.com^
 ||nvjgmugfqmffbgk.xyz^
+||nvlcnvyqvpjppi.xyz^
 ||nvtvssczb.com^
 ||nvuwqcfdux.xyz^
 ||nvzaezebhow.com^
@@ -24502,6 +24504,7 @@ rgmechanicsgames.com*VPN.exe
 ||onmanectrictor.com^
 ||onmantineer.com^
 ||onmarshtompor.com^
+||onoamoutsaitsy.net^
 ||onpluslean.com^
 ||onpsrrejx.com^
 ||onraltstor.com^

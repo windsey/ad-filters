@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-29T18:31:27.485Z
+! Last modified: 2024-10-30T01:48:34.162Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -361,6 +361,7 @@
 ||spinnaker-js.com^
 ||sprtnd.com^
 ||srmdata-eur.com^
+||srvgl.com^
 ||ssevt.com^
 ||stack-sonar.com^
 ||stat.ovh^
@@ -1599,7 +1600,6 @@
 ||wds.weqs.me^
 ||web-tracker.smsbump.com^
 ||web1.51.la^
-||webcare.byside.com^
 ||websdk.appsflyer.com^
 ||webservices.websitepros.com^
 ||webstats.thaindian.com^
