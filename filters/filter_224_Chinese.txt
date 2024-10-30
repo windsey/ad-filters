@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-30T06:37:17.590Z
+! Last modified: 2024-10-30T12:46:07.243Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -131,6 +131,7 @@
 ||bdawrsi.icu^
 ||houbliu.top^
 ||6ft8a.icu^
+||aikkits.com^
 ||mzpecui.icu^
 ||chmueyv.icu^
 ||kemmars.com^

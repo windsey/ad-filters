@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-30T06:37:16.989Z
+! Last modified: 2024-10-30T12:46:06.654Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -86,6 +86,8 @@
 ||startup.mobile.yandex.net^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
+||inmense.site^
+||dollphoin.site^
 ||news-cdn.site^
 ||adx.mossru.com^
 ||jjpp.lmtjapi.com^
