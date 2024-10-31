@@ -1,9 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-31T06:31:48.860Z
+! Last modified: 2024-10-31T12:45:08.055Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
+
+||shudoufunguptie.net^
+||mawkggrbhsknuw.com^
 ||courageousdiedbow.com^
 ||rertessesse.xyz^
 ||cnxlskkkebks.xyz^
@@ -37456,7 +37459,6 @@ rgmechanicsgames.com*VPN.exe
 ||junkrat-tire.overbuff.com^
 ||api.fw.tv^
 ||dywolfer.de^
-||imgix.video^
 ||play.springboardplatform.com^
 ||video-streaming.ezoic.com^
 ||vplayer.newseveryday.com^

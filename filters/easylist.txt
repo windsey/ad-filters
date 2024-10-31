@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-31T06:31:43.186Z
+! Last modified: 2024-10-31T12:45:02.325Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -32039,7 +32039,6 @@
 ||junkrat-tire.overbuff.com^
 ||api.fw.tv^
 ||dywolfer.de^
-||imgix.video^
 ||play.springboardplatform.com^
 ||video-streaming.ezoic.com^
 ||vplayer.newseveryday.com^

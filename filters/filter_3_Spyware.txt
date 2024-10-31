@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-31T06:31:49.777Z
+! Last modified: 2024-10-31T12:45:08.980Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11,6 +11,9 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||new-access802.net^
+||majime-site-rk.com^
+||yonemoku.rdy.jp^
 ||srvgl.com^
 ||webmaxlogger.net^
 ||prodregistryv2.org^
@@ -32151,6 +32154,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||log.cleanertoolboxonline.live^
 ||amplitude.life360.com^
 ||events.swiftlycontent.net^
 ||log.cleandesigner.live^
