@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-30T18:31:22.138Z
+! Last modified: 2024-10-31T01:49:44.049Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -267,6 +267,7 @@
 ||mdstats.info^
 ||mediamathrdrt.com^
 ||michiganrobotflower.com^
+||minstats.xyz^
 ||mirabelanalytics.com^
 ||mircheigeshoa.com^
 ||mitour.de^
@@ -1753,6 +1754,7 @@
 ||stats.boringproxy.io^
 ||stats.how.wtf^
 ||ascpqnj-oam.global.ssl.fastly.net^
+||fpcn.bpsgameserver.com^
 ||fyrsbckgi-c.global.ssl.fastly.net^
 ||mjca-yijws.global.ssl.fastly.net^
 ||rc.vtex.com.br^
