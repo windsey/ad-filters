@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-10-31T12:45:02.668Z
+! Last modified: 2024-10-31T18:31:10.306Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -30,6 +30,7 @@
 ||struhuts.com^
 ||joublia.top^
 ||bwz4e.icu^
+||koublid.top^
 ||ioublio.top^
 ||whrwlxg.icu^
 ||bdawrsi.icu^
