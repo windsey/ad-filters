@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-01T01:55:39.515Z
+! Last modified: 2024-11-01T06:33:39.903Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -131,6 +131,8 @@
 ||ctlacnh.icu^
 ||xggcyef.icu^
 ||g4y7uuk.com^
+||pmwofrq.icu^
+||soublib.top^
 ||qkgllif.icu^
 ||extopae.icu^
 ||yj2nf.icu^
