@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-02T01:46:00.082Z
+! Last modified: 2024-11-02T06:30:51.882Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3050,7 +3050,6 @@
 ||sourcepoint-mms.aetv.com^
 ||sourcepoint-mms.history.com^
 ||sourcepoint-mms.mylifetime.com^
-||vg247-p2.vg247.com^
 ||vg247-uk.vg247.com^
 ||11b6n4ty2x3.taxliencode.com^
 ||13js1lbtbj3.sparkloop.app^

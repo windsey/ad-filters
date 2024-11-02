@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-02T01:45:59.130Z
+! Last modified: 2024-11-02T06:30:50.940Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -31,6 +31,8 @@
 ||wmcbld.top^
 ||ifmccdn.icu^
 ||vrelai.com^
+||woublie.top^
+||ti4la.icu^
 ||graesol.com^
 ||ctlacnh.icu^
 ||xggcyef.icu^
