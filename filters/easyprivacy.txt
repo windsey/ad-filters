@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-03T12:40:42.605Z
+! Last modified: 2024-11-03T18:29:28.825Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2358,6 +2358,7 @@
 ||analytics-zone-1.api.leadfamly.com^
 ||analytics.3c5.com^
 ||analytics.academy.com^
+||analytics.ahrefs.dev^
 ||analytics.archive.org^
 ||analytics.brave.com^
 ||analytics.chase.com^
