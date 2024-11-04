@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-04T06:33:37.859Z
+! Last modified: 2024-11-04T12:46:51.360Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -17,7 +17,6 @@
 .gatracking.js
 .skimlinks.js
 .v4.analytics.
-://a869.
 ://analytics-cdn.
 ://backstory.ebay.
 ://client.rum.
