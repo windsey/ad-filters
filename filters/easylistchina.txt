@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-04T01:50:15.456Z
+! Last modified: 2024-11-04T06:33:36.904Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -29,6 +29,7 @@
 ||uwsaqoi.icu^
 ||ipqajyy.icu^
 ||2sfpy.icu^
+||ooublik.top^
 ||imniel.com^
 ||kiolpia.icu^
 ||bdcmwcl.icu^
