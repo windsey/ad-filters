@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-05T12:42:12.990Z
+! Last modified: 2024-11-05T18:30:07.676Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1395,7 +1395,6 @@
 ||tags.dxmdp.com^
 ||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
-||tags.refinery89.com^
 ||tagtracking.vibescm.com^
 ||target.mixi.media^
 ||telemetrics.klaviyo.com^
