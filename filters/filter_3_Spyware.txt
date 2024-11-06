@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-05T18:30:12.772Z
+! Last modified: 2024-11-06T01:45:28.548Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||useraction.de^
 ||new-access802.net^
 ||majime-site-rk.com^
 ||yonemoku.rdy.jp^
@@ -32151,7 +32152,6 @@
 ||dadi.technology^
 ||daq0d0aotgq0f.cloudfront.net^
 ||data-collector.wefi.com^
-||data.mimikama.at^
 ||data.mob.com^
 ||datacollect*.abtasty.com^
 ||dbfukofby5ycr.cloudfront.net^
