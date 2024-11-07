@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-07T06:30:40.268Z
+! Last modified: 2024-11-07T12:44:47.468Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -32,6 +32,7 @@
 ||zjib0.icu^
 ||ipyhf.icu^
 ||cruhut.com^
+||scoldak.com^
 ||stragmik.com^
 ||yxrmbjw.icu^
 ||gnyuhzd.icu^

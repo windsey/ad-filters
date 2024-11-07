@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-07T06:30:41.248Z
+! Last modified: 2024-11-07T12:44:48.444Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2878,7 +2878,6 @@
 ||tags.klove.com^
 ||tags.stepstone.com^
 ||tao.barstoolsports.com^
-||taplytics-umami.grubhub.com^
 ||target-us.samsung.com^
 ||target.nationwide.com^
 ||target.nejm.org^
