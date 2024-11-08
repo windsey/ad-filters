@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-08T12:43:07.715Z
+! Last modified: 2024-11-08T18:30:05.391Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -138,6 +138,7 @@
 ||pheqae.com^
 ||ittaels.com^
 ||tyaduqq.icu^
+||deafeningphone.com^
 ||gftefmt.icu^
 ||ygoibya.icu^
 ||herzotph.icu^
