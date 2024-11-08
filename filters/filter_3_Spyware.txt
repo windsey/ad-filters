@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-08T06:31:07.792Z
+! Last modified: 2024-11-08T12:43:11.617Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -30778,6 +30778,9 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||event-dot-procolor-backend.appspot.com^
+||prod.event.mwm-asset-manager.mwmwebapis.com^
+||stats.vidbinge.com^
 ||api.amplitudeexperiment.com^
 ||analytics.ahrefs.
 ||montelena.gmarket.co.kr^

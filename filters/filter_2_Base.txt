@@ -1,10 +1,13 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-08T06:31:06.856Z
+! Last modified: 2024-11-08T12:43:10.652Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 
+||byzoruator.com^
+||sjilyhwpu.xyz^
+||shoorsoacmo.xyz^
 ||qkyojtlabrhy.com^
 ||neat-period.com^
 ||gtyjpiobza.com^

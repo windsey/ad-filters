@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-08T06:31:01.724Z
+! Last modified: 2024-11-08T12:43:05.569Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -31,6 +31,8 @@
 ||trpyceq.cn^
 ||6gute.icu^
 ||q2usj.icu^
+||pheqae.com^
+||ittaels.com^
 ||tyaduqq.icu^
 ||gftefmt.icu^
 ||ygoibya.icu^

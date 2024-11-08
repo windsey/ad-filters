@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-08T06:31:01.390Z
+! Last modified: 2024-11-08T12:43:05.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -10514,6 +10514,7 @@
 ||glimpsemankind.com^
 ||glimtors.net^
 ||glipigaicm.net^
+||gliptoacaft.net^
 ||glistening-novel.pro^
 ||glitteringinsertsupervise.com^
 ||glitteringobsessionchanges.com^
