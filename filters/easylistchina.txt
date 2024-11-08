@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-07T18:29:59.496Z
+! Last modified: 2024-11-08T01:46:07.832Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -24,6 +24,12 @@
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||dhukul.com^
+||reisyxy.icu^
+||yrarhzuq.xyz^
+||sugilip.cn^
+||trpyceq.cn^
+||6gute.icu^
 ||tyaduqq.icu^
 ||gftefmt.icu^
 ||ygoibya.icu^
@@ -34,6 +40,7 @@
 ||cruhut.com^
 ||scoldak.com^
 ||dkasffredf.xyz^
+||qnvwjpr.icu^
 ||stragmik.com^
 ||yxrmbjw.icu^
 ||gnyuhzd.icu^
