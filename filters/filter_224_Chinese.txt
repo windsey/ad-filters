@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-09T01:42:51.512Z
+! Last modified: 2024-11-09T06:28:53.972Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -137,6 +137,8 @@
 ||68yscw.com^
 ||tqanmatx.icu^
 ||kxygsjv.icu^
+||41grk.icu^
+||eddcc.icu^
 ||dhukul.com^
 ||reisyxy.icu^
 ||yrarhzuq.xyz^
