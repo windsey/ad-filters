@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-09T06:28:53.972Z
+! Last modified: 2024-11-09T12:39:44.953Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -139,6 +139,7 @@
 ||kxygsjv.icu^
 ||41grk.icu^
 ||eddcc.icu^
+||feittoill.com^
 ||dhukul.com^
 ||reisyxy.icu^
 ||yrarhzuq.xyz^
