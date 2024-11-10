@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-10T06:29:12.858Z
+! Last modified: 2024-11-10T12:39:32.904Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -133,6 +133,7 @@
 ||jwhjqjfl.icu^
 ||c05ua.icu^
 ||8ail6.icu^
+||drihmae.com^
 ||avxonsp.icu^
 ||58shuz.com^
 ||trimmoits.com^
