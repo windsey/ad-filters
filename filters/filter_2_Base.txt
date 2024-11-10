@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-10T12:39:35.882Z
+! Last modified: 2024-11-10T18:27:37.795Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -5647,6 +5647,7 @@ serve.bussyhunter.com^
 ||xmlv4.reklama.network^
 ||xmlv6.aimkweb.com^
 
+||wave.outbrain.com^
 ||ad.wrtn.ai^
 ||ip356694986.ahcdn.com^
 ||ads.cdn2-img.net^
@@ -9035,6 +9036,7 @@ rgmechanicsgames.com*VPN.exe
 ||augaiksu.xyz^
 ||augailou.com^
 ||aughableleade.info^
+||augilrunie.net^
 ||augu3yhd485st.com^
 ||augurersoilure.space^
 ||august15download.com^
@@ -11601,6 +11603,7 @@ rgmechanicsgames.com*VPN.exe
 ||cleverculture.pro^
 ||cleverjump.org^
 ||clevernesscolloquial.com^
+||clevernessdeclare.com^
 ||clevernt.com^
 ||cleverwebserver.com^
 ||clevv.com^
@@ -12448,7 +12451,9 @@ rgmechanicsgames.com*VPN.exe
 ||cs1olr0so31y.shop^
 ||cschyogh.com^
 ||csdf4dn.pro^
+||csfgbmwsxjgibf.com^
 ||cshbglcfcmirnm.xyz^
+||cskcnipgkq.club^
 ||csqtsjm.com^
 ||cssuvtbfeap.com^
 ||csy8cjm7.xyz^
@@ -14157,6 +14162,7 @@ rgmechanicsgames.com*VPN.exe
 ||eehuzaih.com^
 ||eekeeghoolsy.com^
 ||eekreeng.com^
+||eekrogrameety.net^
 ||eeksoabo.com^
 ||eeleekso.com^
 ||eelempee.xyz^
@@ -16948,6 +16954,7 @@ rgmechanicsgames.com*VPN.exe
 ||gtosmdjgn.xyz^
 ||gtsads.com^
 ||gtslufuf.xyz^
+||gtubumgalb.com^
 ||gtusaexrlpab.world^
 ||gtwoedjmjsevm.xyz^
 ||gtxlouky.xyz^
@@ -17074,6 +17081,7 @@ rgmechanicsgames.com*VPN.exe
 ||hafonmadp.com^
 ||hagdenlupulic.top^
 ||hagdispleased.com^
+||haggingmasha.top^
 ||haghalra.com^
 ||haglance.com^
 ||hagnutrient.com^
@@ -17606,6 +17614,7 @@ rgmechanicsgames.com*VPN.exe
 ||hockicmaidso.com^
 ||hoctor-pharity.xyz^
 ||hoealec.com^
+||hoggershumblie.top^
 ||hoggetforfend.com^
 ||hoglinsu.com^
 ||hogmc.net^
@@ -17783,6 +17792,7 @@ rgmechanicsgames.com*VPN.exe
 ||hqpass.com^
 ||hqscene.com^
 ||hqwa.xyz^
+||hqxzgqkuzcv.com^
 ||hrahdmon.com^
 ||hrczhdv.com^
 ||hrenbjkdas.com^
@@ -18899,6 +18909,7 @@ rgmechanicsgames.com*VPN.exe
 ||jbwiujl.com^
 ||jc32arlvqpv8.com^
 ||jcedzifarqa.com^
+||jclrwjceymgec.com^
 ||jcndkorsj.com^
 ||jcosjpir.com^
 ||jcqueawk.xyz^
@@ -19692,6 +19703,7 @@ rgmechanicsgames.com*VPN.exe
 ||kveww.com^
 ||kvexx.com^
 ||kvezz.com^
+||kviglxabhwwhf.xyz^
 ||kvjkkwyomjrx.com^
 ||kvovs.xyz^
 ||kvstithy.top^
@@ -27149,6 +27161,7 @@ rgmechanicsgames.com*VPN.exe
 ||rxvej.com^
 ||ryads.xyz^
 ||ryaqlybvobjw.top^
+||ryazabti.com^
 ||rydresa.info^
 ||ryenetworkconvicted.com^
 ||ryeprior.com^
@@ -28791,6 +28804,7 @@ rgmechanicsgames.com*VPN.exe
 ||staunchgenetwitch.com^
 ||staupsadraim.xyz^
 ||staureez.net^
+||stavegroove.com^
 ||stawhoph.com^
 ||staydolly.com^
 ||staygg.com^
@@ -28905,6 +28919,7 @@ rgmechanicsgames.com*VPN.exe
 ||stoadivap.com^
 ||stoagnejums.net^
 ||stoaphalti.com^
+||stoardeebou.xyz^
 ||stoashou.net^
 ||stoasstriola.shop^
 ||stockingplaice.com^
@@ -29700,6 +29715,7 @@ rgmechanicsgames.com*VPN.exe
 ||terreproa.shop^
 ||terribledeliberate.com^
 ||terrifyingcovert.com^
+||tertiafrush.top^
 ||tertracks.site^
 ||tesousefulhead.info^
 ||testamenttakeoutkill.com^
@@ -30886,6 +30902,7 @@ rgmechanicsgames.com*VPN.exe
 ||uimserv.net^
 ||uingroundhe.com^
 ||ujautifuleed.xyz^
+||ujmkqrnhfio.com^
 ||ujscdn.com^
 ||ujtgtmj.com^
 ||ujxrfkhsiss.xyz^
@@ -33385,6 +33402,7 @@ rgmechanicsgames.com*VPN.exe
 ||yxajqsrsij.com^
 ||yxuytpfe-t.icu^
 ||yy9s51b2u05z.com^
+||yycdbemrvsfihb.com^
 ||yyceztc8.click^
 ||yydwkkxhjb.com^
 ||yyjvimo.com^
@@ -33806,9 +33824,11 @@ rgmechanicsgames.com*VPN.exe
 ||kinkadservercdn.com^
 ||ohmygosh.info^
 ||1022332207.rsc.cdn77.org^
+||1035289788.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
+||1104547249.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1208344341.rsc.cdn77.org^
 ||1217263230.rsc.cdn77.org^
@@ -33819,6 +33839,8 @@ rgmechanicsgames.com*VPN.exe
 ||1548164934.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
+||1777452258.rsc.cdn77.org^
+||1841793143.rsc.cdn77.org^
 ||1wnurc.com^
 ||a-delivery.rmbl.ws^
 ||a.ucoz.net^
