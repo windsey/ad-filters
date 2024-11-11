@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-11T06:31:42.608Z
+! Last modified: 2024-11-11T12:44:38.045Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -728,6 +728,7 @@
 ||cdn-channels-pixel.ex.co^
 ||cdn.ravm.tv^
 ||cdn.usefathom.com^
+||cf-pixelfront-analytics.widencdn.net^
 ||cf.overblog.com^
 ||cgicounter.oneandone.co.uk^
 ||cgicounter.puretec.de^
