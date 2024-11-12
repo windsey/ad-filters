@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-12T12:45:11.064Z
+! Last modified: 2024-11-12T18:30:14.854Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2460,6 +2460,7 @@
 ||collect.reagroupdata.com.au^
 ||collect.stepstone.co.uk^
 ||collect.thunder-io.com^
+||collector-direct.xhamster.com^
 ||collector-px0py5pczn.octopart.com^
 ||collector.cint.com^
 ||collector.fiverr.com^
@@ -2474,6 +2475,7 @@
 ||collector.xhamster.desi^
 ||collector.xhamster2.com^
 ||collector.xhamster3.com^
+||collector.xhamsterporno.mx^
 ||colvk.viki.io^
 ||confiant.msn.com^
 ||console-telemetry.oci.oraclecloud.com^
