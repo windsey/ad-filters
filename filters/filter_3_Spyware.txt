@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-12T06:31:03.997Z
+! Last modified: 2024-11-12T12:45:16.176Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -32273,6 +32273,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||cza.crazygames.com^
 ||event-dot-procolor-backend.appspot.com^
 ||prod.event.mwm-asset-manager.mwmwebapis.com^
 ||stats.vidbinge.com^
@@ -32598,7 +32599,6 @@
 ||unidentifiedanalytics.web.app^
 ||t.poki.io^
 ||p.armorgames.net^
-||analytics.crazygames.com^
 ||tracker.sqreemtech.com^
 ||analytics.waifu2x.org^
 ||analytics-api.vanceai.com^
