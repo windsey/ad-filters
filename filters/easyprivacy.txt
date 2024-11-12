@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-12T01:44:29.639Z
+! Last modified: 2024-11-12T06:30:58.740Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -301,6 +301,7 @@
 ||opti-digital.com^
 ||opticksprotection.com^
 ||optistats.ovh^
+||organiccdn.io^
 ||orhdev.com^
 ||ostrichesica.com^
 ||p7cloud.net^
@@ -1303,6 +1304,7 @@
 ||stats.itweb.co.za^
 ||stats.kaltura.com^
 ||stats.ksearchnet.com^
+||stats.locallabs.com^
 ||stats.lotlinx.com^
 ||stats.mituyu.com^
 ||stats.mpthemes.net^
