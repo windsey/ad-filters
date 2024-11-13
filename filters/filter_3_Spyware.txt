@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-13T12:45:21.913Z
+! Last modified: 2024-11-13T18:30:18.439Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||p7cloud.net^
 ||kobel.services^
 ||useraction.de^
 ||new-access802.net^
@@ -32273,6 +32274,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||mst.rnd.de^
 ||cza.crazygames.com^
 ||event-dot-procolor-backend.appspot.com^
 ||prod.event.mwm-asset-manager.mwmwebapis.com^

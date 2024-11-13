@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Nu3Bu2rrLzP+Im02sLPCYw
-! Version: 202411131230
+! Checksum: 7WGKHMYceK96Xr5+OLywlg
+! Version: 202411131821
 ! Title: EasyList
-! Last modified: 13 Nov 2024 12:30 UTC
+! Last modified: 13 Nov 2024 18:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12083,6 +12083,7 @@ _800x80_
 ##.html5-ad-progress-list
 ##.hw-ad--frTop
 ##.hyad
+##.hyperAd
 ##.i-amphtml-element.live-updates.render-embed
 ##.i-amphtml-unresolved
 ##.iAdserver
@@ -18751,6 +18752,7 @@ browsershots.org#@#.advert_area
 ||atethebenefitsshe.com^
 ||atgallader.com^
 ||atgenesecton.com^
+||athalarilouwo.net^
 ||athbzeobts.com^
 ||atheismperplex.com^
 ||atherthishinhe.com^
@@ -18783,6 +18785,7 @@ browsershots.org#@#.advert_area
 ||atmosphericurinebra.com^
 ||atmtaoda.com^
 ||ato.mx^
+||atodiler.com^
 ||atomex.net^
 ||atomicarot.com^
 ||atonato.de^
@@ -19257,6 +19260,7 @@ browsershots.org#@#.advert_area
 ||balvalur.com^
 ||bam-bam-slam.com^
 ||bambarmedia.com^
+||bamtinseefta.xyz^
 ||banalrestart.com^
 ||banawgaht.com^
 ||banclip.com^
@@ -21541,6 +21545,7 @@ browsershots.org#@#.advert_area
 ||cliffestablishedcrocodile.com^
 ||climatedetaindes.com^
 ||clinkeasiestopponent.com^
+||clintonchewet.com^
 ||clintsflawed.click^
 ||clipperroutesevere.com^
 ||cliquedmuggish.top^
@@ -26603,6 +26608,7 @@ browsershots.org#@#.advert_area
 ||gonairoomsoo.xyz^
 ||goneawaytogy.info^
 ||gonoushauw.net^
+||goobakocaup.com^
 ||goobefirumaupt.net^
 ||goocivede.com^
 ||good-ads-online.com^
@@ -29040,6 +29046,7 @@ browsershots.org#@#.advert_area
 ||jggegj-rtbix.top^
 ||jggldfvx.com^
 ||jghjhtz.com^
+||jgltbxlougpg.xyz^
 ||jgqaainj.buzz^
 ||jgrjldc.com^
 ||jgxavkopotthxj.xyz^
@@ -31231,6 +31238,7 @@ browsershots.org#@#.advert_area
 ||memorizematch.com^
 ||menacehabit.com^
 ||menacing-awareness.pro^
+||menacing-feature.pro^
 ||mendedrefuel.com^
 ||menews.org^
 ||mentallyissue.com^
@@ -32368,6 +32376,7 @@ browsershots.org#@#.advert_area
 ||nezygmobha.com^
 ||nfctoroxi.xyz^
 ||nfgxadlbfzuy.click^
+||nfjdxtfpclfh.com^
 ||nfkd2ug8d9.com^
 ||nfuwlooaodf.com^
 ||nfuwpyx.com^
@@ -35268,6 +35277,7 @@ browsershots.org#@#.advert_area
 ||producerplot.com^
 ||productanychaste.com^
 ||producthub.info^
+||productive-chemical.pro^
 ||proeroclips.pro^
 ||proetusbramble.com^
 ||professdeteriorate.com^
@@ -40562,6 +40572,7 @@ browsershots.org#@#.advert_area
 ||tonicdivedfounded.com^
 ||tonicneighbouring.com^
 ||toninjaska.com^
+||tonsilsuggestedtortoise.com^
 ||tonsilyearling.com^
 ||tontrinevengre.com^
 ||toocssfghbvgqb.com^
@@ -42009,6 +42020,7 @@ browsershots.org#@#.advert_area
 ||vfl81ea28aztw7y3.pro^
 ||vflouksffoxmlnk.xyz^
 ||vfthr.com^
+||vfuqivac.com^
 ||vfvdsati.com^
 ||vfyhwapi.com^
 ||vfzqtgr.com^
@@ -43723,6 +43735,7 @@ browsershots.org#@#.advert_area
 ||yohavemix.live^
 ||yoibbka.com^
 ||yokeeroud.com^
+||yoksamhain.com^
 ||yolkhandledwheels.com^
 ||yomeno.xyz^
 ||yonabrar.com^
@@ -48020,6 +48033,7 @@ browsershots.org#@#.advert_area
 ||gogglerespite.com^$popup
 ||gold2762.com^$popup
 ||gomo.cc^$popup
+||goobakocaup.com^$popup
 ||goodvpnoffers.com^$popup
 ||goosebomb.com^$popup
 ||gophykopta.com^$popup
@@ -49867,6 +49881,7 @@ browsershots.org#@#.advert_area
 ||tomladvert.com^$popup
 ||tomorroweducated.com^$popup
 ||tonefuse.com^$popup
+||tonsilsuggestedtortoise.com^$popup
 ||tooaastandhei.info^$popup
 ||tookiroufiz.net^$popup
 ||toonujoops.net^$popup
