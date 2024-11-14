@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-14T01:46:50.049Z
+! Last modified: 2024-11-14T06:32:10.320Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -26,6 +26,9 @@
 ||cnzz.trafficmanager.net^
 ||bujlmitd.icu^
 ||wrdamoe.icu^
+||iweisio.top^
+||u5ps5.icu^
+||lwvrv.icu^
 ||stunkrins.com^
 ||rjwpwod.icu^
 ||gheqien.com^

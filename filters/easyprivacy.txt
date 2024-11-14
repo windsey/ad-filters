@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-14T01:46:51.006Z
+! Last modified: 2024-11-14T06:32:11.280Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -140,6 +140,7 @@
 ||efreecode.com^
 ||egoi.site^
 ||emailsnow.info^
+||entail-insights.com^
 ||enterombacerick.com^
 ||enthusiastgaming.net^
 ||envato.market^

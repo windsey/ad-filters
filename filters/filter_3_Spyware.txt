@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-14T01:46:56.092Z
+! Last modified: 2024-11-14T06:32:16.402Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -32274,6 +32274,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||logs.netflix.com^
 ||mst.rnd.de^
 ||cza.crazygames.com^
 ||event-dot-procolor-backend.appspot.com^
