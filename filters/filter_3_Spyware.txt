@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-13T18:30:18.439Z
+! Last modified: 2024-11-14T01:46:56.092Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -34937,6 +34937,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||sonar*.xy.fbcdn.net^
 ||mob2.healthtrackergroup.com^
 ||insights-categorizer-noneu.truecaller.com^
 ||event-dot-learning-piano.appspot.com^

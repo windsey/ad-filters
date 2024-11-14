@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-13T18:30:17.489Z
+! Last modified: 2024-11-14T01:46:55.144Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 
+||profitablecpmrate.com^
 ||wwwwzeraqvrej.top^
 ||mycuegxt.com^
 ||athalarilouwo.net^
@@ -5745,6 +5746,7 @@ serve.bussyhunter.com^
 ||xmlv4.reklama.network^
 ||xmlv6.aimkweb.com^
 
+||creatives.wetransfer.net^
 ||wave.outbrain.com^
 ||ad.wrtn.ai^
 ||ip356694986.ahcdn.com^
