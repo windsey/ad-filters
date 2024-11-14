@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-14T06:32:16.402Z
+! Last modified: 2024-11-14T12:47:17.975Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -32274,6 +32274,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||stats.bunkr.ru^
 ||logs.netflix.com^
 ||mst.rnd.de^
 ||cza.crazygames.com^
@@ -33702,6 +33703,7 @@
 ||estat.zum.com^
 ||et.nytimes.com^
 ||eum*.instana.io^
+||ev2.api.bdg.com^
 ||ev.api.bdg.com^
 ||ev.kck.st^
 ||events.popinfo.jp^
@@ -34938,6 +34940,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||ads-image.production-public.tubi.io^
+||user-signals.production-public.tubi.io^
 ||sonar*.xy.fbcdn.net^
 ||mob2.healthtrackergroup.com^
 ||insights-categorizer-noneu.truecaller.com^
