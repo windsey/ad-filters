@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-15T06:35:35.899Z
+! Last modified: 2024-11-15T12:46:30.564Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -32274,6 +32274,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||agi-static.indiatimes.com^
 ||fail.adr.ec^
 ||t.adii.se^
 ||stats.bunkr.ru^
@@ -34942,6 +34943,12 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+-rtb.gravite.net^
+||sdk-04.moengage.com^
+||mon*-misc-lf.fqnovel.com^
+||vcs.zijieapi.com^
+||monsetting.toutiao.com^
+-applog*.fqnovel.com^
 ||atsod.launch.liveramp.com^
 ||ads-image.production-public.tubi.io^
 ||user-signals.production-public.tubi.io^
