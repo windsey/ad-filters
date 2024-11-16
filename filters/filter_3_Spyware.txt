@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-16T06:30:55.841Z
+! Last modified: 2024-11-16T12:42:38.928Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||logs.chatboost-cv.algoage.co.jp^
 ||p7cloud.net^
 ||kobel.services^
 ||useraction.de^
@@ -32274,6 +32275,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||t.rentio.jp^
 ||telemetry*.api.playstation.com^
 ||telemetry.zoom.us^
 ||agi-static.indiatimes.com^
