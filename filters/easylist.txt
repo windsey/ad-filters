@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-17T12:41:58.599Z
+! Last modified: 2024-11-17T18:29:38.127Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -29953,6 +29953,8 @@
 ||rtb-1.mylust.com^
 ||rtb-1.xcafe.com^
 ||rtb-3.xgroovy.com^
+||s.bussyhunter.com^
+||s.everydayporn.co^
 ||sli.crazyporn.xxx^
 ||slit.lewd.rip^
 ||slview.psne.jp^
