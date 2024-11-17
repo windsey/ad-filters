@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-17T06:31:46.865Z
+! Last modified: 2024-11-17T12:42:05.085Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -23,7 +23,6 @@
 ||prodregistryv2.org^
 ||ads.mythad.com^
 ||ga2.getresponse.com^
-||events.split.io^
 ||analytics.wikitide.net^
 ||shgcdn3.com^
 ||rmonitor.qq.com^

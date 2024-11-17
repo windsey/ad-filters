@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-17T06:31:41.539Z
+! Last modified: 2024-11-17T12:41:59.914Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -861,7 +861,6 @@
 ||ecommstats.s3.amazonaws.com^
 ||edge.adobedc.net^
 ||eel.transistor.fm^
-||ele26126.jscrambler.com^
 ||eq.userneeds.com^
 ||era.easyvoyage.com^
 ||errors.snackly.co^
