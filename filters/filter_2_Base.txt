@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-18T01:55:29.387Z
+! Last modified: 2024-11-18T06:34:11.760Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -12559,6 +12559,7 @@ rgmechanicsgames.com*VPN.exe
 ||cryingforanythi.com^
 ||cryjun.com^
 ||cryorganichash.com^
+||crypto-ads.net^
 ||cryptoatom.care^
 ||cryptobeneluxbanner.care^
 ||cryptomaster.care^

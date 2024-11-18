@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-18T01:55:24.077Z
+! Last modified: 2024-11-18T06:34:06.611Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -28,6 +28,7 @@
 ||iflucav.icu^
 ||ao1118kas.top^
 ||mhwy6.icu^
+||uweisit.top^
 ||mlgowell.org^
 ||ge189.com^
 ||usgowell.com^
