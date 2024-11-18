@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-18T12:49:17.353Z
+! Last modified: 2024-11-18T18:32:36.406Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -39112,6 +39112,7 @@
 ||ln.ameba.jp^
 ||log-lb.skyperfectv.co.jp^
 ||log.recommend.nicovideo.jp^
+||logcollector.note.com^
 ||logql.yahoo.co.jp^
 ||measure.ameblo.jp^
 ||pvtag.yahoo.co.jp^

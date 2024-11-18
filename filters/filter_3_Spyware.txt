@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-18T12:49:22.545Z
+! Last modified: 2024-11-18T18:32:41.515Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||cts.vresp.com^
 ||logs.chatboost-cv.algoage.co.jp^
 ||p7cloud.net^
 ||kobel.services^
@@ -41606,6 +41607,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||log.heartratepros.com^
 ||hw-sh-pcdn-*.biliapi.net^
 ||ali-bj-pcdn-*.biliapi.net^
 ||tatrack.thinkyeah.com^
