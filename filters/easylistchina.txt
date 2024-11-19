@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-19T12:48:21.877Z
+! Last modified: 2024-11-19T18:32:18.042Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -29,6 +29,9 @@
 ||snnmgdt.icu^
 ||4t6u.icu^
 ||scihuns.com^
+||7aey.icu^
+||htwjo.com^
+||cmelr.com^
 ||yrccils0spqnkc3.xyz^
 ||z9uvpwarkk1mnpf.xyz^
 ||wsgnihbh.icu^
