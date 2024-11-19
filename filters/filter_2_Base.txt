@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-19T06:33:37.345Z
+! Last modified: 2024-11-19T12:48:27.095Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 
+||datazap.online^
 ||monu.delivery^
 ||championshipcoma.com^
 ||late-anxiety.com^

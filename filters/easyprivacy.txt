@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-19T06:33:33.187Z
+! Last modified: 2024-11-19T12:48:22.865Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2710,6 +2710,7 @@
 ||p.minds.com^
 ||pac.thescottishsun.co.uk^
 ||pac.thesun.co.uk^
+||pac.thetimes.com^
 ||papi.stylar.ai^
 ||pappagallu.onefootball.com^
 ||pcp.coupert.com^
