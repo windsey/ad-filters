@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-20T12:48:09.121Z
+! Last modified: 2024-11-20T18:32:31.032Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -86,6 +86,8 @@
 ||startup.mobile.yandex.net^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
+||richlifeads.ru^
+||tapulsads.ru^
 ||httpdns.bilivideo.com^
 ||dataflow.biliapi.com^
 ||grpc.biliapi.net^
