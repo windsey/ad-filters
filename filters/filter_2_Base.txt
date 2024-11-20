@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-19T18:32:23.260Z
+! Last modified: 2024-11-20T01:52:08.261Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -27717,6 +27717,7 @@ rgmechanicsgames.com*VPN.exe
 ||saryprocedentw.info^
 ||sasinsetuid.com^
 ||sassaglertoulti.xyz^
+||satiresboy.com^
 ||satireunhealthy.com^
 ||satisfactionretirechatterbox.com^
 ||satisfactorilyfigured.com^
