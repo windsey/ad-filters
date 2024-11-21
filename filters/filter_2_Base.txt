@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-21T12:48:28.364Z
+! Last modified: 2024-11-21T18:32:28.235Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 
+||trusting-produce.com^
 ||piotyo.xyz^
 ||lanky-bar.com^
 ||pledgorulmous.top^
@@ -105,7 +106,7 @@
 ||lapnicjaqxu.com^
 ||cdn.ads-flipp.com^
 ||ozbnagojbop.com^
-/^139\.45\.197\.2(4[0-9]|5[0-4]):/
+/^139\.45\.197\.2(4[0-9]|5[0-4])/
 ||at.adtech.redventures.io^
 ||subag.freexxxbase.com^
 ||ad.apl302.me^
@@ -241,7 +242,7 @@
 ||amazon-adsystem.com^
 ||vipads.live^
 ||api.smartnews-ads.com^
-/^94\.242\.247\.(2[0-9]|3[0-2]):/
+/^94\.242\.247\.(2[0-9]|3[0-2])/
 /^23\.109\.170\.(18[7-9]|19[0-2])$/
 /^23\.109\.73\.\d{3}/
 /^188\.42\.84\.\d{1,3}/
@@ -8078,6 +8079,7 @@ rgmechanicsgames.com*VPN.exe
 ||ailteesh.net^
 ||aimairou.net^
 ||aimatch.com^
+||aimaunongeez.net^
 ||aimpocket.com^
 ||aimukreegee.net^
 ||aintydevelelastic.com^
@@ -10795,6 +10797,7 @@ rgmechanicsgames.com*VPN.exe
 ||bulserv.com^
 ||bultaika.net^
 ||bulyiel.com^
+||bumaqblyqviw.fun^
 ||bumblecash.com^
 ||bumlabhurt.live^
 ||bummerentertain.com^
@@ -12714,6 +12717,7 @@ rgmechanicsgames.com*VPN.exe
 ||customernormallyseventh.com^
 ||customsalternative.com^
 ||customselliot.com^
+||cuteab.com^
 ||cutelylookups.shop^
 ||cuterbond.com^
 ||cutescale.online^
@@ -14351,6 +14355,7 @@ rgmechanicsgames.com*VPN.exe
 ||eegookiz.com^
 ||eegroosoad.com^
 ||eeheersoat.com^
+||eehir.tech^
 ||eehuzaih.com^
 ||eekeeghoolsy.com^
 ||eekreeng.com^
@@ -16636,6 +16641,7 @@ rgmechanicsgames.com*VPN.exe
 ||gleerdoacmockuy.xyz^
 ||gleetchisurvey.top^
 ||gleewhor.xyz^
+||gleloamseft.xyz^
 ||glelroalso.xyz^
 ||gleneditor.com^
 ||glenmexican.com^
@@ -16830,6 +16836,7 @@ rgmechanicsgames.com*VPN.exe
 ||godpvqnszo.com^
 ||godroonrefrig.com^
 ||godspeaks.net^
+||goeducklactase.com^
 ||goesintakehaunt.com^
 ||gofecuhxltcqj.xyz^
 ||gogglemessenger.com^
@@ -16991,6 +16998,7 @@ rgmechanicsgames.com*VPN.exe
 ||grapselu.com^
 ||graptaupsi.net^
 ||grartoag.xyz^
+||grashaksoudry.net^
 ||grasshusk.com^
 ||grasutie.net^
 ||graterpatent.com^
@@ -17696,6 +17704,7 @@ rgmechanicsgames.com*VPN.exe
 ||hhklc.com^
 ||hhkld.com^
 ||hhmako.cloud^
+||hhndmpql.com^
 ||hhrmmwdep.com^
 ||hhuohqramjit.com^
 ||hhvbdeewfgpnb.xyz^
@@ -19308,6 +19317,7 @@ rgmechanicsgames.com*VPN.exe
 ||jjrvlrslb.com^
 ||jjthmis.com^
 ||jjtnadbcbovqarv.xyz^
+||jjvpbstg.com^
 ||jk4lmrf2.de^
 ||jkha742.xyz^
 ||jklpy.com^
@@ -19935,6 +19945,7 @@ rgmechanicsgames.com*VPN.exe
 ||ksnbiepnvjdi.com^
 ||ksnbtmz.com^
 ||ksnooastqr.xyz^
+||kspmaaiayadg.com^
 ||kstjqjuaw.xyz^
 ||ksykbucea.com^
 ||ksyompbwor.xyz^
@@ -21008,6 +21019,7 @@ rgmechanicsgames.com*VPN.exe
 ||madurird.com^
 ||maebtjn.com^
 ||maestroconfederate.com^
+||mafflerplaids.com^
 ||mafiaemptyknitting.com^
 ||mafiaillegal.com^
 ||mafon.xyz^
@@ -21835,6 +21847,7 @@ rgmechanicsgames.com*VPN.exe
 ||moksoxos.com^
 ||moleconcern.com^
 ||molecularhouseholdadmiral.com^
+||mollesscar.top^
 ||molokerpterion.shop^
 ||molseelr.xyz^
 ||molttenglobins.casa^
@@ -22410,6 +22423,7 @@ rgmechanicsgames.com*VPN.exe
 ||neepomiba.net^
 ||neerecah.xyz^
 ||neesihoothak.net^
+||neewouwoafisha.net^
 ||neezausu.net^
 ||nefdcnmvbt.com^
 ||negative-might.pro^
@@ -24637,6 +24651,7 @@ rgmechanicsgames.com*VPN.exe
 ||photographcrushingsouvenirs.com^
 ||photographerinopportune.com^
 ||photographyprovincelivestock.com^
+||phouckusogh.net^
 ||phoulade.xyz^
 ||phoutchounse.com^
 ||phouvemp.net^
@@ -25373,6 +25388,7 @@ rgmechanicsgames.com*VPN.exe
 ||privateappealingsymphony.com^
 ||privatedqualizebrui.info^
 ||privatelydevotionrewind.com^
+||privilegedmansfieldvaguely.com^
 ||privilegedvitaminimpassable.com^
 ||privilegeinjurefidelity.com^
 ||privilegest.com^
@@ -25804,6 +25820,7 @@ rgmechanicsgames.com*VPN.exe
 ||puczuxqijadg.com^
 ||puddingdefeated.com^
 ||puddleincidentally.com^
+||pudicalnablus.com^
 ||pudraugraurd.net^
 ||puerty.com^
 ||puffingtiffs.com^
@@ -27006,6 +27023,7 @@ rgmechanicsgames.com*VPN.exe
 ||revenuestripe.com^
 ||revenuevids.com^
 ||revenuewasadirect.com^
+||reverercowier.com^
 ||reversiondisplay.com^
 ||revfusion.net^
 ||revimedia.com^
@@ -27764,6 +27782,7 @@ rgmechanicsgames.com*VPN.exe
 ||savourethicalmercury.com^
 ||savourmarinercomplex.com^
 ||savvcsj.com^
+||sawdustreives.top^
 ||saweathercock.info^
 ||sawfluenttwine.com^
 ||sawneywigger.top^
@@ -28323,6 +28342,7 @@ rgmechanicsgames.com*VPN.exe
 ||shoessaucepaninvoke.com^
 ||shokala.com^
 ||sholke.com^
+||sholraidsoalro.net^
 ||shomsouw.xyz^
 ||shonetransmittedfaces.com^
 ||shonevegetable.com^
@@ -32759,6 +32779,7 @@ rgmechanicsgames.com*VPN.exe
 ||webtradehub.com^
 ||wecontemptceasless.com^
 ||wecouldle.com^
+||wedauspicy.com^
 ||wedgierbirsit.com^
 ||wednesdaynaked.com^
 ||wednesdaywestern.com^
@@ -32899,6 +32920,7 @@ rgmechanicsgames.com*VPN.exe
 ||wheeledfunctionstruthfully.com^
 ||wheelsbullyingindolent.com^
 ||wheelscomfortlessrecruiting.com^
+||wheelsetsur.net^
 ||wheelssightsdisappointed.com^
 ||wheelstweakautopsy.com^
 ||wheempet.xyz^
@@ -34080,6 +34102,7 @@ rgmechanicsgames.com*VPN.exe
 ||zimg.jp^
 ||zimpolo.com^
 ||zincypalmy.top^
+||zinniafianced.com^
 ||zinovu.com^
 ||zipakrar.com^
 ||ziphay.com^

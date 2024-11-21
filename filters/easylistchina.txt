@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-21T12:48:23.246Z
+! Last modified: 2024-11-21T18:32:23.101Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -28,6 +28,7 @@
 ||luunels.com^
 ||qcixkb1.xyz^
 ||pjb9gv9.xyz^
+||iweizao.top^
 ||nois5gj.xyz^
 ||qhestrad.com^
 ||vkbxaixl.icu^
