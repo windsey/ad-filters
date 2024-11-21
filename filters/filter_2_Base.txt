@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-21T06:33:24.883Z
+! Last modified: 2024-11-21T12:48:28.364Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 
+||piotyo.xyz^
 ||lanky-bar.com^
 ||pledgorulmous.top^
 ||datazap.online^
