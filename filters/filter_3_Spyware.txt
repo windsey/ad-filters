@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-20T18:32:35.645Z
+! Last modified: 2024-11-21T01:51:57.291Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -39474,6 +39474,7 @@
 ||mcs-sg.tiktok.com^
 ||mssdk.bytedance.com^
 ||mssdk-sg.tiktok.com^
+||mssdk-*.tiktokw.us^
 ||mssdk-sg.byteoversea.com^
 ||tracker.smartseminar.jp^
 ||tracker.shanon-services.com^
