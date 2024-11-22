@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-22T06:33:09.241Z
+! Last modified: 2024-11-22T12:47:13.307Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -663,6 +663,7 @@
 ||api.wipmania.com^
 ||apple.www.letv.com^
 ||applets.ebxcdn.com^
+||apps-pbd.ctraffic.io^
 ||argos.citruserve.com^
 ||ariane.abtasty.com^
 ||attributiontrackingga.googlecode.com^

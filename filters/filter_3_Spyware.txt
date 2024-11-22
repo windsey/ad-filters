@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-22T06:33:14.430Z
+! Last modified: 2024-11-22T12:47:18.496Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -41717,7 +41717,6 @@ inapps.appsflyersdk.com^
 ||config-api.internet.apps.samsung.com^
 ||r.apkpure.net^
 ||analytics.zg-api.com^
-||creative.bidease.com^
 ||track-resource.bidease.com^
 ||track-us.bidease.com^
 ||mintegral.net^
