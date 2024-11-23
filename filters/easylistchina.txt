@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-23T12:43:09.244Z
+! Last modified: 2024-11-23T18:29:55.228Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -26,6 +26,8 @@
 ||cnzz.trafficmanager.net^
 ||xevaix.com^
 ||sweizab.top^
+||eweizaw.top^
+||dt0j.icu^
 ||oqipegjz.icu^
 ||izuts.com^
 ||jweizaa.top^
