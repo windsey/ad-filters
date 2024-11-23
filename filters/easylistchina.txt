@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-23T01:49:39.828Z
+! Last modified: 2024-11-23T06:30:45.768Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -24,6 +24,8 @@
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||xevaix.com^
+||sweizab.top^
 ||oqipegjz.icu^
 ||izuts.com^
 ||jweizaa.top^
@@ -36,6 +38,7 @@
 ||zmrmbc.xyz^
 ||ao1123kas.top^
 ||cukuix.com^
+||wi1f.icu^
 ||aoao11211iis.top^
 ||luunels.com^
 ||qcixkb1.xyz^
