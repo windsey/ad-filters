@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-24T12:43:24.945Z
+! Last modified: 2024-11-24T18:29:26.693Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -133,6 +133,7 @@
 ||az5i.icu^
 ||yoqqiev.top^
 ||fiezaits.com^
+||qweizay.top^
 ||xevaix.com^
 ||sweizab.top^
 ||eweizaw.top^
