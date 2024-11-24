@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-24T06:31:10.553Z
+! Last modified: 2024-11-24T12:43:24.945Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -130,6 +130,9 @@
 ||lipheak.com^
 ||xcwdcynb.icu^
 ||wweizae.top^
+||az5i.icu^
+||yoqqiev.top^
+||fiezaits.com^
 ||xevaix.com^
 ||sweizab.top^
 ||eweizaw.top^
