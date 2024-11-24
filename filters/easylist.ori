@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kSy/qLIPBRwZsSq+DfE+bQ
-! Version: 202411240151
+! Checksum: 82vyY8zoclQ60NR2gk64vg
+! Version: 202411240621
 ! Title: EasyList
-! Last modified: 24 Nov 2024 01:51 UTC
+! Last modified: 24 Nov 2024 06:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -58232,6 +58232,7 @@ gulftoday.ae##.gt-ad-center
 gulf-times.com##.gt-horizontal-ad
 gulf-times.com##.gt-square-desktop-ad
 gulf-times.com##.gt-vertical-ad
+giphy.com##.guIlWP
 animenewsnetwork.com##.gutter
 attheraces.com##.gutter-left
 attheraces.com##.gutter-right
@@ -60397,6 +60398,7 @@ bellinghamherald.com##.zone-el
 cnn.com##.zone__ads
 marketscreener.com##.zppAds
 haxnode.net##[action^="//href.li/?"]
+tjrwrestling.net##[ad-slot]
 news12.com##[alignitems="normal"][justifycontent][direction="row"][gap="0"]
 cloutgist.com,codesnse.com##[alt="AD DESCRIPTION"]
 hubcloud.day##[alt="New-Banner"]
