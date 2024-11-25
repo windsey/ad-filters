@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-25T01:55:12.197Z
+! Last modified: 2024-11-25T06:34:16.223Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -27,6 +27,8 @@
 ||uldaens.com^
 ||qidzwhfp.icu^
 ||aizhantj.com^
+||g41i.icu^
+||tweizai.top^
 ||lipheak.com^
 ||xcwdcynb.icu^
 ||wweizae.top^
