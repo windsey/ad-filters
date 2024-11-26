@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-26T12:49:27.188Z
+! Last modified: 2024-11-26T18:33:21.611Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -29,6 +29,7 @@
 ||9xxy.icu^
 ||oweizak.top^
 ||strenots.com^
+||lweizal.top^
 ||uldaens.com^
 ||qidzwhfp.icu^
 ||aizhantj.com^
