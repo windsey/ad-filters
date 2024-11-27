@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-27T12:49:32.415Z
+! Last modified: 2024-11-27T18:33:13.717Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -136,6 +136,8 @@
 ||zumneojf.icu^
 ||dheirzeh.com^
 ||uxieks.com^
+||egg0.icu^
+||sirrors.com^
 ||uldaens.com^
 ||qidzwhfp.icu^
 ||aizhantj.com^
@@ -5235,8 +5237,6 @@
 ||daima.aixiaola.com^
 ||daima.diaoben.net^
 ||daima.ijq.tv^
-||daima.ssata.cn^
-||daima.wenkuwenku.com^
 ||daima.ysdui.com^
 ||daima.yuzhulin.com^
 ||daiwofei2019.top^

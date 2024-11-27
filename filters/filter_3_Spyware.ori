@@ -115172,6 +115172,9 @@ $cookie=bf_visit
 ! Bad:  ||monerominer.rocks^$third-party (should be in adservers.txt)
 !
 !
+! time.is
+||time.is^$cookie=c
+||time.is^$cookie=h
 ! hulu.com
 ||hulu.com^$cookie=metrics_tracker_session_manager
 ! clarity.ms
@@ -115826,6 +115829,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||plankton-gtm.a.autoscout24.com^
 ||pangle-b.io^
 ||repo.adbc.io:8081/repository/QTracker/
 ||receiver.habby.mobi^
