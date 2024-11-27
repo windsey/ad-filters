@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-27T06:34:00.555Z
+! Last modified: 2024-11-27T12:49:31.214Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -39062,6 +39062,7 @@
 ||events.ingatlan.com^
 ||outal.origo.hu^
 ||analytic20.detik.com^
+||dt-tracker.mamikos.com^
 ||ktracker.kumparan.com^
 ||t.bukalapak.com^
 ||analytics.laregione.ch^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-27T06:34:05.823Z
+! Last modified: 2024-11-27T12:49:36.573Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -39659,6 +39659,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||heartbeat.crackle.com^
 ||event.geniee-search.net^
 ||matomo.oekoloewe.de^
 ||stats.amur.life^
@@ -42220,19 +42221,6 @@ directtrack.*.js
 ||do-not-tracker.org^
 ||eviltracker.net^
 ||trackersimulator.org^
-||receiver.habby.mobi^
-||pangle-b.io^
-||track.*.roku.com^
-||traces.sr.roku.com^
-||analytics.kidoz.net^
-||track.tenjin.com^
-||tracker.mtrtb.com^
-||tracking.ws.eurosport.com^
-||analysis.polarisoffice.com
-||fraudmetrix.cn^
-||plbslog.umeng.com^
-||analysys.cn^
-||logs.supersonic.com^
 ||ntracker-collector.naver.com^
 ||ace.naver.com^
 ||authbe.sec.intl.miui.com^
@@ -42337,6 +42325,21 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||pangle-b.io^
+||receiver.habby.mobi^
+||track.*.roku.com^
+||traces.sr.roku.com^
+||analytics.kidoz.net^
+||track.tenjin.com^
+||tracker.mtrtb.com^
+||tracking.ws.eurosport.com^
+||analysis.polarisoffice.com
+||fraudmetrix.cn^
+||plbslog.umeng.com^
+||analysys.cn^
+||logs.supersonic.com^
+||mssdk-va.byteoversea.com^
+||log*-normal-useast1a.lemon8-app.com^
 ||events.bsky.app^
 ||caerulus.io^
 ||log.heartratepros.com^
