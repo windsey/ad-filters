@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-28T01:55:11.639Z
+! Last modified: 2024-11-28T06:34:18.504Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -131,6 +131,7 @@
 ||satfyxbt.icu^
 ||zodoth.com^
 ||tqeferty33.fun^
+||y7ts.icu^
 ||khastreol.com^
 ||gokrafxr.icu^
 ||9xxy.icu^
