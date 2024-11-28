@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-28T12:49:54.239Z
+! Last modified: 2024-11-28T18:31:58.678Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -134,6 +134,8 @@
 ||y7ts.icu^
 ||yuanzunxs1.com^
 ||z9k7.icu^
+||hdamcsu.top^
+||qovith.com^
 ||khastreol.com^
 ||gokrafxr.icu^
 ||9xxy.icu^
