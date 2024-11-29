@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-29T01:55:05.042Z
+! Last modified: 2024-11-29T06:33:49.074Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -129,6 +129,9 @@
 ||cnzz.trafficmanager.net^
 ||igabcgnh.icu^
 ||saizih.com^
+||1gtp.icu^
+||oo3z.icu^
+||idamcso.top^
 ||0dwm.icu^
 ||satfyxbt.icu^
 ||zodoth.com^
