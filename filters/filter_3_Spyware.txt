@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-29T12:48:54.367Z
+! Last modified: 2024-11-29T18:32:01.033Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -42326,6 +42326,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||analytics.baliusuperapp.xyz^
 ||log-va-us-looki.capcutapi.com^
 ||analytics.hardlightgames.com^
 ||plankton-gtm.a.autoscout24.com^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-29T12:48:48.223Z
+! Last modified: 2024-11-29T18:31:54.596Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -30,6 +30,8 @@
 ||oo3z.icu^
 ||idamcso.top^
 ||vrulqil.com^
+||jdamcsa.top^
+||dnd2.icu^
 ||0dwm.icu^
 ||satfyxbt.icu^
 ||zodoth.com^
