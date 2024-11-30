@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-29T18:31:55.700Z
+! Last modified: 2024-11-30T01:51:49.733Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -42,6 +42,7 @@
 ||aaxwall.com^
 ||acsbapp.com^
 ||adcontroll.com^
+||aditude.cloud^
 ||admaxium.com^
 ||adnext.co^
 ||adrtx.net^
@@ -2751,6 +2752,7 @@
 ||plausible.tubemagic.com^
 ||player-telemetry.vimeo.com^
 ||plenty.vidio.com^
+||pluto.smallpdf.com^
 ||pm.dailykos.com^
 ||pm.geniusmonkey.com^
 ||prairiedog.hashnode.com^
