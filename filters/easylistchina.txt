@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-30T12:43:57.391Z
+! Last modified: 2024-11-30T18:30:23.462Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -28,6 +28,7 @@
 ||bmhtwefv.icu^
 ||olkoins.com^
 ||w59g.icu^
+||sdamcsb.top^
 ||igabcgnh.icu^
 ||saizih.com^
 ||1gtp.icu^
