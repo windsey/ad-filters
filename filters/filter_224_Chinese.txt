@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-11-30T01:51:50.934Z
+! Last modified: 2024-11-30T06:31:11.916Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -133,6 +133,7 @@
 ||saizih.com^
 ||1gtp.icu^
 ||96rj.icu^
+||kdamcsd.top^
 ||oo3z.icu^
 ||idamcso.top^
 ||vrulqil.com^
