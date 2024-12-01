@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-01T12:44:56.206Z
+! Last modified: 2024-12-01T18:30:47.258Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -33718,6 +33718,7 @@ rgmechanicsgames.com*VPN.exe
 ||cxad.cxense.com^
 ||datacluster.club^
 ||dtrk.slimcdn.com^
+||ebayadservices.com^
 ||ebayrtm.com^
 ||eclipse-adblocker.pro^
 ||engine.eroge.com^

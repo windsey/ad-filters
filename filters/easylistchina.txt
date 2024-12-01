@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-01T12:44:51.119Z
+! Last modified: 2024-12-01T18:30:42.187Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -32,6 +32,8 @@
 ||aoao12011iis.top^
 ||a2wx.icu^
 ||caaqot.com^
+||zio8.icu^
+||wdamcse.top^
 ||ruqaks.com^
 ||bmhtwefv.icu^
 ||olkoins.com^
