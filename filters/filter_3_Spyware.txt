@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-02T12:50:59.582Z
+! Last modified: 2024-12-02T18:33:45.597Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -39806,6 +39806,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||telemetry.tradingview.com^
 ||analytics.shorthand.com^
 ||gh.fanatical.com^
 ||heartbeat.crackle.com^
@@ -42011,7 +42012,6 @@
 ||telemetry.jivosite.com^
 ||telemetry.malwarebytes.com^
 ||telemetry.soundcloud.com^
-||telemetry.tradingview.com^
 ||temptation.ad.nl^
 ||teralog.techhub.co.kr^
 ||thj.astrakhan.ru^

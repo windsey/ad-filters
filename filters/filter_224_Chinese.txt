@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-02T12:50:55.616Z
+! Last modified: 2024-12-02T18:33:41.614Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -134,6 +134,8 @@
 ||dv0i.icu^
 ||4cx5.icu^
 ||criqai.com^
+||fy60.icu^
+||tdamcsi.top^
 ||jcwlsofn.icu^
 ||brircel.com^
 ||af6s.icu^
