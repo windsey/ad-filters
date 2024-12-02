@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-02T01:58:57.965Z
+! Last modified: 2024-12-02T06:34:57.066Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -870,7 +870,6 @@
 ||yllix.com^
 ||youmi.net^
 ||zedo.com^
-||ziffdavis.com^
 ||n152adserv.com^
 ||smilered.com^
 ||cloudads-a.akamaihd.net^
