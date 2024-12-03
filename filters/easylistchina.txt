@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-02T18:33:39.430Z
+! Last modified: 2024-12-03T01:56:57.750Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -24,6 +24,11 @@
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||vokzqgjp.icu^
+||sokars.com^
+||grerzieds.com^
+||c4uy.icu^
+||k5uj.icu^
 ||sconat.com^
 ||cidhmxxb.icu^
 ||ig69.vip^
