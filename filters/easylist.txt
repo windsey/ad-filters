@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-03T01:56:57.399Z
+! Last modified: 2024-12-03T06:35:18.224Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -19600,6 +19600,7 @@
 ||puzzlepursued.com^
 ||puzzoa.xyz^
 ||pvclouds.com^
+||pvdbkr.com^
 ||pvtqllwgu.com^
 ||pvxvazbehd.com^
 ||pwaarkac.com^

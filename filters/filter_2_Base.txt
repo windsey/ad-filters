@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-03T01:57:02.931Z
+! Last modified: 2024-12-03T06:35:23.633Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -25614,6 +25614,7 @@ rgmechanicsgames.com*VPN.exe
 ||puzzio.xyz^
 ||puzzlepursued.com^
 ||pvclouds.com^
+||pvdbkr.com^
 ||pvtqllwgu.com^
 ||pvxvazbehd.com^
 ||pwaarkac.com^

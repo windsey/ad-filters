@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-03T01:56:59.938Z
+! Last modified: 2024-12-03T06:35:20.722Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -132,6 +132,7 @@
 ||grerzieds.com^
 ||c4uy.icu^
 ||k5uj.icu^
+||udamcst.top^
 ||sconat.com^
 ||cidhmxxb.icu^
 ||ig69.vip^
