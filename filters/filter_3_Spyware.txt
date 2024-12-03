@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-03T12:49:32.259Z
+! Last modified: 2024-12-03T18:31:52.435Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -39806,6 +39806,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||femetrics.grammarly.io^
+||media-stat.mail.ru^
 ||telemetry.tradingview.com^
 ||analytics.shorthand.com^
 ||gh.fanatical.com^
@@ -40098,7 +40100,6 @@
 ||segment-api.goodrx.com^
 ||zion-telemetry-nonprod.api.cnn.io^
 ||log.suumo.jp^
-||femetrics.grammarly.io^
 ||realtimeanalytics.yext.com^
 ||stats.indianpornempire.com^
 ||lp.spac.me^

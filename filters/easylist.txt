@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-03T12:49:25.402Z
+! Last modified: 2024-12-03T18:31:45.876Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -5910,6 +5910,7 @@
 ||conative.network^
 ||concealedcredulous.com^
 ||concealmentbrainpower.com^
+||concealmentmimic.com^
 ||concedederaserskyline.com^
 ||conceitedfedapple.com^
 ||conceivedtowards.com^
@@ -27969,6 +27970,7 @@
 ||monetize-static.viralize.tv^
 ||mweb-hb.presage.io^
 ||neural.myth.dev^
+||newtabextension.com^
 ||ogads-pa.googleapis.com^
 ||omegadblocker.com^
 ||onlinepromogift.com^

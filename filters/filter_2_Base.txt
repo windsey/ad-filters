@@ -1,10 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-03T12:49:31.099Z
+! Last modified: 2024-12-03T18:31:51.362Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 
+||op3xdork.xyz^
 ||qrifhajtabcy.com^
 ||joogruphezefaul.net^
 ||legiblyosmols.top^
@@ -12108,6 +12109,7 @@ rgmechanicsgames.com*VPN.exe
 ||conative.network^
 ||concealedcredulous.com^
 ||concealmentbrainpower.com^
+||concealmentmimic.com^
 ||concedederaserskyline.com^
 ||conceitedfedapple.com^
 ||conceivedtowards.com^
@@ -33879,6 +33881,7 @@ rgmechanicsgames.com*VPN.exe
 ||monetize-static.viralize.tv^
 ||mweb-hb.presage.io^
 ||neural.myth.dev^
+||newtabextension.com^
 ||ogads-pa.googleapis.com^
 ||omegadblocker.com^
 ||onlinepromogift.com^
