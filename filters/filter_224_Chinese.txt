@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-03T06:35:20.722Z
+! Last modified: 2024-12-03T12:49:28.052Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -133,6 +133,8 @@
 ||c4uy.icu^
 ||k5uj.icu^
 ||udamcst.top^
+||thaqne.com^
+||q1bp.icu^
 ||sconat.com^
 ||cidhmxxb.icu^
 ||ig69.vip^
