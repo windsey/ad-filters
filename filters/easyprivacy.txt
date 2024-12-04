@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-03T18:31:47.204Z
+! Last modified: 2024-12-04T01:57:24.380Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -574,6 +574,7 @@
 ||analytics.edgekey.net^
 ||analytics.eggoffer.com^
 ||analytics.erepublic.com^
+||analytics.fatmedia.io^
 ||analytics.favcy.com^
 ||analytics.firespring.com^
 ||analytics.foresee.com^
