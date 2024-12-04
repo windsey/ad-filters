@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-04T12:50:10.570Z
+! Last modified: 2024-12-04T18:34:21.878Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -39806,6 +39806,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||tralut.chatpdf.com^
+||tracking.leadspark.io^
 ||femetrics.grammarly.io^
 ||media-stat.mail.ru^
 ||telemetry.tradingview.com^
@@ -42475,6 +42477,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||logs-ingress.svc.vinted.com^
 ||analytics.baliusuperapp.xyz^
 ||log-va-us-looki.capcutapi.com^
 ||analytics.hardlightgames.com^
