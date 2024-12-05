@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-05T12:50:11.511Z
+! Last modified: 2024-12-05T18:32:10.884Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -136,6 +136,9 @@
 ||mdamcsx.top^
 ||m6d.icu^
 ||4i1.icu^
+||q8q.icu^
+||inphais.com^
+||cjimtyf.top^
 ||vokzqgjp.icu^
 ||sokars.com^
 ||grerzieds.com^
