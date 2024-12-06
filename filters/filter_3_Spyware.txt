@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-06T06:34:17.954Z
+! Last modified: 2024-12-06T12:49:16.707Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -40735,7 +40735,6 @@
 ||stats.rustica.fr^
 ||analytics.e1.ru^
 ||ipcc.vnpt.com.vn^
-||stats.ucheba.ru^
 ||inspector-collector.m.naver.com^
 ||cdn.stat-track.com^
 ||t.zhipin.com^
