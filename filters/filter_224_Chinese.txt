@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-06T12:49:12.610Z
+! Last modified: 2024-12-06T18:33:17.176Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -138,6 +138,10 @@
 ||u6u.icu^
 ||ii3.icu^
 ||inzut.com^
+||irkrors.com^
+||e9h.icu^
+||t7t.icu^
+||ijimtyo.top^
 ||eatnontf.icu^
 ||khesuts.com^
 ||mdamcsx.top^
