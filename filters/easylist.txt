@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-07T01:55:07.588Z
+! Last modified: 2024-12-07T06:32:09.398Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -29167,6 +29167,7 @@
 ||ad.ymcdn.org^
 ||ads-api.stuff.co.nz^
 ||ads.audio.thisisdax.com^
+||ads.twdcgrid.com^
 ||adsbb.depositfiles.com^
 ||adsmg.fanfox.net^
 ||adw.heraldm.com^
