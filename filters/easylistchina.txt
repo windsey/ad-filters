@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-07T06:32:09.747Z
+! Last modified: 2024-12-07T12:44:39.879Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -30,6 +30,9 @@
 ||jjimtya.top^
 ||4sq.icu^
 ||shaorgs.cn^
+||krinkred.com^
+||zikeke7.com^
+||vh8.icu^
 ||khengrull.com^
 ||ugajiwft.icu^
 ||hjimtyu.top^
