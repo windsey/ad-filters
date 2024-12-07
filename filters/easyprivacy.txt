@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-07T12:44:40.840Z
+! Last modified: 2024-12-07T18:31:13.480Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2424,6 +2424,7 @@
 ||beacon.shutterfly.com^
 ||beacon.walmart.com^
 ||beacon.wikia-services.com^
+||beacons.digital.disneyadvertising.com^
 ||bfp.capitalone.com^
 ||bi.banggood.com^
 ||binocule21c.merriam-webster.com^
@@ -39141,6 +39142,7 @@
 ||temp.twicomi.com^
 ||track.buyma.com^
 ||track.prod.smash.pet^
+||tracker.curama.jp^
 ||tracking.ai.rakuten.co.jp^
 ||tracking.game8.jp^
 ||tracking.gnavi.co.jp^
