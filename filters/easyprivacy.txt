@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-08T06:32:26.806Z
+! Last modified: 2024-12-08T12:45:54.962Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -106,7 +106,6 @@
 ||cloudwp.io^
 ||clrt.ai^
 ||cnna.io^
-||cnstrc.com^
 ||cntxtfl.com^
 ||confiant-integrations.net^
 ||convead.io^
