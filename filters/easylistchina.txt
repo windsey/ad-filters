@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-09T06:35:11.497Z
+! Last modified: 2024-12-09T12:51:27.131Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -28,6 +28,7 @@
 ||thunnqyo.com^
 ||wjimtye.top^
 ||2wt.icu^
+||phainoirs.com^
 ||attelaoe.com^
 ||dsoxgdjv.icu^
 ||3ts.icu^
