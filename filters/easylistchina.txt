@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-08T12:45:54.011Z
+! Last modified: 2024-12-09T02:00:37.942Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -24,13 +24,17 @@
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||wyvpkmbj.icu^
+||thunnqyo.com^
 ||attelaoe.com^
 ||dsoxgdjv.icu^
 ||3ts.icu^
 ||sjimtyb.top^
 ||guqoinly.com^
 ||wcdfxj.xyz^
+||7hb.icu^
 ||nmhbmfxh.icu^
+||ejimtyw.top^
 ||bhukkeks.com^
 ||f7j.icu^
 ||jjimtya.top^
