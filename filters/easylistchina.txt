@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-10T01:58:50.997Z
+! Last modified: 2024-12-10T06:34:30.890Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -33,6 +33,8 @@
 ||3ni.icu^
 ||nilipuyn.com^
 ||peclevnl.icu^
+||wt6.icu^
+||tjimtyi.top^
 ||attelaoe.com^
 ||dsoxgdjv.icu^
 ||3ts.icu^
