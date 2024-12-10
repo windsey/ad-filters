@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-10T12:51:00.308Z
+! Last modified: 2024-12-10T18:34:23.085Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -39807,6 +39807,9 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||event.newsbreak.com^
+||pixel-static.spotify.com^
+||pixel-config.reddit.com^
 ||tracker.curama.jp^
 ||beacons.digital.disneyadvertising.com^
 ||telegraph.prd.api.discomax.com^
@@ -42483,6 +42486,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+-ulogl*.kwai-pro.com^
+||ulog*.kwaipros.com^
 ||snowplow-collector.
 ||logs-ingress.svc.vinted.com^
 ||analytics.baliusuperapp.xyz^
