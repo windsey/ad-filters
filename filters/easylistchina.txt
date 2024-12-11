@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-11T06:34:25.256Z
+! Last modified: 2024-12-11T12:50:19.254Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -29,6 +29,7 @@
 ||x4d.icu^
 ||ojimtyk.top^
 ||tteferty33.fun^
+||suzalsln.com^
 ||wyvpkmbj.icu^
 ||thunnqyo.com^
 ||wjimtye.top^
