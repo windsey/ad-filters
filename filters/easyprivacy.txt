@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-10T18:34:17.645Z
+! Last modified: 2024-12-11T01:57:02.587Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -84,7 +84,6 @@
 ||briskeagle.io^
 ||briskpelican.io^
 ||broadstreet.ai^
-||brsrvr.com^
 ||brwsrfrm.com^
 ||btloader.com^
 ||bx-cloud.com^
@@ -735,6 +734,7 @@
 ||cdn-channels-pixel.ex.co^
 ||cdn.ravm.tv^
 ||cdn.usefathom.com^
+||cdns.brsrvr.com^
 ||cf-pixelfront-analytics.widencdn.net^
 ||cf.overblog.com^
 ||cgicounter.oneandone.co.uk^
