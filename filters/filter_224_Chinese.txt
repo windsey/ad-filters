@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-12T12:50:46.898Z
+! Last modified: 2024-12-12T18:34:08.758Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -137,6 +137,8 @@
 ||bjimtyv.top^
 ||d0m.icu^
 ||xoceonsl.com^
+||jo4.icu^
+||mjimtyx.top^
 ||altolsqy.com^
 ||fkjdiefz.icu^
 ||x4d.icu^
