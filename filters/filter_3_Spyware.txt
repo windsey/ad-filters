@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-11T18:34:31.555Z
+! Last modified: 2024-12-12T01:56:53.319Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -39808,6 +39808,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||profile-api.amplitude.com^
 ||f793.inc.com^
 ||mytop.live.vkvideo.ru^
 ||f703.twincities.com^
