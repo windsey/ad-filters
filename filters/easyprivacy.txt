@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-12T01:56:48.006Z
+! Last modified: 2024-12-12T06:34:57.824Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -911,7 +911,6 @@
 ||events.realgravity.com^
 ||events.shareably.net^
 ||events.splash-screen.net^
-||events.split.io^
 ||events.storifyme.com^
 ||events.tryamped.com^
 ||events.tubecup.org^
