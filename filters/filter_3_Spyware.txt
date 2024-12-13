@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-13T12:49:17.854Z
+! Last modified: 2024-12-13T18:33:12.540Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -39809,6 +39809,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||afl.rozetka.com.ua^
 ||c783.fastcompany.com^
 ||event.northghost.com^
 ||profile-api.amplitude.com^
@@ -42559,6 +42560,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||stats.samsungpass.com^
 ||log.pdfviewerscannerstore.live^
 ||mon-boot.capcutapi.com^
 ||mon-va-us-looki.capcutapi.com^
