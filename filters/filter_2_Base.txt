@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-13T01:58:16.985Z
+! Last modified: 2024-12-13T06:34:13.370Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -34155,7 +34155,6 @@ rgmechanicsgames.com*VPN.exe
 ||rubylife.go2cloud.org^
 ||sbhc.portalhc.com^
 ||search-carousel-widget.snc-prod.aws.cinch.co.uk^
-||services.zam.com^
 ||smartads.statsperform.com^
 ||squirrels.getsquirrel.co^
 ||srv.dynamicyield.com^
