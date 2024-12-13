@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-13T06:34:14.471Z
+! Last modified: 2024-12-13T12:49:17.854Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -42593,7 +42593,6 @@ inapps.appsflyersdk.com^
 ||ali-bj-pcdn-*.biliapi.net^
 ||tatrack.thinkyeah.com^
 -rtb.gravite.net^
-||sdk-04.moengage.com^
 ||mon*-misc-lf.fqnovel.com^
 ||vcs.zijieapi.com^
 ||monsetting.toutiao.com^
@@ -43107,7 +43106,7 @@ inapps.appsflyersdk.com^
 ||geoplugin.net^
 ||d.applvn.com^
 ||rt.applvn.com^
-||apiv2.moengage.com^
+||moengage.com^
 ||rt.applovin.com^
 ||track.uc.cn^
 ||uc.ucweb.com^
