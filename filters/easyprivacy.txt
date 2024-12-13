@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-12T18:34:07.551Z
+! Last modified: 2024-12-13T01:58:12.796Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -39242,7 +39242,6 @@
 ||cs43.pikabu.ru^
 ||cvt1.sibnet.ru^
 ||data.glamour.ru^
-||goya.rutube.ru^
 ||link.subscribe.ru^
 ||log.dzen.ru^
 ||log.ren.tv^

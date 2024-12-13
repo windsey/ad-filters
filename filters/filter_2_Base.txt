@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-12T18:34:11.739Z
+! Last modified: 2024-12-13T01:58:16.985Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -26830,6 +26830,7 @@ rgmechanicsgames.com*VPN.exe
 ||rhagoseasta.com^
 ||rhendam.com^
 ||rheneapfg.com^
+||rhiaxplrolm.com^
 ||rhinioncappers.com^
 ||rhinocerosobtrusive.com^
 ||rhombicsomeday.com^
@@ -32580,6 +32581,7 @@ rgmechanicsgames.com*VPN.exe
 ||whirlclick.com^
 ||whirltoes.com^
 ||whirlwindofnews.com^
+||whirredbajau.com^
 ||whishannuent.com^
 ||whiskersbonnetcamping.com^
 ||whiskerssituationdisturb.com^
