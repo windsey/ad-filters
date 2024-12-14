@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-14T12:44:18.211Z
+! Last modified: 2024-12-14T18:30:58.640Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -30,6 +30,8 @@
 ||qm2.icu^
 ||itimiyo.top^
 ||vegaingi.com^
+||3lo.icu^
+||jtimiya.top^
 ||owsrgljb.icu^
 ||ziqniduy.com^
 ||dddstew6cw8.fun^
