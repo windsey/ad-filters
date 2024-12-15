@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-15T06:32:29.418Z
+! Last modified: 2024-12-15T12:45:26.188Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -10758,6 +10758,7 @@ rgmechanicsgames.com*VPN.exe
 ||bryond.com^
 ||bsantycbjnf.com^
 ||bsbrcdna.com^
+||bservr.com^
 ||bsgbd77l.de^
 ||bshrdr.com^
 ||bsilzzc.com^
@@ -17499,7 +17500,6 @@ rgmechanicsgames.com*VPN.exe
 ||heavespectaclescoefficient.com^
 ||heavyuniversecandy.com^
 ||hebenonwidegab.top^
-||hebiichigo.com^
 ||hectorfeminine.com^
 ||hectorobedient.com^
 ||hedgehoghugsyou.com^
@@ -33267,7 +33267,6 @@ rgmechanicsgames.com*VPN.exe
 ||xuiqxlhqyo.com^
 ||xukpqemfs.com^
 ||xukpresesmr.info^
-||xupalace.org^
 ||xuqza.com^
 ||xvbwvle.com^
 ||xvfyubhqjp.xyz^
