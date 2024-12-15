@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-15T12:45:21.980Z
+! Last modified: 2024-12-15T18:30:56.304Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2235,6 +2235,7 @@
 ||ga-tracker-dot-detmir-bonus.appspot.com^
 ||ip.up66.ru^
 ||kraken.rambler.ru^
+||logs.adplay.ru^
 ||logs.viavideo.digital^
 ||metrics.aviasales.ru^
 ||piper.amocrm.ru^
@@ -2245,6 +2246,7 @@
 ||sp.aviasales.ru^
 ||st.hbrd.io^
 ||stat.eagleplatform.com^
+||stat.fly.codes^
 ||stat.rum.cdnvideo.ru^
 ||stat.sputnik.ru^
 ||stat.tvigle.ru^
