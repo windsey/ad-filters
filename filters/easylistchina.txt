@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-14T18:30:58.640Z
+! Last modified: 2024-12-15T02:04:14.308Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -32,6 +32,9 @@
 ||vegaingi.com^
 ||3lo.icu^
 ||jtimiya.top^
+||aigfednd.icu^
+||chonaesor.com^
+||warped-bus.com^
 ||owsrgljb.icu^
 ||ziqniduy.com^
 ||dddstew6cw8.fun^
