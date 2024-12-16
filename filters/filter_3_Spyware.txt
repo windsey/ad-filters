@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-16T12:51:12.944Z
+! Last modified: 2024-12-16T18:33:50.628Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -39811,6 +39811,11 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||w890.denvergazette.com^
+||co932.coloradopolitics.com^
+||d077.gazette.com^
+||d485.capitalgazette.com^
+||d250.baltimoresun.com^
 ||afl.rozetka.com.ua^
 ||c783.fastcompany.com^
 ||event.northghost.com^
@@ -42562,6 +42567,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||log.documentmanagerpdfdocxlssale.live^
 ||stats.samsungpass.com^
 ||log.pdfviewerscannerstore.live^
 ||mon-boot.capcutapi.com^

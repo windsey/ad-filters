@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-16T12:51:06.658Z
+! Last modified: 2024-12-16T18:33:44.257Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -29,6 +29,7 @@
 ||craegvin.com^
 ||chussuth.com^
 ||nm2.icu^
+||mvwitz.xyz^
 ||wlouqsz.xyz^
 ||hcznaubp.icu^
 ||truxedku.com^
