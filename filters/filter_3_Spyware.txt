@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-17T06:34:19.698Z
+! Last modified: 2024-12-17T12:50:35.681Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -39811,6 +39811,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||telemetry.insights.video.a2z.com^
 ||w890.denvergazette.com^
 ||co932.coloradopolitics.com^
 ||d077.gazette.com^

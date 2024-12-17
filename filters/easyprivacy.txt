@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-17T06:34:14.392Z
+! Last modified: 2024-12-17T12:50:30.352Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2810,6 +2810,7 @@
 ||sapi.tremendous.com^
 ||sapphire-api.target.com^
 ||search.anonymous.ads.brave.com^
+||service.techzine.eu^
 ||servo-report.dvdfab.
 ||shopmetric.rediff.com^
 ||sid.nordstrom.com^

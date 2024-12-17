@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-17T06:34:15.636Z
+! Last modified: 2024-12-17T12:50:31.592Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -141,6 +141,7 @@
 ||juutckrt.icu^
 ||qtimiyy.top^
 ||4jc.icu^
+||screspoy.com^
 ||qonbibff.icu^
 ||n7a.icu^
 ||craegvin.com^
