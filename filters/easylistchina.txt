@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-18T06:33:14.454Z
+! Last modified: 2024-12-18T12:48:05.621Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -38,6 +38,7 @@
 ||pofbpx.icu^
 ||sckyf.com^
 ||ppio12181ios.top^
+||stongors.com^
 ||qonbibff.icu^
 ||n7a.icu^
 ||craegvin.com^
