@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-18T01:52:53.706Z
+! Last modified: 2024-12-18T06:33:14.076Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -7711,6 +7711,7 @@
 ||dovictinian.com^
 ||down1oads.com^
 ||download-adblock-zen.com^
+||download-privacybear.com^
 ||download-ready.net^
 ||download4.cfd^
 ||download4allfree.com^
