@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-19T12:48:27.470Z
+! Last modified: 2024-12-19T18:31:08.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -31,6 +31,8 @@
 ||ppio12191ios.top^
 ||gherkax.com^
 ||ibqemk.icu^
+||h0d.icu^
+||btimiyv.top^
 ||ihearsoh.com^
 ||juutckrt.icu^
 ||qtimiyy.top^
@@ -3528,6 +3530,7 @@
 ||zxpvalr.xyz^
 ||zxqiwe.cn^
 ||zyfnbl.xyz^
+||hitchprivilege.com^
 ||ymmiyun.com^
 ||commonwealthproficient.com^
 ||666aa777bb.com^

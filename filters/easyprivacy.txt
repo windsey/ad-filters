@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-19T12:48:28.427Z
+! Last modified: 2024-12-19T18:31:09.106Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -50,6 +50,7 @@
 ||adspsp.com^
 ||adstk.io^
 ||adultium.com^
+||afrdtech.com^
 ||aggle.net^
 ||agkn.com^
 ||agma-analytics.de^
