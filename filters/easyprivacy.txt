@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-19T06:33:25.717Z
+! Last modified: 2024-12-19T12:48:28.427Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -38861,6 +38861,7 @@
 ||insights.v3.decathlon.net^
 ||kwgs.letudiant.fr^
 ||logstash-3.radio-canada.ca^
+||mesure-pro.engie.fr^
 ||metrics-broker.prod.p.tf1.fr^
 ||ocular.dealabs.com^
 ||p.pagesjaunes.fr^
