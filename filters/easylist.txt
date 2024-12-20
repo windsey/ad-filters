@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-19T18:31:07.788Z
+! Last modified: 2024-12-20T01:48:20.876Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -9126,6 +9126,7 @@
 ||fastnativead.com^
 ||fatalityplatinumthing.com^
 ||fatalityreel.com^
+||fatalshould.com^
 ||fatchilli.media^
 ||fatenoticemayhem.com^
 ||fatheemt.com^
