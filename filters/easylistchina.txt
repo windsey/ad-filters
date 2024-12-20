@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-20T06:31:59.783Z
+! Last modified: 2024-12-20T12:44:07.458Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -32,6 +32,7 @@
 ||1xb.icu^
 ||mtimiyx.top^
 ||mtv01.com^
+||zalnouiy.com^
 ||threkuth.com^
 ||nrbwzh.icu^
 ||32n.icu^

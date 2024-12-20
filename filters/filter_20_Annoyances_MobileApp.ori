@@ -125,6 +125,7 @@ turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepeti.com,rabota.by,temp-
 !
 !
 !
+m.olx.ua###hydrate-root div[class^="css-"]:has(> button[data-testid="app-install-banner-close"])
 lavka.yandex.ru###root > button[style*="avatars.mds.yandex.net/get-bunker/"]
 lavka.yandex.ru#%#//scriptlet('trusted-set-cookie', 'lavka__install_app_modal_shown_at', '2734447881099')
 ||animatebookstore.com/js/smartbanner/smart-app-banner.js
@@ -136,7 +137,7 @@ studysmarter.*##.va-intent-banner
 studysmarter.*##.va-flashcards-list:has(> div[class] > div[class] > a[href*="app.studysmarter.de/signup"])
 studysmarter.*##.bottom-blue-gradient
 studysmarter.*##img[alt*="Download"]
-studysmarter.*##data-ai-flashcard
+studysmarter.*##div[data-ai-flashcard]
 studysmarter.*##.va-intent-premium
 thesportstak.com##aside > div.flex:has(> a[href^="https://onelink.to/"])
 thesportstak.com##.block > div.my-4:has(> div.flex > img[title="Sportstak"])
