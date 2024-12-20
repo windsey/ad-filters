@@ -1,10 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-20T12:44:09.637Z
+! Last modified: 2024-12-20T18:30:22.285Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
 
+||qimaf.com^
+||renrenkanpian.com^
 ||b10.justacdn.net^
 ||wkzw.me^
 ||dhkqqe.top^
@@ -145,6 +147,9 @@
 ||1xb.icu^
 ||mtimiyx.top^
 ||mtv01.com^
+||zalnouiy.com^
+||gi0.icu^
+||cwilmif.top^
 ||threkuth.com^
 ||nrbwzh.icu^
 ||32n.icu^
