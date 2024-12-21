@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-20T18:30:26.271Z
+! Last modified: 2024-12-21T01:45:55.002Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -42414,7 +42414,6 @@
 ||tracking.thehut.net^
 ||tracking.tidalhifi.com^
 ||tracking.times247.com^
-||tracking.tomshardware.co.uk^
 ||tracking.ukwm.co.uk^
 ||tracking.unrealengine.com^
 ||tracking.yourfilehost.com^
