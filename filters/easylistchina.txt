@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-21T01:45:48.843Z
+! Last modified: 2024-12-21T06:29:17.380Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -28,6 +28,9 @@
 ||orodsmnu.com^
 ||muiuim.icu^
 ||popsvg.xyz^
+||3vp.icu^
+||vvfgjzwa.icu^
+||hwilmiu.top^
 ||grmzwc.icu^
 ||ppio12200ios.top^
 ||ondraits.com^
