@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-21T06:29:17.380Z
+! Last modified: 2024-12-21T12:40:20.844Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -31,6 +31,7 @@
 ||3vp.icu^
 ||vvfgjzwa.icu^
 ||hwilmiu.top^
+||ruancq.xyz^
 ||grmzwc.icu^
 ||ppio12200ios.top^
 ||ondraits.com^
