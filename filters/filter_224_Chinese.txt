@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-22T01:54:44.900Z
+! Last modified: 2024-12-22T06:29:39.621Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -142,6 +142,7 @@
 ||pnpbjt.icu^
 ||tronkuks.com^
 ||ir4.icu^
+||jwilmia.top^
 ||rktjxj.icu^
 ||orodsmnu.com^
 ||muiuim.icu^
