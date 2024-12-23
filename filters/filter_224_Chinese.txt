@@ -1,8 +1,9 @@
 !
+! Checksum: JzuuyJfo8kKrB8CnRlx1LQ
 ! Title: Blocklist
-! Last modified: 2024-12-23T12:45:22.054Z
+! Last modified: 2024-12-23T18:30:21.473Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.31
 !
 
 ||kqzyfj.com^
@@ -145,6 +146,8 @@
 ||swilmib.top^
 ||nx8.icu^
 ||irgidshiv.com^
+||ix4.icu^
+||ewilmiw.top^
 ||pnpbjt.icu^
 ||tronkuks.com^
 ||ir4.icu^

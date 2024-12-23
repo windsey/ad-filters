@@ -1,8 +1,9 @@
 !
+! Checksum: mfvUPObfE433ZFR1wEqi1g
 ! Title: Blocklist
-! Last modified: 2024-12-23T12:45:19.863Z
+! Last modified: 2024-12-23T18:30:19.190Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.31
 !
 -1316632262.cos.
 -1316899192.cos.
@@ -29,6 +30,8 @@
 ||swilmib.top^
 ||nx8.icu^
 ||irgidshiv.com^
+||ix4.icu^
+||ewilmiw.top^
 ||pnpbjt.icu^
 ||tronkuks.com^
 ||ir4.icu^

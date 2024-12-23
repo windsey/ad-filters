@@ -1,8 +1,9 @@
 !
+! Checksum: qkxHzcPmpt9gfb0Ct0+fcg
 ! Title: Blocklist
-! Last modified: 2024-12-23T12:45:26.153Z
+! Last modified: 2024-12-23T18:30:25.556Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.31
 !
 
 ||mon.snssdk.com^
@@ -11,6 +12,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||stats2.indianpornempire.com^
 ||bt.dns-finder.com^
 ||btloader.com^
 ||glamipixel.com^

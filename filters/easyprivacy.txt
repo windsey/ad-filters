@@ -1,8 +1,9 @@
 !
+! Checksum: 2KBKzj1C5tUjOSbtU6hVfw
 ! Title: Blocklist
-! Last modified: 2024-12-23T12:45:20.845Z
+! Last modified: 2024-12-23T18:30:20.177Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.29
+! Compiled by @adguard/hostlist-compiler v1.0.31
 !
 -click-tracker.
 -didomi.js
@@ -1337,6 +1338,7 @@
 ||stats.wp.com^
 ||stats.wpmucdn.com^
 ||stats.zotabox.com^
+||stats2.indianpornempire.com^
 ||statsapi.screen9.com^
 ||statscollector-1.agora.io^
 ||statscollector.sd-rtn.com^
