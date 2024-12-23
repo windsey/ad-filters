@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-23T01:49:38.111Z
+! Last modified: 2024-12-23T06:32:54.174Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -141,6 +141,8 @@
 ||cnzz.trafficmanager.net^
 ||rusnuiyu.com^
 ||ndlwtl.icu^
+||swilmib.top^
+||nx8.icu^
 ||pnpbjt.icu^
 ||tronkuks.com^
 ||ir4.icu^
