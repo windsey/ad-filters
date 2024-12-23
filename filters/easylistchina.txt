@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-23T06:32:51.998Z
+! Last modified: 2024-12-23T12:45:19.863Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -28,6 +28,7 @@
 ||ndlwtl.icu^
 ||swilmib.top^
 ||nx8.icu^
+||irgidshiv.com^
 ||pnpbjt.icu^
 ||tronkuks.com^
 ||ir4.icu^

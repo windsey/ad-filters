@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2024-12-23T06:32:57.105Z
+! Last modified: 2024-12-23T12:45:25.023Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -33448,6 +33448,7 @@ rgmechanicsgames.com*VPN.exe
 ||zoawufoy.net^
 ||zodiacdinner.com^
 ||zodiacranbehalf.com^
+||zoeacaring.com^
 ||zoeaegyral.com^
 ||zoeaethenar.com^
 ||zofitsou.com^
