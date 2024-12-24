@@ -1,7 +1,7 @@
 !
-! Checksum: lH9Ce3NQdo0+WT2P8pe/9g
+! Checksum: sc2KWCtX/lkYTtnkwMM/jg
 ! Title: Blocklist
-! Last modified: 2024-12-24T12:44:07.214Z
+! Last modified: 2024-12-24T18:30:10.325Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -149,6 +149,8 @@
 ||wwilmie.top^
 ||k9u.icu^
 ||shuucerz.com^
+||qwilmiy.top^
+||m51.icu^
 ||rusnuiyu.com^
 ||ndlwtl.icu^
 ||swilmib.top^

@@ -1,7 +1,7 @@
 !
-! Checksum: oFJpSsM6TxnBzNivxs7LvQ
+! Checksum: ABQz76x8UPu/E7nWOEXyCg
 ! Title: Blocklist
-! Last modified: 2024-12-24T12:44:11.280Z
+! Last modified: 2024-12-24T18:30:14.477Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -12,6 +12,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||cdn-gw-dv.vip^
 ||cloudad.icu^
 ||stats2.indianpornempire.com^
 ||bt.dns-finder.com^
@@ -42790,6 +42791,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||sf16-static.i18n-pglstatp.com^
+||log.pullcenter.live^
 ||log.documentmanagerpdfdocxlssale.live^
 ||stats.samsungpass.com^
 ||log.pdfviewerscannerstore.live^

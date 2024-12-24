@@ -1,11 +1,12 @@
 !
-! Checksum: vfHOhgAsvAcsUFrwXVFWMg
+! Checksum: F+2fRyZPFvV4ZRZ09qKmQg
 ! Title: Blocklist
-! Last modified: 2024-12-24T12:44:10.152Z
+! Last modified: 2024-12-24T18:30:13.338Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
 
+||cf.adxcel.com^
 ||cda7k-ddok.com^
 ||sat.cellordion3.net^
 ||sat.dipamaid.net^
