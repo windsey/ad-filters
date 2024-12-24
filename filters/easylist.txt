@@ -1,7 +1,7 @@
 !
-! Checksum: sT9jCVJg+jU592qgn41Hxg
+! Checksum: t1mZ0W77a2tAwH7EFQQeig
 ! Title: Blocklist
-! Last modified: 2024-12-24T06:31:34.950Z
+! Last modified: 2024-12-24T12:44:04.677Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -24813,7 +24813,6 @@
 ||tvprocessing.com^
 ||twaitevirgal.com^
 ||twazzyoidwlfe.com^
-||twdcgrid.com^
 ||tweakarrangement.com^
 ||twelfthcomprehendgrape.com^
 ||twelfthdistasteful.com^
@@ -29135,6 +29134,7 @@
 ||ad.ymcdn.org^
 ||ads-api.stuff.co.nz^
 ||ads.audio.thisisdax.com^
+||ads.twdcgrid.com^
 ||adsbb.depositfiles.com^
 ||adsmg.fanfox.net^
 ||adw.heraldm.com^
