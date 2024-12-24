@@ -1,7 +1,7 @@
 !
-! Checksum: A00JJiU2DoXl1X2gHKpAqw
+! Checksum: PSg1BwwDHx0IcqITXjJz3A
 ! Title: Blocklist
-! Last modified: 2024-12-24T01:47:26.082Z
+! Last modified: 2024-12-24T06:31:41.477Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -40034,6 +40034,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||altema-log.com^
 ||telemetry.insights.video.a2z.com^
 ||w890.denvergazette.com^
 ||co932.coloradopolitics.com^
@@ -41435,7 +41436,6 @@
 ||data-collector.wefi.com^
 ||data.mob.com^
 ||datacollect*.abtasty.com^
-||dbfukofby5ycr.cloudfront.net^
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dcs.maxthon.com^
 ||dct.mango-office.ru^

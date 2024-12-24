@@ -1,7 +1,7 @@
 !
-! Checksum: bIAIkDoTh6hRao9Y3LolOg
+! Checksum: sT9jCVJg+jU592qgn41Hxg
 ! Title: Blocklist
-! Last modified: 2024-12-24T01:47:19.538Z
+! Last modified: 2024-12-24T06:31:34.950Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -5634,6 +5634,7 @@
 ||clkrev.com^
 ||clksite.com^
 ||clkslvmiwadfsx.xyz^
+||clktds.org^
 ||clmbtech.com^
 ||clnk.me^
 ||cloakedpsyche.click^
@@ -7726,6 +7727,7 @@
 ||drillcompensate.com^
 ||drinksbookcaseconsensus.com^
 ||dripe.site^
+||drivago.top^
 ||drivercontinentcleave.com^
 ||drivewayilluminatedconstitute.com^
 ||drivewayperrydrought.com^

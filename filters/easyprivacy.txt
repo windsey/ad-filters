@@ -1,7 +1,7 @@
 !
-! Checksum: Zj9yY4KWLh/fhocg4JZYtg
+! Checksum: ZtPsT4DjLUy75F6c/2f+LQ
 ! Title: Blocklist
-! Last modified: 2024-12-24T01:47:20.864Z
+! Last modified: 2024-12-24T06:31:36.257Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -2808,6 +2808,7 @@
 ||rvo-cohesion.healthline.com^
 ||s.gofile.io^
 ||s.infogram.com^
+||s.pie.org^
 ||s.wayfair.com^
 ||sa.uswitch.com^
 ||saa.insideedition.com^
@@ -39101,6 +39102,7 @@
 ||tracker.stileo.it^
 ||tracking.gruppo.mps.it^
 ||ad-platform.jmty.jp^
+||altema-log.com^
 ||ana.3751chat.com^
 ||ana.chat.shalove.net^
 ||ana.luvul.net^
