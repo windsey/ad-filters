@@ -1,7 +1,7 @@
 !
-! Checksum: uEOzwtagjJDapNkFZnKRvQ
+! Checksum: yZm620VppTprwNJLhC8pXA
 ! Title: Blocklist
-! Last modified: 2024-12-25T01:46:05.534Z
+! Last modified: 2024-12-25T06:31:52.482Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -146,6 +146,8 @@
 ||cnzz.trafficmanager.net^
 ||vriesziy.com^
 ||rwdjrn.icu^
+||twilmii.top^
+||r4u.icu^
 ||beenedsl.com^
 ||tghrfv.icu^
 ||wwilmie.top^
