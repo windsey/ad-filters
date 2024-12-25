@@ -1,7 +1,7 @@
 !
-! Checksum: xn21uqQyAfDoenwpewMt2Q
+! Checksum: 4ybCblzv2kbn46JyH07XBQ
 ! Title: Blocklist
-! Last modified: 2024-12-24T18:30:09.108Z
+! Last modified: 2024-12-25T01:46:04.333Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -1342,6 +1342,7 @@
 ||statsapi.screen9.com^
 ||statscollector-1.agora.io^
 ||statscollector.sd-rtn.com^
+||statsig.anthropic.com^
 ||statsjs.klevu.com^
 ||statt-collect.herokuapp.com^
 ||stg-data-collector.playbuzz.com^
