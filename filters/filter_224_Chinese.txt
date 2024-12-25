@@ -1,7 +1,7 @@
 !
-! Checksum: yZm620VppTprwNJLhC8pXA
+! Checksum: PS+2RxgxG+CQuh8ItjgCgA
 ! Title: Blocklist
-! Last modified: 2024-12-25T06:31:52.482Z
+! Last modified: 2024-12-25T12:42:57.576Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -148,6 +148,8 @@
 ||rwdjrn.icu^
 ||twilmii.top^
 ||r4u.icu^
+||bpxxgkoj.icu^
+||gmso12251oka.top^
 ||beenedsl.com^
 ||tghrfv.icu^
 ||wwilmie.top^

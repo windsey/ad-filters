@@ -1,7 +1,7 @@
 !
-! Checksum: R0eO2ygnBe5nRicIvylivQ
+! Checksum: ZBa4dW0ClzXZPHqfqFpB1w
 ! Title: Blocklist
-! Last modified: 2024-12-25T06:31:56.649Z
+! Last modified: 2024-12-25T12:43:01.705Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -40035,6 +40035,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||s.pie.org^
+||t.pie.org^
 ||altema-log.com^
 ||telemetry.insights.video.a2z.com^
 ||w890.denvergazette.com^
