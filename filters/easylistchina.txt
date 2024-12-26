@@ -1,7 +1,7 @@
 !
-! Checksum: z3x18so0eoIOXxYVye/PIw
+! Checksum: qosBSBHvFWsm4G8qr/eoRA
 ! Title: Blocklist
-! Last modified: 2024-12-26T12:44:16.434Z
+! Last modified: 2024-12-26T18:30:07.937Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -33,6 +33,8 @@
 ||zaeqrath.com^
 ||qovunx.com^
 ||lurefq.com^
+||5ik.icu^
+||lwilmil.top^
 ||vriesziy.com^
 ||rwdjrn.icu^
 ||twilmii.top^
