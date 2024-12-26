@@ -1,7 +1,7 @@
 !
-! Checksum: 2o9bXlH6MrACUqRZNbOXGA
+! Checksum: VymqZ8g7zHhQV6jX0skWmQ
 ! Title: Blocklist
-! Last modified: 2024-12-26T06:32:06.280Z
+! Last modified: 2024-12-26T12:44:18.597Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -147,6 +147,11 @@
 ||pzzedx.icu^
 ||owilmik.top^
 ||jy7.icu^
+||gmso12261oka.top^
+||dhnnbfok.icu^
+||zaeqrath.com^
+||qovunx.com^
+||lurefq.com^
 ||vriesziy.com^
 ||rwdjrn.icu^
 ||twilmii.top^
@@ -400,7 +405,6 @@
 ||sirrors.com^
 ||uldaens.com^
 ||qidzwhfp.icu^
-||aizhantj.com^
 ||g41i.icu^
 ||tweizai.top^
 ||wcwkcus.top^
