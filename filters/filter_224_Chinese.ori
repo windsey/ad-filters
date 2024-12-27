@@ -1330,6 +1330,7 @@ $script,third-party,denyallow=fastlycdn.com|doodcdn.co|intensedebate.com|vixclou
 !
 ! NOTE: Specific rules
 !
+akkxs.net#%#//scriptlet('abort-current-inline-script', 'eval', '_0x')
 ||cncover.godamanga.online/ad/
 [$domain=/slkpeqme\d\.shop/]##.small-icon-container > a[target="_blank"]
 ||m.xsbiquge.la/js/detail.js
@@ -5210,6 +5211,7 @@ newduba.cn###jq_youxi
 ||bwilmiv.top^
 ||gmso12271oka.top^
 ||screddoit.com^
+||n8u.icu^
 ||pzzedx.icu^
 ||owilmik.top^
 ||jy7.icu^
@@ -13569,6 +13571,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||element-plus.org/images/sponsors/
 ||httpcn.com^*950-120
 85po.com##.asside-link
+ip138.com###banana
 appinn.com###sidebar > .widget_block > a
 jnhulz5yys.shop,wuwuplus.shop##.small-icon-container
 52asus.com###AsusMall-contain

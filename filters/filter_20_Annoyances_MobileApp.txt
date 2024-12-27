@@ -1,8 +1,8 @@
-! Checksum: yI+ILXLGQghnf+ivA4EzAg
+! Checksum: V3lRpjwaiGbdDTs2qD84gA
 ! Title: Blocklist
-! Last modified: 2024-12-27T12:43:11.399Z
+! Last modified: 2024-12-27T18:29:56.828Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.32
+! Compiled by @adguard/hostlist-compiler v1.0.33
 !
 ||ad.chatpad.jp^
 ||https-filtering-check.adtidy.org^

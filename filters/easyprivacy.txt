@@ -1,8 +1,8 @@
-! Checksum: seFtodvKs87DpO7z48UCPQ
+! Checksum: np3vABxVXX/vORXRB+OQnA
 ! Title: Blocklist
-! Last modified: 2024-12-27T12:43:10.505Z
+! Last modified: 2024-12-27T18:29:55.971Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.32
+! Compiled by @adguard/hostlist-compiler v1.0.33
 !
 -click-tracker.
 -didomi.js
