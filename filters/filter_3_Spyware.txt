@@ -1,9 +1,8 @@
-!
-! Checksum: rzCj3VUNajolAqd54VrHkA
+! Checksum: H2bBRep+e1XPxTso97ucEQ
 ! Title: Blocklist
-! Last modified: 2024-12-27T06:31:25.565Z
+! Last modified: 2024-12-27T12:43:16.065Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.31
+! Compiled by @adguard/hostlist-compiler v1.0.32
 !
 
 ||mon.snssdk.com^
@@ -41915,7 +41914,6 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
-||syndication.twitter.com^
 ||gtm.temu.com^
 .prod.pr.analytics.console.aws.a2z.com
 ||log.shortbread.analytics.console.aws.a2z.com^

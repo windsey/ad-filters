@@ -1,9 +1,8 @@
-!
-! Checksum: tBpEwIuqHfuA2CW1Xm9zAg
+! Checksum: hbUlwMySWiZjApxe+8ocMA
 ! Title: Blocklist
-! Last modified: 2024-12-27T06:31:19.332Z
+! Last modified: 2024-12-27T12:43:09.505Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.31
+! Compiled by @adguard/hostlist-compiler v1.0.32
 !
 -1316632262.cos.
 -1316899192.cos.
@@ -29,6 +28,10 @@
 ||sachaits.com^
 ||fzdwtage.icu^
 ||gw8.icu^
+||bwilmiv.top^
+||gmso12271oka.top^
+||screddoit.com^
+||n8u.icu^
 ||pzzedx.icu^
 ||owilmik.top^
 ||jy7.icu^

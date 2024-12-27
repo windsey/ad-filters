@@ -1,9 +1,8 @@
-!
-! Checksum: pqDZiC/rrSjfEj9Y8EqfHw
+! Checksum: seFtodvKs87DpO7z48UCPQ
 ! Title: Blocklist
-! Last modified: 2024-12-27T06:31:20.291Z
+! Last modified: 2024-12-27T12:43:10.505Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.31
+! Compiled by @adguard/hostlist-compiler v1.0.32
 !
 -click-tracker.
 -didomi.js
@@ -3028,6 +3027,7 @@
 ||idstatus.sky.com^
 ||img2021.navyfederal.org^
 ||imgs.signifyd.com^
+||log-185a61e7.bendigobank.com.au^
 ||qfp.intuit.com^
 ||rba-screen.healthsafe-id.com^
 ||rsx.afterpay.com^
@@ -3037,6 +3037,7 @@
 ||tmx.td.com^
 ||u47.pnc.com^
 ||w-profiling.simplii.com^
+||wup-185a61e7.bendigobank.com.au^
 ||bup.bankofamerica.com^
 ||cdn1.skrill.com^
 ||d276.ourmidland.com^
