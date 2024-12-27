@@ -1,7 +1,7 @@
 !
-! Checksum: zD1dmo56AN07eJbUsTTPew
+! Checksum: scxX+AW6O8gp1sWyfqWSAA
 ! Title: Blocklist
-! Last modified: 2024-12-26T18:30:14.252Z
+! Last modified: 2024-12-27T01:47:19.409Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -12,6 +12,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||tlmtr.org^
 ||sentinelbi.com^
 ||ascendeummedia.com^
 ||agma-analytics.de^
