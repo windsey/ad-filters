@@ -1,7 +1,7 @@
 !
-! Checksum: kJXeZW0lkUZQPK08qgAthQ
+! Checksum: TSeuEsPj6GEgL+41ZMtKxg
 ! Title: Blocklist
-! Last modified: 2024-12-27T01:47:15.334Z
+! Last modified: 2024-12-27T06:31:21.513Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.31
 !
@@ -147,6 +147,7 @@
 ||ncvwnp.icu^
 ||sachaits.com^
 ||fzdwtage.icu^
+||gw8.icu^
 ||pzzedx.icu^
 ||owilmik.top^
 ||jy7.icu^
