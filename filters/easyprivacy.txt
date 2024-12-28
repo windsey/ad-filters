@@ -1,6 +1,6 @@
-! Checksum: yhK1Whu19Cxjkbg9iIQUrQ
+! Checksum: FPIJAP5xtr92fznZyqUXMA
 ! Title: Blocklist
-! Last modified: 2024-12-28T12:40:53.304Z
+! Last modified: 2024-12-28T18:28:41.544Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -1296,6 +1296,7 @@
 ||stats.bitgravity.com^
 ||stats.bluebillywig.com^
 ||stats.bradmax.com^
+||stats.bunkr.ru^
 ||stats.callnowbutton.com^
 ||stats.cmcigroup.com^
 ||stats.curds.io^
@@ -2311,6 +2312,7 @@
 ||track.tappx.com^
 ||tracker.thinkindot.com^
 ||tracking.smartmeapp.com^
+||tracking.univtec.com^
 ||webpixel.smartmeapp.com^
 ||collector.schibsted.io^
 ||evt-api.ntm.eu^
