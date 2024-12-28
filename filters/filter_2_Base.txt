@@ -1,10 +1,14 @@
-! Checksum: uYHyN9aQ4y+/uilQQDI8xA
+! Checksum: PoRwcqmF6IW2pjkpLzi9qA
 ! Title: Blocklist
-! Last modified: 2024-12-27T18:30:00.148Z
+! Last modified: 2024-12-28T01:45:08.091Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
 
+||hellerraucous.top^
+||pm.chetahtalc.com^
+||loftersvisaya.com^
+||chimneydicier.com^
 ||gsrgjsmymkwt.com^
 ||zeecajichaiw.net^
 ||server.megabrain.co^
