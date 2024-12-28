@@ -1,6 +1,6 @@
-! Checksum: UQySeKBPxDUao/xUlyhy2Q
+! Checksum: R/CBH58PUfdAb6exAnKpnw
 ! Title: Blocklist
-! Last modified: 2024-12-28T01:45:05.267Z
+! Last modified: 2024-12-28T06:29:33.672Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -148,6 +148,8 @@
 ||mwilmix.top^
 ||tsbrzz.icu^
 ||trjfoagf.icu^
+||sn9.icu^
+||cclimif.top^
 ||ncvwnp.icu^
 ||sachaits.com^
 ||fzdwtage.icu^
