@@ -1,6 +1,6 @@
-! Checksum: 2aJxacKP25cybU5D72ZF8w
+! Checksum: fJlNLKwbZIJQWz7qSrXIbQ
 ! Title: Blocklist
-! Last modified: 2024-12-29T01:55:43.994Z
+! Last modified: 2024-12-29T06:29:56.614Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -98,6 +98,7 @@
 ||consent.thecountrysmallholder.com^
 ||consent.thegreatoutdoorsmag.com^
 ||cookie-consent.festo.com^
+||cookie.marsus.digital^
 ||cookies.giphy.com^
 ||cookies.lmt.lv^
 ||fuse.forbes.com^

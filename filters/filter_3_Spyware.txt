@@ -1,6 +1,6 @@
-! Checksum: Fo3ZPf7tsMTgNnWAWFQl4g
+! Checksum: b29B0diwls/LLuMGlxrRPA
 ! Title: Blocklist
-! Last modified: 2024-12-29T01:55:49.054Z
+! Last modified: 2024-12-29T06:30:01.583Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -11,6 +11,8 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||matomo.akbal.dev^
+||sentry.pnblab.com^
 ||tlmtr.org^
 ||sentinelbi.com^
 ||ascendeummedia.com^

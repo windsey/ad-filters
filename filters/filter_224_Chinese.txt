@@ -1,6 +1,6 @@
-! Checksum: WUbqeziKYUyA4XOKWeLTiQ
+! Checksum: bGnm9SuXK0kpVCBXdIJreg
 ! Title: Blocklist
-! Last modified: 2024-12-29T01:55:44.879Z
+! Last modified: 2024-12-29T06:29:57.489Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -146,6 +146,8 @@
 ||iemhotqk.com^
 ||rvxmlj.icu^
 ||vjzvgvgz.icu^
+||3xl.icu^
+||iclimio.top^
 ||noslugut.com^
 ||rklzpo.com^
 ||mwilmix.top^
