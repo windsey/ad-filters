@@ -1,6 +1,6 @@
-! Checksum: EszAYc6D0MSfIEoNAed12A
+! Checksum: g1N1hkTJwGOgGHQSDXmHpA
 ! Title: Blocklist
-! Last modified: 2024-12-30T12:44:25.645Z
+! Last modified: 2024-12-30T18:30:43.455Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -147,6 +147,10 @@
 ||pytexb.icu^
 ||xbfebqya.icu^
 ||o3t.icu^
+||kclimid.top^
+||sholphot.com^
+||5yl.icu^
+||sclimib.top^
 ||iemhotqk.com^
 ||rvxmlj.icu^
 ||vjzvgvgz.icu^
