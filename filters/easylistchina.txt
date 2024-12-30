@@ -1,6 +1,6 @@
-! Checksum: BISo47bkKVd159vTxiLQmA
+! Checksum: rIThPBkU1ZIAvN5MaOf/bw
 ! Title: Blocklist
-! Last modified: 2024-12-30T01:50:31.921Z
+! Last modified: 2024-12-30T06:32:26.523Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -27,6 +27,7 @@
 ||xamniksq.com^
 ||pytexb.icu^
 ||xbfebqya.icu^
+||o3t.icu^
 ||iemhotqk.com^
 ||rvxmlj.icu^
 ||vjzvgvgz.icu^
