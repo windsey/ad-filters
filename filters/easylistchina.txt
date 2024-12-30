@@ -1,6 +1,6 @@
-! Checksum: ST7JbZrHWvxDaMJt51lVGA
+! Checksum: BISo47bkKVd159vTxiLQmA
 ! Title: Blocklist
-! Last modified: 2024-12-29T18:28:17.931Z
+! Last modified: 2024-12-30T01:50:31.921Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -24,6 +24,9 @@
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||xamniksq.com^
+||pytexb.icu^
+||xbfebqya.icu^
 ||iemhotqk.com^
 ||rvxmlj.icu^
 ||vjzvgvgz.icu^
