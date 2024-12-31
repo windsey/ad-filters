@@ -1,6 +1,6 @@
-! Checksum: zSoGa13zN6Oy0YlcWisEqQ
+! Checksum: ehAlY9YUrdSKuk3B+p30MQ
 ! Title: Blocklist
-! Last modified: 2024-12-31T01:46:55.195Z
+! Last modified: 2024-12-31T06:31:22.387Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -26,6 +26,9 @@
 ||cnzz.trafficmanager.net^
 ||crigroik.com^
 ||vopzhl.icu^
+||ltvutlyu.icu^
+||eclimiw.top^
+||sh5.icu^
 ||xamniksq.com^
 ||pytexb.icu^
 ||xbfebqya.icu^
