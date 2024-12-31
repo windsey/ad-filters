@@ -1,6 +1,6 @@
-! Checksum: LIcThOB+HGucazFc5XL5Yg
+! Checksum: jZFWLm3nWPsi4feOyBh44A
 ! Title: Blocklist
-! Last modified: 2024-12-31T12:43:04.534Z
+! Last modified: 2024-12-31T18:29:28.090Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -31,6 +31,9 @@
 ||sh5.icu^
 ||craivrals.com^
 ||okpp12311.xyz^
+||nxcm.cc^
+||nh7.icu^
+||wclimie.top^
 ||xamniksq.com^
 ||pytexb.icu^
 ||xbfebqya.icu^

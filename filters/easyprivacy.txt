@@ -1,6 +1,6 @@
-! Checksum: 1v8SvVH8ua3Whmga2i/y1w
+! Checksum: h1sxWes7rCLy/LcZ4ucwjQ
 ! Title: Blocklist
-! Last modified: 2024-12-31T12:43:05.498Z
+! Last modified: 2024-12-31T18:29:29.078Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -327,7 +327,6 @@
 ||pzapi-kg.com^
 ||pzimff.com^
 ||q0losid.com^
-||q20jqurls0y7gk8.info^
 ||quantserve.com^
 ||quickkoala.io^
 ||quickpcfixer.click^
