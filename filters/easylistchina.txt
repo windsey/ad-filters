@@ -1,6 +1,6 @@
-! Checksum: 9S2XiLTawr1C54EbjBpoKA
+! Checksum: RyiQPwTLcsidI6VzYZGQtQ
 ! Title: Blocklist
-! Last modified: 2025-01-01T06:32:34.159Z
+! Last modified: 2025-01-01T12:42:49.579Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -30,6 +30,7 @@
 ||bxheifoe.icu^
 ||8fo.icu^
 ||qclimiy.top^
+||cridotty.com^
 ||crigroik.com^
 ||vopzhl.icu^
 ||ltvutlyu.icu^

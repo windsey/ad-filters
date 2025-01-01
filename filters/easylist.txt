@@ -1,6 +1,6 @@
-! Checksum: nIJLUd09o953j+tTS+qNXQ
+! Checksum: 7jbbFHLGpcrLmqXS4YUGDA
 ! Title: Blocklist
-! Last modified: 2025-01-01T06:32:33.819Z
+! Last modified: 2025-01-01T12:42:49.246Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -27948,7 +27948,6 @@
 ||072551.xyz^
 ||07421283.xyz^
 ||076f66b2.live^
-||07c225f3.online^
 ||07e197.site^
 ||08f8f073.xyz^
 ||09745951.xyz^
