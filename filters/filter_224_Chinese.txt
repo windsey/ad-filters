@@ -1,6 +1,6 @@
-! Checksum: YHIQVwQzDIrC2rvAEFuwOw
+! Checksum: ESz7BQan8MEVmTS49cykJA
 ! Title: Blocklist
-! Last modified: 2025-01-01T12:42:51.763Z
+! Last modified: 2025-01-01T18:29:34.676Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -143,6 +143,15 @@
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||qeknikny.com^
+||nnfbxz.icu^
+||gmso01010oka.top^
+||bxheifoe.icu^
+||8fo.icu^
+||qclimiy.top^
+||cridotty.com^
+||uk0.icu^
+||tclimii.top^
 ||crigroik.com^
 ||vopzhl.icu^
 ||ltvutlyu.icu^
@@ -153,6 +162,7 @@
 ||nxcm.cc^
 ||nh7.icu^
 ||wclimie.top^
+||googlehm.cc^
 ||xamniksq.com^
 ||pytexb.icu^
 ||xbfebqya.icu^
