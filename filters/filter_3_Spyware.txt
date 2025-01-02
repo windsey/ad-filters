@@ -1,6 +1,6 @@
-! Checksum: qfKuP5emm2PLGmBGQjNqYQ
+! Checksum: SFv0I8CIV3/ytyO/xDeSfQ
 ! Title: Blocklist
-! Last modified: 2025-01-02T12:44:37.883Z
+! Last modified: 2025-01-02T18:30:46.971Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -45643,7 +45643,6 @@ directtrack.*.js
 ||r.browser.miui.com^
 ||tracking.miui.com^
 ||data.mistat.intl.xiaomi.com^
-||register.xmpush.xiaomi.com^
 ||storeconfig.mistat.intl.xiaomi.com^
 ||api.ad.intl.xiaomi.com^
 ||sdkconfig.ad.intl.xiaomi.com^
