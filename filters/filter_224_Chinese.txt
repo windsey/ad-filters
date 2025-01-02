@@ -1,6 +1,6 @@
-! Checksum: ExxUEaG4GxmDTxwu1OYWDg
+! Checksum: Q5AE5QRwotGmCD5U9BDv9Q
 ! Title: Blocklist
-! Last modified: 2025-01-02T06:31:31.737Z
+! Last modified: 2025-01-02T12:44:32.771Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -149,6 +149,8 @@
 ||1tv.icu^
 ||uclimit.top^
 ||okpp01021.xyz^
+||xxss6677.com^
+||94x.icu^
 ||qeknikny.com^
 ||nnfbxz.icu^
 ||gmso01010oka.top^

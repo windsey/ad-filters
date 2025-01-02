@@ -1,10 +1,11 @@
-! Checksum: WY4OrrH+8KcOT3tbY3TkZQ
+! Checksum: 8C+oFrRl/RLeXh+JevneTw
 ! Title: Blocklist
-! Last modified: 2025-01-02T06:31:35.706Z
+! Last modified: 2025-01-02T12:44:36.734Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
 
+||tzegilo.com^
 ||expensivefire.com^
 ||hellerraucous.top^
 ||gsrgjsmymkwt.com^
@@ -30622,7 +30623,6 @@ rgmechanicsgames.com*VPN.exe
 ||tyuimln.net^
 ||tzaho.com^
 ||tzaqkp.com^
-||tzegilo.com^
 ||tzuhumrwypw.com^
 ||tzvpn.site^
 ||u-oxmzhuo.tech^

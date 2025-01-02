@@ -1,6 +1,6 @@
-! Checksum: 50tIClLsCW8F5wnJMuyTHA
+! Checksum: Yt9gn+Bw/hZTMmlb3nbmug
 ! Title: Blocklist
-! Last modified: 2025-01-02T06:31:30.521Z
+! Last modified: 2025-01-02T12:44:31.508Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -3025,6 +3025,7 @@
 ||content22.online.citi.com^
 ||drfdisvc.walmart.com^
 ||event.evtm.53.com^
+||idhtm.bb.com.br^
 ||idstatus.sky.com^
 ||img2021.navyfederal.org^
 ||imgs.signifyd.com^
