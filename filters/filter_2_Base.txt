@@ -1,6 +1,6 @@
-! Checksum: gvdRRxe03EbdcuyX7zVTQg
+! Checksum: sNb2OwdTA+6oRoe28KPTsw
 ! Title: Blocklist
-! Last modified: 2025-01-01T18:29:38.635Z
+! Last modified: 2025-01-02T01:46:36.046Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -5793,6 +5793,7 @@
 ||delivery.senvangvn.com^
 /^https:\/\/www\.[a-z]{8,16}\.com\/(?:[A-Za-z]+\/)*(?:[_0-9A-Za-z]{1,20}[-.])*[_0-9A-Za-z]{1,20}\.js$/$script,third-party,match-case,header=link:/adsco\.re\/>;rel=preconnect/
 Banner468x60
+||ad-shield.cc^
 ||palmendeals.blob.core.windows.net
 ||vungle.com^
 ||fapnado.*.php|
