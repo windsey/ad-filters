@@ -1,6 +1,6 @@
-! Checksum: EHYFPdJpicgohkRsd4uUQw
+! Checksum: u+4OHbFJBAj+ZadpPcQ2fQ
 ! Title: Blocklist
-! Last modified: 2025-01-03T12:43:53.326Z
+! Last modified: 2025-01-03T18:30:23.208Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -38763,6 +38763,7 @@
 ||hokuspokus.tarnkappe.info^
 ||llntrack.messe-duesseldorf.de^
 ||lokalwerben.t-online.de^
+||lynx.gruender.de^
 ||mat.ukraine-nachrichten.de^
 ||metrics.n-tv.de^
 ||navigation-timing.meinestadt.de^

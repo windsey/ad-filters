@@ -1,6 +1,6 @@
-! Checksum: Tg1RPa7E/Wlmj9PBIrUL+A
+! Checksum: zJj7s1yWHEzLompOtPPeXg
 ! Title: Blocklist
-! Last modified: 2025-01-03T12:43:53.933Z
+! Last modified: 2025-01-03T18:30:23.826Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -86,6 +86,7 @@
 ||startup.mobile.yandex.net^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
+||dsp-api.moloco.com^
 ||ads.smrtbid.com^
 ||creative*.bidease.com^
 ||bidjora.com^

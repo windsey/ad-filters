@@ -1,6 +1,6 @@
-! Checksum: SgEUIiq587UFZrht5XJM/w
+! Checksum: Bbwuk7EpVY6Pdq9EIr/RzQ
 ! Title: Blocklist
-! Last modified: 2025-01-03T12:43:59.726Z
+! Last modified: 2025-01-03T18:30:29.662Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||tags.fullcontact.com^
 ||matomo.akbal.dev^
 ||sentry.pnblab.com^
 ||tlmtr.org^
@@ -42973,6 +42974,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||event.wondershare.com^
 ||collector.abc.net.au^
 ||stat.pravdafrance.com^
 ||telemetry.dzen.ru^
@@ -45729,6 +45731,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||telemetry.codefusion.technology^
 ||events.watchtower.imdbtv.amazon.dev^
 ||mobile-production.content-square.net^
 ||sf16-static.i18n-pglstatp.com^
