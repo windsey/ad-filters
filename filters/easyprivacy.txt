@@ -1,6 +1,6 @@
-! Checksum: 7AzdP0CJgMUCDQv9l2OClw
+! Checksum: gg75ZPFjaRC4lwWDCzxgoA
 ! Title: Blocklist
-! Last modified: 2025-01-02T18:30:40.560Z
+! Last modified: 2025-01-03T01:47:41.753Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -770,6 +770,7 @@
 ||collect.usefathom.com^
 ||collect.verify.lnearn.com^
 ||collection.e-satisfaction.com^
+||collector-1.ex.co^
 ||collector-api.99designs.com^
 ||collector-api.frspecifics.com^
 ||collector.api.video^
