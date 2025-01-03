@@ -1,6 +1,6 @@
-! Checksum: j2FOkS1e571tYbcnY20uaw
+! Checksum: d8qTAHo3vSE4NgxeZve5OQ
 ! Title: Blocklist
-! Last modified: 2025-01-03T01:47:40.749Z
+! Last modified: 2025-01-03T06:31:24.145Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -24,6 +24,10 @@
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||y4l.icu^
+||ibyrwvi.cn^
+||lclimil.top^
+||okpp01031.xyz^
 ||rhndvagz.icu^
 ||okpp01030.xyz^
 ||cuvedyqs.com^
