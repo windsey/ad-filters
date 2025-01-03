@@ -1,6 +1,6 @@
-! Checksum: d8qTAHo3vSE4NgxeZve5OQ
+! Checksum: HG6MxrZ0/z65uPM7ae9NtQ
 ! Title: Blocklist
-! Last modified: 2025-01-03T06:31:24.145Z
+! Last modified: 2025-01-03T12:43:52.350Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -25,6 +25,8 @@
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||y4l.icu^
+||drandoxo.com^
+||h5r.icu^
 ||ibyrwvi.cn^
 ||lclimil.top^
 ||okpp01031.xyz^
