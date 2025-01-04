@@ -1,6 +1,6 @@
-! Checksum: u+4OHbFJBAj+ZadpPcQ2fQ
+! Checksum: Em3lq2SpchaNINmGTj6Bew
 ! Title: Blocklist
-! Last modified: 2025-01-03T18:30:23.208Z
+! Last modified: 2025-01-04T01:45:26.030Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -3020,6 +3020,7 @@
 ||oneid.mmstat.com^
 ||cfa.fidelity.com^
 ||clear.wallapop.com^
+||content.canadiantire.ca^
 ||content22.bmo.com^
 ||content22.citibank.com.au^
 ||content22.citibankonline.com^

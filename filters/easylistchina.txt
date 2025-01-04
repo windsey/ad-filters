@@ -1,6 +1,6 @@
-! Checksum: 6d6FJa6UN87nQTvSXUc3/Q
+! Checksum: EjD/LCPasuLJrrputgqXbg
 ! Title: Blocklist
-! Last modified: 2025-01-03T18:30:22.227Z
+! Last modified: 2025-01-04T01:45:25.064Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -28,6 +28,11 @@
 ||drandoxo.com^
 ||h5r.icu^
 ||bclimiv.top^
+||katoleiy.com^
+||okpp01040.xyz^
+||hjdjfl.icu^
+||omxwt.cn^
+||tztmqvga.icu^
 ||ibyrwvi.cn^
 ||lclimil.top^
 ||okpp01031.xyz^
