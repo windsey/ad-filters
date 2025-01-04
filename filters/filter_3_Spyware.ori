@@ -610,6 +610,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 !
 !
 !
+||cdn.q0losid.com^
 ||tags.fullcontact.com^
 ||matomo.akbal.dev^
 ||sentry.pnblab.com^
@@ -47059,6 +47060,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1)  { remove: true; }
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||lgforbes.akamaized.net^
 ||event.wondershare.com^
 ||collector.abc.net.au^
 ||smetrics.kawai-juku.ac.jp^

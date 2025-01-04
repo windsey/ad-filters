@@ -1,6 +1,6 @@
-! Checksum: 6rxtXXhm1qh1BFSTblP0nQ
+! Checksum: RdZc8E6QA4eIAbn4fQuNcA
 ! Title: Blocklist
-! Last modified: 2025-01-04T12:41:41.614Z
+! Last modified: 2025-01-04T18:29:08.062Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||cdn.q0losid.com^
 ||tags.fullcontact.com^
 ||matomo.akbal.dev^
 ||sentry.pnblab.com^
@@ -42974,6 +42975,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||lgforbes.akamaized.net^
 ||event.wondershare.com^
 ||collector.abc.net.au^
 ||stat.pravdafrance.com^
