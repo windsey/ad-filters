@@ -1,6 +1,6 @@
-! Checksum: EjD/LCPasuLJrrputgqXbg
+! Checksum: OnCMbJycPZJeE3LAMX5HLg
 ! Title: Blocklist
-! Last modified: 2025-01-04T01:45:25.064Z
+! Last modified: 2025-01-04T06:29:48.870Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -33,6 +33,8 @@
 ||hjdjfl.icu^
 ||omxwt.cn^
 ||tztmqvga.icu^
+||mclimix.top^
+||cv7.icu^
 ||ibyrwvi.cn^
 ||lclimil.top^
 ||okpp01031.xyz^

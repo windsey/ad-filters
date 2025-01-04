@@ -1,6 +1,6 @@
-! Checksum: KqIjcOvWJeINin2c9IgrSQ
+! Checksum: Bf/K9btPOPO7tgaf+SnOOQ
 ! Title: Blocklist
-! Last modified: 2025-01-04T01:45:27.217Z
+! Last modified: 2025-01-04T06:29:51.105Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -151,6 +151,10 @@
 ||katoleiy.com^
 ||okpp01040.xyz^
 ||hjdjfl.icu^
+||omxwt.cn^
+||tztmqvga.icu^
+||mclimix.top^
+||cv7.icu^
 ||ibyrwvi.cn^
 ||lclimil.top^
 ||okpp01031.xyz^
