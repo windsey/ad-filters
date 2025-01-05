@@ -1,6 +1,6 @@
-! Checksum: eRHr0d5gX9lo7xIdezYUkQ
+! Checksum: q28UkNaflm7ZGfij2Ybhhw
 ! Title: Blocklist
-! Last modified: 2025-01-05T06:30:02.631Z
+! Last modified: 2025-01-05T12:41:22.655Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -17871,6 +17871,7 @@ rgmechanicsgames.com*VPN.exe
 ||igoognou.xyz^
 ||igouthoatsord.net^
 ||igpkppknqeblj.com^
+||igraard.xyz^
 ||igvhfmubsaqty.xyz^
 ||igwatrsthg.site^
 ||ihappymuttered.info^
@@ -30704,6 +30705,7 @@ rgmechanicsgames.com*VPN.exe
 ||ubish.com^
 ||uboungera.com^
 ||ucationinin.info^
+||ucavu.live^
 ||ucbedayxxqpyuo.xyz^
 ||ucconn.live^
 ||ucheephu.com^

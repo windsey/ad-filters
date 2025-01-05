@@ -1,6 +1,6 @@
-! Checksum: Ia+Kfg9tDgJ9kpsZPiqZew
+! Checksum: sh4nY+F68GHjhkhzymVawA
 ! Title: Blocklist
-! Last modified: 2025-01-05T06:29:56.169Z
+! Last modified: 2025-01-05T12:41:16.119Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -12091,6 +12091,7 @@
 ||igoognou.xyz^
 ||igouthoatsord.net^
 ||igpkppknqeblj.com^
+||igraard.xyz^
 ||igvhfmubsaqty.xyz^
 ||igwatrsthg.site^
 ||ihappymuttered.info^
@@ -25071,6 +25072,7 @@
 ||ubish.com^
 ||uboungera.com^
 ||ucationinin.info^
+||ucavu.live^
 ||ucbedayxxqpyuo.xyz^
 ||ucconn.live^
 ||ucheephu.com^
