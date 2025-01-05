@@ -1,6 +1,6 @@
-! Checksum: RdZc8E6QA4eIAbn4fQuNcA
+! Checksum: fTcvLEk6H6MIvbSU+hA4Dg
 ! Title: Blocklist
-! Last modified: 2025-01-04T18:29:08.062Z
+! Last modified: 2025-01-05T01:54:48.064Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -42975,6 +42975,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||intake-analytics.wikimedia.org^
 ||lgforbes.akamaized.net^
 ||event.wondershare.com^
 ||collector.abc.net.au^
@@ -43825,7 +43826,6 @@
 ||track-srv.vietnamnet.vn^
 ||stats.zone-telechargement.
 ||stats.tirexo.blue^
-||intake-analytics.wikimedia.org^
 ||tracking.univtec.com^
 ||counter.sberbank.ru^
 ||mxpl.9gag.com^
@@ -45733,6 +45733,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||collect.4gtv.tv^
+||uaid.vtwenty.com^
 ||telemetry.codefusion.technology^
 ||events.watchtower.imdbtv.amazon.dev^
 ||mobile-production.content-square.net^
