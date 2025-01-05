@@ -1,6 +1,6 @@
-! Checksum: ySWIHoHsEmsTsUtnKjEc4w
+! Checksum: YU8FqwcjnBimHicctISTVQ
 ! Title: Blocklist
-! Last modified: 2025-01-05T12:41:16.468Z
+! Last modified: 2025-01-05T18:28:23.148Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -30,6 +30,8 @@
 ||hdyurliu.top^
 ||en6.icu^
 ||cachusrw.com^
+||u57.icu^
+||idyurlio.top^
 ||airakgyl.com^
 ||scjtfh.xyz^
 ||cdyurlif.top^
@@ -3408,7 +3410,6 @@
 ||a.baomihua.com^
 ||a.nowscore.com^
 ||a.xywy.com^
-||a2.b310.com^
 ||a2.xinhuanet.com^
 ||a2put.chinaz.com^
 ||abc.hkepc.com^
@@ -3653,6 +3654,7 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||hcirentgh.360doc.cn^
 ||a1.cyyangqiguan.com^
 ||jbdch1.appmobile.cn^
 ||lcd.aivote.com^
