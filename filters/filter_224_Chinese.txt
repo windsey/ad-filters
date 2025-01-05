@@ -1,6 +1,6 @@
-! Checksum: +Ned7X2A2N3BysVAtiScNg
+! Checksum: D+fW+bp4nqDY07mQ8sa4XA
 ! Title: Blocklist
-! Last modified: 2025-01-05T01:54:42.964Z
+! Last modified: 2025-01-05T06:29:58.666Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -147,6 +147,8 @@
 ||lirretsn.com^
 ||nmzbrd.icu^
 ||hrjciqyu.icu^
+||hdyurliu.top^
+||en6.icu^
 ||airakgyl.com^
 ||scjtfh.xyz^
 ||cdyurlif.top^

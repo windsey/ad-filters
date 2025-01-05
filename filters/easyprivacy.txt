@@ -1,6 +1,6 @@
-! Checksum: yEZmHm4DgUQGH+GgHFFK2Q
+! Checksum: 1t4Pi8UoebL1Lt8Mi7I7/w
 ! Title: Blocklist
-! Last modified: 2025-01-05T01:54:41.775Z
+! Last modified: 2025-01-05T06:29:57.470Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -2461,6 +2461,7 @@
 ||clp-mms.cloudpro.co.uk^
 ||cm-mms.coachmag.co.uk^
 ||cm.nordvpn.com^
+||cms-stats-view.vitrinabox.com^
 ||cnt.hd21.com^
 ||cnt.iceporn.com^
 ||cnt.viptube.com^
