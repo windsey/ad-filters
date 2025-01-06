@@ -1,6 +1,6 @@
-! Checksum: gCbK/A4/sChdI+Ddrd+mew
+! Checksum: 3XVMvkpgxTahzBd6mUuQxw
 ! Title: Blocklist
-! Last modified: 2025-01-06T01:52:17.772Z
+! Last modified: 2025-01-06T06:33:00.016Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -148,6 +148,8 @@
 ||tixoilll.com^
 ||hitalsli.com^
 ||lcvwdn.icu^
+||1tp.icu^
+||jdyurlia.top^
 ||lirretsn.com^
 ||nmzbrd.icu^
 ||hrjciqyu.icu^
