@@ -1,6 +1,6 @@
-! Checksum: Ufw+NEXd1UcFrhWXO3bvKQ
+! Checksum: K/7Oldx2mv6EMo0wx94kXw
 ! Title: Blocklist
-! Last modified: 2025-01-06T06:33:05.220Z
+! Last modified: 2025-01-06T12:46:45.254Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||view.mngusr.com^
 ||cdn.q0losid.com^
 ||tags.fullcontact.com^
 ||matomo.akbal.dev^
