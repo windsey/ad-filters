@@ -1,6 +1,6 @@
-! Checksum: 77bU/0XPSWL9FHOn9Z0Dng
+! Checksum: QFL9yRimI1xOWJyv8+bd6A
 ! Title: Blocklist
-! Last modified: 2025-01-06T12:46:40.096Z
+! Last modified: 2025-01-06T18:31:38.898Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -150,6 +150,10 @@
 ||lcvwdn.icu^
 ||1tp.icu^
 ||jdyurlia.top^
+||orcinhyi.com^
+||thruksyq.com^
+||z4v.icu^
+||kdyurlid.top^
 ||lirretsn.com^
 ||nmzbrd.icu^
 ||hrjciqyu.icu^
