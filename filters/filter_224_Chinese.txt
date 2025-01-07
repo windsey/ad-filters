@@ -1,6 +1,6 @@
-! Checksum: QFL9yRimI1xOWJyv8+bd6A
+! Checksum: cNzAnAYA4BChRxGFRu9ttw
 ! Title: Blocklist
-! Last modified: 2025-01-06T18:31:38.898Z
+! Last modified: 2025-01-07T01:48:49.628Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -144,6 +144,8 @@
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||jfrrnf.icu^
+||e50.icu^
 ||jjplaqyo.icu^
 ||tixoilll.com^
 ||hitalsli.com^
