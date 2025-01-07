@@ -1,6 +1,6 @@
-! Checksum: 4gz5lN3fXtu8nDMF+3w6zQ
+! Checksum: PlX8waq52JbMRCDAw/pYeg
 ! Title: Blocklist
-! Last modified: 2025-01-07T06:32:34.395Z
+! Last modified: 2025-01-07T12:46:13.220Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -149,6 +149,8 @@
 ||aos01070ss.xyz^
 ||sdyurlib.top^
 ||lbfuvlyp.icu^
+||staivoiks.com^
+||gheslosy.com^
 ||jjplaqyo.icu^
 ||tixoilll.com^
 ||hitalsli.com^
