@@ -1,6 +1,6 @@
-! Checksum: vyZMY8QxSchx9KJqPD7fXA
+! Checksum: iAA72c9yNfZIZWWXi2m1TA
 ! Title: Blocklist
-! Last modified: 2025-01-07T12:46:18.556Z
+! Last modified: 2025-01-07T18:31:27.487Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||lf1-cdn-tos.bytegoofy.com^
 ||view.mngusr.com^
 ||cdn.q0losid.com^
 ||tags.fullcontact.com^
@@ -43412,6 +43413,10 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||telemetry.svc.transifex.net^
+||cpu.baidu.com^
+||analytics-ingestion-production.tubitv.com^
+||pixel.web.roku.com^
 ||analytics.cloudevo.ai^
 ||qbrth.ezcontacts.com^
 ||intake-analytics.wikimedia.org^
@@ -43485,7 +43490,6 @@
 ||relay-event.talkie-ai.com^
 ||data-ingestion.flowgpt.com^
 ||tianji.flowgpt.com^
-||analytics-ingestion-production.tubitv.com^
 ||retail-client-events-service.internal.salsify.com^
 ||servo-report.keepstreams.*^
 ||metrics.imdb.com^
