@@ -1,6 +1,6 @@
-! Checksum: iAA72c9yNfZIZWWXi2m1TA
+! Checksum: s+a3dhusBWkfn+x5d4AHhA
 ! Title: Blocklist
-! Last modified: 2025-01-07T18:31:27.487Z
+! Last modified: 2025-01-08T01:48:07.059Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -43413,6 +43413,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||csp-report.marketing.aws.dev^
 ||telemetry.svc.transifex.net^
 ||cpu.baidu.com^
 ||analytics-ingestion-production.tubitv.com^

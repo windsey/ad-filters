@@ -1,9 +1,12 @@
-! Checksum: saClaMisKMU7P3cNoVIP0A
+! Checksum: GsHP4Ffk+VzjGDG1m4i19g
 ! Title: Blocklist
-! Last modified: 2025-01-07T18:31:26.329Z
+! Last modified: 2025-01-08T01:48:05.889Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
+
+||mqprzapns.com^
+||dzeaqmeuaql.com^
 ||dsfvmx.click^
 ||mentionideablit.com^
 ||dzliege.com^
@@ -12133,6 +12136,7 @@ rgmechanicsgames.com*VPN.exe
 ||couwooji.xyz^
 ||coveredsnortedelectronics.com^
 ||coveredstress.com^
+||covertcourse.com^
 ||covettunica.com^
 ||covivado.club^
 ||cowtpvi.com^
