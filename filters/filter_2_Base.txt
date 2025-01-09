@@ -1,6 +1,6 @@
-! Checksum: Rb+Ju1OmDhhEJf0tno6dFA
+! Checksum: bFXlESJBktksV+cXPaG0HQ
 ! Title: Blocklist
-! Last modified: 2025-01-09T06:31:13.253Z
+! Last modified: 2025-01-09T12:46:47.722Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -31871,6 +31871,7 @@ rgmechanicsgames.com*VPN.exe
 ||vrcvuqtijiwgemi.com^
 ||vrgvugostlyhewo.info^
 ||vrime.xyz^
+||vrizead.com^
 ||vroomedbedroll.shop^
 ||vrplynsfcr.xyz^
 ||vrtzads.com^

@@ -1,6 +1,6 @@
-! Checksum: YnBKUuOxrRU7vhm8xKTYaQ
+! Checksum: M6k89+DmJcb1K90jRqs3cw
 ! Title: Blocklist
-! Last modified: 2025-01-09T06:31:06.496Z
+! Last modified: 2025-01-09T12:46:41.159Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -26194,6 +26194,7 @@
 ||vrcvuqtijiwgemi.com^
 ||vrgvugostlyhewo.info^
 ||vrime.xyz^
+||vrizead.com^
 ||vroomedbedroll.shop^
 ||vrplynsfcr.xyz^
 ||vrtzads.com^

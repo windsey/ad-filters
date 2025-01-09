@@ -1,6 +1,6 @@
-! Checksum: 3DfE8tBgNy8d8KG44s+xgQ
+! Checksum: n16PFuLzQap3EdLzOw25OQ
 ! Title: Blocklist
-! Last modified: 2025-01-09T06:31:07.823Z
+! Last modified: 2025-01-09T12:46:42.451Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -2072,6 +2072,7 @@
 ||bvr.ast.snva.jp^
 ||bvr.snva.jp^
 ||client-log.karte.io^
+||collector.t-idr.com^
 ||cookie.sync.usonar.jp^
 ||counter2.blog.livedoor.com^
 ||crossees.com^

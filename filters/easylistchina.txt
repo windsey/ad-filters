@@ -1,6 +1,6 @@
-! Checksum: g0HFgSvR+xXeBkttAbYPEg
+! Checksum: YvBaUXMoNrZdP0x7zgomxg
 ! Title: Blocklist
-! Last modified: 2025-01-09T06:31:06.832Z
+! Last modified: 2025-01-09T12:46:41.493Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -37,6 +37,7 @@
 ||chumealq.com^
 ||o8s.icu^
 ||wf7.icu^
+||ercoils.com^
 ||jfrrnf.icu^
 ||e50.icu^
 ||aos01070ss.xyz^
