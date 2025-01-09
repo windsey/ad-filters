@@ -1,6 +1,6 @@
-! Checksum: Cf6THRmKPU+a9fpsuLBuZw
+! Checksum: CFznNNj3M3ycmNX+UtquWg
 ! Title: Blocklist
-! Last modified: 2025-01-09T12:46:48.903Z
+! Last modified: 2025-01-09T18:32:10.827Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||volces.com^
 ||twitter.sx^
 ||lf1-cdn-tos.bytegoofy.com^
 ||view.mngusr.com^
@@ -43413,6 +43414,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||publictelemetry.tophat.com^
 ||dynatrace.att.com^
 ||csp-report.marketing.aws.dev^
 ||telemetry.svc.transifex.net^
@@ -46180,6 +46182,13 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||nstool.netease.com^
+||data.kuiniuca.com^
+||clientlogsf.music.163.com^
+||ye.dun.163yun.com^
+||netapm.music.163.com^
+||clientlogdep.music.163.com^
+||clientlog3.music.163.com^
 ||collect.4gtv.tv^
 ||uaid.vtwenty.com^
 ||telemetry.codefusion.technology^

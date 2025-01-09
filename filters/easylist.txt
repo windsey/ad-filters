@@ -1,6 +1,6 @@
-! Checksum: M6k89+DmJcb1K90jRqs3cw
+! Checksum: tujJ01a0hhO9jUP5zx6fAw
 ! Title: Blocklist
-! Last modified: 2025-01-09T12:46:41.159Z
+! Last modified: 2025-01-09T18:32:02.803Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -10,7 +10,6 @@
 -ad.jpg.pagespeed.
 -ads-banner.
 -ads-bottom.
--auto-ads-
 -display-ads.
 -footerads.
 -housead-
@@ -20,13 +19,11 @@
 -popunder.
 -publicidad.
 -right-ad.
--sidebar-ad.
 -sponsor-ad.
 -top-ads.
 -Web-Advert.
 .adrotate.
 .ads-lazy.
-.ads-min.
 .ads.controller.
 .ads.css
 .adsbox.
@@ -34,7 +31,6 @@
 .lazyload-ad-
 .lazyload-ad.
 .nativeads.
-.popunder.js
 ://a.ads.
 ://ad-api-
 ://ad1.

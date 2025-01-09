@@ -1,10 +1,11 @@
-! Checksum: bFXlESJBktksV+cXPaG0HQ
+! Checksum: PlsYJiu5jPQIgS1gs0kgUw
 ! Title: Blocklist
-! Last modified: 2025-01-09T12:46:47.722Z
+! Last modified: 2025-01-09T18:32:09.637Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
 
+||uz-kqtecqs.space^
 ||mqprzapns.com^
 ||dzeaqmeuaql.com^
 ||dsfvmx.click^
@@ -5948,7 +5949,6 @@ rgmechanicsgames.com*VPN.exe
 -ad.jpg.pagespeed.
 -ads-banner.
 -ads-bottom.
--auto-ads-
 -display-ads.
 -footerads.
 -housead-
@@ -5958,13 +5958,11 @@ rgmechanicsgames.com*VPN.exe
 -popunder.
 -publicidad.
 -right-ad.
--sidebar-ad.
 -sponsor-ad.
 -top-ads.
 -Web-Advert.
 .adrotate.
 .ads-lazy.
-.ads-min.
 .ads.controller.
 .ads.css
 .adsbox.
