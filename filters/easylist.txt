@@ -1,10 +1,9 @@
-! Checksum: g7MZBa2ZfZjARArKWOWbXQ
+! Checksum: YnBKUuOxrRU7vhm8xKTYaQ
 ! Title: Blocklist
-! Last modified: 2025-01-09T02:19:07.760Z
+! Last modified: 2025-01-09T06:31:06.496Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
--ad-300x600-
 -ad-458x80.
 -ad-sidebar.
 -ad-util.
@@ -23,7 +22,6 @@
 -right-ad.
 -sidebar-ad.
 -sponsor-ad.
--sticky-ad-
 -top-ads.
 -Web-Advert.
 .adrotate.

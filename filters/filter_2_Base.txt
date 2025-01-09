@@ -1,6 +1,6 @@
-! Checksum: ByN3mgth9WHNoDsD1ruYkw
+! Checksum: Rb+Ju1OmDhhEJf0tno6dFA
 ! Title: Blocklist
-! Last modified: 2025-01-09T02:19:14.280Z
+! Last modified: 2025-01-09T06:31:13.253Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -5942,7 +5942,6 @@ rgmechanicsgames.com*VPN.exe
 ||hdvmyo.com^
 ||adsy.mail.bg^
 
--ad-300x600-
 -ad-458x80.
 -ad-sidebar.
 -ad-util.
@@ -5961,7 +5960,6 @@ rgmechanicsgames.com*VPN.exe
 -right-ad.
 -sidebar-ad.
 -sponsor-ad.
--sticky-ad-
 -top-ads.
 -Web-Advert.
 .adrotate.
