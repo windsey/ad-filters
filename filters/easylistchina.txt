@@ -1,6 +1,6 @@
-! Checksum: u+8212iuZI0i4EFAzvlv4Q
+! Checksum: NOOuYkxci0NgBORX5/Opsg
 ! Title: Blocklist
-! Last modified: 2025-01-08T18:31:25.032Z
+! Last modified: 2025-01-09T02:19:08.090Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -30,6 +30,9 @@
 ||xxaks01080sspao.xyz^
 ||xxaks01081sspao.xyz^
 ||tu6.icu^
+||xukanvyl.com^
+||nyjelh.icu^
+||blbtibqk.icu^
 ||wf7.icu^
 ||jfrrnf.icu^
 ||e50.icu^
