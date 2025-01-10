@@ -1,6 +1,6 @@
-! Checksum: 5dBiiYFktdx4zNRDIAqmsg
+! Checksum: 6BF/dV2ofa+kEFgavg9maw
 ! Title: Blocklist
-! Last modified: 2025-01-10T06:32:20.318Z
+! Last modified: 2025-01-10T12:46:12.626Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -24,6 +24,8 @@
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||hdjthzg.cn^
+||pxhuiben.com^
 ||oliver.pub^
 ||lbfwxr.icu^
 ||eitilbyr.com^
@@ -31,6 +33,8 @@
 ||ddhjabqe.icu^
 ||majile.vip^
 ||nyhdv.com^
+||osdxx.com^
+||bhegilut.com^
 ||pinjzp.icu^
 ||aos01080ss.xyz^
 ||ztlkngyj.icu^
@@ -3695,6 +3699,7 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||abc.ruodian360.com^
 ||hcirentgh.360doc.cn^
 ||a1.cyyangqiguan.com^
 ||jbdch1.appmobile.cn^
