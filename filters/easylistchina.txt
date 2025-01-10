@@ -1,6 +1,6 @@
-! Checksum: AfkxvSzyHAu7TWEhtFvuJQ
+! Checksum: y26y8LlY43E204B1ymHZTg
 ! Title: Blocklist
-! Last modified: 2025-01-09T18:32:03.151Z
+! Last modified: 2025-01-10T01:50:26.299Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -24,6 +24,9 @@
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||oliver.pub^
+||lbfwxr.icu^
+||eitilbyr.com^
 ||pinjzp.icu^
 ||aos01080ss.xyz^
 ||ztlkngyj.icu^
