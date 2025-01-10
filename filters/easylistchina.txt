@@ -1,6 +1,6 @@
-! Checksum: 6BF/dV2ofa+kEFgavg9maw
+! Checksum: On6h2TrXDIqU19ZrOY7oFw
 ! Title: Blocklist
-! Last modified: 2025-01-10T12:46:12.626Z
+! Last modified: 2025-01-10T18:31:18.626Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -35,6 +35,7 @@
 ||nyhdv.com^
 ||osdxx.com^
 ||bhegilut.com^
+||s83.fun^
 ||pinjzp.icu^
 ||aos01080ss.xyz^
 ||ztlkngyj.icu^
