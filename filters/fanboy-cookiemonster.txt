@@ -1,6 +1,6 @@
-! Checksum: CKPSfcOw41IY0BM1nwbNoA
+! Checksum: bDGv8KtSpczqhNNc7XiKEQ
 ! Title: Blocklist
-! Last modified: 2025-01-11T01:47:55.347Z
+! Last modified: 2025-01-11T06:29:32.173Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -89,7 +89,6 @@
 ||consent.23g.io^
 ||consent.canalboat.co.uk^
 ||consent.cmp.oath.com^
-||consent.cookiefirst.com^
 ||consent.lifetouch.com^
 ||consent.nationalworld.com^
 ||consent.pdf24.org^

@@ -1,6 +1,6 @@
-! Checksum: jUaX1cFXJXhUdhrjbpx+rQ
+! Checksum: Tpy9siZt0Xq48NG1jUBi4A
 ! Title: Blocklist
-! Last modified: 2025-01-11T01:47:54.052Z
+! Last modified: 2025-01-11T06:29:30.873Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -25,6 +25,9 @@
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
 ||riscats.com^
+||jebrhb.icu^
+||bc4.fun^
+||rvxsvwqf.icu^
 ||hdjthzg.cn^
 ||pxhuiben.com^
 ||oliver.pub^

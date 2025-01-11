@@ -1,6 +1,6 @@
-! Checksum: KKTFCjKIAhh4wJ63p+NeZA
+! Checksum: KmIc4s1ZcM0NXQTVKjA0rA
 ! Title: Blocklist
-! Last modified: 2025-01-11T01:48:00.265Z
+! Last modified: 2025-01-11T06:29:37.051Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -5983,7 +5983,6 @@ rgmechanicsgames.com*VPN.exe
 ://oascentral.
 -dfp-prebid-
 .prebid-bundle.
--detect-adblock.
 -120-600.
 -120x600-
 -120x600.
@@ -6849,6 +6848,7 @@ rgmechanicsgames.com*VPN.exe
 ||abattoirpleatsprinkle.com^
 ||abazelfan.com^
 ||abbasidquippy.shop^
+||abbateerupted.com^
 ||abberantdiscussion.com^
 ||abberantdoggie.com^
 ||abberantpawnpalette.com^
@@ -12532,6 +12532,7 @@ rgmechanicsgames.com*VPN.exe
 ||daejyre.com^
 ||daffaite.com^
 ||daffodilnotifyquarterback.com^
+||dagassapereion.com^
 ||dagheepsoach.net^
 ||dagnar.com^
 ||dagnurgihjiz.com^
@@ -15320,6 +15321,7 @@ rgmechanicsgames.com*VPN.exe
 ||flaweyesight.com^
 ||flawgrandparentsmysterious.com^
 ||flaxconfession.com^
+||flaxdescale.com^
 ||flaxierfilmset.com^
 ||flcrcyj.com^
 ||fldes6fq.de^
@@ -23301,6 +23303,7 @@ rgmechanicsgames.com*VPN.exe
 ||oshoothoolo.com^
 ||oskiwood.com^
 ||osmeticjewlike.com^
+||osminaclumber.com^
 ||osmosedshrined.top^
 ||ospartners.xyz^
 ||ospreyorceins.com^
@@ -25016,6 +25019,7 @@ rgmechanicsgames.com*VPN.exe
 ||projectscupcakeinternational.com^
 ||projectwonderful.com^
 ||prolatecyclus.com^
+||proleclips.com^
 ||prologuerussialavender.com^
 ||prologuetwinsmolecule.com^
 ||promiseyuri.com^
@@ -29590,6 +29594,7 @@ rgmechanicsgames.com*VPN.exe
 ||techourtoapingu.com^
 ||techreviewtech.com^
 ||tecominchisel.com^
+||tectureclod.top^
 ||tecuil.com^
 ||tedhilarlymcken.org^
 ||tediousgorgefirst.com^
@@ -29604,6 +29609,7 @@ rgmechanicsgames.com*VPN.exe
 ||teepoomo.xyz^
 ||teestoagloupaza.net^
 ||teetusee.xyz^
+||teewhilemath.net^
 ||tefrjctjwuu.com^
 ||tefuse.com^
 ||tegleebs.com^
@@ -30256,6 +30262,7 @@ rgmechanicsgames.com*VPN.exe
 ||touchupchows.com^
 ||touchyeccentric.com^
 ||touchytautogs.com^
+||tougaipteehuboo.xyz^
 ||toughdrizzleleftover.com^
 ||tougrauwaizus.net^
 ||touptaisu.com^
@@ -32275,6 +32282,7 @@ rgmechanicsgames.com*VPN.exe
 ||wetnesstommer.com^
 ||wetpeachcash.com^
 ||wetsireoverload.com^
+||wevechinse.com^
 ||wewaixor.com^
 ||wewearegogogo.com^
 ||wextap.com^
