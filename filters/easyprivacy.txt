@@ -1,6 +1,6 @@
-! Checksum: 9n9OhMtQl5rNy365OaihzA
+! Checksum: pSYmVUVbEjv2xgdhttQ4aw
 ! Title: Blocklist
-! Last modified: 2025-01-10T18:31:19.585Z
+! Last modified: 2025-01-11T01:47:55.019Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -1128,8 +1128,6 @@
 ||pets.channeladvisor.com^
 ||pi.ispot.tv^
 ||ping.dozuki.com^
-||ping.fastsimon.com^
-||ping.instantsearchplus.com^
 ||pings.conviva.com^
 ||pings.vidpulse.com^
 ||pipe-collect.ebu.io^
