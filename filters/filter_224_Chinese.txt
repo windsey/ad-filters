@@ -1,6 +1,6 @@
-! Checksum: H7kxn4f4zCS0aHMcARRS5g
+! Checksum: veR8g9towsSHzrFT1LL3Cw
 ! Title: Blocklist
-! Last modified: 2025-01-11T12:41:13.125Z
+! Last modified: 2025-01-11T18:28:49.715Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -150,6 +150,7 @@
 ||bc4.fun^
 ||rvxsvwqf.icu^
 ||vdhf042.fun^
+||tridroin.com^
 ||hdjthzg.cn^
 ||pxhuiben.com^
 ||oliver.pub^
