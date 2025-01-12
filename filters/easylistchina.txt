@@ -1,6 +1,6 @@
-! Checksum: kFuSODepLS/cbPWAP4pP/w
+! Checksum: IAm3wJ0zlyqAs0VmIZbeWA
 ! Title: Blocklist
-! Last modified: 2025-01-11T18:28:47.564Z
+! Last modified: 2025-01-12T01:57:00.137Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -24,6 +24,9 @@
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||tndbnriz.icu^
+||eisnaisv.com^
+||puhmtt.icu^
 ||riscats.com^
 ||jebrhb.icu^
 ||bc4.fun^
