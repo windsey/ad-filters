@@ -1,6 +1,6 @@
-! Checksum: ax3NnvPTLkpZAs0+UH7bkg
+! Checksum: 1jlhiWjZ632+yomk6vs4dA
 ! Title: Blocklist
-! Last modified: 2025-01-12T12:41:01.990Z
+! Last modified: 2025-01-12T18:28:35.796Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -707,6 +707,7 @@
 ||browser.covatic.io^
 ||browser.pipe.aria.microsoft.com^
 ||bs.yandex.ru^
+||c.albss.com^
 ||c.amazinglybrilliant.com.au^
 ||c.bazo.io^
 ||c.imedia.cz^
