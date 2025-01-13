@@ -1,6 +1,6 @@
-! Checksum: eUcQQ4Rz0uZRfMECDIhNcA
+! Checksum: P55x3GTJrMFigEBrUr/KEw
 ! Title: Blocklist
-! Last modified: 2025-01-13T01:53:34.367Z
+! Last modified: 2025-01-13T06:33:16.753Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -150,6 +150,7 @@
 ||vftrfmia.icu^
 ||hdomsiu.top^
 ||2za.fun^
+||idomsio.top^
 ||tndbnriz.icu^
 ||eisnaisv.com^
 ||puhmtt.icu^
