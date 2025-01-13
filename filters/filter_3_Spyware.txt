@@ -1,8 +1,8 @@
-! Checksum: q7es6+HbfGA8iIgE8diqsg
-! Title: Blocklist
-! Last modified: 2025-01-13T06:33:21.915Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.33
+! Title: Blocklist
+! Last modified: 2025-01-13T12:48:11.687Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 
 ||mon.snssdk.com^
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||analytics.bitchute.com^
 ||stream.datago.ru^
 ||pabidding.io^
 ||danatrak.com^
@@ -43418,6 +43419,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||acr-*-prd.samsungcloud.tv^
 ||publictelemetry.tophat.com^
 ||dynatrace.att.com^
 ||csp-report.marketing.aws.dev^

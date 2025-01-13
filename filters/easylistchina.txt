@@ -1,8 +1,8 @@
-! Checksum: MY18OMe4EVF98uM2DVWjKw
-! Title: Blocklist
-! Last modified: 2025-01-13T06:33:14.602Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.33
+! Title: Blocklist
+! Last modified: 2025-01-13T12:48:04.279Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 -1316632262.cos.
 -1316899192.cos.
@@ -30,6 +30,7 @@
 ||hdomsiu.top^
 ||2za.fun^
 ||idomsio.top^
+||uuqrisuy.com^
 ||tndbnriz.icu^
 ||eisnaisv.com^
 ||puhmtt.icu^
