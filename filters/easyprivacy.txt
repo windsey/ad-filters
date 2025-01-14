@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-14T06:30:03.086Z
+! Last modified: 2025-01-14T12:43:01.704Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -2507,6 +2507,7 @@
 ||data.allstate.com^
 ||data.guide.photobucket.com^
 ||data.torry.io^
+||data.ublock-browser.com^
 ||data.younow.com^
 ||datadome.maisonsdumonde.com^
 ||datum.jsdelivr.com^
