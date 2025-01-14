@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-14T12:43:02.912Z
+! Last modified: 2025-01-14T18:29:43.535Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -156,6 +156,7 @@
 ||xmvxo.xyz^
 ||geuba.xyz^
 ||brephras.com^
+||7zb.fun^
 ||nxdefd.icu^
 ||thonkoirs.com^
 ||vftrfmia.icu^
