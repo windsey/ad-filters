@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-14T01:43:19.576Z
+! Last modified: 2025-01-14T06:30:04.298Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -147,6 +147,11 @@
 ||cnzz.trafficmanager.net^
 ||lazzrv.icu^
 ||geinkroll.com^
+||wusfa.xyz^
+||vmcnl.xyz^
+||eskux.xyz^
+||kdomsid.top^
+||4wm.fun^
 ||nxdefd.icu^
 ||thonkoirs.com^
 ||vftrfmia.icu^

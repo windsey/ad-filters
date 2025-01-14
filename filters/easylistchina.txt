@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-14T01:43:17.417Z
+! Last modified: 2025-01-14T06:30:02.127Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -29,6 +29,8 @@
 ||wusfa.xyz^
 ||vmcnl.xyz^
 ||eskux.xyz^
+||kdomsid.top^
+||4wm.fun^
 ||nxdefd.icu^
 ||thonkoirs.com^
 ||vftrfmia.icu^
