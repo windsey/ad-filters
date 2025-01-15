@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-15T12:43:39.130Z
+! Last modified: 2025-01-15T18:28:59.579Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -44012,6 +44012,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||s.c-ctrip.com^
+||ma-adx.ctrip.com^
 ||logs.mezmo.com^
 ||acr-*-prd.samsungcloud.tv^
 ||publictelemetry.tophat.com^
