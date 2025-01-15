@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-15T06:30:31.334Z
+! Last modified: 2025-01-15T12:43:31.254Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -29642,6 +29642,7 @@
 ||affiliate.dtiserv.com^
 ||affiliates.cupidplc.com^
 ||affiliates.thrixxx.com^
+||apps.dfgtfv.com^
 ||asg.aphex.me^
 ||asg.bhabhiporn.pro^
 ||asg.irontube.net^

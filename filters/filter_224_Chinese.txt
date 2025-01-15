@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-15T06:30:33.840Z
+! Last modified: 2025-01-15T12:43:33.764Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -153,6 +153,7 @@
 ||17282.org^
 ||btcili.top^
 ||04o.fun^
+||nagvaxvy.com^
 ||lazzrv.icu^
 ||geinkroll.com^
 ||wusfa.xyz^
