@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-14T18:29:41.330Z
+! Last modified: 2025-01-15T01:44:59.779Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -24,6 +24,13 @@
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||zxpaa.xyz^
+||etallkiq.com^
+||tbyfz.xyz^
+||rqvrbf.icu^
+||tovbus.cn^
+||17282.org^
+||btcili.top^
 ||lazzrv.icu^
 ||geinkroll.com^
 ||wusfa.xyz^
