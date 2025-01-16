@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-16T01:44:27.271Z
+! Last modified: 2025-01-16T06:30:27.862Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -151,6 +151,7 @@
 ||cralphal.com^
 ||ptrmnx.icu^
 ||iwpkp.xyz^
+||4gu.fun^
 ||zxpaa.xyz^
 ||etallkiq.com^
 ||tbyfz.xyz^

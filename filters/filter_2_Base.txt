@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-16T01:44:31.429Z
+! Last modified: 2025-01-16T06:30:31.948Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -6013,12 +6013,9 @@ rgmechanicsgames.com*VPN.exe
 -ad-458x80.
 -ad-sidebar.
 -ad-util.
--ad.jpg.pagespeed.
 -ads-banner.
 -ads-bottom.
--display-ads.
 -footerads.
--page-ad.
 -PcmModule-Taboola-
 -popexit.
 -popunder.
@@ -6027,10 +6024,8 @@ rgmechanicsgames.com*VPN.exe
 -sponsor-ad.
 -top-ads.
 -Web-Advert.
-.adrotate.
 .ads-lazy.
 .ads.controller.
-.ads.css
 .adsbox.
 .clkads.
 .lazyload-ad-
@@ -15716,6 +15711,7 @@ rgmechanicsgames.com*VPN.exe
 ||foulfurnished.com^
 ||foundationhemispherebossy.com^
 ||foundationhorny.com^
+||foupeestokiy.net^
 ||foupeethaija.com^
 ||fourteenthcongratulate.com^
 ||fouwheepoh.com^
@@ -21096,6 +21092,7 @@ rgmechanicsgames.com*VPN.exe
 ||measuredshared.com^
 ||measuringcabinetclerk.com^
 ||measuringrules.com^
+||meatabdicatedelicatessen.com^
 ||meawo.cloud^
 ||mechaelpaceway.com^
 ||mechanicalcardiac.com^
@@ -25077,6 +25074,7 @@ rgmechanicsgames.com*VPN.exe
 ||privacycounter.com^
 ||privacynicerresumed.com^
 ||privacysearching.com^
+||private-stage.com^
 ||privateappealingsymphony.com^
 ||privatelydevotionrewind.com^
 ||privilegedmansfieldvaguely.com^
@@ -27967,6 +27965,7 @@ rgmechanicsgames.com*VPN.exe
 ||sherryfaithfulhiring.com^
 ||shertuwipsumt.net^
 ||sheschemetraitor.com^
+||shetchoultoocha.net^
 ||shexawhy.net^
 ||shfewojrmxpy.xyz^
 ||shfsdvc.com^
@@ -29056,6 +29055,7 @@ rgmechanicsgames.com*VPN.exe
 ||stixeepou.com^
 ||stjpezyt.com^
 ||stoachaigog.com^
+||stoachdarts.com^
 ||stoadivap.com^
 ||stoaglauksargoo.xyz^
 ||stoagnejums.net^

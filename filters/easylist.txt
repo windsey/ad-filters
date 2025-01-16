@@ -1,18 +1,15 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-16T01:44:24.700Z
+! Last modified: 2025-01-16T06:30:25.321Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 -ad-458x80.
 -ad-sidebar.
 -ad-util.
--ad.jpg.pagespeed.
 -ads-banner.
 -ads-bottom.
--display-ads.
 -footerads.
--page-ad.
 -PcmModule-Taboola-
 -popexit.
 -popunder.
@@ -21,10 +18,8 @@
 -sponsor-ad.
 -top-ads.
 -Web-Advert.
-.adrotate.
 .ads-lazy.
 .ads.controller.
-.ads.css
 .adsbox.
 .clkads.
 .lazyload-ad-
@@ -9789,6 +9784,7 @@
 ||foulfurnished.com^
 ||foundationhemispherebossy.com^
 ||foundationhorny.com^
+||foupeestokiy.net^
 ||foupeethaija.com^
 ||fourteenthcongratulate.com^
 ||fouwheepoh.com^
@@ -15237,6 +15233,7 @@
 ||measuredshared.com^
 ||measuringcabinetclerk.com^
 ||measuringrules.com^
+||meatabdicatedelicatessen.com^
 ||meatjav11.fun^
 ||meawo.cloud^
 ||mechaelpaceway.com^
@@ -19270,6 +19267,7 @@
 ||privacycounter.com^
 ||privacynicerresumed.com^
 ||privacysearching.com^
+||private-stage.com^
 ||privateappealingsymphony.com^
 ||privatelydevotionrewind.com^
 ||privilegedmansfieldvaguely.com^
@@ -22195,6 +22193,7 @@
 ||sherryfaithfulhiring.com^
 ||shertuwipsumt.net^
 ||sheschemetraitor.com^
+||shetchoultoocha.net^
 ||shexawhy.net^
 ||shfewojrmxpy.xyz^
 ||shfsdvc.com^
@@ -23290,6 +23289,7 @@
 ||stixeepou.com^
 ||stjpezyt.com^
 ||stoachaigog.com^
+||stoachdarts.com^
 ||stoadivap.com^
 ||stoaglauksargoo.xyz^
 ||stoagnejums.net^
