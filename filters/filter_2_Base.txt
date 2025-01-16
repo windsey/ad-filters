@@ -1,9 +1,11 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-16T06:30:31.948Z
+! Last modified: 2025-01-16T12:43:05.298Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
+
+||reachableads-av.*.amazonaws.com^
 ||news.jennydanny.com^
 ||u57.muzikguide.com^
 ||9pub.io^
