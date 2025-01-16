@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-16T12:42:58.695Z
+! Last modified: 2025-01-16T18:29:35.985Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -12,19 +12,12 @@
 -footerads.
 -PcmModule-Taboola-
 -popexit.
--popunder.
--publicidad.
 -right-ad.
 -sponsor-ad.
--top-ads.
 -Web-Advert.
 .ads-lazy.
 .ads.controller.
-.adsbox.
 .clkads.
-.lazyload-ad-
-.lazyload-ad.
-.nativeads.
 ://a.ads.
 ://ad-api-
 ://ad1.
@@ -35,7 +28,6 @@
 ://aff-ads.
 ://oascentral.
 -dfp-prebid-
-.prebid-bundle.
 -120-600.
 -120x600-
 -120x600.
@@ -4005,6 +3997,7 @@
 ||bitx.tv^
 ||biunialpawnie.top^
 ||biuskye.com^
+||biuyuximbrutr.com^
 ||bivos.xyz^
 ||biwipuque.com^
 ||bizographics.com^
@@ -8645,6 +8638,7 @@
 ||erniphiq.com^
 ||ero-advertising.com^
 ||ero-cupid.com^
+||ero-vtuber.com^
 ||erofherlittleboy.com^
 ||erosionyonderviolate.com^
 ||erosyndc.com^
@@ -13732,6 +13726,7 @@
 ||kolerevprivatedqu.com^
 ||koleyo.xyz^
 ||kolkwi4tzicraamabilis.com^
+||kolleqasforsale.com^
 ||kologyrtyndwean.info^
 ||koluraishimtouw.net^
 ||komarchlupoid.com^
@@ -18249,6 +18244,7 @@
 ||peasbishopgive.com^
 ||pebadu.com^
 ||pebbleoutgoing.com^
+||pecantinglytripod.com^
 ||pecialukizeias.info^
 ||pecifyspacing.com^
 ||peckrespectfully.com^
@@ -18682,6 +18678,7 @@
 ||pjsos.xyz^
 ||pjtoaewbccpchu.com^
 ||pjvartonsbewand.info^
+||pjwfihbmwq.com^
 ||pk0grqf29.com^
 ||pk910324e.com^
 ||pkazd.xyz^
@@ -20134,6 +20131,7 @@
 ||querysteer.com^
 ||quesid.com^
 ||questeelskin.com^
+||questioningcomplimentarypotato.com^
 ||questioningexperimental.com^
 ||questioningsanctifypuberty.com^
 ||questioningtosscontradiction.com^
@@ -21837,6 +21835,7 @@
 ||seaboblit.com^
 ||seafoodclickwaited.com^
 ||seafooddiscouragelavishness.com^
+||seafoodmesarch.top^
 ||sealeryshilpit.com^
 ||sealthatleak.com^
 ||seamanphaseoverhear.com^
@@ -22434,6 +22433,7 @@
 ||siruperunlinks.com^
 ||sirwcniydewu.com^
 ||sisewepod.com^
+||sisfulylydevelope.com^
 ||sismoycheii.cc^
 ||sisteraboveaddition.com^
 ||sisterexpendabsolve.com^

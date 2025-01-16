@@ -1,10 +1,9 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-16T12:43:05.298Z
+! Last modified: 2025-01-16T18:29:42.616Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
-
 ||reachableads-av.*.amazonaws.com^
 ||news.jennydanny.com^
 ||u57.muzikguide.com^
@@ -621,7 +620,6 @@
 ||givebacks25.fun^
 ||glass.rubyrevenue.com^
 ||globalize25.fun^
-||go.ero-vtuber.com^
 ||go.showmeyouradsnow.com^
 ||goallbest.com^
 ||godogle.steeelm.online^
@@ -6020,19 +6018,12 @@ rgmechanicsgames.com*VPN.exe
 -footerads.
 -PcmModule-Taboola-
 -popexit.
--popunder.
--publicidad.
 -right-ad.
 -sponsor-ad.
--top-ads.
 -Web-Advert.
 .ads-lazy.
 .ads.controller.
-.adsbox.
 .clkads.
-.lazyload-ad-
-.lazyload-ad.
-.nativeads.
 ://a.ads.
 ://ad-api-
 ://ad1.
@@ -6043,7 +6034,6 @@ rgmechanicsgames.com*VPN.exe
 ://aff-ads.
 ://oascentral.
 -dfp-prebid-
-.prebid-bundle.
 -120-600.
 -120x600-
 -120x600.
@@ -9972,6 +9962,7 @@ rgmechanicsgames.com*VPN.exe
 ||bitx.tv^
 ||biunialpawnie.top^
 ||biuskye.com^
+||biuyuximbrutr.com^
 ||bivos.xyz^
 ||biwipuque.com^
 ||bizographics.com^
@@ -14581,6 +14572,7 @@ rgmechanicsgames.com*VPN.exe
 ||erniphiq.com^
 ||ero-advertising.com^
 ||ero-cupid.com^
+||ero-vtuber.com^
 ||erofherlittleboy.com^
 ||erosionyonderviolate.com^
 ||erosyndc.com^
@@ -19608,6 +19600,7 @@ rgmechanicsgames.com*VPN.exe
 ||kolerevprivatedqu.com^
 ||koleyo.xyz^
 ||kolkwi4tzicraamabilis.com^
+||kolleqasforsale.com^
 ||kologyrtyndwean.info^
 ||koluraishimtouw.net^
 ||komarchlupoid.com^
@@ -24070,6 +24063,7 @@ rgmechanicsgames.com*VPN.exe
 ||peasbishopgive.com^
 ||pebadu.com^
 ||pebbleoutgoing.com^
+||pecantinglytripod.com^
 ||pecialukizeias.info^
 ||pecifyspacing.com^
 ||peckrespectfully.com^
@@ -24499,6 +24493,7 @@ rgmechanicsgames.com*VPN.exe
 ||pjqchcfwtw.com^
 ||pjtoaewbccpchu.com^
 ||pjvartonsbewand.info^
+||pjwfihbmwq.com^
 ||pk0grqf29.com^
 ||pk910324e.com^
 ||pkazd.xyz^
@@ -25938,6 +25933,7 @@ rgmechanicsgames.com*VPN.exe
 ||querysteer.com^
 ||quesid.com^
 ||questeelskin.com^
+||questioningcomplimentarypotato.com^
 ||questioningexperimental.com^
 ||questioningsanctifypuberty.com^
 ||questioningtosscontradiction.com^
@@ -27614,6 +27610,7 @@ rgmechanicsgames.com*VPN.exe
 ||seaboblit.com^
 ||seafoodclickwaited.com^
 ||seafooddiscouragelavishness.com^
+||seafoodmesarch.top^
 ||sealeryshilpit.com^
 ||sealthatleak.com^
 ||seamanphaseoverhear.com^
@@ -28206,6 +28203,7 @@ rgmechanicsgames.com*VPN.exe
 ||siruperunlinks.com^
 ||sirwcniydewu.com^
 ||sisewepod.com^
+||sisfulylydevelope.com^
 ||sismoycheii.cc^
 ||sisteraboveaddition.com^
 ||sisterexpendabsolve.com^

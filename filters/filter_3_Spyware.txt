@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-16T12:43:06.482Z
+! Last modified: 2025-01-16T18:29:43.790Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -44013,6 +44013,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||hikari.jiocinema.com^
 ||s.c-ctrip.com^
 ||ma-adx.ctrip.com^
 ||logs.mezmo.com^
@@ -46785,6 +46786,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||spider-tracker.xiaohongshu.com^
 ||tp2p.kg.qq.com^
 ||twns.p2ptun.qq.com^
 ||nstool.netease.com^
