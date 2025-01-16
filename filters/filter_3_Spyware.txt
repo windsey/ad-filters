@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-15T18:28:59.579Z
+! Last modified: 2025-01-16T01:44:32.600Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||log-auth.zztfly.com^
 ||analytics.bitchute.com^
 ||stream.datago.ru^
 ||pabidding.io^
@@ -46784,6 +46785,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||tp2p.kg.qq.com^
+||twns.p2ptun.qq.com^
 ||nstool.netease.com^
 ||data.kuiniuca.com^
 ||clientlogsf.music.163.com^
