@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-17T06:30:31.865Z
+! Last modified: 2025-01-17T12:42:10.495Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -27,6 +27,8 @@
 ||lagzoids.com^
 ||njnhzh.icu^
 ||8u0.fun^
+||pheetuth.com^
+||4ve.fun^
 ||ztgha.xyz^
 ||djsxm.xyz^
 ||0vc.fun^

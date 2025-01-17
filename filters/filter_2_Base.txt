@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-17T06:30:38.136Z
+! Last modified: 2025-01-17T12:42:16.778Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -5633,6 +5633,9 @@
 ||static.pureadsltd.com^
 ||static.uzlifat.com^
 
+||vtrk.dv.tech^
+||cdn-media.brightline.tv^
+||mt.ssai.peacocktv.com^
 ||ads.cloudsight.ai^
 ||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 ||openx.tiesraides.lv^

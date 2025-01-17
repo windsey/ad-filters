@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-17T06:30:33.434Z
+! Last modified: 2025-01-17T12:42:12.064Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -96,7 +96,6 @@
 ||tapulsads.ru^
 ||httpdns.bilivideo.com^
 ||dataflow.biliapi.com^
-||grpc.biliapi.net^
 ||ads.adinmotech.com^
 ||kvaedit.site^
 ||ads-ap-venues.yinzcam.com^
