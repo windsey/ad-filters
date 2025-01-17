@@ -1,23 +1,14 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-17T12:42:10.162Z
+! Last modified: 2025-01-17T18:29:27.717Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
--ad-458x80.
--ad-sidebar.
 -ad-util.
--ads-banner.
 -ads-bottom.
 -footerads.
--PcmModule-Taboola-
--popexit.
--right-ad.
 -sponsor-ad.
--Web-Advert.
-.ads-lazy.
 .ads.controller.
-.clkads.
 ://a.ads.
 ://ad-api-
 ://ad1.
@@ -27,7 +18,6 @@
 ://adsserver.
 ://aff-ads.
 ://oascentral.
--dfp-prebid-
 -120-600.
 -120x600-
 -120x600.
@@ -28669,6 +28659,7 @@
 ||pics.firstload.de^
 ||pips.taboola.com^
 ||popmog.com^
+||prebid.cwi.re^
 ||promos.fling.com^
 ||protected-redirect.click^
 ||proto2ad.durasite.net^
@@ -29868,6 +29859,7 @@
 ||cintent.streanplay.
 ||a.seksohub.com^
 ||aa.fapnado.xxx^
+||ab.fapnado.xxx^
 ||ad.pornutopia.org^
 ||adf.uhn.cx^
 ||adrotic.girlonthenet.com^
