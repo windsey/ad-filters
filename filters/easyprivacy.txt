@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-17T01:43:45.940Z
+! Last modified: 2025-01-17T06:30:32.828Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -880,6 +880,7 @@
 ||event.syndigo.cloud^
 ||event.webcollage.net^
 ||eventapi.libring.com^
+||eventcollector.mcf-prod.a.intuit.com^
 ||eventgateway.soundcloud.com^
 ||eventlog.chatlead.com^
 ||eventlog.inspsearchapi.com^
