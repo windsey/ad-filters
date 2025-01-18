@@ -1,12 +1,9 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-18T06:28:04.965Z
+! Last modified: 2025-01-18T12:39:04.482Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
--ad-util.
--ads-bottom.
-.ads.controller.
 ://a.ads.
 ://ad-api-
 ://ad1.
@@ -27742,6 +27739,7 @@
 ||yoomanies.com^
 ||yopard.com^
 ||yoredi.com^
+||yorkvillemarketing.net^
 ||yoshatia.com^
 ||yottacash.com^
 ||you4cdn.com^
