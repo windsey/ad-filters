@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-18T18:27:18.440Z
+! Last modified: 2025-01-19T01:51:14.981Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -128,6 +128,7 @@
 ||dm-event.net^
 ||dmepyodjotcuks.com^
 ||dmpxs.com^
+||domself.de^
 ||doublestat.info^
 ||dspx.tv^
 ||dttrk.com^
@@ -1786,6 +1787,7 @@
 ||analytics.idfnet.net^
 ||analytics.media-proweb.de^
 ||artemis-cdn.ocdn.eu^
+||ats.otto.de^
 ||beagle.prod.tda.link^
 ||blacktri-a.akamaihd.net^
 ||cgicounter.onlinehome.de^
@@ -38731,6 +38733,7 @@
 ||zombieslayer-alternate.kano.link^
 ||zombieslayer.kano.link^
 ||1438976156.recolution.de^
+||absys.web.de^
 ||agnes.waz.de^
 ||analytics.adliners.de^
 ||analytics.daasrv.net^
