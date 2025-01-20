@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-19T18:27:11.366Z
+! Last modified: 2025-01-20T01:46:46.377Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -11,7 +11,6 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
-||flippback.com^
 ||log-auth.zztfly.com^
 ||analytics.bitchute.com^
 ||stream.datago.ru^
@@ -44014,6 +44013,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||frontend-logger.flippback.com^
 ||analytics.nike.com^
 ||hikari.jiocinema.com^
 ||s.c-ctrip.com^
