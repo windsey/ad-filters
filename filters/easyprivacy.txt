@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-20T06:31:43.319Z
+! Last modified: 2025-01-20T12:44:38.105Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -1106,6 +1106,7 @@
 ||nwr.static.mmcdn.com^
 ||observe-nexus.pointandplace.com^
 ||observer.ip-label.net^
+||obseu.netgreencolumn.com^
 ||oda.markitondemand.com^
 ||olytics.omeda.com^
 ||onespot-tracking.herokuapp.com^
