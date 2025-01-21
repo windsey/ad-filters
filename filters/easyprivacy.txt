@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-21T01:44:31.521Z
+! Last modified: 2025-01-21T06:30:53.143Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -2135,6 +2135,7 @@
 ||assets.datarize.ai^
 ||cm-exchange.toast.com^
 ||dadispapi.gmarket.co.kr^
+||dco.coupang.com^
 ||dtr-onsite-feed.datarize.ai^
 ||event.hackle.io^
 ||log.adplex.co.kr^
