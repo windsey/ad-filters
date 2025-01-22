@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-22T06:31:40.230Z
+! Last modified: 2025-01-22T12:44:24.003Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -44959,6 +44959,11 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||metricreceiver.cellrebel.com^
+||events.app-performance.music.amazon.dev^
+||collector-*.px-client.net^
+||metrics-a.wbx2.com^
+||event.msi.com^
 ||dco.coupang.com^
 ||clickstream-*.homedepot.com^
 ||mr.homedepot.com^
