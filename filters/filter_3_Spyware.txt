@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-23T06:30:52.095Z
+! Last modified: 2025-01-23T12:44:18.769Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -44960,6 +44960,9 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||egg.afisha.ru^
+||tracking-app.diginetica.net^
+||c.us.heap-api.com^
 ||apay-us.amazon.com^
 ||logging.g.sst.secureserver.net^
 ||metricreceiver.cellrebel.com^

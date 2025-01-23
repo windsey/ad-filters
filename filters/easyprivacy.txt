@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-23T06:30:45.488Z
+! Last modified: 2025-01-23T12:44:12.186Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -1365,6 +1365,7 @@
 ||t.channeladvisor.com^
 ||t.clic2buy.com^
 ||t.cometlytrack.com^
+||t.commandbar.com^
 ||t.enuygun.com^
 ||t.fullres.net^
 ||t.ghostboard.io^
