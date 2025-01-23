@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-22T18:31:41.815Z
+! Last modified: 2025-01-23T01:45:09.534Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -39345,4 +39345,5 @@
 ||pixel.coccoc.com^
 ||track-srv.vietnamnet.vn^
 @@||cbsi.map.fastly.net^
+@@||content.ingbank.pl^
 @@||wwwimage-tve.cbsstatic.com^

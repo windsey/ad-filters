@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-22T18:31:43.051Z
+! Last modified: 2025-01-23T01:45:10.725Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -151,6 +151,7 @@
 ||01221sop.xyz^
 ||thangrurs.com^
 ||m4r.fun^
+||scrorlaets.com^
 ||y0o.fun^
 ||icokamio.top^
 ||thrumulr.com^
