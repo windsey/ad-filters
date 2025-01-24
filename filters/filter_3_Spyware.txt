@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-24T12:42:41.404Z
+! Last modified: 2025-01-24T18:30:27.768Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||event.dfinery.io^
 ||wsknow.net^
 ||api.taggrs.io^
 ||obseu.netgreencolumn.com^
