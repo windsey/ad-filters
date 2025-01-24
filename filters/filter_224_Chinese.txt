@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-24T01:45:19.909Z
+! Last modified: 2025-01-24T06:30:51.301Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -149,6 +149,9 @@
 ||kruraits.com^
 ||6lx.fun^
 ||brerkols.com^
+||pevpbx.icu^
+||e1s.fun^
+||nvpokyko.icu^
 ||scigzetg.com^
 ||bjfsk.xyz^
 ||jltwxisa.icu^
