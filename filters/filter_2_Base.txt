@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-24T06:30:55.444Z
+! Last modified: 2025-01-24T12:42:40.150Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -13059,6 +13059,7 @@ rgmechanicsgames.com*VPN.exe
 ||delusionpenal.com^
 ||delutza.com^
 ||deluxe-download.com^
+||delveactivity.com^
 ||demanding-application.pro^
 ||demba.xyz^
 ||demeanourgrade.com^
@@ -31761,6 +31762,7 @@ rgmechanicsgames.com*VPN.exe
 ||vanirausones.shop^
 ||vanishedentrails.com^
 ||vanishedpatriot.com^
+||vannaxacqpm.com^
 ||vapedia.com^
 ||vapjcusfua.com^
 ||vapourfertile.com^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-24T06:30:49.139Z
+! Last modified: 2025-01-24T12:42:33.767Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -32,6 +32,7 @@
 ||pevpbx.icu^
 ||e1s.fun^
 ||nvpokyko.icu^
+||xulkervf.com^
 ||scigzetg.com^
 ||bjfsk.xyz^
 ||jltwxisa.icu^

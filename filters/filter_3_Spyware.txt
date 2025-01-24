@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-24T06:30:56.658Z
+! Last modified: 2025-01-24T12:42:41.404Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -20,7 +20,6 @@
 ||pabidding.io^
 ||danatrak.com^
 ||optiyield.opti-digital.com^
-||volces.com^
 ||twitter.sx^
 ||lf1-cdn-tos.bytegoofy.com^
 ||view.mngusr.com^
@@ -44960,6 +44959,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||apmplus.ap-southeast-1.volces.com^
 ||pixels.argusplatform.com^
 ||egg.afisha.ru^
 ||tracking-app.diginetica.net^
