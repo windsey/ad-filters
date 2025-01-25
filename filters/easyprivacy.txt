@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-25T01:40:47.766Z
+! Last modified: 2025-01-25T06:28:11.877Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -1342,6 +1342,7 @@
 ||statsjs.klevu.com^
 ||statt-collect.herokuapp.com^
 ||stg-data-collector.playbuzz.com^
+||stk.px-cloud.net^
 ||stream-log.dditscdn.com^
 ||streams.cablecar.sph.com.sg^
 ||sts.eccmp.com^
