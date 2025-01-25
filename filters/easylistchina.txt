@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-25T06:28:10.920Z
+! Last modified: 2025-01-25T12:38:49.963Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -28,6 +28,8 @@
 ||vhrhnh.icu^
 ||7mk.fun^
 ||bnfectkp.icu^
+||xudaiklj.com^
+||6oj.fun^
 ||01240sop.xyz^
 ||01231sop.xyz^
 ||kruraits.com^
