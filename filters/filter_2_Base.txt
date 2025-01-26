@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-26T12:38:47.241Z
+! Last modified: 2025-01-26T18:28:10.853Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -34378,6 +34378,7 @@ rgmechanicsgames.com*VPN.exe
 ||605efe.xyz^
 ||62842068.xyz^
 ||634369.xyz^
+||63801782.xyz^
 ||6471e7f7.xyz^
 ||65035033.xyz^
 ||65122038.xyz^
