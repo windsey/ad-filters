@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-26T01:47:53.433Z
+! Last modified: 2025-01-26T06:28:24.384Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -28466,6 +28466,7 @@
 ||00771944.xyz^
 ||00857731.xyz^
 ||01045395.xyz^
+||02085170.xyz^
 ||02777e.site^
 ||03180d2d.live^
 ||0395d1.xyz^
@@ -28548,6 +28549,7 @@
 ||4602306b.xyz^
 ||46276192.xyz^
 ||466c4d0f.xyz^
+||47206262.xyz^
 ||47235645.xyz^
 ||47296536.xyz^
 ||47415889.xyz^
@@ -28577,6 +28579,7 @@
 ||5fd6bc.xyz^
 ||60571086.xyz^
 ||605efe.xyz^
+||62842068.xyz^
 ||634369.xyz^
 ||6471e7f7.xyz^
 ||65035033.xyz^
