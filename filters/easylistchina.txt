@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-27T12:44:22.440Z
+! Last modified: 2025-01-27T18:30:24.865Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -31,6 +31,7 @@
 ||as01271kkp.xyz^
 ||veilengh.com^
 ||fcbdpock.icu^
+||t2s.fun^
 ||qaemphaels.com^
 ||vhrhnh.icu^
 ||7mk.fun^
