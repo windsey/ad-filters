@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-27T18:30:32.738Z
+! Last modified: 2025-01-28T01:44:32.443Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -45739,7 +45739,6 @@
 ||egg.afisha.ru^
 ||tracking-app.diginetica.net^
 ||c.us.heap-api.com^
-||apay-us.amazon.com^
 ||logging.g.sst.secureserver.net^
 ||metricreceiver.cellrebel.com^
 ||events.app-performance.music.amazon.dev^
