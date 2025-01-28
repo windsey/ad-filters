@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-28T06:30:48.903Z
+! Last modified: 2025-01-28T12:42:58.384Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -1169,6 +1169,7 @@
 ||pl.connatix.com^
 ||pla.fwdcdn.com^
 ||platform.iteratehq.com^
+||plausible.flamekiller.org^
 ||plausible.server.hakai.app^
 ||play.adtonos.com^
 ||player-metrics.instaread.co^

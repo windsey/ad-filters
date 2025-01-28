@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-28T06:30:55.634Z
+! Last modified: 2025-01-28T12:43:05.083Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||plausible.flamekiller.org^
 ||mktp-base.mktplatforms.com^
 ||event.dfinery.io^
 ||wsknow.net^
@@ -45734,6 +45735,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||fnl.quizizz.com^
+||jg7y.quizlet.com^
 ||apmplus.ap-southeast-1.volces.com^
 ||pixels.argusplatform.com^
 ||egg.afisha.ru^
