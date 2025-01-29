@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-29T01:44:37.151Z
+! Last modified: 2025-01-29T06:30:37.263Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -154,6 +154,8 @@
 ||vtbkhl.icu^
 ||vmxvcjuf.icu^
 ||jdinmia.top^
+||0592.mobi^
+||kdinmid.top^
 ||hdinmiu.top^
 ||xxsmad5.com^
 ||hostolhg.com^

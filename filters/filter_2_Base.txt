@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-29T01:44:41.404Z
+! Last modified: 2025-01-29T06:30:41.490Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -20738,6 +20738,7 @@ rgmechanicsgames.com*VPN.exe
 ||losingfunk.com^
 ||losingoldfry.com^
 ||losingtiger.com^
+||losobo.xyz^
 ||lossactivity.com^
 ||lostdormitory.com^
 ||lostinfuture.com^
