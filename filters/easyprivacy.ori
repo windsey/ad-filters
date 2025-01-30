@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: P1y8rNmHPmd5dVs+bvJDgQ
-! Version: 202501300621
+! Checksum: VfWsGde57ql0uohR9rLyLA
+! Version: 202501301231
 ! Title: EasyPrivacy
-! Last modified: 30 Jan 2025 06:21 UTC
+! Last modified: 30 Jan 2025 12:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13,7 +13,7 @@
 !
 !-----------------General tracking systems-----------------!
 ! *** easylist:easyprivacy/easyprivacy_general.txt ***
-&action=js_stats&
+&action=js_stats
 &ev=PageView&
 &EventType=DataDealImpression&
 &EventType=Impression&
@@ -10717,6 +10717,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||acclog002.shop-pro.jp^
 ||actagtracker.jp/tag
 ||ad.daum.net^
+||admin.blog.fc2.com/dctanalyzer.php
 ||affiliate.rakuten.co.jp^$script,third-party
 ||analytics-beacon.p.uliza.jp^
 ||analytics.contents.by-fw.jp^
@@ -11189,6 +11190,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.turk.pro^$third-party
 ||c.keltis.com^
 ||collector.wawlabs.com^
+||core.dehapi.com/ip.php
 ||daioncdn.net/events?
 ||eticaret.pro/pixel/
 ||hulyagedikci.com/vhit.php?
