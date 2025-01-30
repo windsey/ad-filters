@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-01-30T12:43:20.275Z
+! Last modified: 2025-01-30T18:30:04.606Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -28,6 +28,8 @@
 ||xedlxeuz.icu^
 ||twxftd.icu^
 ||k42.fun^
+||am0.fun^
+||strilqoill.com^
 ||v4p.fun^
 ||addalzq.com^
 ||6qo.fun^
