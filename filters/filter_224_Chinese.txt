@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-01T06:29:30.298Z
+! Last modified: 2025-02-01T12:38:58.826Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -150,6 +150,7 @@
 ||tbbfdr.icu^
 ||oveakmqk.com^
 ||lsxvnzif.icu^
+||iedullkg.com^
 ||begoihuh.com^
 ||rmtxdn.icu^
 ||pw2.fun^
