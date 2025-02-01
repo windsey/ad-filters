@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-01T01:49:49.207Z
+! Last modified: 2025-02-01T06:29:30.298Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -179,6 +179,7 @@
 ||4zn.fun^
 ||rajxjj.icu^
 ||tuhmkjce.icu^
+||as02010kkp.xyz^
 ||as01280kkp.xyz^
 ||as01271kkp.xyz^
 ||as01281kkp.xyz^
