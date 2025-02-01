@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-01T12:39:04.324Z
+! Last modified: 2025-02-01T18:27:13.244Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -45736,6 +45736,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||log-upload-os.hoyoverse.com^
 ||analytics.avcdn.net^
 ||pbc.wsj.com^
 ||tracking.api.shoppinggives.com^
@@ -48818,7 +48819,6 @@ inapps.appsflyersdk.com^
 ||apm-log-upload-os.hoyoverse.com^
 ||devlog-upload-os.hoyoverse.com^
 ||hkrpg-log-upload-os.hoyoverse.com^
-||log-upload-os.hoyoverse.com^
 ||minor-api-os.hoyoverse.com^
 ||overseauspider.yuanshen.com^
 ||sentry.eks.hoyoverse.com^
