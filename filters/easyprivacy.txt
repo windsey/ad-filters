@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-02T12:38:38.758Z
+! Last modified: 2025-02-02T18:28:52.121Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -963,6 +963,7 @@
 ||gsp1.baidu.com^
 ||gtmfsstatic.getgoogletagmanager.com^
 ||gtrk.s3.amazonaws.com^
+||gw.conversionsapigateway.com^
 ||happen.spkt.io^
 ||harvest.graindata.com^
 ||hb.vhsrv.com^
