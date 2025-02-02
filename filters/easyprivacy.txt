@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-02T06:28:11.237Z
+! Last modified: 2025-02-02T12:38:38.758Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -38967,6 +38967,7 @@
 ||improving.wuzhuiso.com^
 ||jcmonitor.xcar.com.cn^
 ||l.web.huya.com^
+||log-upload-os.hoyolab.com^
 ||log-upload-os.hoyoverse.com^
 ||log.bitauto.com^
 ||log.flight.qunar.com^

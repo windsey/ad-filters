@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-02T06:28:10.273Z
+! Last modified: 2025-02-02T12:38:37.788Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -27,6 +27,7 @@
 ||feronyv.com^
 ||rrxapb.icu^
 ||zkdefuiz.icu^
+||gumnus.com^
 ||tbbfdr.icu^
 ||oveakmqk.com^
 ||lsxvnzif.icu^
