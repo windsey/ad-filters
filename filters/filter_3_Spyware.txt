@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-03T01:46:23.685Z
+! Last modified: 2025-02-03T06:31:40.551Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -45737,6 +45737,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||apollo.miniclip.com^
 ||mega.mydealz.de^
 ||log-upload-os.hoyolab.com^
 ||log-upload-os.hoyoverse.com^
