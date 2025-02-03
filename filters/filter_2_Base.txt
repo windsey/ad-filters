@@ -1,9 +1,10 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-02T18:28:57.701Z
+! Last modified: 2025-02-03T01:46:22.423Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
+||humiliatingregion.com^
 ||sapsobughoatch.net^
 ||xszjh.tech^
 ||vamqt.vip^
@@ -10770,7 +10771,6 @@ rgmechanicsgames.com*VPN.exe
 ||bulky-battle.com^
 ||bulkyfriend.com^
 ||bull3t.co^
-||bullads.net^
 ||bulletinwarmingtattoo.com^
 ||bulletproxy.ch^
 ||bullfeeding.com^

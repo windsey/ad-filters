@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-02T18:28:53.387Z
+! Last modified: 2025-02-03T01:46:18.114Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -151,6 +151,9 @@
 ||rrxapb.icu^
 ||zkdefuiz.icu^
 ||gumnus.com^
+||krirkroins.com^
+||xutvbt.icu^
+||bctuapia.icu^
 ||tbbfdr.icu^
 ||oveakmqk.com^
 ||lsxvnzif.icu^

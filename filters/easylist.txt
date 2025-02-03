@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-02T18:28:50.772Z
+! Last modified: 2025-02-03T01:46:15.622Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -4676,7 +4676,6 @@
 ||bulky-battle.com^
 ||bulkyfriend.com^
 ||bull3t.co^
-||bullads.net^
 ||bulletinwarmingtattoo.com^
 ||bulletproxy.ch^
 ||bullfeeding.com^
