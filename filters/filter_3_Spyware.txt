@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-03T06:31:40.551Z
+! Last modified: 2025-02-03T12:43:35.648Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -45737,6 +45737,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||utiq.actu.fr^
 ||apollo.miniclip.com^
 ||mega.mydealz.de^
 ||log-upload-os.hoyolab.com^
@@ -48540,6 +48541,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||jpush.io^
 ||datacollector-drru.dt.dbankcloud.ru^
 ||ulog*.kwai-pro.com^
 ||spider-tracker.xiaohongshu.com^
