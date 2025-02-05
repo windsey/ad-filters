@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6D8LH4H/HdxL+aTchKG8qA
-! Version: 202502041821
+! Checksum: uzOqdziY0JO9nHfFcb3hHg
+! Version: 202502050131
 ! Title: EasyList
-! Last modified: 04 Feb 2025 18:21 UTC
+! Last modified: 05 Feb 2025 01:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56395,6 +56395,7 @@ radiome.ar,radiome.at,radiome.bo,radiome.ch,radiome.cl,radiome.com.do,radiome.co
 deccanherald.com###topbar > .hide-desktop + div
 armenpress.am###topbnnr
 coinlean.com###topcontainer
+adultgamesworld.com###topmenu > .tt
 worldtimebuddy.com###toprek
 privacywall.org###topse
 semiconductor-today.com###topsection
@@ -59998,6 +59999,7 @@ cricketireland.ie##.sponsor-strip
 arizonasports.com,ktar.com##.sponsorBy
 cryptolovers.me##.sponsorContent
 blbclassic.org##.sponsorZone
+smartasset.com##.sponsorcalc-wrapper
 2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,dailymaverick.co.za,dailytarheel.com,duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion,dunyanews.tv,fifplay.com,freebmd.org.uk,hbr.org,herald.co.zw,lawandcrime.com,libhunt.com,motherjones.com,naval-technology.com,reviewjournal.com,saashub.com,samedicalspecialists.co.za,sportsbusinessjournal.com,statnews.com,stocksnap.io,thedp.com,timeslive.co.za##.sponsored
 newegg.com##.sponsored-brands
 crypto.news##.sponsored-button-group
@@ -61269,6 +61271,7 @@ linkedin.com##article[data-is-sponsored]
 xing.com##article[data-qa="disco-updates-video-ad"]
 xing.com##article[data-qa="disco-updates-website-ad"]
 greatist.com##aside
+adultgamesworld.com##aside .xoxo
 4runnerforum.com,acuraforums.com,blazerforum.com,buickforum.com,cadillacforum.com,camaroforums.com,cbrforum.com,chryslerforum.com,civicforums.com,corvetteforums.com,fordforum.com,germanautoforums.com,hondaaccordforum.com,hondacivicforum.com,hondaforum.com,hummerforums.com,isuzuforums.com,kawasakiforums.com,landroverforums.com,lexusforum.com,mazdaforum.com,mercuryforum.com,minicooperforums.com,mitsubishiforum.com,montecarloforum.com,mustangboards.com,nissanforum.com,oldsmobileforum.com,pontiactalk.com,saabforums.com,saturnforum.com,truckforums.com,volkswagenforum.com,volvoforums.com##aside > center
 everydayrussianlanguage.com##aside img[src^="/wp-content/themes/edr/img/"]
 vezod.com##av-adv-slot
