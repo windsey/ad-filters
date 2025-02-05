@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-05T12:44:54.667Z
+! Last modified: 2025-02-05T18:30:46.658Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -3884,6 +3884,7 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||code.wenbanzhu.com^
 ||reke.at.sohu.com^
 ||abc.ruodian360.com^
 ||hcirentgh.360doc.cn^
@@ -4209,7 +4210,6 @@
 ||cn.bidushe.com^
 ||cn6x.com^
 ||cod.southmoney.com^
-||code.bizdirlib.com^
 ||code.ditiezu.net^
 ||cp.7y7.com^
 ||cp.jfcdns.com^
