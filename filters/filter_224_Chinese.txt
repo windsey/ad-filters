@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-05T01:46:37.350Z
+! Last modified: 2025-02-05T06:30:58.286Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -151,6 +151,8 @@
 ||is02050qqp.xyz^
 ||is02041qqp.xyz^
 ||qhaccid.com^
+||tnlixn.icu^
+||u7y.pw^
 ||hdinmau.top^
 ||shaenphiks.com^
 ||feronyv.com^
