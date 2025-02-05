@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-05T06:31:03.864Z
+! Last modified: 2025-02-05T12:45:02.398Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -46036,6 +46036,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||ad-events.flashtalking.com^
 ||market-click-baobab.yandex.ru^
 ||mon-*.lemon8-app.com^
 ||mon-*.lemon8-app.us^

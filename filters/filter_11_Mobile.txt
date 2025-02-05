@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-05T06:30:57.691Z
+! Last modified: 2025-02-05T12:44:56.271Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -85,6 +85,10 @@
 ||startup.mobile.yandex.net^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
+||adx-sg-req.bridgeoos.com^
+||adx-os.bridgeoos.com^
+||api.kickoffo.site^
+||api.bridgeoos.com^
 ||r0.mail.ru^
 ||r0.mradx.net^
 ||serveraddr.service.kugou.com^

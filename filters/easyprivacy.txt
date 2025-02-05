@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-05T06:30:57.080Z
+! Last modified: 2025-02-05T12:44:55.647Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -675,6 +675,7 @@
 ||az.nzn.io^
 ||az693360.vo.msecnd.net^
 ||b.bedop.com^
+||b.trueanthem.com^
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||barium.cheezdev.com^
 ||bat.bing.com^
