@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-05T18:30:54.469Z
+! Last modified: 2025-02-06T01:46:54.056Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||applicationinsights.azure.com^
 ||analytics.sve.cc^
 ||api.taboola.sve.cc^
 ||identitypxl.app^
@@ -46038,6 +46039,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||fourier.aliexpress.com^
+||sofire.1024tera.com^
 ||ad-events.flashtalking.com^
 ||market-click-baobab.yandex.ru^
 ||mon-*.lemon8-app.com^
