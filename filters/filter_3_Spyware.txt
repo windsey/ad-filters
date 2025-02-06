@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-06T06:32:45.252Z
+! Last modified: 2025-02-06T12:45:09.836Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -46974,7 +46974,6 @@
 ||stats.seotraff.team^
 ||stats.landingi.com^
 ||trek.powtoon.com^
-||biv.gazeta.pl^
 ||analytics.ngs55.ru^
 ||dgcollector.evidon.com^
 ||stats.video.globo.com^
@@ -48712,6 +48711,7 @@ directtrack.*.js
 .histats.*.js
 .hit.gemius.*.js
 .hit.stat24.
+||biv.gazeta.pl^
 ||dygassets.dygdigital.com^
 ||analytics.chita.ru^
 ||metrics.ainews.kz^

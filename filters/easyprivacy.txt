@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-06T06:32:38.614Z
+! Last modified: 2025-02-06T12:45:03.016Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -1796,6 +1796,7 @@
 ||analytics.media-proweb.de^
 ||artemis-cdn.ocdn.eu^
 ||ats.otto.de^
+||b.nativendo.de^
 ||beagle.prod.tda.link^
 ||blacktri-a.akamaihd.net^
 ||cgicounter.onlinehome.de^
