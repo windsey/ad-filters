@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-07T12:43:12.738Z
+! Last modified: 2025-02-07T18:30:39.176Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.34
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 -1316632262.cos.
 -1316899192.cos.
@@ -30,6 +30,7 @@
 ||pcqhe.cn^
 ||wdinmae.top^
 ||nhz6q.cn^
+||qdinmay.top^
 ||fagrirtn.com^
 ||rqhajf.icu^
 ||trellq.com^

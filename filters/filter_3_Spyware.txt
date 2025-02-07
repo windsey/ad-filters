@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-07T12:43:20.339Z
+! Last modified: 2025-02-07T18:30:46.832Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.34
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 
 ||mon.snssdk.com^
@@ -46042,6 +46042,9 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||evts.ecocart.io^
+||e.fomo.com^
+||iq.afterpay.com^
 ||events.attentivemobile.com^
 ||events.statsigapi.net^
 ||fourier.aliexpress.com^
