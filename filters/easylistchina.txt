@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-07T01:47:10.929Z
+! Last modified: 2025-02-07T06:31:42.703Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -27,6 +27,8 @@
 ||xtdvvp.icu^
 ||vbllxaaj.icu^
 ||apk02070oo.xyz^
+||pcqhe.cn^
+||wdinmae.top^
 ||fagrirtn.com^
 ||rqhajf.icu^
 ||trellq.com^
