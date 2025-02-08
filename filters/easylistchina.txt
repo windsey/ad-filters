@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-08T06:28:31.492Z
+! Last modified: 2025-02-08T12:39:49.670Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -27,6 +27,9 @@
 ||vjzqfh.icu^
 ||8ff0.cn^
 ||tdinmai.top^
+||ddc888.com^
+||draktash.com^
+||bildrat.com^
 ||xtdvvp.icu^
 ||vbllxaaj.icu^
 ||apk02070oo.xyz^
