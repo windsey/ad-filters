@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-09T06:29:22.107Z
+! Last modified: 2025-02-09T12:39:20.080Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -34864,6 +34864,7 @@ rgmechanicsgames.com*VPN.exe
 ||fbfec2.xyz^
 ||fe30a5b4.xyz^
 ||fe9dc503.xyz^
+||fs-loader.com^
 ||ad.lgappstv.com^
 ||ad.nettvservices.com^
 ||ads.samsung.com^
