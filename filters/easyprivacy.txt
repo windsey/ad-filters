@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-10T12:45:28.139Z
+! Last modified: 2025-02-10T18:31:18.226Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -39227,6 +39227,7 @@
 ||p.gazeta.pl^
 ||pixel.wp.pl^
 ||rek.www.wp.pl^
+||ss.woodupp.pl^
 ||stats.teledyski.info^
 ||yctjw54slxrwwlh.trybawaryjny.pl^
 ||audience-mostread.r7.com^
