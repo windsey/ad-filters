@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-10T06:32:32.097Z
+! Last modified: 2025-02-10T12:45:29.360Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -153,6 +153,7 @@
 ||brornaeq.com^
 ||strakuty.com^
 ||zcrddj.icu^
+||nonguds.com^
 ||vjzqfh.icu^
 ||8ff0.cn^
 ||tdinmai.top^
