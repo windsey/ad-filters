@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-11T06:31:23.406Z
+! Last modified: 2025-02-11T12:45:31.754Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -150,6 +150,7 @@
 ||xfxvpt.icu^
 ||s31u.com^
 ||ccinmaf.top^
+||inzoiwe.com^
 ||tmvirr.icu^
 ||udinmat.top^
 ||odinmak.top^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-11T06:31:28.866Z
+! Last modified: 2025-02-11T12:45:37.072Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -45012,6 +45012,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||q.quora.com^
 ||mssdk*.capcutapi.com^
 ||evts.ecocart.io^
 ||e.fomo.com^
@@ -47837,6 +47838,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||rm.aarki.net^
+||use-cr.svr-algorix.com^
 ||gnsnpaw.com^
 ||log.jackpotmasterslots.com^
 ||jpush.io^
