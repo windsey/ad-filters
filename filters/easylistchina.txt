@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-11T01:46:32.691Z
+! Last modified: 2025-02-11T06:31:21.222Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -26,6 +26,8 @@
 ||cnzz.trafficmanager.net^
 ||fuuksew.com^
 ||xfxvpt.icu^
+||s31u.com^
+||ccinmaf.top^
 ||tmvirr.icu^
 ||udinmat.top^
 ||odinmak.top^

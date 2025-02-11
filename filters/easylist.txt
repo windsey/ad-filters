@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-11T01:46:32.345Z
+! Last modified: 2025-02-11T06:31:20.886Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -22437,6 +22437,7 @@
 ||semicolonrichsieve.com^
 ||semicolonsmall.com^
 ||semiinfest.com^
+||seminaloakweb.com^
 ||seminarcrackingconclude.com^
 ||seminarentirely.com^
 ||semqraso.net^

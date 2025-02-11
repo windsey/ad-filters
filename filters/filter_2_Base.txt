@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-11T01:46:39.586Z
+! Last modified: 2025-02-11T06:31:27.570Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -27970,6 +27970,7 @@ rgmechanicsgames.com*VPN.exe
 ||semicolonrichsieve.com^
 ||semicolonsmall.com^
 ||semiinfest.com^
+||seminaloakweb.com^
 ||seminarcrackingconclude.com^
 ||seminarentirely.com^
 ||semqraso.net^
