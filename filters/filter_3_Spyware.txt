@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-12T12:45:00.425Z
+! Last modified: 2025-02-12T18:31:34.335Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||botradar.tech^
 ||analytics.viture.dev^
 ||us-behavior.apitd.net^
 ||collector.snplow.net^
@@ -45013,6 +45014,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||malog.byapps.co.kr^
 ||sofire.terabox.app^
 ||sofire.terabox.com^
 ||inf.miui.com^
