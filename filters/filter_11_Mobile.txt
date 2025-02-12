@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-12T06:33:12.588Z
+! Last modified: 2025-02-12T12:44:54.428Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -242,7 +242,7 @@
 ||itdsmr.com^
 ||displayio.cloud^
 ||external-api.impression-neo.naver.com^
-||mobiadvert.livesportmedia.eu^
+||mobiadvert*.livesportmedia.eu^
 ||sdkv2.imaginationunwired.com^
 ||api-ad-adapter.wps.com^
 ||jtbo*.nqxvevk.cn^

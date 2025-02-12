@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-12T06:33:18.539Z
+! Last modified: 2025-02-12T12:45:00.425Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -45013,6 +45013,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||sofire.terabox.app^
+||sofire.terabox.com^
 ||inf.miui.com^
 ||q.quora.com^
 ||mssdk*.capcutapi.com^
@@ -47840,6 +47842,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||stat.weamvideo.com^
 ||log.ultimatecleaner.pro^
 ||impression.link^
 ||rm.aarki.net^
