@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-12T01:46:49.280Z
+! Last modified: 2025-02-12T06:33:10.991Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -27,6 +27,7 @@
 ||traukvan.com^
 ||20wx.com^
 ||vitqzd.icu^
+||icinmao.top^
 ||fuuksew.com^
 ||xfxvpt.icu^
 ||s31u.com^
