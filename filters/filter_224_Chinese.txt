@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-13T12:45:29.780Z
+! Last modified: 2025-02-13T18:31:38.374Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -146,6 +146,9 @@
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||saddarue.com^
+||scinmab.top^
+||stroveiks.com^
 ||strelgrell.com^
 ||h8ne.com^
 ||jcinmaa.top^

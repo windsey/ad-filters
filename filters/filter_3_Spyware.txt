@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-13T12:45:35.111Z
+! Last modified: 2025-02-13T18:31:43.726Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -643,7 +643,6 @@
 ||collect.mxapis.com^
 ||dc.banggood.com^
 ||ad3.cross-a.net^
-||fourier.taobao.com^
 ||tracking.sexcash.com^
 ||events.tremorhub.com^
 ||mm.actionlink.jp^
@@ -45014,6 +45013,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||apm.yahoo.co.jp^
 ||malog.byapps.co.kr^
 ||sofire.terabox.app^
 ||sofire.terabox.com^
@@ -45025,9 +45025,10 @@
 ||iq.afterpay.com^
 ||events.attentivemobile.com^
 ||events.statsigapi.net^
+||fourier.taobao.com^
+||fourier.alibaba.com^
 ||fourier.aliexpress.com^
 ||sofire.1024tera.com^
-||ad-events.flashtalking.com^
 ||market-click-baobab.yandex.ru^
 ||mon-*.lemon8-app.com^
 ||mon-*.lemon8-app.us^
@@ -45384,7 +45385,6 @@
 ||ingest.make.rvohealth.com^
 ||segment-api.goodrx.com^
 ||zion-telemetry-nonprod.api.cnn.io^
-||log.suumo.jp^
 ||realtimeanalytics.yext.com^
 ||stats.indianpornempire.com^
 ||lp.spac.me^
@@ -47844,6 +47844,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||flashtalking.com^
 ||stat.weamvideo.com^
 ||log.ultimatecleaner.pro^
 ||impression.link^
