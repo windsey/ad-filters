@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-12T18:31:32.983Z
+! Last modified: 2025-02-13T01:47:38.344Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -25117,6 +25117,7 @@ rgmechanicsgames.com*VPN.exe
 ||proleclips.com^
 ||prologuerussialavender.com^
 ||prologuetwinsmolecule.com^
+||promerycergerful.com^
 ||promiseyuri.com^
 ||promo-bc.com^
 ||promobenef.com^
