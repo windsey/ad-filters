@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-13T06:31:16.396Z
+! Last modified: 2025-02-13T12:45:28.481Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -32102,7 +32102,6 @@
 ||visit.hypertherm.com^
 ||visit.lifeblood.com.au^
 ||visit.oakstreethealth.com^
-||visit.tafensw.edu.au^
 ||visit.tenplay.com.au^
 ||visitor.arabiancentres.com^
 ||visitor.hotelex.cn^
