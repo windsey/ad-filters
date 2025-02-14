@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-13T18:31:43.726Z
+! Last modified: 2025-02-14T01:47:03.260Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -47844,6 +47844,7 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||i.mxplayer.j2inter.com^
 ||flashtalking.com^
 ||stat.weamvideo.com^
 ||log.ultimatecleaner.pro^
