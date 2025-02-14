@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-14T12:43:59.313Z
+! Last modified: 2025-02-14T18:30:35.170Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -153,6 +153,8 @@
 ||zbldxf.icu^
 ||ldbnhd.icu^
 ||i8m6.com^
+||qhunetsq.com^
+||wbe4.cn^
 ||strelgrell.com^
 ||h8ne.com^
 ||jcinmaa.top^
