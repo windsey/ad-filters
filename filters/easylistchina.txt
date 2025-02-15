@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-15T06:30:19.610Z
+! Last modified: 2025-02-15T12:39:50.425Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -28,6 +28,8 @@
 ||xehyjx.icu^
 ||jgxirv.icu^
 ||6u2h.cn^
+||efxh.cn^
+||rakkuxw.com^
 ||saddarue.com^
 ||scinmab.top^
 ||stroveiks.com^
