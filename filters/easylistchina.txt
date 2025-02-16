@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-16T06:29:16.356Z
+! Last modified: 2025-02-16T12:42:34.867Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -28,6 +28,7 @@
 ||grarnuns.com^
 ||hwtadf.icu^
 ||8xly.cn^
+||crektels.com^
 ||sholxorw.com^
 ||xehyjx.icu^
 ||jgxirv.icu^
