@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-17T12:46:50.984Z
+! Last modified: 2025-02-17T18:30:17.208Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -29,6 +29,7 @@
 ||shudi8.com^
 ||nzpvpp.icu^
 ||wn6y.cn^
+||evreiks.com^
 ||vudqth.icu^
 ||grarnuns.com^
 ||hwtadf.icu^
