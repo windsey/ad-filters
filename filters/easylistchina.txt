@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-18T12:43:51.299Z
+! Last modified: 2025-02-18T18:31:50.687Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -29,6 +29,9 @@
 ||lclqbh.icu^
 ||qnhi.cn^
 ||phazaeth.com^
+||uewotga.top^
+||ccinvdf.top^
+||uvoisbg.xyz^
 ||aegzoils.com^
 ||bxzlfr.icu^
 ||shudi8.com^

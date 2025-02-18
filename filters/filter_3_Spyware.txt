@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-18T12:43:58.583Z
+! Last modified: 2025-02-18T18:31:58.046Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -11,6 +11,10 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||mdhv.io^
+||nmrodam.com^
+||appia.com^
+||imtwjwoasak.com^
 ||auraodin.com^
 ||botradar.tech^
 ||analytics.viture.dev^
@@ -44853,6 +44857,12 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||telemetry.vaultdcr.com^
+||lighthouse.edoinc.com^
+||staging-*.ispot.tv^
+||tag.researchnow.com^
+||log-auth.flysleep.cn^
+||telemetry.nbcuott.com^
 ||log.onmas.kt.com^
 ||logapi.kt.com^
 ||clog.lghv.net^
@@ -45198,6 +45208,7 @@
 ||edgetrksvc.ebay.
 ||analytics.global.sky.com^
 ||analytics.cosmonova.net^
+||pn.ybp.yahoo.com^
 ||pr-bh.ybp.yahoo.com^
 ||log.tossinvest.com^
 ||c950.chronicle.com^
@@ -47693,6 +47704,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||track.aieic.com^
+||tracker.str-nrg.com^
 ||ced-ns.sascdn.com^
 ||use-trk*.bluevoox.com^
 ||pixel.magentamarketing.com^
@@ -47912,6 +47925,7 @@ inapps.appsflyersdk.com^
 ||adash.man.aliyuncs.com^
 ||woodpecker.uc.cn^
 ||adashx4ae.ut.taobao.com^
+||h-adashx4ae.ut.taobao.com^
 ||audid-api.taobao.com^
 ||analytics.ff.avast.com^
 ||node.aibeacon.jp^
