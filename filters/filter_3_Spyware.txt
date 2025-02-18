@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-18T06:31:32.902Z
+! Last modified: 2025-02-18T12:43:58.583Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||auraodin.com^
 ||botradar.tech^
 ||analytics.viture.dev^
 ||us-behavior.apitd.net^
@@ -44852,6 +44853,11 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||log.onmas.kt.com^
+||logapi.kt.com^
+||clog.lghv.net^
+||stlog*-local.kakao.com^
+||matomo.mobilism.org^
 ||66hao.cc^
 ||event.playground.ru^
 ||tracker.multisearch.io^
@@ -47281,7 +47287,6 @@
 ||tracking.g2crowd.com^
 ||tracking.game8.jp^
 ||tracking.gvm.com.tw^
-||tracking.hotel.check24.de^
 ||tracking.hsn.com^
 ||tracking.hurlmedia.design^
 ||tracking.komoot.de^
@@ -47574,7 +47579,6 @@ directtrack.*.js
 ||stat.sports.ru^
 ||statistic.gamona.de^
 ||stats.computecmedia.de^
-||traveltracking.check24.de^
 ||web-t.9gag.com^
 ||webmetrics.nintendo-europe.com^
 ||webstat.freaks4u.com^
@@ -47689,6 +47693,11 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||ced-ns.sascdn.com^
+||use-trk*.bluevoox.com^
+||pixel.magentamarketing.com^
+||bisrtb.vidazoo.com^
+||t*.playdigo.live^
 ||hotapi*.tiktokv.us^
 ||tnc*.tiktokv.us^
 ||aws.userlogsanalytics.com^

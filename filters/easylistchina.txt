@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-18T06:31:25.544Z
+! Last modified: 2025-02-18T12:43:51.299Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -28,6 +28,7 @@
 ||stogmos.com^
 ||lclqbh.icu^
 ||qnhi.cn^
+||phazaeth.com^
 ||aegzoils.com^
 ||bxzlfr.icu^
 ||shudi8.com^
@@ -3594,6 +3595,7 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||bun1.dayi.org.cn^
 ||code.wenbanzhu.com^
 ||reke.at.sohu.com^
 ||abc.ruodian360.com^
