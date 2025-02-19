@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-19T12:42:54.921Z
+! Last modified: 2025-02-19T18:30:23.996Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -11,6 +11,8 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||collector-pxebumdlwe.pxchk.net^
+||sc.sc-analytics.jp^
 ||c.bazo.io^
 ||mdhv.io^
 ||nmrodam.com^
@@ -44858,6 +44860,10 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||pbc.realtor.com^
+||apihorizon.nnmtools.com^
+||cdnhorizon.nnmtools.com^
+||px-intl.ucweb.com^
 ||telemetry.vaultdcr.com^
 ||lighthouse.edoinc.com^
 ||staging-*.ispot.tv^
@@ -47643,6 +47649,8 @@ directtrack.*.js
 ||analytics-sprint.qoqa.com^
 ||analytics.qoqa.ch^
 ||analytics.qoqa.com^
+||privacy-sandbox.appsflyersdk.com^
+-pia.appsflyersdk.com^
 -skadsdkless.appsflyersdk.com^
 -adrevenue.appsflyersdk.com^
 -attr.appsflyersdk.com^
@@ -47705,6 +47713,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||adashx.ut.alibaba.com^
+||h-adashx.ut.alibaba.com^
 ||stats.calldorado.com^
 ||traffic.calldorado.com^
 ||track.aieic.com^
