@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-19T06:31:56.371Z
+! Last modified: 2025-02-19T12:42:49.814Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -4336,7 +4336,7 @@
 ||rabc1.iteye.com^
 ||rc.ie13.com^
 ||rdbd.xsread.com^
-||res.pinpai8.cn^
+||res*.pinpai8.cn^
 ||retrieval-bd.duote.com^
 ||richh.cn^
 ||rxys.cn^

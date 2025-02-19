@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-19T06:32:01.472Z
+! Last modified: 2025-02-19T12:42:54.921Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -11,6 +11,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||c.bazo.io^
 ||mdhv.io^
 ||nmrodam.com^
 ||appia.com^
@@ -47704,6 +47705,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||stats.calldorado.com^
+||traffic.calldorado.com^
 ||track.aieic.com^
 ||tracker.str-nrg.com^
 ||ced-ns.sascdn.com^
