@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-18T18:31:51.670Z
+! Last modified: 2025-02-19T01:47:58.711Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -38792,6 +38792,7 @@
 ||responder.wt.heise.de^
 ||rt.bunte.de^
 ||sgtm.tennis-point.de^
+||sp.chip.de^
 ||sqs.quoka.de^
 ||squirrel.cividi.ch^
 ||ss.photospecialist.at^
