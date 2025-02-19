@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-19T01:47:59.918Z
+! Last modified: 2025-02-19T06:31:56.371Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -151,6 +151,7 @@
 ||rsohvot.xyz^
 ||o4q.fun^
 ||jshilr.icu^
+||hcinvdu.top^
 ||zavgrj.icu^
 ||stogmos.com^
 ||lclqbh.icu^
