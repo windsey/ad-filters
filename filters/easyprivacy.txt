@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-20T01:48:26.594Z
+! Last modified: 2025-02-20T06:31:50.627Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -3034,6 +3034,7 @@
 ||cfa.fidelity.com^
 ||clear.wallapop.com^
 ||content.canadiantire.ca^
+||content.discover.com^
 ||content.tab.com.au^
 ||content22.bmo.com^
 ||content22.citibank.com.au^
