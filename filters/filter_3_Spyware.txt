@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-19T18:30:23.996Z
+! Last modified: 2025-02-20T01:48:33.038Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -47713,6 +47713,9 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||collect.ureca-lab.com^
+||api.abcsinsights.com^
+||tracking.carbonatixaudio.com^
 ||adashx.ut.alibaba.com^
 ||h-adashx.ut.alibaba.com^
 ||stats.calldorado.com^

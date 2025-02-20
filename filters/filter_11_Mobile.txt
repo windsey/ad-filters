@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-19T18:30:18.264Z
+! Last modified: 2025-02-20T01:48:27.207Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -895,6 +895,24 @@
 @@||auto-api.yelp.com
 /m.realgfporn.com\/[a-z]{1,13}[0-9]{1,13}[a-z]{1,13}.js/
 ||https-filtering-check.adtidy.org^
+||games.tresensa.com^
+||api.plyair.com^
+||us.*.qwadro.com^
+||gwbudgetali.iymedia.me^
+||notifiy.rtbuniverse.com^
+||cdn.wtshare.com^
+||gamaibids.com^
+||gamerplay67.space^
+||bjsvp*.space^
+||imprdom.com^
+||loganmedia.mobi^
+||lqm.io^
+||mangomob.net^
+||pn.ybp.yahoo.com^
+||funpavo.com^
+||pavoboxapp.com^
+||staticcc.com^
+||teraverseapp.com^
 ||adcenter-api.cashwalk.co^
 ||ads.viber.com^
 ||ads-d.viber.com^
