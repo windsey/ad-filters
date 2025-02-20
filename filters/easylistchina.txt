@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-20T12:46:23.931Z
+! Last modified: 2025-02-20T18:31:19.400Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -32,6 +32,7 @@
 ||sg7.pw^
 ||jcinvda.top^
 ||dbdophuz.icu^
+||qogrux.com^
 ||dhannaq.com^
 ||xqrydt.icu^
 ||rsohvot.xyz^
