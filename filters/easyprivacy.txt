@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-21T01:48:33.262Z
+! Last modified: 2025-02-21T06:31:48.052Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -2948,6 +2948,7 @@
 ||tongji-res.meizu.com^
 ||top.wn.com^
 ||touch.myntra.com^
+||tr.api.fanbyte.com^
 ||tr.clickstay.com^
 ||tr.www.cloudflare.com^
 ||track-visit.monday.com^
