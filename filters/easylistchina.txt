@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-21T06:31:47.084Z
+! Last modified: 2025-02-21T12:44:55.863Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -33,6 +33,7 @@
 ||fngmeat.top^
 ||2ueb.cn^
 ||scinvdb.top^
+||bhaelnieth.com^
 ||stildell.com^
 ||dtntnl.icu^
 ||hvddxj.icu^
