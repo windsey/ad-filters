@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-21T18:31:02.160Z
+! Last modified: 2025-02-22T01:45:05.836Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -46759,6 +46759,7 @@
 ||p2trc.emv2.com^
 ||pa.pinpoll.com^
 ||pa.tns-ua.com^
+||pac.the-sun.com^
 ||pac.thesun.co.uk^
 ||pac.thetimes.co.uk^
 ||pappagallu.onefootball.com^
