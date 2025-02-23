@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-23T01:54:26.485Z
+! Last modified: 2025-02-23T06:29:33.619Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -29,6 +29,8 @@
 ||vdpwuxmo.icu^
 ||jrblfv.icu^
 ||xwma.cn^
+||spoaven.top^
+||tcinvdi.top^
 ||torkeauwu.com^
 ||zmpgln.icu^
 ||hebaidu.cc^
