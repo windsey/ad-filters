@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-23T06:29:35.793Z
+! Last modified: 2025-02-23T12:41:12.291Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -153,6 +153,8 @@
 ||xwma.cn^
 ||spoaven.top^
 ||tcinvdi.top^
+||chuccipkn.com^
+||o02231aokk.com^
 ||torkeauwu.com^
 ||zmpgln.icu^
 ||hebaidu.cc^
