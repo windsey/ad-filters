@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-24T01:51:13.118Z
+! Last modified: 2025-02-24T06:33:26.000Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -14828,7 +14828,6 @@
 ||mnetads.com^
 ||mnevjhg.com^
 ||mng-ads.com^
-||mngusr.com^
 ||mnhjk.com^
 ||mnhjkl.com^
 ||mntft.com^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-24T01:51:15.660Z
+! Last modified: 2025-02-24T06:33:28.547Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -151,6 +151,7 @@
 ||xvvfpsmp.icu^
 ||phxdrf.icu^
 ||qdqppsl.top^
+||qnki.cn^
 ||xplbxx.icu^
 ||khoqetslh.com^
 ||vdpwuxmo.icu^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-24T01:51:19.557Z
+! Last modified: 2025-02-24T06:33:32.523Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -20287,7 +20287,6 @@ rgmechanicsgames.com*VPN.exe
 ||mnetads.com^
 ||mnevjhg.com^
 ||mng-ads.com^
-||mngusr.com^
 ||mnhjk.com^
 ||mnhjkl.com^
 ||mntft.com^
