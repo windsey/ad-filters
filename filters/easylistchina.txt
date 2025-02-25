@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-25T12:47:22.675Z
+! Last modified: 2025-02-25T18:32:29.550Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -36,6 +36,7 @@
 ||pheidheat.com^
 ||thampheth.com^
 ||vtrrxqbi.xyz^
+||kqgn.cn^
 ||dfhthh.icu^
 ||chuundads.com^
 ||xvvfpsmp.icu^

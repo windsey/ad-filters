@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-25T12:47:31.681Z
+! Last modified: 2025-02-25T18:32:38.305Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -11,6 +11,9 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||domself.de^
+||teraverseapp.com^
+||pavoboxapp.com^
 ||data4.ojto.pl^
 ||slackb.com^
 ||nwr.static.mmcdn.com^

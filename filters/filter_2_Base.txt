@@ -1,9 +1,12 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-25T12:47:30.266Z
+! Last modified: 2025-02-25T18:32:36.933Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||demand.supply^
+||seeptoafuko.com^
+||wmrdplrves.com^
 ||fstatic.netpub.media^
 ||dtignite.com^
 ||splendid-concert.com^
