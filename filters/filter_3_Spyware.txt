@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-25T06:32:31.863Z
+! Last modified: 2025-02-25T12:47:31.681Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -45176,6 +45176,8 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||epimetheus.navigator.gmx.net^
+||tgw.gmx.net^
 ||clientlogger.marketplace.aws.a2z.com^
 ||mercury.books.com.tw^
 ||ganon.yahoo.com^
@@ -48750,10 +48752,12 @@ inapps.appsflyersdk.com^
 ||yadro.ru^
 ||ymtracking.com^
 ||zdbb.net^
+||mcs.tiktokw.us^
+||mcs.*.tiktokv.com^
 ||log*-normal-*.tiktokv.us^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
-||mon*-platform-*.tiktokv.com^
-||log*-applog-*.tiktokv.com^
+||mon*-*.tiktokv.com^
+||log*-*.tiktokv.com^
 ||rtlog*.tiktokv.us^
 ||rtlog*.tiktokv.com^
 ||log.tiktokv.com^
