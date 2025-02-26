@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-26T06:32:28.362Z
+! Last modified: 2025-02-26T12:47:22.144Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -28,6 +28,7 @@
 ||lnptph.icu^
 ||pisb.cn^
 ||dyyygyg.top^
+||dhulzehgk.com^
 ||druqodrly.com^
 ||bidotz.icu^
 ||nktydx.icu^
