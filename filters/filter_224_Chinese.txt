@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-25T18:32:31.708Z
+! Last modified: 2025-02-26T01:49:45.306Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -147,6 +147,10 @@
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||zlzgfj.icu^
+||lnptph.icu^
+||pisb.cn^
+||dyyygyg.top^
 ||druqodrly.com^
 ||bidotz.icu^
 ||nktydx.icu^
@@ -155,6 +159,7 @@
 ||znlvhnej.icu^
 ||okwjmii.top^
 ||onjncgq.top^
+||o02260aokk.com^
 ||o02251aokk.com^
 ||pheidheat.com^
 ||thampheth.com^
