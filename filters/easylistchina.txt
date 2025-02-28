@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-02-28T01:50:34.516Z
+! Last modified: 2025-02-28T06:32:15.227Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -29,6 +29,7 @@
 ||sikvoilst.com^
 ||pghglj.icu^
 ||trohycv.top^
+||riym.cn^
 ||shatielsu.com^
 ||rdllzz.icu^
 ||fbvbrb.icu^
