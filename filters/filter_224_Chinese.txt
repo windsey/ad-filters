@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-03-01T01:56:50.569Z
+! Last modified: 2025-03-01T06:31:27.215Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -152,6 +152,8 @@
 ||kczq.cn^
 ||zcnmjb.icu^
 ||ledwtz.icu^
+||aa03010iiko.com^
+||iyqbsst.top^
 ||derwbl.icu^
 ||nievolmqn.com^
 ||sikvoilst.com^
