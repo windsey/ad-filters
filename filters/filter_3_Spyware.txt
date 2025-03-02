@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-03-02T12:40:48.065Z
+! Last modified: 2025-03-02T18:30:24.244Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -45181,6 +45181,7 @@
 ||ct.pinterest.com^
 ||telemetry.mozilla.org^
 |piwik.
+||utiq.pcgames.de^
 ||ca-log.cafe24data.com^
 ||mp.theepochtimes.com^
 ||epimetheus.navigator.gmx.net^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-03-02T12:40:39.284Z
+! Last modified: 2025-03-02T18:30:15.572Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -31,6 +31,7 @@
 ||wumd.cn^
 ||gmwqpgq.top^
 ||aillaeuyn.com^
+||pjwk.cn^
 ||eelkeageg.com^
 ||kczq.cn^
 ||zcnmjb.icu^
