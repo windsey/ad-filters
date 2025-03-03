@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2025-03-03T01:53:37.365Z
+! Last modified: 2025-03-03T06:33:53.980Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -148,6 +148,7 @@
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||flixfiend.top^
 ||pkvjrb.icu^
 ||oqea.cn^
 ||vaykjwn.top^
@@ -3834,6 +3835,7 @@
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
+||nxet1.360doc.cn^
 ||bun1.dayi.org.cn^
 ||code.wenbanzhu.com^
 ||reke.at.sohu.com^
