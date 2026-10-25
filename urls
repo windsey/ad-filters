@@ -1,9 +1,39 @@
 https://easylist-downloads.adblockplus.org/easylistchina.txt
-https://easylist-downloads.adblockplus.org/easylist.txt
-https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# https://easylist-downloads.adblockplus.org/easylist.txt https://easylist-downloads.adblockplus.org/easyprivacy.txt
+https://easylist.to/easylist/easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_20_Annoyances_MobileApp/filter.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+https://github.com/easylist/easylist/raw/refs/heads/master/easylist_cookie/easylist_cookie_specific_uBO.txt
+https://github.com/easylist/easylist/raw/refs/heads/master/fanboy-addon/fanboy_annoyance_specific_uBO.txt
+https://github.com/easylist/easylist/raw/refs/heads/master/fanboy-addon/fanboy_social_specific_uBO.txt
+https://github.com/easylist/easylist/raw/refs/heads/master/fanboy-addon/fanboy_newsletter_specific_uBO.txt
+
+# AdGuard DNS filter
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+
+# CHN: AdRules DNS List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
+
+# AdAway Default Blocklist
+https://adaway.org/hosts.txt
+
+# CHN: anti-AD
+https://anti-ad.net/easylist.txt
+
+# Fanboy's Social Blocking List
+https://easylist.to/easylist/fanboy-social.txt
+
+# Fanboy's Annoyance List
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+
+# EasyList Cookie List
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+
+# Adblock Warning Removal List
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt

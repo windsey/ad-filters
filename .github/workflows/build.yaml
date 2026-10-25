@@ -29,21 +29,21 @@ jobs:
         git config --global user.name "github-actions"
         git config --global user.email "action@github.com"
         mkdir -p filters
-        for i in $(grep -v '^#' urls); do
+        for i in $(grep -Ev '^(#|$)' urls); do
           if [ "${i##*/}" = "filter.txt" ]; then
             name="${i%/filter.txt}"
             name="${name##*/}.ori"
-            wget "$i" -O "filters/${name}"
+            wget -nv "$i" -O "filters/${name}"
           else
             name="${i##*/}"
-            wget "$i" -O "filters/${name/.txt/.ori}"
+            wget -nv "$i" -O "filters/${name/.txt/.ori}"
           fi
         done
         [ -z "$(git diff)" ] || echo "PUSH=1" >> $GITHUB_ENV
 
     - name: Convert filter rules to adguard format
       if: ${{ env.PUSH == 1 }}  #sed '/^.\{1024,\}/d'
-      run: cd filters; for f in *.ori; do hostlist-compiler -i $f -o ${f/.ori/.txt}; echo ' '; done
+      run: cd filters; for f in *_uBO.ori *.ori; do hostlist-compiler -i $f -o ${f/.ori/.txt}; echo ' '; done; cat *.txt | sort -u | sed '/^!/d' > rules.txt
 
     - name: Push to Repository
       if: ${{ env.PUSH == 1 }}
