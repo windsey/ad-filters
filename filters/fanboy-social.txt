@@ -1,0 +1,29 @@
+!
+! Title: Blocklist
+! Last modified: 2026-10-25T16:00:25.402Z
+!
+! Compiled by @adguard/hostlist-compiler v2.1.1
+!
+-facebook-likeButton-
+-facebook-share.
+-facebook-widget.
+-follow-icon-
+-follow-icons.
+-follow-us-icons.
+-followicons.
+-share-buttons2.
+-share-sprite-
+-share-sprite.
+-share-tools-
+-sharebar-
+-sharebar.
+-ShareButton2.
+-sharetools-
+-shareWidget.
+-slide-social-
+-social-panel.
+-social-sidebar.
+-sprite-social-
+.fbshare.js
+.sharebar.js
+.sharing.js
