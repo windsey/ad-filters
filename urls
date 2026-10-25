@@ -1,9 +1,78 @@
 https://easylist-downloads.adblockplus.org/easylistchina.txt
-https://easylist-downloads.adblockplus.org/easylist.txt
-https://easylist-downloads.adblockplus.org/easyprivacy.txt
+# https://easylist-downloads.adblockplus.org/easylist.txt https://easylist-downloads.adblockplus.org/easyprivacy.txt
+https://easylist.to/easylist/easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_20_Annoyances_MobileApp/filter.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+https://github.com/easylist/easylist/raw/refs/heads/master/easylist_cookie/easylist_cookie_specific_uBO.txt
+https://github.com/easylist/easylist/raw/refs/heads/master/fanboy-addon/fanboy_annoyance_specific_uBO.txt
+https://github.com/easylist/easylist/raw/refs/heads/master/fanboy-addon/fanboy_social_specific_uBO.txt
+https://github.com/easylist/easylist/raw/refs/heads/master/fanboy-addon/fanboy_newsletter_specific_uBO.txt
+
+# AdGuard DNS filter
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+
+# CHN: AdRules DNS List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
+
+# AdAway Default Blocklist
+https://adaway.org/hosts.txt
+
+# CHN: anti-AD
+https://anti-ad.net/easylist.txt
+
+# Fanboy's Social Blocking List
+https://easylist.to/easylist/fanboy-social.txt
+
+# Fanboy's Annoyance List
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
+
+# EasyList Cookie List
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+
+# Adblock Warning Removal List
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+
+# awavenue.top
+https://github.com/TG-Twilight/AWAvenue-Ads-Rule/raw/refs/heads/main/AWAvenue-Ads-Rule.txt
+
+# https://big.oisd.nl
+https://github.com/sjhgvr/oisd/raw/refs/heads/main/oisd_big.txt  16w
+https://github.com/sjhgvr/oisd/raw/refs/heads/main/oisd_small.txt
+
+# Peter Lowe's Blocklist
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
+
+# HaGeZi's Ultimate Blocklist
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/ultimate.txt  10  17.4w
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/ultimate.mini.txt  5  7.7w
+
+# Pop-Up Ads
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/popupads.txt  3w
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/fake.txt
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/native.amazon.txt
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/native.apple.txt
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/native.huawei.txt
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/native.lgwebos.txt
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/native.oppo-realme.txt
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/native.roku.txt
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/native.samsung.txt
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/native.tiktok.extended.txt
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/native.tiktok.txt
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/native.vivo.txt
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/native.winoffice.txt
+https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/adblock/native.xiaomi.txt
+
+# Dandelion Sprout's Anti Push Notifications
+https://github.com/DandelionSprout/adfilt/raw/refs/heads/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList-Notifications.txt
+
+# adware + malware
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+# ShadowWhisperer Tracking List
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_69.txt  10  7.3w

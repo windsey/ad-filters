@@ -29,21 +29,39 @@ jobs:
         git config --global user.name "github-actions"
         git config --global user.email "action@github.com"
         mkdir -p filters
-        for i in $(grep -v '^#' urls); do
+        while read -r i a b; do
+          [[ "${a/w}" -ge 10 ]] && s=.full || s=.medium
+          [ "${a/w}" ] || s=
           if [ "${i##*/}" = "filter.txt" ]; then
             name="${i%/filter.txt}"
             name="${name##*/}.ori"
-            wget "$i" -O "filters/${name}"
+            wget -nv "$i" -O "filters/${name}$s"
           else
             name="${i##*/}"
-            wget "$i" -O "filters/${name/.txt/.ori}"
+            if echo "$i" | grep -q anti-ad; then name="anti-ad_$name"; fi
+            wget -nv "$i" -O "filters/${name/.txt/.ori}$s"
           fi
-        done
+        done < <(grep -Ev '^(#|$)' urls)
         [ -z "$(git diff)" ] || echo "PUSH=1" >> $GITHUB_ENV
 
     - name: Convert filter rules to adguard format
       if: ${{ env.PUSH == 1 }}  #sed '/^.\{1024,\}/d'
-      run: cd filters; for f in *.ori; do hostlist-compiler -i $f -o ${f/.ori/.txt}; echo ' '; done
+      run: cd filters; rm -f *.txt; for f in *_uBO.ori *.ori; do hostlist-compiler -i $f -o ${f/.ori/.txt}; echo ' '; done; cat *.txt | sort -u | sed '/^!/d' > rules.txt
+    - name: Convert all filter
+      if: ${{ env.PUSH == 1 }}
+      run: |
+        cd filters
+        wc -l rules*.txt
+        for s in medium full; do
+          for f in *.$s;do hostlist-compiler -i $f -o ${f%.$s}.txt; done
+          cat *.txt | sort -u | sed '/^!/d' > rules_$s.txt
+        done
+        for f in base medium full; do
+          [ $f = base ] && f= || f="_$f"
+          hostlist-compiler -i rules$f.txt -o rules$f.new
+          mv -v rules$f.new rules$f.txt
+        done
+        wc -lm rules*txt
 
     - name: Push to Repository
       if: ${{ env.PUSH == 1 }}
