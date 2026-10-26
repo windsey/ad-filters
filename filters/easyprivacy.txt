@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-26T12:46:18.239Z
+! Last modified: 2026-10-26T22:35:27.607Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -841,6 +841,7 @@
 ||binarycrest.com^
 ||binarykite.com^
 ||binspiredtees.com^
+||biocatalysts.net^
 ||biologylog.com^
 ||biotechnologysciences.com^
 ||birthdaybelief.com^
@@ -2284,6 +2285,7 @@
 ||polishedfolly.com^
 ||politeplanes.com^
 ||politicalporter.com^
+||polopremier.com^
 ||poolcushions.com^
 ||poolprochem.com^
 ||popliquids.com^
@@ -2321,6 +2323,7 @@
 ||probablepartner.com^
 ||processplantation.com^
 ||procollecting.com^
+||prodsmax.com^
 ||producecopy.com^
 ||producepickle.com^
 ||productsurfer.com^
@@ -2925,6 +2928,7 @@
 ||synthesizescarecrow.com^
 ||systemssummit.com^
 ||tabcarts.com^
+||tableleaders.com^
 ||tackytrains.com^
 ||tacojournal.com^
 ||tailoredcopy.com^
@@ -2946,6 +2950,7 @@
 ||techconverter.com^
 ||techdrivethru.com^
 ||techmix.net^
+||technonstop.com^
 ||tediousbear.com^
 ||tedioustooth.com^
 ||teejubilee.com^
@@ -3264,6 +3269,7 @@
 ||yellowscissors.com^
 ||yieldingwoman.com^
 ||youcandrawanything.com^
+||yourgiftedbaby.com^
 ||yourlifedream.com^
 ||zanyapps.com^
 ||zapandmake.com^
@@ -4003,7 +4009,6 @@
 ||log.dpa.com^
 ||log.go.com^
 ||log.mediacategory.com^
-||log.nordot.jp^
 ||log.olark.com^
 ||log.outbrain.com^
 ||log.pinterest.com^
