@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-27T12:00:17.888Z
+! Last modified: 2026-10-27T17:53:29.529Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -1633,6 +1633,7 @@
 ||granlite.com^
 ||gravitygive.com^
 ||gravitykick.com^
+||gravitypics.com^
 ||graychalk.com^
 ||grayoranges.com^
 ||grayreceipt.com^
@@ -1684,6 +1685,7 @@
 ||harmonywing.com^
 ||hayweb.net^
 ||hazmatworkshop.com^
+||headbandeau.com^
 ||headydegree.com^
 ||healflowers.com^
 ||healthyclad.com^
@@ -2363,6 +2365,7 @@
 ||queenskart.com^
 ||questionate.com^
 ||quicklyedit.com^
+||quickpints.com^
 ||quicktattoo.com^
 ||quicktrick.net^
 ||quietknowledge.com^

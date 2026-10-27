@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-27T12:00:20.524Z
+! Last modified: 2026-10-27T17:53:32.020Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -88,6 +88,8 @@
 ||startup.mobile.yandex.net^
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
+||inapps.af-sdk.com^
+||cdn-settings.af-sdk.com^
 ||da.flvcdn.net^
 ||rtb.nefta.app^
 ||ads-proxy-aka.prod.bo.canal.canalplustech.pro^
