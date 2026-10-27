@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-27T04:49:38.541Z
+! Last modified: 2026-10-27T12:00:33.366Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -10,6 +10,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||collect.pravdastat.com^
 ||search-monitor.11st.co.kr^
 ||a.cdn-lab.shop^
 ||stats.curd.io^
@@ -105844,6 +105845,8 @@
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||bigdata.downza.com^
+||zenstats.yzhy19.cn^
 ||data.vzhh.de^
 ||applytics.zwyr157wwiu6eior.com^
 ||zwjvbnvhnzme.heise.de^

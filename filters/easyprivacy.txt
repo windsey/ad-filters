@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-27T04:49:23.639Z
+! Last modified: 2026-10-27T12:00:17.888Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -504,7 +504,6 @@
 ||takingbackjuly.com^
 ||targetemsecure.blob.core.windows.net^
 ||tatpek.com^
-||tblcontent.com^
 ||techpump.com^
 ||tepatonol.com^
 ||testingmetriksbre.ru^
