@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-28T05:24:16.546Z
+! Last modified: 2026-10-28T12:39:54.540Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -105846,6 +105846,8 @@
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||stats.spidersense.xyz^
+||umami.vidcore.net^
 ||analytics.dulo.
 ||umami.vidfast.vc^
 ||umami.vidup.to^
@@ -114345,6 +114347,7 @@ dlsdk.appsflyer.com^
 ||unequalbrake.com^
 ||unequaltrail.com^
 ||unicornprices.com^
+||unifybots.com^
 ||uninterestedquarter.com^
 ||unitedscans.com^
 ||unknowncrate.com^

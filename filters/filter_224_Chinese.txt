@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-28T05:24:09.836Z
+! Last modified: 2026-10-28T12:39:43.011Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -173,6 +173,9 @@
 ||fireplace32.com^
 ||x781w71m0j.com^
 ||dvtkppqczzfhpk.com^
+||uvaf6ko09w.com^
+||ec2ic6ew5k.com^
+||d3h02f4xol.com^
 ||p5regbg09.com^
 ||tuxcpf6pq.com^
 ||fsxpdfugtwrzde.com^
