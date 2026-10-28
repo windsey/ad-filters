@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-27T22:06:13.036Z
+! Last modified: 2026-10-28T05:24:07.510Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -1645,6 +1645,7 @@
 ||gripcorn.com^
 ||grocerycrew.com^
 ||grocerydog.com^
+||groglog.com^
 ||groovespacing.com^
 ||groovyornament.com^
 ||grouchybrothers.com^
