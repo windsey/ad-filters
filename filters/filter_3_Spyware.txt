@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-28T12:39:54.540Z
+! Last modified: 2026-10-28T22:29:15.743Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -112942,6 +112942,7 @@ dlsdk.appsflyer.com^
 ||healthyclad.com^
 ||heartbreakingmind.com^
 ||hearthow.com^
+||heatrave.com^
 ||heavydetail.com^
 ||heavyplayground.com^
 ||hellospur.com^
@@ -112950,6 +112951,7 @@ dlsdk.appsflyer.com^
 ||helpflame.com^
 ||helpingbits.com^
 ||heycomputers.com^
+||heyhotshots.com^
 ||hfc195b.com^
 ||highfalutinbox.com^
 ||highfalutinhoney.com^
@@ -113629,6 +113631,7 @@ dlsdk.appsflyer.com^
 ||rabbitboots.com^
 ||rabbitbreath.com^
 ||rabbitrifle.com^
+||racerpets.com^
 ||rackforstorage.com^
 ||radexports.com^
 ||radiantcanopy.com^
@@ -113652,6 +113655,7 @@ dlsdk.appsflyer.com^
 ||reactjspdf.com^
 ||reactwizard.com^
 ||readingguilt.com^
+||readourminds.com^
 ||readymoon.com^
 ||readysetcard.com^
 ||readysnails.com^
@@ -113683,6 +113687,7 @@ dlsdk.appsflyer.com^
 ||regularplants.com^
 ||regulatesleet.com^
 ||rehabilitatereason.com^
+||reignfans.com^
 ||relationrest.com^
 ||releasepath.com^
 ||rememberdiscussion.com^
@@ -114347,7 +114352,6 @@ dlsdk.appsflyer.com^
 ||unequalbrake.com^
 ||unequaltrail.com^
 ||unicornprices.com^
-||unifybots.com^
 ||uninterestedquarter.com^
 ||unitedscans.com^
 ||unknowncrate.com^
