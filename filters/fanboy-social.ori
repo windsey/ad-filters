@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202610291245
+! Version: 202610292230
 ! Title: Fanboy's Social Blocking List
-! Last modified: 29 Oct 2026 12:45 UTC
+! Last modified: 29 Oct 2026 22:30 UTC
 ! Expires: 4 days (update frequency)
-! Commit: da6f2056e2e8b7fc42e8551fdb11ff7eefa80b26
+! Commit: 89d4d071bf7be18c6769fc93fec15caafd76438f
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -11468,6 +11468,7 @@ dictionary.com##.otd-socials
 newslaundry.com##.oxeRF
 evoke.ie,extra.ie##.oxy-social-share-buttons
 otakumode.com##.p-product-detail__social-buttons
+designboom.com##.page--byline--icons
 latimes.com##.page-actions
 rogerebert.com##.page-content--byline-share--share
 opiumpulses.com##.page-footer-block-social-items
@@ -14051,6 +14052,7 @@ playswellwithbutter.com#@#a[href^="https://www.pinterest.com/pin/create/button/"
 @@||arcgis.com/apps/Nearby/app/components/Share/$~third-party
 @@||assets.msn.com/bundles/*/social-bar-$~third-party
 @@||authy.com/wp-content/themes/authy/assets/images/icons/
+@@||b.hatena.ne.jp/-/webextension/
 @@||brave.com/wp-content/uploads/$image,~third-party
 @@||cdn.flowplayer.com^*/share.min.js
 @@||comelitgroup.com/wp-content/themes/comelitgroup/includes/js/instafeed.min.js$~third-party

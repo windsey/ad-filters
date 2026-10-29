@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-29T12:49:26.733Z
+! Last modified: 2026-10-29T22:41:18.844Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -763,6 +763,7 @@
 ||axonsite.com^
 ||azuremystique.com^
 ||azurestealth.com^
+||babelfreak.com^
 ||backupcat.com^
 ||baconbags.com^
 ||badgeboat.com^
@@ -943,6 +944,7 @@
 ||cafefrench.com^
 ||cafejunior.net^
 ||cafescampfires.com^
+||cageylogic.com^
 ||cakeagenda.com^
 ||cakesdrum.com^
 ||calculatingcircle.com^
@@ -1141,6 +1143,7 @@
 ||crabbychin.com^
 ||craftessays.com^
 ||crafthenry.com^
+||crashbamboo.com^
 ||crashchance.com^
 ||crashpandas.com^
 ||cratecamera.com^
@@ -1730,6 +1733,7 @@
 ||honeyscene.com^
 ||honorablehydrant.com^
 ||honorableland.com^
+||hoofersailing.com^
 ||hookconference.com^
 ||hoorayplay.com^
 ||hospitablehall.com^
@@ -3804,6 +3808,7 @@
 ||eth.llamarpc.com^
 ||etl.springbot.com^
 ||eu-mobile.events.data.microsoft.com^
+||eu-office.events.data.microsoft.com^
 ||ev.moneymade.io^
 ||ev.stellarlabs.ai^
 ||event-api.rdstation.com.br^
@@ -6410,6 +6415,7 @@
 ||tracking.carsales.com.au^
 ||tracking.christianpost.com^
 ||tracking.digitalocean.com^
+||tracking.dpmlol.com^
 ||tracking.engineering.cloud.seek.com.au^
 ||tracking.game8.co^
 ||tracking.hsn.com^
