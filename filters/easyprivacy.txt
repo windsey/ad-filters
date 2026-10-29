@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-28T22:29:07.043Z
+! Last modified: 2026-10-29T05:33:43.095Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -1700,6 +1700,7 @@
 ||helpcollar.com^
 ||helpflame.com^
 ||helpingbits.com^
+||hensonempire.com^
 ||heycomputers.com^
 ||heyhotshots.com^
 ||hfc195b.com^
@@ -42218,6 +42219,7 @@
 ||data.manga-passion.de^
 ||data.openerotik.com^
 ||data.sportdeutschland.tv^
+||dbik.literatur-couch.de^
 ||dd.betano.com^
 ||dv.chemie.de^
 ||ens.luzernerzeitung.ch^

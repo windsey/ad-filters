@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-28T22:29:15.743Z
+! Last modified: 2026-10-29T05:33:55.645Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -112950,6 +112950,7 @@ dlsdk.appsflyer.com^
 ||helpcollar.com^
 ||helpflame.com^
 ||helpingbits.com^
+||hensonempire.com^
 ||heycomputers.com^
 ||heyhotshots.com^
 ||hfc195b.com^

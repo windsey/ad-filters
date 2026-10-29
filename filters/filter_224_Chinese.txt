@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-28T22:29:09.348Z
+! Last modified: 2026-10-29T05:33:46.157Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -170,6 +170,12 @@
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
 ||hash.trafficmanager.net^
+||ndhfz9zw2.com^
+||itkdb58mo.com^
+||jlpfbhmefcthbk.com^
+||bookshelf07.com^
+||1chtx8re2.com^
+||4l0h5xxoc.com^
 ||fireplace32.com^
 ||x781w71m0j.com^
 ||dvtkppqczzfhpk.com^

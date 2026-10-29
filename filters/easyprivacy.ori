@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202610282218
+! Version: 202610290529
 ! Title: EasyPrivacy
-! Last modified: 28 Oct 2026 22:18 UTC
+! Last modified: 29 Oct 2026 05:29 UTC
 ! Expires: 4 days (update frequency)
-! Commit: adbcc7a8033a5df1f8fdde69ffaf34e6064068d0
+! Commit: f21f1a8b16e392808ffec670e2ee40cda9bf86d9
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -7808,6 +7808,7 @@ omni.soundestlink.com$image
 ||helpcollar.com^
 ||helpflame.com^
 ||helpingbits.com^
+||hensonempire.com^
 ||heycomputers.com^
 ||heyhotshots.com^
 ||hfc195b.com^
@@ -54106,6 +54107,7 @@ search.rakuten.co.jp##+js(aeld, mouseup, sendClickEvent)
 ||data.manga-passion.de^
 ||data.openerotik.com^
 ||data.sportdeutschland.tv^
+||dbik.literatur-couch.de^
 ||dd.betano.com^
 ||dein-plan.de/t.gif
 ||deine-tierwelt.de/ajax/responsive/stats.php?
