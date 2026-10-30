@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-30T05:33:35.811Z
+! Last modified: 2026-10-30T12:41:07.028Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -5740,6 +5740,7 @@
 ||bfp.capitalone.com^
 ||bi.banggood.com^
 ||bicp-analytics.postscript.io^
+||bifrost-api.hotstar.com^
 ||binocule21c.merriam-webster.com^
 ||blitz-analytics-batch-server.blitz.gg^
 ||blue.nbc4i.com^

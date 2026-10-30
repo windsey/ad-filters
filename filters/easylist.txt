@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-30T05:33:33.877Z
+! Last modified: 2026-10-30T12:41:05.284Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -22714,7 +22714,6 @@
 ||iam-rum-intake.datadoghq.com^
 ||logs.datadoghq.com^
 ||datadoghq.eu^
-||datadome.co^
 ||adsmartget.datads.cn^
 ||datadsk.com^
 ||datafa.st^
