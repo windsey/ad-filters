@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-30T12:41:07.028Z
+! Last modified: 2026-10-30T22:12:20.088Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -815,6 +815,7 @@
 ||bestboundary.com^
 ||bestclimbers.net^
 ||bestcoffeemachine.net^
+||bestpriceonly.com^
 ||bestshoesboot.com^
 ||bestsportsbra.com^
 ||betazebra.com^
@@ -974,6 +975,7 @@
 ||cardmethod.com^
 ||cardproducer.com^
 ||carefuldolls.com^
+||cargrasp.com^
 ||caringcast.com^
 ||carloforward.com^
 ||carpoolmatch.com^
@@ -1510,6 +1512,7 @@
 ||floweryfact.com^
 ||floweryflavor.com^
 ||floweryoperation.com^
+||fluffybirds.com^
 ||flushingbeast.com^
 ||flutteringfireman.com^
 ||flyflightstar.com^
@@ -1772,6 +1775,7 @@
 ||incomehippo.com^
 ||incompetentjoke.com^
 ||inconclusiveaction.com^
+||indscout.com^
 ||infamousstream.com^
 ||infinityhedge.com^
 ||informalbook.com^

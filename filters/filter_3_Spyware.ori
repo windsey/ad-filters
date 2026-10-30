@@ -109670,6 +109670,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1) { remove: true; }
 !
 ! NOTE: Regular rules
 !
+||stats.cleanip.io^
 ||s.igen.fr^
 ||op.fintables.com^
 ||stats.spidersense.xyz^
@@ -382597,6 +382598,7 @@ dlsdk.appsflyer.com^
 !
 ! NOTE: Regular rules
 !
+||api-abtest-cdn.learnings.ai^
 ||mobile-telemetry.multiball.forzafootball.net^
 ||gpskeeper.popinfo.jp^
 ||api-sdk-tracking.beaconbank.jp^
@@ -389187,6 +389189,7 @@ kizi.com#%#window.google_trackConversion = function() {};
 ||bestboundary.com^
 ||bestclimbers.net^
 ||bestcoffeemachine.net^
+||bestpriceonly.com^
 ||bestshoesboot.com^
 ||bestsportsbra.com^
 ||betazebra.com^
@@ -389346,6 +389349,7 @@ kizi.com#%#window.google_trackConversion = function() {};
 ||cardmethod.com^
 ||cardproducer.com^
 ||carefuldolls.com^
+||cargrasp.com^
 ||caringcast.com^
 ||carloforward.com^
 ||carpoolmatch.com^
@@ -389882,6 +389886,7 @@ kizi.com#%#window.google_trackConversion = function() {};
 ||floweryfact.com^
 ||floweryflavor.com^
 ||floweryoperation.com^
+||fluffybirds.com^
 ||flushingbeast.com^
 ||flutteringfireman.com^
 ||flyflightstar.com^
@@ -390144,6 +390149,7 @@ kizi.com#%#window.google_trackConversion = function() {};
 ||incomehippo.com^
 ||incompetentjoke.com^
 ||inconclusiveaction.com^
+||indscout.com^
 ||infamousstream.com^
 ||infinityhedge.com^
 ||informalbook.com^

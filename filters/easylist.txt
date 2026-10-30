@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-30T12:41:05.284Z
+! Last modified: 2026-10-30T22:12:18.583Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -28364,7 +28364,7 @@
 ||enrtx.com^
 ||ensealplaners.com^
 ||enseq50a.xyz^
-||ensighten.com^
+||nexus.ensighten.com^
 ||ensmwonhtzpdh.space^
 ||ensosignal.com^
 ||enstatenewark.com^
@@ -33915,7 +33915,6 @@
 ||xwpzlz.gemimarket.it^
 ||geminisailingzillion.com^
 ||cmp.gemius.com^
-||gemius.pl^
 ||gemlithium.com^
 ||ovrsso.gemo.fr^
 ||gemorganic.com^
@@ -49129,7 +49128,6 @@
 ||scdn.literatur-couch.de^
 ||stats.literaturkreis.online^
 ||ini.litingxin.cn^
-||litix.io^
 ||link.litnet.com^
 ||litpzshqdkjvn.online^
 ||litrujsxxymfn.website^
@@ -59354,7 +59352,6 @@
 ||omshedinjaor.com^
 ||d.omsnative.de^
 ||omswwmgtqwekb.space^
-||omtrdc.net^
 ||omwvapmytccsc.online^
 ||omwvtaafvqa.in^
 ||omxpiremgszzv.space^
@@ -62862,7 +62859,6 @@
 ||placidityelite.com^
 ||placiditylever.com^
 ||placidperson.com^
-||pladform.ru^
 ||hsvrww.plain-me.com^
 ||plain-plane.com^
 ||plaincapsize.com^
@@ -71492,7 +71488,8 @@
 ||a8clk.segatoys.com^
 ||nossl.segfault.net^
 ||stat.segitek.hu^
-||segment.com^
+||cdn-settings.segment.com^
+||mobile-service.segment.com^
 ||segment.io^
 ||segmenthub.com^
 ||segmentify.com^

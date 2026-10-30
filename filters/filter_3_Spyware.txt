@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-30T12:41:20.362Z
+! Last modified: 2026-10-30T22:12:31.883Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -105851,6 +105851,7 @@
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||stats.cleanip.io^
 ||s.igen.fr^
 ||op.fintables.com^
 ||stats.spidersense.xyz^
@@ -110762,6 +110763,7 @@ dlsdk.appsflyer.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||api-abtest-cdn.learnings.ai^
 ||mobile-telemetry.multiball.forzafootball.net^
 ||gpskeeper.popinfo.jp^
 ||api-sdk-tracking.beaconbank.jp^
@@ -112072,6 +112074,7 @@ dlsdk.appsflyer.com^
 ||bestboundary.com^
 ||bestclimbers.net^
 ||bestcoffeemachine.net^
+||bestpriceonly.com^
 ||bestshoesboot.com^
 ||bestsportsbra.com^
 ||betazebra.com^
@@ -112231,6 +112234,7 @@ dlsdk.appsflyer.com^
 ||cardmethod.com^
 ||cardproducer.com^
 ||carefuldolls.com^
+||cargrasp.com^
 ||caringcast.com^
 ||carloforward.com^
 ||carpoolmatch.com^
@@ -112767,6 +112771,7 @@ dlsdk.appsflyer.com^
 ||floweryfact.com^
 ||floweryflavor.com^
 ||floweryoperation.com^
+||fluffybirds.com^
 ||flushingbeast.com^
 ||flutteringfireman.com^
 ||flyflightstar.com^
@@ -113029,6 +113034,7 @@ dlsdk.appsflyer.com^
 ||incomehippo.com^
 ||incompetentjoke.com^
 ||inconclusiveaction.com^
+||indscout.com^
 ||infamousstream.com^
 ||infinityhedge.com^
 ||informalbook.com^
