@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-29T22:41:18.844Z
+! Last modified: 2026-10-30T05:33:35.811Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -897,6 +897,7 @@
 ||boxandcover.com^
 ||brainybasin.com^
 ||branchborder.com^
+||brandcasters.com^
 ||brandsfive.com^
 ||brandybison.com^
 ||bravebone.com^

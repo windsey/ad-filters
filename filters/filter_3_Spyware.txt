@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-29T22:41:32.999Z
+! Last modified: 2026-10-30T05:33:49.698Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -10,6 +10,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||analytics.searchspring.net^
 ||apmginternational.matomo.cloud^
 ||metrics.selectel.ru^
 ||collect.pravdastat.com^
@@ -112150,6 +112151,7 @@ dlsdk.appsflyer.com^
 ||boxandcover.com^
 ||brainybasin.com^
 ||branchborder.com^
+||brandcasters.com^
 ||brandsfive.com^
 ||brandybison.com^
 ||bravebone.com^

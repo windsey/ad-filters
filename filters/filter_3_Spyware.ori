@@ -574,6 +574,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1) { remove: true; }
 !
 ! NOTE: Regular rules
 !
+||analytics.searchspring.net^
 ||apmginternational.matomo.cloud^
 ||metrics.selectel.ru^
 ||collect.pravdastat.com^
@@ -373388,6 +373389,7 @@ zonedirector.avadacom.com$image
 !+ NOT_OPTIMIZED
 /.well-known/private-click-measurement
 !
+/.well-known/shopify/fec/produce
 /e/*^ip=*^beacon=
 /wp-content/plugins/advanced-ads-tracking/*
 /static/js/tracker.js^
@@ -374238,6 +374240,8 @@ naver.com#%#//scriptlet('trusted-json-set', 'JSON.stringify', '$.env.br_sr', '38
 !
 ! NOTE: Specific rules
 !
+||api.cookist.it/views/
+||rxless.com/beacon/
 ||hepsiburada.com/metrics/
 ||matomo.cloud/apmginternational.matomo.cloud/
 ||mautic.apmg-international.com/mtc.js
@@ -375605,7 +375609,7 @@ express.co.uk,iflscience.com,nypost.com#%#//scriptlet('set-local-storage-item', 
 ||parchment.com/wp-content/themes/wp-parchment/assets/utm-tags.min.js
 ||try.elevenlabs.io/pr/js
 ||elevenlabs.io/hog/
-incident.io,ricardocuisine.com,thegentlemansjournal.com,thekrazycouponlady.com,flo.com.tr#%#//scriptlet('set-local-storage-item', '__anon_id', '$remove$')
+jubilersezam.pl,incident.io,ricardocuisine.com,thegentlemansjournal.com,thekrazycouponlady.com,flo.com.tr#%#//scriptlet('set-local-storage-item', '__anon_id', '$remove$')
 ||market.samm.com/0/sendEventV2
 ezviz.ru#%#//scriptlet('set-local-storage-item', 'userUuid', '$remove$')
 ||c.sberlead.ru/clickstream.bundle.js
@@ -389260,6 +389264,7 @@ kizi.com#%#window.google_trackConversion = function() {};
 ||boxandcover.com^
 ||brainybasin.com^
 ||branchborder.com^
+||brandcasters.com^
 ||brandsfive.com^
 ||brandybison.com^
 ||bravebone.com^
