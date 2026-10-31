@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-31T12:11:06.597Z
+! Last modified: 2026-10-31T21:24:07.571Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -112299,6 +112299,7 @@ dlsdk.appsflyer.com^
 ||ciderfeast.com^
 ||cinemabonus.com^
 ||cinemafair.com^
+||circascope.com^
 ||circlelevel.com^
 ||citizensactive.com^
 ||citydeal.net^
@@ -113072,6 +113073,7 @@ dlsdk.appsflyer.com^
 ||j93557g.com^
 ||jailbulb.com^
 ||jamexport.com^
+||jazzpianofast.com^
 ||jellyfinstream.com^
 ||jetskiscovers.com^
 ||jewelryforest.com^
@@ -113080,6 +113082,7 @@ dlsdk.appsflyer.com^
 ||joblessdrum.com^
 ||jobmist.com^
 ||joshpaintings.com^
+||joybegins.com^
 ||joyfulharbor.com^
 ||joyouspool.com^
 ||joyoussurprise.com^
@@ -113108,6 +113111,7 @@ dlsdk.appsflyer.com^
 ||kartbarriersystem.com^
 ||keenquill.com^
 ||kernellife.com^
+||keymono.net^
 ||kidpowers.com^
 ||kidrobotgames.com^
 ||kindhush.com^
