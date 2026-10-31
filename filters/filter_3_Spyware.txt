@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-31T05:20:32.515Z
+! Last modified: 2026-10-31T12:11:06.597Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -10,6 +10,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||ubbrobccheck20.cc^
 ||radar.snitcher.com^
 ||cdn.snitcher.com^
 ||claydar.com^
