@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-30T22:12:20.088Z
+! Last modified: 2026-10-31T05:20:19.174Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -1711,6 +1711,7 @@
 ||heycomputers.com^
 ||heyhotshots.com^
 ||hfc195b.com^
+||higherhub.com^
 ||highfalutinbox.com^
 ||highfalutinhoney.com^
 ||highnoongear.com^
