@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-10-31T21:23:58.999Z
+! Last modified: 2026-11-01T05:48:21.016Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -1814,6 +1814,7 @@
 ||j93557g.com^
 ||jailbulb.com^
 ||jamexport.com^
+||jazzdocumentary.com^
 ||jazzpianofast.com^
 ||jellyfinstream.com^
 ||jetskiscovers.com^
