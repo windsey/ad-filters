@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-01T13:09:59.699Z
+! Last modified: 2026-11-01T21:57:07.517Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -1050,6 +1050,7 @@
 ||claycandle.com^
 ||cleanhaircut.com^
 ||clearclips.com^
+||cleargit.com^
 ||clickersdigest.com^
 ||climbingright.com^
 ||cloisteredcurve.com^
@@ -1922,6 +1923,7 @@
 ||loadsurprise.com^
 ||locateskill.com^
 ||locolava.com^
+||locowater.com^
 ||logicalminds.net^
 ||lonelyflavor.com^
 ||longingtrees.com^
@@ -1973,6 +1975,7 @@
 ||maliciousmusic.com^
 ||manamoment.com^
 ||manateemotors.com^
+||mangamad.com^
 ||manydiamonds.com^
 ||manyfishes.com^
 ||mapbasin.com^

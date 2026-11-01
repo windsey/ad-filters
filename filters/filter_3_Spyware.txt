@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-01T13:10:14.735Z
+! Last modified: 2026-11-01T21:57:20.888Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -112309,6 +112309,7 @@ dlsdk.appsflyer.com^
 ||claycandle.com^
 ||cleanhaircut.com^
 ||clearclips.com^
+||cleargit.com^
 ||clickersdigest.com^
 ||climbingright.com^
 ||cloisteredcurve.com^
@@ -113181,6 +113182,7 @@ dlsdk.appsflyer.com^
 ||loadsurprise.com^
 ||locateskill.com^
 ||locolava.com^
+||locowater.com^
 ||logicalminds.net^
 ||lonelyflavor.com^
 ||longingtrees.com^
@@ -113232,6 +113234,7 @@ dlsdk.appsflyer.com^
 ||maliciousmusic.com^
 ||manamoment.com^
 ||manateemotors.com^
+||mangamad.com^
 ||manydiamonds.com^
 ||manyfishes.com^
 ||mapbasin.com^
