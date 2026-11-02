@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-01T21:57:07.517Z
+! Last modified: 2026-11-02T05:47:58.762Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -1971,6 +1971,7 @@
 ||mailtinker.com^
 ||majesticwaterscape.com^
 ||majesticwilderness.com^
+||majorcleanup.net^
 ||makesimpact.com^
 ||maliciousmusic.com^
 ||manamoment.com^
