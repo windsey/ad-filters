@@ -66,6 +66,8 @@ rxgo.com,alfastrah.ru,turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepe
 !
 !
 !
+suno.com#%#//scriptlet('trusted-set-local-storage-item', 'appsell-logged-out-modal-dismissed', '{"timestamp":9999999999999,"ttlMs":86400000}')
+suno.com##.h-full > div.flex:has(> img[alt="Suno app"])
 thuisarts.nl##main > div.layout-wrapper:has(> div.layout-wrapper__inner > div.promotion-block)
 halara.*,thehalara.*##a[id^="observerImg"][href^="https://halara.onelink.me/"]
 flatfy.ua##.native-app-banner-spacer
@@ -258,9 +260,6 @@ manhuaren.com###tc-cover-wrap
 manhuaren.com##div.guide >img[src][onclick^="$('.guide')"]
 7fon.org###cbox > div#tmbox:has(> div > iframe[src^="https://7fon.org/goapp.php"])
 7fon.org###rgform
-turkiyegazetesi.com.tr#$#.abone-banner { display: none !important; }
-turkiyegazetesi.com.tr#$#.header { top: 0 !important; }
-turkiyegazetesi.com.tr#$#body { padding-top: 70px !important; }
 sports.yahoo.co.jp##main > section.sn-modList:has(> ul.sn-articleList img[src*="/promotion/follow/"])
 9xbuddy.in,9xbuddy.*#%#//scriptlet('set-session-storage-item', 'promo_popup_dismissed', '1')
 scamadviser.com##main > section.section-with-card:has(> div.container-lg > div.link-container > a[href="https://app-download.scamadviser.com/"])
@@ -4261,6 +4260,12 @@ wear.jp#%#//scriptlet('trusted-set-session-storage-item', 'status_of_app_redirec
 !
 !
 !+ NOT_OPTIMIZED
+turkiyegazetesi.com.tr#$#.abone-banner { display: none !important; }
+!+ NOT_OPTIMIZED
+turkiyegazetesi.com.tr#$#.header { top: 0 !important; }
+!+ NOT_OPTIMIZED
+turkiyegazetesi.com.tr#$#body { padding-top: 70px !important; }
+!+ NOT_OPTIMIZED
 xn--pckua2a7gp15o89zb.com##.p-appFootBnr
 !+ NOT_OPTIMIZED
 ntv.com.tr##.inread-content-area > div.w-full:has(> div.relative a[href^="https://play.google.com/store/apps/details?id=com.dogus.ntv"])
@@ -4536,6 +4541,8 @@ m.tokopedia.com#$#div[data-testid="divOverlay"] { display: none!important; }
 ! causes some issues: https://github.com/AdguardTeam/AdguardForMac/issues/550
 ~odaibako.net,~lineup.withgoogle.com,~vert.sh,~search.brave.com,~status.im,~lafenice.io,~kurer-sreda.ru,~chorki.com,~zattoo.com,~zaycev.net,~hitta.se,~mail.ru,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 !
+moyo.ua##.mobile-app-not-placeholder
+halalbooking.com###app_installation_banner
 tokubai.co.jp###float_web2app_smart_phone_wrapper
 tokubai.co.jp#$#.popup_banner_image[data-imp-hakari-keyword] { display: none !important; }
 tokubai.co.jp#$#body[style="overflow-y: hidden;"] { overflow-y: auto !important; }

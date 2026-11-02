@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-02T05:48:07.511Z
+! Last modified: 2026-11-02T15:34:27.200Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -112029,6 +112029,7 @@ dlsdk.appsflyer.com^
 ||badgeboat.com^
 ||badgerabbit.com^
 ||badgevolcano.com^
+||bagave.com^
 ||bagbeam.com^
 ||bagsurprise.com^
 ||bahamashello.com^

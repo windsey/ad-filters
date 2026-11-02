@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-02T05:47:58.762Z
+! Last modified: 2026-11-02T15:34:18.769Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -770,6 +770,7 @@
 ||badgeboat.com^
 ||badgerabbit.com^
 ||badgevolcano.com^
+||bagave.com^
 ||bagbeam.com^
 ||bagsurprise.com^
 ||bahamashello.com^
