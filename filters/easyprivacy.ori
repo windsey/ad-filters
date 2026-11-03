@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611021521
+! Version: 202611030044
 ! Title: EasyPrivacy
-! Last modified: 02 Nov 2026 15:21 UTC
+! Last modified: 03 Nov 2026 00:44 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bb94f6f9109e376b593d7d20fdfcf2255d20517e
+! Commit: 59c7119a1fed5207f70ed1eba2c1d1fc1c2be2b1
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -7215,6 +7215,7 @@ omni.soundestlink.com$image
 ||confusedcart.com^
 ||consciouschairs.com^
 ||consciouscheese.com^
+||consciousremnant.com^
 ||constructioncans.com^
 ||consumerdebtnegotiation.com^
 ||consumerknowhow.com^
@@ -7247,6 +7248,7 @@ omni.soundestlink.com$image
 ||cosplaygalaxy.com^
 ||costumeoffers.com^
 ||costwinner.com^
+||couponbright.com^
 ||couponrail.com^
 ||courageousbaby.com^
 ||coverlayer.com^
@@ -8086,6 +8088,7 @@ omni.soundestlink.com$image
 ||manamoment.com^
 ||manateemotors.com^
 ||mangamad.com^
+||manilazoo.com^
 ||manydiamonds.com^
 ||manyfishes.com^
 ||mapbasin.com^
@@ -8200,6 +8203,7 @@ omni.soundestlink.com$image
 ||mutualdocs.com^
 ||mysketchpad.com^
 ||mysticalagoon.com^
+||nablounge.com^
 ||naillearn.com^
 ||naivestatement.com^
 ||nappyattack.com^

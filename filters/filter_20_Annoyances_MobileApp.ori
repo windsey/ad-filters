@@ -66,6 +66,10 @@ rxgo.com,alfastrah.ru,turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepe
 !
 !
 !
+onefootball.com##div[class*="_bannercontainer"]:has(a[href*="adj.st"])
+proverkacheka.com##.b-pwa-install-desire
+bellona.com.tr###ch-banner-studio-318
+bellona.com.tr##.app-area
 suno.com#%#//scriptlet('trusted-set-local-storage-item', 'appsell-logged-out-modal-dismissed', '{"timestamp":9999999999999,"ttlMs":86400000}')
 suno.com##.h-full > div.flex:has(> img[alt="Suno app"])
 thuisarts.nl##main > div.layout-wrapper:has(> div.layout-wrapper__inner > div.promotion-block)
@@ -4541,6 +4545,8 @@ m.tokopedia.com#$#div[data-testid="divOverlay"] { display: none!important; }
 ! causes some issues: https://github.com/AdguardTeam/AdguardForMac/issues/550
 ~odaibako.net,~lineup.withgoogle.com,~vert.sh,~search.brave.com,~status.im,~lafenice.io,~kurer-sreda.ru,~chorki.com,~zattoo.com,~zaycev.net,~hitta.se,~mail.ru,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 !
+yepas.com#$#.smart-banner { display: none !important; }
+yepas.com#$#.site-header { margin-top: 0px !important; }
 moyo.ua##.mobile-app-not-placeholder
 halalbooking.com###app_installation_banner
 tokubai.co.jp###float_web2app_smart_phone_wrapper

@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202611021521
+! Version: 202611030048
 ! Title: Fanboy's Social Blocking List
-! Last modified: 02 Nov 2026 15:21 UTC
+! Last modified: 03 Nov 2026 00:48 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bb94f6f9109e376b593d7d20fdfcf2255d20517e
+! Commit: 580189bc8101b378336a388bea1ff324546a0e80
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -11458,6 +11458,7 @@ nationaltoday.com##.nt-share
 nowtoronto.com##.nt-sidebar-social
 nowtoronto.com##.nt-social
 foodnetwork.com##.o-SocialShare
+deadline.com,goldderby.com,rollingstone.com##.o-google-preferred-button
 getty.edu##.o-hero__social
 newstalkzb.co.nz##.o-share-list
 sheknows.com,spy.com##.o-social-list__item

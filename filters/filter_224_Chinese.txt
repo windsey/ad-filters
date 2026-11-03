@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-02T15:34:20.778Z
+! Last modified: 2026-11-03T00:53:06.500Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -170,6 +170,10 @@
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
 ||hash.trafficmanager.net^
+||gssaga13g.com^
+||vfbbxi2ap.com^
+||electrician25.com^
+||lmxnthoobcznvu.com^
 ||mgu14s8c5h.com^
 ||refrigerator16.com^
 ||fwbvjxsmvznfpu.com^
