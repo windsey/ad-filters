@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-03T14:01:12.342Z
+! Last modified: 2026-11-03T23:12:31.530Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -106919,6 +106919,7 @@
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||api-node.corvexa.cloud^
 ||collector.wawlabs.com^
 ||telemetry.ecosoft.group^
 ||stats.cleanip.io^
@@ -108250,7 +108251,6 @@
 ||cs.avito.ru^
 ||logsk.glomancloud.gr^
 ||insights-tag.convertkit.com^
-||b.trueanthem.com^
 ||matomo.eduwill.net^
 ||telemetry.eyeo.com^
 ||analytics.everythingstream.com^
