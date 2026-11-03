@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-03T00:53:17.685Z
+! Last modified: 2026-11-03T14:01:12.342Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -106919,6 +106919,8 @@
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||collector.wawlabs.com^
+||telemetry.ecosoft.group^
 ||stats.cleanip.io^
 ||s.igen.fr^
 ||op.fintables.com^
@@ -114331,6 +114333,7 @@ dlsdk.appsflyer.com^
 ||meadowlullaby.com^
 ||measlymiddle.com^
 ||meatydime.com^
+||medanysew.com^
 ||meddleplant.com^
 ||mediamaker.net^
 ||mediatescarf.com^

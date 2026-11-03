@@ -110737,6 +110737,8 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1) { remove: true; }
 !
 ! NOTE: Regular rules
 !
+||collector.wawlabs.com^
+||telemetry.ecosoft.group^
 ||stats.cleanip.io^
 ||s.igen.fr^
 ||op.fintables.com^
@@ -394841,6 +394843,11 @@ naver.com#%#//scriptlet('trusted-json-set', 'JSON.stringify', '$.env.br_sr', '38
 !
 ! NOTE: Specific rules
 !
+||catalogueau.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-content-events-*.js
+||chat.deepseek.com/api/*/telemetry
+||cum.st/js/*.js|$script
+||obilet.com/event|
+||tatilbudur.com/Q8RLK3/
 ||aftersell.app/api/public/metrics/
 ||aftersell.app/api/*/visibilityEvents
 news.jp##div.recommend > h2.recommend__title
@@ -402066,6 +402073,8 @@ $cookie=bf_visit
 ! Bad:  ||monerominer.rocks^$third-party (should be in adservers.txt)
 !
 !
+! dennikn.sk
+||dennikn.sk^$cookie=browser_id
 ! ggmax.com.br
 ||ggmax.com.br^$cookie=gg-ads-session
 ||ggmax.com.br^$cookie=device
@@ -410981,6 +410990,7 @@ kizi.com#%#window.google_trackConversion = function() {};
 ||meadowlullaby.com^
 ||measlymiddle.com^
 ||meatydime.com^
+||medanysew.com^
 ||meddleplant.com^
 ||mediamaker.net^
 ||mediatescarf.com^

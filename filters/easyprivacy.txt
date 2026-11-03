@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-03T00:53:03.355Z
+! Last modified: 2026-11-03T14:01:00.171Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -2005,6 +2005,7 @@
 ||meadowlullaby.com^
 ||measlymiddle.com^
 ||meatydime.com^
+||medanysew.com^
 ||meddleplant.com^
 ||mediamaker.net^
 ||mediatescarf.com^
