@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-04T14:18:36.539Z
+! Last modified: 2026-11-04T23:33:07.897Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -1453,6 +1453,8 @@
 ||ws-goguardian.pusher.com^
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
+||post.eyepinnews.com^
+||news.post.at^
 ||a.popin.cc^
 ||trace.popin.cc^
 ||rlog.popin.cc^
@@ -113592,6 +113594,7 @@ dlsdk.appsflyer.com^
 ||dewdroplagoon.com^
 ||dharmabrats.com^
 ||dicecandies.com^
+||dicezing.com^
 ||difficultfog.com^
 ||digestiondrawer.com^
 ||digitalatticnewsletter.com^
