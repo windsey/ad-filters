@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202611040552
+! Version: 202611041413
 ! Title: Fanboy's Social Blocking List
-! Last modified: 04 Nov 2026 05:52 UTC
+! Last modified: 04 Nov 2026 14:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 83648ed051f06f02651c7913848cdd34788450b8
+! Commit: 40e35eac1e2afff8ff6b22ea713aeec19d6d40f9
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -10541,7 +10541,7 @@ hexus.net###topicons
 labex.io###tutorial-detail-sidebar > .mb-10
 dansingerman.com,fark.com,radioguide.fm,rare.us,thetvaddict.com###twitter
 pcgamer.com,tomshardware.com###utility-bar
-gamesradar.com,tomsguide.com,windowscentral.com###utilitybar__button--share
+gamesradar.com,techradar.com,tomsguide.com,windowscentral.com###utilitybar__button--share
 videocardz.com###vc-index-google-follow
 mansionglobal.com###webui-save-and-share
 videocardz.com###welcome-modal
