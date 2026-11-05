@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202611050618
+! Version: 202611051943
 ! Title: Fanboy's Social Blocking List
-! Last modified: 05 Nov 2026 06:18 UTC
+! Last modified: 05 Nov 2026 19:43 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b5629bfa37bca4d8e2682867bf858d1e0f507d94
+! Commit: e7a693f98d7b213ce2fb8f9bc26f11af0e1f30dd
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -11823,7 +11823,7 @@ northpennnow.com##.social-media-vertical
 mg.co.za##.social-meks
 aciafrica.org,aciafrique.org,acidigital.com,acimena.com,aciprensa.com,acistampa.com,blackamericaweb.com,browserstack.com,cassiuslife.com,catholicnewsagency.com,gosunoob.com,joblo.com,mycleo.tv,radioblog.eu,tvone.tv,ultiworld.com##.social-menu
 birdsandblooms.com,familyhandyman.com,rd.com,tasteofhome.com,thehealthy.com##.social-menu-desktop
-churchpop.com,dersonntag.at,toofab.com##.social-nav
+99percentinvisible.org,churchpop.com,dersonntag.at,toofab.com##.social-nav
 eltecolote.org,melmagazine.com,mississippifreepress.org,orlandoweekly.com,prismreports.org,sacurrent.com,thefrisc.com,worldcrunch.com##.social-navigation
 steveharveyfm.com##.social-network-icons
 adrenaline.com.br,bonsfluidos.com.br,bossip.com,brasil.perfil.com,glamurama.com.br,insidehpc.com,maisnovela.com.br,manequim.com.br,marciapiovesan.com.br,mundoconectado.com.br,sportsbusinessjournal.com,vivasaudedigital.com.br##.social-networks
