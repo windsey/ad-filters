@@ -394848,6 +394848,7 @@ naver.com#%#//scriptlet('trusted-json-set', 'JSON.stringify', '$.env.br_sr', '38
 !
 ! NOTE: Specific rules
 !
+||kitco.com/api/cms-proxy?
 ||api.biggo.com/api/v*/view-attest?
 ||by0e87-resources.by/analytics/
 ||cdn.saracoglumedya.com/private/panel/api/olcum.php
@@ -411252,10 +411253,12 @@ kizi.com#%#window.google_trackConversion = function() {};
 ||passwordbyte.com^
 ||pastoralroad.com^
 ||pawsnug.com^
+||payiris.com^
 ||peacefullimit.com^
 ||peakcreator.com^
 ||pearpouch.com^
 ||peatfarming.com^
+||pedaldudes.com^
 ||pedropanther.com^
 ||peeringhost.net^
 ||pegsbuttons.com^

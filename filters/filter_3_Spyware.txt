@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-04T23:33:07.897Z
+! Last modified: 2026-11-05T06:27:22.571Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -114582,10 +114582,12 @@ dlsdk.appsflyer.com^
 ||passwordbyte.com^
 ||pastoralroad.com^
 ||pawsnug.com^
+||payiris.com^
 ||peacefullimit.com^
 ||peakcreator.com^
 ||pearpouch.com^
 ||peatfarming.com^
+||pedaldudes.com^
 ||pedropanther.com^
 ||peeringhost.net^
 ||pegsbuttons.com^
