@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-06T06:21:30.768Z
+! Last modified: 2026-11-06T19:16:08.883Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -107834,6 +107834,8 @@
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||visor.sbrf.ru^
+||visor.sberbank.ru^
 ||fluid-player-analytics.sky.it^
 ||pbs.yahoo.com^
 ||pbd.yahoo.com^
@@ -114234,6 +114236,7 @@ dlsdk.appsflyer.com^
 ||cartjoint.com^
 ||cartlug.com^
 ||carvecakes.com^
+||castlereach.com^
 ||casualphysics.com^
 ||catalogcake.com^
 ||catlanguage.net^
@@ -115638,6 +115641,7 @@ dlsdk.appsflyer.com^
 ||pulsatingmeadow.com^
 ||pumpedpancake.com^
 ||pumpedpurpose.com^
+||puncherr.com^
 ||punyplant.com^
 ||puppetcorp.com^
 ||puppiesart.com^

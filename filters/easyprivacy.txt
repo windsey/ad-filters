@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-06T06:21:15.985Z
+! Last modified: 2026-11-06T19:15:56.507Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -988,6 +988,7 @@
 ||cartjoint.com^
 ||cartlug.com^
 ||carvecakes.com^
+||castlereach.com^
 ||casualphysics.com^
 ||catalogcake.com^
 ||catlanguage.net^
@@ -2394,6 +2395,7 @@
 ||pulsatingmeadow.com^
 ||pumpedpancake.com^
 ||pumpedpurpose.com^
+||puncherr.com^
 ||punyplant.com^
 ||puppetcorp.com^
 ||puppiesart.com^
