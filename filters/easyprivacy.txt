@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-05T19:51:35.924Z
+! Last modified: 2026-11-06T06:21:15.985Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -1524,6 +1524,7 @@
 ||fluffybirds.com^
 ||flushingbeast.com^
 ||flutteringfireman.com^
+||fluxdecor.com^
 ||flyflightstar.com^
 ||flystranger.com^
 ||flysupercars.com^
@@ -2269,6 +2270,7 @@
 ||perfectfetch.com^
 ||permagroove.com^
 ||petitechili.com^
+||phatfiles.com^
 ||phonecup.com^
 ||phoneresult.com^
 ||photohints.com^
@@ -2304,6 +2306,7 @@
 ||playerhappy.com^
 ||playerscache.com^
 ||playfulriver.com^
+||playwarren.com^
 ||pleasantpump.com^
 ||plotparent.com^
 ||plotrabbit.com^

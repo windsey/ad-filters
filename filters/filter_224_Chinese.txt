@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-05T19:51:38.964Z
+! Last modified: 2026-11-06T06:21:19.105Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -170,6 +170,12 @@
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
 ||hash.trafficmanager.net^
+||ddft5oqi7q.com^
+||tecraccimk.com^
+||heptagon54.com^
+||fivvdbnotgndfg.com^
+||007bq3y7e5.com^
+||dkkm83qokh.com^
 ||8ybghd4zn.com^
 ||pbe40xy8g.com^
 ||hfparjrmndbvta.com^
@@ -5033,7 +5039,6 @@
 ||de.as.pptv.com^
 ||dehua.ixinfan.com^
 ||deliver.ifeng.com^
-||delivery.playallvideos.com^
 ||delivery.wasu.cn^
 ||djs.baomihua.com^
 ||dms.fx678.com^
@@ -5098,7 +5103,6 @@
 ||ivy.pconline.com.cn^
 ||iwanad.baidu.com^
 ||ja*.gamersky.com^
-||js*.abolezi.com^
 ||js.bju888.com^
 ||js.duotegame.com^
 ||jxad.jx163.com^
@@ -5169,7 +5173,6 @@
 ||wuliao.epro.sogou.com^
 ||xc.macd.cn^
 ||xc.mydrivers.com^
-||xdyjt.com^
 ||xs.houyi.baofeng.net^
 ||ya*.dwstatic.com^
 ||yktj.yzz.cn^

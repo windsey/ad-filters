@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202611051943
+! Version: 202611060608
 ! Title: Fanboy's Social Blocking List
-! Last modified: 05 Nov 2026 19:43 UTC
+! Last modified: 06 Nov 2026 06:08 UTC
 ! Expires: 4 days (update frequency)
-! Commit: e7a693f98d7b213ce2fb8f9bc26f11af0e1f30dd
+! Commit: 67026a52a650637c0062196766d2c4191bb019f9
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -11067,6 +11067,7 @@ grubstreet.com##.follow-list
 simplejoy.com##.follow-me-foot
 windowsreport.com##.follow-more-news
 opendemocracy.net##.follow-od
+techpartner.news##.follow-on-whatsapp__container
 amoledo.com##.follow-please
 metro.co.uk##.follow-promo
 gptoday.net##.follow-section
@@ -11225,6 +11226,7 @@ wrestletalk.com##.google_source_badge
 auto.hindustantimes.com##.googlenewfollowidget
 indiatoday.in##.googprefer
 japan.go.jp##.gov_sns
+techpartner.news##.gps-block
 ethanzuckerman.com##.group-1
 gadgets360.com##.gsocialbar
 atlanticcouncil.org##.gta-hover-share-container
