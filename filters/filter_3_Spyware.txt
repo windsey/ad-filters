@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-07T05:46:35.090Z
+! Last modified: 2026-11-07T12:51:38.211Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -112753,6 +112753,8 @@ dlsdk.appsflyer.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||mkt.supercell.com^
+||collector.snowplow.supercell.com^
 ||api-abtest-cdn.learnings.ai^
 ||mobile-telemetry.multiball.forzafootball.net^
 ||gpskeeper.popinfo.jp^
