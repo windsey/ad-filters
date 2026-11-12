@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202611121455
+! Version: 202611122327
 ! Title: Fanboy's Social Blocking List
-! Last modified: 12 Nov 2026 14:55 UTC
+! Last modified: 12 Nov 2026 23:27 UTC
 ! Expires: 4 days (update frequency)
-! Commit: af8a1be75f5fccb6d520b81cff5425b4c91da87e
+! Commit: 20d4d48efd4c04f355e85b420b68a1b76b6ce40e
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -11453,7 +11453,7 @@ infobyip.com##.noprint
 sfbayca.com##.notizia-end-share-panel
 sfbayca.com##.notizia-single-sharing-panel
 sfbayca.com##.notizia-tweet-this
-conservativebrief.com,jerseyvindicator.org,karanpc.com,parlamentario.com,sexypedia.it##.ns-buttons
+conservativebrief.com,jerseyvindicator.org,karanpc.com,parlamentario.com,sexypedia.it,techaeris.com##.ns-buttons
 cyberinsider.com,origami.guide,thepeoplesvoice.tv##.ns-buttons-wrapper
 nerdnomads.com,paperkawaii.com,stationx.net##.ns-share-count
 crypto-news-flash.com##.nso_single_social

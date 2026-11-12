@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-12T15:03:12.370Z
+! Last modified: 2026-11-12T23:31:35.530Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -209,7 +209,7 @@
 ||master-push.com^
 ||master-push.net^
 ||misrepush.com^
-||moengage.com^
+||moengage.com^$dnstype=~CNAME
 ||mp3vizor.com^
 ||najva.com^
 ||nativesubscribe.pro^

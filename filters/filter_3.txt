@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-12T15:03:29.618Z
+! Last modified: 2026-11-12T23:31:52.184Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -2949,6 +2949,7 @@
 ||sparklingshelf.com^
 ||sparkstudios.com^
 ||speakol.com^
+||speciesjewelry.com^
 ||specificmedia.co.uk^
 ||specificpop.com^
 ||speedomizer.com^
