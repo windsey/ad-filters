@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-12T23:31:56.511Z
+! Last modified: 2026-11-13T06:28:00.555Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -117283,6 +117283,7 @@ dlsdk.appsflyer.com^
 ||scenicchicago.com^
 ||scenicdrops.com^
 ||scentedkindly.com^
+||scentsquare.com^
 ||scholarloop.com^
 ||scholarsark.com^
 ||schoolpaws.com^
@@ -117419,6 +117420,7 @@ dlsdk.appsflyer.com^
 ||skylightdata.com^
 ||slackpod.com^
 ||slaysweater.com^
+||sleepfrankly.com^
 ||slickcontent.com^
 ||slimesupplies.net^
 ||slimsense.net^

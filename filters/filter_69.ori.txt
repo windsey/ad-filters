@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-12T23:32:03.246Z
+! Last modified: 2026-11-13T06:28:05.539Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -3491,6 +3491,7 @@
 ||a.espncricinfo.com^
 ||ae.stanleyblackanddecker.com^
 ||aests.aesthency.com^
+||aether-bi.polycasino.com^
 ||a.etherip.net^
 ||aetion.com^
 ||aeucrt.mistergooddeal.com^
@@ -22059,6 +22060,7 @@
 ||balthazar.diedm.fr^
 ||baltimoresunreports.com^
 ||baludok.com^
+||bamawrestling.com^
 ||bambinoads.net^
 ||bamboo.hetbevallingsjurkje.nl^
 ||bamfd.hellobatch.com^
@@ -26851,6 +26853,7 @@
 ||cog-tr0.com^
 ||cog-tr1.com^
 ||cog-tr2.com^
+||cog-tr3.com^
 ||cohbjtqd.parfium.bg^
 ||cohesionapps.com^
 ||cohesion.bankrate.com^
@@ -30163,6 +30166,7 @@
 ||d2dq2ahtl5zl1z.cloudfront.net^
 ||d2dvy74lyjayxz.cloudfront.net^
 ||d2e48ltfsb5exy.cloudfront.net^
+||d2ezz24t9nm0vu.cloudfront.net^
 ||d2fb88mlwivul3.cloudfront.net^
 ||d2ft3xf0i1jq1c.cloudfront.net^
 ||d2fuc4clr7gvcn.cloudfront.net^
@@ -35100,6 +35104,7 @@
 ||dd.zocdoc.com^
 ||de33watrk.com^
 ||de9c635aa0404558bd527220ef4e6b4b.betway.ca^
+||deadbro.com^
 ||deadpangate.com^
 ||deadpanmarble.com^
 ||deafeningdock.com^
@@ -38541,6 +38546,7 @@
 ||ermes.fsm-udine.com^
 ||ermes.midj.com^
 ||ernga.alexnalexrealty.com^
+||eroelog.xsrv.jp^
 ||erozp.mateina.ca^
 ||erp.velpa.pl^
 ||err.123cards.com^
@@ -38900,6 +38906,7 @@
 ||evdni.littlesleepies.com^
 ||e.vector.com^
 ||eveish.eveish.com^
+||event.airbridge.io^
 ||eventapi.afreecatv.com^
 ||event.api.drift.com^
 ||event-api-production.trustengine.com^
@@ -64841,6 +64848,7 @@
 ||mb1-cdn.com^
 ||mb1.macquarie.com.au^
 ||mb6bcl7trk.com^
+||m.babechat.ai^
 ||mbainfo.ust.hk^
 ||mbc-stats.fr^
 ||mb-edge.marmerbutik.com^
@@ -88794,6 +88802,7 @@
 ||sa.cache.horse^
 ||sa.camperdays.com^
 ||sa.candland.net^
+||sa.casino.org^
 ||sac.barrons.com^
 ||s.acceleratedagency.com^
 ||saccess.hikaritv.net^
@@ -99900,6 +99909,7 @@
 ||smetrics.casinoonline.co.uk^
 ||smetrics.casinoonline.de^
 ||smetrics.casinoonline.nl^
+||smetrics.casino.org^
 ||smetrics.casino.pe^
 ||smetrics.casinospiele.de^
 ||smetrics.casio.co.jp^
@@ -126873,6 +126883,7 @@
 ||svibeacon.onezapp.com^
 ||s.victoriassecret.com^
 ||s-vic.vitaincampagna.it^
+||s.viieecqj.com^
 ||sv.indesignoo.com^
 ||s.vinoscout.de^
 ||sv.in-shape.co^
@@ -135487,6 +135498,7 @@
 ||umami.odcrawler.xyz^
 ||umami.odeva.app^
 ||umami.oiste.ro^
+||umami-one-tau.vercel.app^
 ||umami.ongres.com^
 ||umami.onirion.dev^
 ||umami.ont2p.com^
