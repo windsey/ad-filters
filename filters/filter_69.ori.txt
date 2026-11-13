@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-13T06:28:05.539Z
+! Last modified: 2026-11-13T19:35:07.542Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -51001,6 +51001,7 @@
 ||istats.haj.systems^
 ||istats.haj.tech^
 ||istats.nl^
+||isticle.com^
 ||ist.istitutogiglio.it^
 ||istrack.com^
 ||ist-track.com^
@@ -52189,6 +52190,7 @@
 ||kntxy.com^
 ||knv.konovo.rs^
 ||knvrjf.potpourrigift.com^
+||kny2r1ej.com^
 ||knzs7fvtrk.com^
 ||ko6b7nsc.com^
 ||koala.getslopes.com^

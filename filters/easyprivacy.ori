@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611130623
+! Version: 202611131916
 ! Title: EasyPrivacy
-! Last modified: 13 Nov 2026 06:23 UTC
+! Last modified: 13 Nov 2026 19:16 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 3af425bd693a164fc602f012a52874e6bc93bb1f
+! Commit: da91f95130789c308ba2dd071749aa9c7f222066
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -8992,6 +8992,7 @@ omni.soundestlink.com$image
 ||spareapp.com^
 ||sparkgoal.com^
 ||sparklingshelf.com^
+||spasmgame.com^
 ||specialreview.net^
 ||specialscissors.com^
 ||specialtypin.com^
@@ -9200,6 +9201,7 @@ omni.soundestlink.com$image
 ||teeshining.com^
 ||telephoneapparatus.com^
 ||tempertrick.com^
+||tempowraps.com^
 ||temptteam.com^
 ||tendertest.com^
 ||tenhourweek.com^
@@ -9506,6 +9508,7 @@ omni.soundestlink.com$image
 ||wtaccesscontrol.com^
 ||yachtloft.com^
 ||yellowscissors.com^
+||yetiminis.com^
 ||yieldingwoman.com^
 ||youcandrawanything.com^
 ||yourgiftedbaby.com^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-13T06:27:51.099Z
+! Last modified: 2026-11-13T19:34:53.077Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -2841,6 +2841,7 @@
 ||spareapp.com^
 ||sparkgoal.com^
 ||sparklingshelf.com^
+||spasmgame.com^
 ||specialreview.net^
 ||specialscissors.com^
 ||specialtypin.com^
@@ -3049,6 +3050,7 @@
 ||teeshining.com^
 ||telephoneapparatus.com^
 ||tempertrick.com^
+||tempowraps.com^
 ||temptteam.com^
 ||tendertest.com^
 ||tenhourweek.com^
@@ -3355,6 +3357,7 @@
 ||wtaccesscontrol.com^
 ||yachtloft.com^
 ||yellowscissors.com^
+||yetiminis.com^
 ||yieldingwoman.com^
 ||youcandrawanything.com^
 ||yourgiftedbaby.com^

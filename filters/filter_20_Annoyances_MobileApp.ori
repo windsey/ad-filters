@@ -66,6 +66,11 @@ rxgo.com,alfastrah.ru,turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepe
 !
 !
 !
+opentable.com##div[data-test="apps-banner-container"]
+stockanalysis.com##body > div > div.items-center.flex:has(> div.min-w-0 + a[href^="https://play.google.com/store/apps/details?id=com.stockanalysis.app"])
+stockanalysis.com##body > div > div.inset-x-0.fixed:has(> button[aria-label="Close"])
+stockanalysis.com##div.mx-auto > div.flex-col:has(> div.flex > a[href^="https://apps.apple.com/us/app/stock-analysis-app"])
+prideofdetroit.com,bleedinggreennation.com##.duet--cta--breaking-news-banner
 delish.com##.recipe-body > div[class^="css-"]:has(> div[data-lazy-id] > div.no-print div[data-theme-key="app-download-banner-content"])
 inshorts.com##header + div[class^="_"] > div
 speedtest.ru##.container > div.mb-1:has(> div.store-wrapper)
@@ -203,7 +208,7 @@ cookpad.com##a[href*="/download"]
 cookpad.com##a[data-click-log*="download_app_button.click"]
 cookpad.com###floating-open-in-app-button
 koat.com##section[class^="css-"] > article[class^="css-"]:has(> div[data-button="/apps"])
-sbnation.com##section[aria-labelledby="sbn-app-promo-title"]
+silverandblackpride.com,bleedinggreennation.com,bigblueview.com,boltsfromtheblue.com,turfshowtimes.com,acmepackingcompany.com,fieldgulls.com,sbnation.com##section[aria-labelledby="sbn-app-promo-title"]
 8kporner.com,avporner.com,4k69.com##.sr-apromo
 top1.money#$#div.instagram-modal { display: none !important; }
 top1.money#$#.backdrop { display: none !important; }
@@ -235,7 +240,7 @@ web.joongna.com##body > .min-h-screen > button.bg-\[\#F1F4F6\].z-20.w-full
 doctornow.co.kr#%#//scriptlet('trusted-set-local-storage-item', 'appInstallSheetAutoOpen', '{"state":{"hasAutoOpened":true},"version":1}')
 white-pages.gr##.info:has(> div#ci-play-container)
 1024teradl.com##.uppercase.tracking-wider
-bluebirdbanter.com##section[aria-labelledby="sbn-app-promo-title"]
+prideofdetroit.com,bluebirdbanter.com##section[aria-labelledby="sbn-app-promo-title"]
 cinecat.eu##div[class^="pointer-events-none fixed inset-x-0 top-\[calc("]
 white-pages.gr###news-line
 white-pages.gr##.android-wrapper
@@ -1251,7 +1256,6 @@ mundolucha.com##a[href="https://play.google.com/store/apps/details?id=com.mlw.ap
 sporx.com##.pgContainer > a[title*="uygulamamızı"]
 sporx.com##.pgContainer > img[alt="Sporx Mobil uygulamaları"]
 ||reddit.com^$removeparam=recap_redirect
-mangaraw.plus##.fixed.bottom-0.standalone\:hidden
 radio.de,radio.net,radio.at###always-visible-banner-desktop-banner
 radio.de,radio.net,radio.at##section[data-testid="home-app-dl-section"]
 store.onstove.com##.inds-gnb-banner
@@ -4590,6 +4594,9 @@ m.tokopedia.com#$#div[data-testid="divOverlay"] { display: none!important; }
 ! causes some issues: https://github.com/AdguardTeam/AdguardForMac/issues/550
 ~odaibako.net,~lineup.withgoogle.com,~vert.sh,~search.brave.com,~status.im,~lafenice.io,~kurer-sreda.ru,~chorki.com,~zattoo.com,~zaycev.net,~hitta.se,~mail.ru,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 !
+17.live#$#div[data-testid="mobileBlock"]:has(> div > div > button[data-ga-event-label="download_app_msite"]) { display: none !important; }
+17.live#$#div[data-testid="mobileBlock"]:has(> div > div > button[data-ga-event-label="download_app_msite"]) + div { min-height: 100% !important; }
+17.live#$#div[data-testid="mobileBlock"]:has(> div > div > button[data-ga-event-label="download_app_msite"]) + div > div > nav { top: 0 !important; }
 skechers.com.tr##.pc-app-redirection-popup-container
 tour.ne.jp###appPopUpBanner
 dnipro-m.ua#$#body { padding-top: 0 !important; }
@@ -5477,7 +5484,7 @@ pokebattler.com##a[title="Pokebattler Raid Party App"]
 cookpad.com##.ep5ivm0
 cookpad.com##.swiper-wrapper > .swiper-slide:has(> a[href^="https://itunes.apple.com/jp/app/id340368403?"])
 cookpad.com##footer > section:has(> div > div > a[href^="https://itunes.apple.com/jp/app/id340368403?"])
-sportsnavi.ht.kyodo-d.jp,soccer.yahoo.co.jp,baseball.yahoo.co.jp,sports.yahoo.co.jp##.sn-modAppCarousel
+sportsnavi.ht.kyodo-d.jp,yahoo.co.jp##.sn-modAppCarousel
 clubd.co.jp###FixedBanner
 clubd.co.jp###footerBanner
 benesse.ne.jp#%#//scriptlet('abort-on-property-write', 'checkShowBanner')
