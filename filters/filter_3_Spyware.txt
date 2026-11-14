@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-14T06:08:10.914Z
+! Last modified: 2026-11-14T17:56:44.067Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -117675,6 +117675,7 @@ dlsdk.appsflyer.com^
 ||tableleaders.com^
 ||tackytrains.com^
 ||tacojournal.com^
+||tagloyalty.com^
 ||tailoredcopy.com^
 ||talltouch.com^
 ||tangibleteam.com^
@@ -117788,6 +117789,7 @@ dlsdk.appsflyer.com^
 ||traderbyte.com^
 ||tradetooth.com^
 ||trainingreality.com^
+||trainyourlab.com^
 ||tranquilcan.com^
 ||tranquilplume.com^
 ||tranquilveil.com^

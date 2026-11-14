@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-14T06:07:58.348Z
+! Last modified: 2026-11-14T17:56:28.897Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -3022,6 +3022,7 @@
 ||tableleaders.com^
 ||tackytrains.com^
 ||tacojournal.com^
+||tagloyalty.com^
 ||tailoredcopy.com^
 ||talltouch.com^
 ||tangibleteam.com^
@@ -3135,6 +3136,7 @@
 ||traderbyte.com^
 ||tradetooth.com^
 ||trainingreality.com^
+||trainyourlab.com^
 ||tranquilcan.com^
 ||tranquilplume.com^
 ||tranquilveil.com^
@@ -3835,6 +3837,7 @@
 ||d.shareaholic.com^
 ||d2gt2ux04o03l1.cloudfront.net^
 ||dash.getsitecontrol.com^
+||dash.kryon.one^
 ||data.circulate.com^
 ||data.digitalks.az^
 ||data.eetech.com^
