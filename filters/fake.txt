@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-13T19:34:53.330Z
+! Last modified: 2026-11-14T06:07:58.664Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -16930,7 +16930,6 @@
 ||tp-treuhand.de^
 ||tpcinvest.com^
 ||tpugilismf.lol^
-||tr-brokers.com^
 ||tr-handschuho.shop^
 ||trabo-garten.de^
 ||tracksmithdeutschland.com^

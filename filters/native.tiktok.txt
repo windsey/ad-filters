@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-13T19:35:04.134Z
+! Last modified: 2026-11-14T06:08:12.756Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -178,8 +178,6 @@
 ||vas-hl-x.snssdk.com^
 ||vcl-brain.snssdk.com^
 ||xlog.snssdk.com^
-||url4077.ads-service.tiktok.com^
-||url7108.ads-service.tiktok.com^
 ||ads.in.tiktok.com^
 ||ads.us.tiktok.com^
 ||ads-ttp2.us.tiktok.com^
@@ -195,6 +193,7 @@
 ||ads-api.tiktok.com^
 ||ads-frontier.tiktok.com^
 ||ads-ru.tiktok.com^
+||ads-service.tiktok.com^
 ||ads-sg.tiktok.com^
 ||ads-useast2a.tiktok.com^
 ||ads-va.tiktok.com^
@@ -355,6 +354,7 @@
 ||log32-normal-zr.tiktokv.com^
 ||log32-normal-zr-alisg.tiktokv.com^
 ||log32-normal-zr-useast1a.tiktokv.com^
+||log53-normal-c-useast1a.tiktokv.com^
 ||log58-normal.tiktokv.com^
 ||log58-normal-alisg.tiktokv.com^
 ||log58-normal-c-alisg.tiktokv.com^
@@ -362,6 +362,8 @@
 ||log58-normal-useast1a.tiktokv.com^
 ||log58-normal-useast2a.tiktokv.com^
 ||log58-normal-ycru.tiktokv.com^
+||log61-normal-c-alisg.tiktokv.com^
+||log61-normal-c-useast1a.tiktokv.com^
 ||log77-normal-c-alisg.tiktokv.com^
 ||log77-normal-c-useast1a.tiktokv.com^
 ||log9-normal-c-useast1a.tiktokv.com^

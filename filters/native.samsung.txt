@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-13T19:35:03.833Z
+! Last modified: 2026-11-14T06:08:12.386Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -150,10 +150,10 @@
 ||invitation.samsungiotcloud.com^
 ||analytics.samsungknox.com^
 ||analytics-stg.samsungknox.com^
-||api-analytics.samsungknox.com^
 ||api-analytics-qa.samsungknox.com^
 ||b2banalytics.samsungknox.com^
 ||nmetrics.samsungmobile.com^
+||gld.samsungosp.com^
 ||stats.samsungpass.com^
 ||osb.samsungqbe.com^
 ||osb-krsvc.samsungqbe.com^

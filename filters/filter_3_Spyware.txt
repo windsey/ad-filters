@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-13T19:35:02.622Z
+! Last modified: 2026-11-14T06:08:10.914Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -117217,6 +117217,7 @@ dlsdk.appsflyer.com^
 ||rockagainst.com^
 ||rockcarving.com^
 ||rocketmonitor.com^
+||rocketserver.net^
 ||rockspreading.com^
 ||rockstarwriter.com^
 ||roguephilosopher.com^
@@ -117686,6 +117687,7 @@ dlsdk.appsflyer.com^
 ||tastesnake.com^
 ||tawdryson.com^
 ||taxisubsea.com^
+||taxiwear.com^
 ||tealjewel.com^
 ||teamstatus.net^
 ||tearfulglass.com^

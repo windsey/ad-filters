@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-13T19:35:03.263Z
+! Last modified: 2026-11-14T06:08:11.688Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -8,6 +8,7 @@
 ||ubacollect-drcn.cloud.dbankcloud.cn^
 ||metrics-dre.data.dbankcloud.cn^
 ||metrics1.data.dbankcloud.cn^
+||metrics6.data.dbankcloud.cn^
 ||datacollector-dra.dt.dbankcloud.cn^
 ||datacollector-dre.dt.dbankcloud.cn^
 ||hisearch-dra.dt.dbankcloud.com^
@@ -25,6 +26,7 @@
 ||connect-dra.map.dbankcloud.com^
 ||connect-dre.map.dbankcloud.com^
 ||ad-drcn.media.dbankcloud.cn^
+||ug-drcn.media.dbankcloud.cn^
 ||adx-dra.op.dbankcloud.com^
 ||adx-drcn.op.dbankcloud.cn^
 ||adx-dre.op.dbankcloud.com^

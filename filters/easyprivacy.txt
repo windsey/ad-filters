@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-13T19:34:53.077Z
+! Last modified: 2026-11-14T06:07:58.348Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -72,6 +72,7 @@
 ||admediasales.com^
 ||admetrics.events^
 ||adnext.co^
+||adnz.co^
 ||adrsbl.io^
 ||adrtx.net^
 ||adscore.com^
@@ -2562,6 +2563,7 @@
 ||rockagainst.com^
 ||rockcarving.com^
 ||rocketmonitor.com^
+||rocketserver.net^
 ||rockspreading.com^
 ||rockstarwriter.com^
 ||roguephilosopher.com^
@@ -3032,6 +3034,7 @@
 ||tastesnake.com^
 ||tawdryson.com^
 ||taxisubsea.com^
+||taxiwear.com^
 ||tealjewel.com^
 ||teamstatus.net^
 ||tearfulglass.com^
@@ -3459,6 +3462,7 @@
 ||analytics.agoda.com^
 ||analytics.aimtell.com^
 ||analytics.algolia.com^
+||analytics.alvarezrosa.com^
 ||analytics.amakings.com^
 ||analytics.api.justeattakeaway.com^
 ||analytics.apnewsregistry.com^
@@ -3471,6 +3475,7 @@
 ||analytics.bhaskarsaikia.in^
 ||analytics.bitrix.info^
 ||analytics.bomiv.com^
+||analytics.bucks.helixo.co^
 ||analytics.carambo.la^
 ||analytics.carbaselive.com^
 ||analytics.chegg.com^
@@ -3715,6 +3720,7 @@
 ||cdn.ravm.tv^
 ||cdn.seonintelligence.com^
 ||cdn.usefathom.com^
+||cdn.visits.dqapis.com^
 ||cdns.brsrvr.com^
 ||cf-pixelfront-analytics.widencdn.net^
 ||cf.api.instant.one^
@@ -3875,6 +3881,7 @@
 ||ecommerce-events.adscale.com^
 ||ecommstats.s3.amazonaws.com^
 ||edge.venatusmedia.com^
+||edge.wingify.net^
 ||eel.transistor.fm^
 ||enc-90128738.b-cdn.net^
 ||ep.jamx.ai^
@@ -4183,6 +4190,7 @@
 ||native-ads-events-api2.c4s-rd.services^
 ||neocounter.neoworx-blog-tools.net^
 ||netlify-rum.netlify.app^
+||nexus.firecrown.com^
 ||ninja.onap.io^
 ||nitrous-analytics.s3.amazonaws.com^
 ||noa.yahoo.com^
@@ -4378,6 +4386,7 @@
 ||rum.uptime.com^
 ||rumstat.cdnvideo.ru^
 ||rw.marchex.io^
+||rybbit-analytics.livecounts.io^
 ||rybbit.sg-app.com^
 ||s.autopilotapp.com^
 ||s.axon.ai^
@@ -4574,6 +4583,7 @@
 ||tag.atom.gamedistribution.com^
 ||tag.aumago.com^
 ||tag.brandcdn.com^
+||tag.decentriq.com^
 ||tag.digops.sincro.io^
 ||tag.elevaate.io^
 ||tag.flagship.io^
@@ -5857,6 +5867,7 @@
 ||c.xbox.com^
 ||cactus.joybuy.com^
 ||cdapi.collegedunia.com^
+||cdid.trip.com^
 ||cdn.eaec.fpfis.tech.ec.europa.eu^
 ||cdp.howtotrade.com^
 ||chloro.trip.com^
@@ -6034,6 +6045,7 @@
 ||fp.uncensored.com^
 ||fpa-cdn.adweek.com^
 ||fpa-cdn.arstechnica.com^
+||fpa-events.theintercept.com^
 ||fpc.fingerprint.com^
 ||fpt.microsoft.com^
 ||fresnel-events.vimeocdn.com^
@@ -6209,6 +6221,7 @@
 ||op.dragonfru.it^
 ||ophan.theguardian.com^
 ||optimizely.techtarget.com^
+||otel-gw.booking.com^
 ||otel-mobile.doordash.com^
 ||p.codio.com^
 ||p.controld.com^
@@ -6306,6 +6319,7 @@
 ||researchlog.dbresearch.com^
 ||rfk.biglots.com^
 ||ring.staticmoly.me^
+||riskpoc.trip.com^
 ||roas-service.store-services-prod.remarkable.com^
 ||rps-p2.rockpapershotgun.com^
 ||rps-uk.rockpapershotgun.com^
@@ -6338,6 +6352,7 @@
 ||sherlock-events-sampler.ebay.com^
 ||shopmetric.rediff.com^
 ||sid.nordstrom.com^
+||sink.gw.booking.com^
 ||sjc.cloud.optable.co^
 ||slipstream.skyscanner.net^
 ||smetrics.couponcabin.com^
