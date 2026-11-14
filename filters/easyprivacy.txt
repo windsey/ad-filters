@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-14T17:56:28.897Z
+! Last modified: 2026-11-14T22:17:16.097Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -2735,6 +2735,7 @@
 ||silentsingle.com^
 ||siliconslow.com^
 ||siliconuser.com^
+||silkyslumber.com^
 ||sillyscrew.com^
 ||simplenaming.com^
 ||simplesafari.com^
