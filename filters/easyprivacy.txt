@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-15T06:15:01.558Z
+! Last modified: 2026-11-15T18:47:00.534Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -3250,6 +3250,7 @@
 ||victoryideas.com^
 ||viewresource.com^
 ||vilenexus.com^
+||vinylanswer.net^
 ||violetdemise.com^
 ||viowrel.com^
 ||viralfoodie.net^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-15T06:15:11.102Z
+! Last modified: 2026-11-15T18:47:15.492Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -110792,6 +110792,7 @@
 ||stats.jiosaavn.com^
 ||js-collector.icewood.net^
 ||analytics.luogu.me^
+||jzq915.playmobil.com^
 ||analytics.kode.co.kr^
 ||xtr.tos.sktelecom.com^
 ||gatag.uplus.co.kr^
@@ -113042,7 +113043,6 @@ prd.api.bleacherreport.com^
 ||email.social.qualtrics.com^
 ||sl-h-statistics-ch-1.storeland.ru^
 ||sli.familyhandyman.com^
-||slike.indiatimes.com^
 ||sls2.loisirsencheres.com^
 ||smp.tus.ac.jp^
 ||snowplow-pixel.tradingview.com^
@@ -117783,6 +117783,7 @@ dlsdk.appsflyer.com^
 ||topthrowbacks.com^
 ||torhosting.net^
 ||tortoisepage.com^
+||tourspicker.com^
 ||toweringanswer.com^
 ||toysbasics.com^
 ||toytakeover.com^
@@ -117902,6 +117903,7 @@ dlsdk.appsflyer.com^
 ||victoryideas.com^
 ||viewresource.com^
 ||vilenexus.com^
+||vinylanswer.net^
 ||violetdemise.com^
 ||viowrel.com^
 ||viralfoodie.net^
