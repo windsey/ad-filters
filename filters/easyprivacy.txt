@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-14T22:17:16.097Z
+! Last modified: 2026-11-15T06:15:01.558Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -3128,7 +3128,9 @@
 ||topratedwaterfilter.com^
 ||topsecretapp.net^
 ||topthrowbacks.com^
+||torhosting.net^
 ||tortoisepage.com^
+||tourspicker.com^
 ||toweringanswer.com^
 ||toysbasics.com^
 ||toytakeover.com^
