@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-15T18:47:15.492Z
+! Last modified: 2026-11-16T06:12:40.695Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -107859,6 +107859,7 @@
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||beacon.viafoura.io^
 ||events.plus.yandex.net^
 ||20251117mix.zgstongji.vip^
 ||2702.anglicanledger.org^
@@ -117486,6 +117487,7 @@ dlsdk.appsflyer.com^
 ||soresidewalk.com^
 ||soretrain.com^
 ||soulclicking.com^
+||soulfreedom.net^
 ||soundmachine.net^
 ||soundmuseums.com^
 ||soundstocking.com^
@@ -117824,6 +117826,7 @@ dlsdk.appsflyer.com^
 ||tuplebar.com^
 ||turtleface.net^
 ||tutorshelf.com^
+||tuxedocard.com^
 ||twelvedawn.com^
 ||twentyerr.com^
 ||twistloss.com^

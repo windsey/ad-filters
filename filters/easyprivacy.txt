@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-15T18:47:00.534Z
+! Last modified: 2026-11-16T06:12:31.454Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -2833,6 +2833,7 @@
 ||soresidewalk.com^
 ||soretrain.com^
 ||soulclicking.com^
+||soulfreedom.net^
 ||soundmachine.net^
 ||soundmuseums.com^
 ||soundstocking.com^
@@ -3151,6 +3152,7 @@
 ||treatoceans.com^
 ||tremendousplastic.com^
 ||tremendoustime.com^
+||trendcone.com^
 ||trialowl.com^
 ||trickfile.com^
 ||triplelarge.com^
@@ -3171,6 +3173,7 @@
 ||tuplebar.com^
 ||turtleface.net^
 ||tutorshelf.com^
+||tuxedocard.com^
 ||twelvedawn.com^
 ||twentyerr.com^
 ||twistloss.com^
