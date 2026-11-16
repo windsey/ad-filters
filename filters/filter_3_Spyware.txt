@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-16T06:12:40.695Z
+! Last modified: 2026-11-16T21:56:52.033Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -107859,6 +107859,8 @@
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||stats.proxypurity.com^
+||cast-imp.jtbc.co.kr^
 ||beacon.viafoura.io^
 ||events.plus.yandex.net^
 ||20251117mix.zgstongji.vip^
@@ -117526,6 +117528,7 @@ dlsdk.appsflyer.com^
 ||spoonsilk.com^
 ||sportsclubstat.com^
 ||sportsnearby.com^
+||sportswidows.com^
 ||sportybrains.com^
 ||sportyforum.com^
 ||spotlessstamp.com^
@@ -117779,6 +117782,7 @@ dlsdk.appsflyer.com^
 ||topcrazypress.com^
 ||topicalcartel.com^
 ||topicjungle.com^
+||topicspin.com^
 ||toplaunch.net^
 ||topratedwaterfilter.com^
 ||topsecretapp.net^
@@ -117806,6 +117810,7 @@ dlsdk.appsflyer.com^
 ||treatoceans.com^
 ||tremendousplastic.com^
 ||tremendoustime.com^
+||trendcone.com^
 ||trialowl.com^
 ||trickfile.com^
 ||triplelarge.com^
@@ -117935,6 +117940,7 @@ dlsdk.appsflyer.com^
 ||warnwing.com^
 ||warpedwaffle.com^
 ||washbanana.com^
+||waterloco.com^
 ||waterywave.com^
 ||waveinverter.com^
 ||wavesimple.com^

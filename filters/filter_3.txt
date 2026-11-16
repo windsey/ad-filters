@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-16T06:12:37.855Z
+! Last modified: 2026-11-16T21:56:47.508Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -3199,6 +3199,7 @@
 ||top100.mafia.ru^
 ||top123.ro^
 ||top20free.com^
+||topicspin.com^
 ||toplist.cz^
 ||toplist.pornhost.com^
 ||toplista.mw.hu^

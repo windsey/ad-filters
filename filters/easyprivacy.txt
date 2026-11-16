@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-16T06:12:31.454Z
+! Last modified: 2026-11-16T21:56:36.819Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -2872,6 +2872,7 @@
 ||spoonsilk.com^
 ||sportsclubstat.com^
 ||sportsnearby.com^
+||sportswidows.com^
 ||sportybrains.com^
 ||sportyforum.com^
 ||spotlessstamp.com^
@@ -3125,6 +3126,7 @@
 ||topcrazypress.com^
 ||topicalcartel.com^
 ||topicjungle.com^
+||topicspin.com^
 ||toplaunch.net^
 ||topratedwaterfilter.com^
 ||topsecretapp.net^
@@ -3282,6 +3284,7 @@
 ||warnwing.com^
 ||warpedwaffle.com^
 ||washbanana.com^
+||waterloco.com^
 ||waterywave.com^
 ||waveinverter.com^
 ||wavesimple.com^
@@ -3429,6 +3432,7 @@
 ||ads-tracking.beop.io^
 ||ads-tracking.collectiveaudience.co^
 ||ads-trk.vidible.tv^
+||adsagentclientafd-b7hqhjdrf3fpeqh2.b01.azurefd.net^
 ||adv-analytics-collector.videograph.ai^
 ||affiliate-api.raptive.com^
 ||aim-tag.hcn.health^
@@ -3845,6 +3849,7 @@
 ||d2gt2ux04o03l1.cloudfront.net^
 ||dash.getsitecontrol.com^
 ||dash.kryon.one^
+||data.cdnbasket.net^
 ||data.circulate.com^
 ||data.digitalks.az^
 ||data.eetech.com^
@@ -4243,6 +4248,7 @@
 ||p.yotpo.com^
 ||pa.pinpoll.com^
 ||page-events-ustats.udemy.com^
+||page.cdnbasket.net^
 ||pages-stats.rbl.ms^
 ||pagesense-collect.zoho.com^
 ||pagesocket.glam.com^
@@ -4848,6 +4854,7 @@
 ||video-analytics-api.cloudinary.com^
 ||video-intel.pixels.ai^
 ||videoevents.outbrain.com^
+||view.cdnbasket.net^
 ||vitals.flyingpress.com^
 ||vm.target-video.com^
 ||vortex.data.microsoft.com^
@@ -4883,6 +4890,7 @@
 ||wsmcdn.audioeye.com^
 ||wstats.ageverif.com^
 ||wstats.slashed.cloud^
+||wt.omnisendlink.com^
 ||wt.viagogo.net^
 ||wtb-tag.swaven.com^
 ||wtbevents.pricespider.com^
@@ -5697,6 +5705,7 @@
 ||tracking-api.razor.media^
 ||tracking.smartmeapp.com^
 ||tracking.univtec.com^
+||view.publitas.com^
 ||webpixel.smartmeapp.com^
 ||collector.schibsted.io^
 ||evt-api.ntm.eu^
