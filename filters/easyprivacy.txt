@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-16T21:56:36.819Z
+! Last modified: 2026-11-17T07:46:51.673Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.1
 !
@@ -3260,6 +3260,7 @@
 ||viowrel.com^
 ||viralfoodie.net^
 ||virtualvincent.com^
+||vistacool.net^
 ||visualcommservices.com^
 ||vividcache.com^
 ||vividcanopy.com^
@@ -3279,6 +3280,7 @@
 ||wafflemakers.net^
 ||waitingnumber.com^
 ||walkourworld.com^
+||wanmatures.com^
 ||wantingwindow.com^
 ||warmafterthought.com^
 ||warnwing.com^
@@ -3289,6 +3291,7 @@
 ||waveinverter.com^
 ||wavesimple.com^
 ||wavesmachine.com^
+||waxguide.com^
 ||waxsirens.com^
 ||wayjoyfarm.com^
 ||waylowrates.net^
