@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-17T07:47:07.267Z
+! Last modified: 2026-11-17T20:48:45.490Z
 !
-! Compiled by @adguard/hostlist-compiler v2.1.1
+! Compiled by @adguard/hostlist-compiler v3.0.0
 !
 ||analytics.163.com^
 ||crash.163.com^

@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-17T07:47:06.923Z
+! Last modified: 2026-11-17T20:48:45.309Z
 !
-! Compiled by @adguard/hostlist-compiler v2.1.1
+! Compiled by @adguard/hostlist-compiler v3.0.0
 !
 ||mon.snssdk.com^
 ||mcs.snssdk.com^
@@ -10,6 +10,9 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||bianopixel.com^
+||connect.liblynx.com^
+||badge.dimensions.ai^
 ||viewanalitycs.org^
 ||stats.raiansar.com^
 ||actone.app^
@@ -118007,6 +118010,7 @@ dlsdk.appsflyer.com^
 ||wizardbuck.com^
 ||wizardstrategy.com^
 ||wondermakings.com^
+||woodstockcustom.com^
 ||woofweather.com^
 ||woolstapler.com^
 ||wordchip.com^

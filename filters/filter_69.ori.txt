@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-17T07:47:14.362Z
+! Last modified: 2026-11-17T20:48:49.622Z
 !
-! Compiled by @adguard/hostlist-compiler v2.1.1
+! Compiled by @adguard/hostlist-compiler v3.0.0
 !
 ||0.000.bar^
 ||01009.wikihoster.de^
@@ -40965,6 +40965,7 @@
 ||fqgzj.tmlewin.co.uk^
 ||fqjgn.etrgovinca.sk^
 ||fqled.prepapizza.com^
+||fqlo5j4s.com^
 ||fqpzf.thefloristsupplyshop.com^
 ||fqqenf8trk.com^
 ||fqqok.zipstring.com^
@@ -48688,6 +48689,8 @@
 ||hnqwv.tartecosmetics.com^
 ||hnrfv.chromeindustries.com^
 ||hnsbb.scuba.com^
+||ho1bveqd9jq.com^
+||ho7lzs8h.com^
 ||hoa44trk.com^
 ||hocgeese.com^
 ||hockeyapp.net^
@@ -77576,6 +77579,7 @@
 ||page-events-ustats.udemy.com^
 ||page.fr.weber^
 ||pageinfo-k8s.motorsport.com^
+||pageinsights.de^
 ||page.isonat.com^
 ||page.isover.fr^
 ||page.ooi.co.jp^

@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-17T07:47:02.335Z
+! Last modified: 2026-11-17T20:48:42.750Z
 !
-! Compiled by @adguard/hostlist-compiler v2.1.1
+! Compiled by @adguard/hostlist-compiler v3.0.0
 !
 ||101com.com^
 ||180hits.de^
@@ -2968,6 +2968,7 @@
 ||sponsorpro.de^
 ||spookysleet.com^
 ||spoonballoon.com^
+||sportswidows.com^
 ||spotlessstamp.com^
 ||spotscenered.info^
 ||spotx.tv^

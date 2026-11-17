@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-17T07:47:09.073Z
+! Last modified: 2026-11-17T20:48:46.369Z
 !
-! Compiled by @adguard/hostlist-compiler v2.1.1
+! Compiled by @adguard/hostlist-compiler v3.0.0
 !
 ||analytics.us.tiktok.com.bytedance.akadns.net^
 ||p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net^

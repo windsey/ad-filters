@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-17T07:47:09.752Z
+! Last modified: 2026-11-17T20:48:46.705Z
 !
-! Compiled by @adguard/hostlist-compiler v2.1.1
+! Compiled by @adguard/hostlist-compiler v3.0.0
 !
 ||c-bingapis-com.dual-a-0034.a-msedge.net^
 ||measure.office.com.akamaized.net^

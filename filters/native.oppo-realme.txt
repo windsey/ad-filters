@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-17T07:47:08.415Z
+! Last modified: 2026-11-17T20:48:46.037Z
 !
-! Compiled by @adguard/hostlist-compiler v2.1.1
+! Compiled by @adguard/hostlist-compiler v3.0.0
 !
 ||classify-app-eu.allawnos.com^
 ||classify-app-in.allawnos.com^

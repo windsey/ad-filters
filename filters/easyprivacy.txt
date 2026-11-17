@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-17T07:46:51.673Z
+! Last modified: 2026-11-17T20:48:36.919Z
 !
-! Compiled by @adguard/hostlist-compiler v2.1.1
+! Compiled by @adguard/hostlist-compiler v3.0.0
 !
 -click-tracker.
 -didomi.js
@@ -3351,6 +3351,7 @@
 ||wizardbuck.com^
 ||wizardstrategy.com^
 ||wondermakings.com^
+||woodstockcustom.com^
 ||woofweather.com^
 ||woolstapler.com^
 ||wordchip.com^

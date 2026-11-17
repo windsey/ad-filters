@@ -1,8 +1,8 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-17T07:47:08.625Z
+! Last modified: 2026-11-17T20:48:46.144Z
 !
-! Compiled by @adguard/hostlist-compiler v2.1.1
+! Compiled by @adguard/hostlist-compiler v3.0.0
 !
 ||roku.adsmeasurement.com^
 ||adeng-identity-prod3.bdp.roku.com^
