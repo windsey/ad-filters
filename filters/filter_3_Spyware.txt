@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-17T20:48:45.309Z
+! Last modified: 2026-11-18T07:13:37.577Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -115737,6 +115737,7 @@ dlsdk.appsflyer.com^
 ||clumsycar.com^
 ||clutchcourses.com^
 ||coalkitchen.com^
+||coalmerchants.com^
 ||coastersim.com^
 ||coatfood.com^
 ||cobaltoverture.com^
@@ -117991,12 +117992,14 @@ dlsdk.appsflyer.com^
 ||wildcommittee.com^
 ||wildpetalfarm.com^
 ||wildwoodavenue.com^
+||willcollect.com^
 ||windbeetle.com^
 ||windflamesky.com^
 ||windwardhollow.com^
 ||windyclaim.com^
 ||wingstowheels.com^
 ||wirecomic.com^
+||wiredcarts.com^
 ||wiredforcoffee.com^
 ||wirenewsletter.com^
 ||wisedotcom.com^
@@ -118040,6 +118043,7 @@ dlsdk.appsflyer.com^
 ||youcandrawanything.com^
 ||yourgiftedbaby.com^
 ||yourlifedream.com^
+||yourownexpert.com^
 ||zanyapps.com^
 ||zapandmake.com^
 ||zephyrcatalyst.com^
