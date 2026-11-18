@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-18T07:13:37.577Z
+! Last modified: 2026-11-18T20:25:11.564Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -115430,6 +115430,7 @@ dlsdk.appsflyer.com^
 ||awarealley.com^
 ||awaybound.com^
 ||awzbijw.com^
+||axcii.com^
 ||axiomaticanger.com^
 ||axonsite.com^
 ||azuremystique.com^
@@ -115766,6 +115767,7 @@ dlsdk.appsflyer.com^
 ||cometquote.com^
 ||comfortablecheese.com^
 ||commitlogs.com^
+||commswap.com^
 ||comparereaction.com^
 ||compilework.com^
 ||condemnedcomb.com^

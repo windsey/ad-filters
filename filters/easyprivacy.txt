@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-18T07:13:22.932Z
+! Last modified: 2026-11-18T20:24:59.239Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -768,6 +768,7 @@
 ||awarealley.com^
 ||awaybound.com^
 ||awzbijw.com^
+||axcii.com^
 ||axiomaticanger.com^
 ||axonsite.com^
 ||azuremystique.com^
@@ -1104,6 +1105,7 @@
 ||cometquote.com^
 ||comfortablecheese.com^
 ||commitlogs.com^
+||commswap.com^
 ||comparereaction.com^
 ||compilework.com^
 ||condemnedcomb.com^
@@ -4022,6 +4024,7 @@
 ||galileotelemetry.tencent.com^
 ||ganon.yahoo.com^
 ||gateway.foresee.com^
+||gator.volces.com^
 ||gcp.fasthorse.workers.dev^
 ||genesis.malwarebytes.com^
 ||geo.bdg.com^
@@ -4217,6 +4220,7 @@
 ||nexus.firecrown.com^
 ||ninja.onap.io^
 ||nitrous-analytics.s3.amazonaws.com^
+||nlog.instajob.ai^
 ||noa.yahoo.com^
 ||noflake-aggregator-http.narvar.com^
 ||nol.yahoo.com^
@@ -4357,6 +4361,7 @@
 ||pulse.ecmapps.com^
 ||pulse.shopflo.com^
 ||pv-track.pxtrkapp.com^
+||pv-track.venatus.com^
 ||px.marchex.io^
 ||px.mountain.com^
 ||px.owneriq.net^
@@ -4434,6 +4439,7 @@
 ||session.timecommerce.net^
 ||sessions.embeddables.com^
 ||sftrack.searchforce.net^
+||sg-fp.apitd.net^
 ||sgali-mcs.byteoversea.com^
 ||sgm-w.jd.com^
 ||shared.65twenty.com^
@@ -5857,6 +5863,7 @@
 ||apm.qwant.com^
 ||appanalysis.banggood.com^
 ||aptoide-mmp.aptoide.com^
+||arc.msn.com^
 ||asanalytics.booking.com^
 ||ats.alot.com^
 ||aurum.tirto.id^

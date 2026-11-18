@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-18T07:13:23.276Z
+! Last modified: 2026-11-18T20:24:59.512Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -22,6 +22,7 @@
 ||group.ap-real.com^
 ||webtrader.aptos-ai.net^
 ||try.articblast.co^
+||webtrader.arvelon-barnyx.com^
 ||shop.asfinag.llc^
 ||market.ashfielden.com^
 ||shop.askdrkan.com^
@@ -2698,7 +2699,6 @@
 ||bixfin.com^
 ||bixvolt.com^
 ||bizcox.net^
-||bizglobeinvest.com^
 ||bjbta.com^
 ||bjmining.com^
 ||bjorkcoffee.com^
@@ -6030,6 +6030,7 @@
 ||fiammshop.eu^
 ||fiat-global.com^
 ||fiat-transporter.at^
+||fibovest.com^
 ||fichtenaumodehaus.de^
 ||fidelity-ag.com^
 ||fidexico.eu^
@@ -9008,6 +9009,7 @@
 ||joox388-online.com^
 ||joponwithlovestore.shop^
 ||jorassicfruit.com^
+||jordan-1s.com^
 ||jordanat.at^
 ||jordanmania.de^
 ||jordanretro4.com^
@@ -10709,6 +10711,7 @@
 ||maiser-markt.de^
 ||maison-dartois.co^
 ||maisoncalyx.shop^
+||maisonerve.com^
 ||maisonorelle.com^
 ||maisonverkauf.com^
 ||majesticpuro.shop^
@@ -11897,6 +11900,7 @@
 ||mynewpink.com^
 ||myonepieceshop.de^
 ||myonlyshop.de^
+||myopaline.com^
 ||mypfute.com^
 ||myplayground.store^
 ||mypookino.com^

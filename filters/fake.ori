@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 8 hours
-! Last modified: 17 Nov 2026 22:51 UTC
-! Version: 2026.1117.2251.24
+! Last modified: 18 Nov 2026 14:53 UTC
+! Version: 2026.1118.1453.54
 ! Syntax: AdBlock
-! Number of entries: 18803
+! Number of entries: 18807
 !
 ||eu.2bagsvalley.cn^
 ||acc.accgn.com^
@@ -29,6 +29,7 @@
 ||group.ap-real.com^
 ||webtrader.aptos-ai.net^
 ||try.articblast.co^
+||webtrader.arvelon-barnyx.com^
 ||shop.asfinag.llc^
 ||market.ashfielden.com^
 ||shop.askdrkan.com^
@@ -2705,7 +2706,6 @@
 ||bixfin.com^
 ||bixvolt.com^
 ||bizcox.net^
-||bizglobeinvest.com^
 ||bjbta.com^
 ||bjmining.com^
 ||bjorkcoffee.com^
@@ -6037,6 +6037,7 @@
 ||fiammshop.eu^
 ||fiat-global.com^
 ||fiat-transporter.at^
+||fibovest.com^
 ||fichtenaumodehaus.de^
 ||fidelity-ag.com^
 ||fidexico.eu^
@@ -9015,6 +9016,7 @@
 ||joox388-online.com^
 ||joponwithlovestore.shop^
 ||jorassicfruit.com^
+||jordan-1s.com^
 ||jordanat.at^
 ||jordanmania.de^
 ||jordanretro4.com^
@@ -10716,6 +10718,7 @@
 ||maiser-markt.de^
 ||maison-dartois.co^
 ||maisoncalyx.shop^
+||maisonerve.com^
 ||maisonorelle.com^
 ||maisonverkauf.com^
 ||majesticpuro.shop^
@@ -11904,6 +11907,7 @@
 ||mynewpink.com^
 ||myonepieceshop.de^
 ||myonlyshop.de^
+||myopaline.com^
 ||mypfute.com^
 ||myplayground.store^
 ||mypookino.com^
