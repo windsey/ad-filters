@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-19T07:13:30.415Z
+! Last modified: 2026-11-19T20:28:40.149Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -116224,6 +116224,7 @@ dlsdk.appsflyer.com^
 ||forgetfulsnail.com^
 ||fortbeach.com^
 ||fortunatemark.com^
+||fortyninemaps.com^
 ||forwardslashetc.com^
 ||fossilzero.com^
 ||fourlevelsgame.com^
@@ -116685,6 +116686,7 @@ dlsdk.appsflyer.com^
 ||marriedmailbox.com^
 ||marriedvalue.com^
 ||marsnextdoor.com^
+||mascguys.com^
 ||maskedadmin.com^
 ||masseurexpress.com^
 ||massivemark.com^

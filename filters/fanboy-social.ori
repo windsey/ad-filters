@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 202611190704
+! Version: 202611192020
 ! Title: Fanboy's Social Blocking List
-! Last modified: 19 Nov 2026 07:04 UTC
+! Last modified: 19 Nov 2026 20:20 UTC
 ! Expires: 4 days (update frequency)
-! Commit: bfe24926f69a672014595f181c9aeaf1fef80b5e
+! Commit: dca9f3b30a25822e196b284f866a35ec246ad086
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -11036,6 +11036,7 @@ thebarentsobserver.com##.field-name-sharing-buttons-2
 straitstimes.com##.field-name-telegram
 peepingmoon.com##.fixed-action-btn
 onegreenplanet.org##.fixed-ad
+moddroid.com##.fixed-icons
 reasonstobecheerful.world##.fixed-social
 indiatoday.in##.fixedshared
 testbook.com##.fl-social
