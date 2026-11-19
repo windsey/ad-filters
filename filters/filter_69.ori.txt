@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-18T20:25:16.888Z
+! Last modified: 2026-11-19T07:13:37.005Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -3239,6 +3239,7 @@
 ||adtd.parfumdreams.pl^
 ||adtd.parfumdreams.pt^
 ||adtd.parfumdreams.se^
+||adtechpanda.com^
 ||adtector.com^
 ||adtelligence.de^
 ||adtj92jd.com^
@@ -22078,6 +22079,7 @@
 ||brashbead.com^
 ||brat-online.ro^
 ||bravebone.com^
+||braveglobal.tv^
 ||bravuramail.com^
 ||brazi.brazibronze.com^
 ||br.baseims.online^
@@ -27641,6 +27643,7 @@
 ||csp-report.force.com^
 ||csp-reporting.cloudflare.com^
 ||csp-reporting.sanfordhealth.org^
+||csp.secureserver.net^
 ||csp.spreadshirts.net^
 ||csp.thehut.net^
 ||csp.uber.com^
@@ -36989,6 +36992,7 @@
 ||events.robertsonelectric.com^
 ||events.route66swindon.co.uk^
 ||events-sandbox.data.msn.com^
+||events.sellwild.com^
 ||events.serpadviser.com^
 ||events-server.fermatcommerce.workers.dev^
 ||events-service.coinbase.com^
@@ -37025,6 +37029,7 @@
 ||event.syndigo.cloud^
 ||events.yumeku.com^
 ||eventtracker.com^
+||eventtracking.hubapi.com^
 ||eventtracking-log.services.video.ibm.com^
 ||eventtracking-na2.hubapi.com^
 ||event-tracking-services.global.commerce-connector.com^
@@ -55909,6 +55914,7 @@
 ||lurk-online.com^
 ||lurkonline.com^
 ||l.usaa.com^
+||l-us.csdata3.com^
 ||lushpalmlink.com^
 ||lustroushaven.com^
 ||lutrkng.com^
@@ -62441,6 +62447,7 @@
 ||metrics.autobytel.com^
 ||metrics.autodude.fi^
 ||metrics.autodude.se^
+||metrics.autolingual.io^
 ||metrics.autonews.com^
 ||metrics.avalara.com^
 ||metrics.avastin-hcp.com^
@@ -73071,6 +73078,7 @@
 ||otel-edge.dashapi.com^
 ||otel-gw.booking.com^
 ||otel-hfo.fareharbor.engineering^
+||otel.observability.app.launchdarkly.com^
 ||otelrules.svc.static.microsoft^
 ||oteplia.com^
 ||otfim.gurunanda.com^
@@ -73789,6 +73797,7 @@
 ||performance-logger.minted.com^
 ||performance.squarespace.com^
 ||performance-statistic.kredivo.com^
+||performaro.com^
 ||performgroup.com^
 ||performrct.com^
 ||perf.qinglanbaseanycast.com^
@@ -73930,6 +73939,7 @@
 ||philips-beacons.xumo.com^
 ||philoxenia.alys.nl^
 ||phingest.portswigger.com^
+||phixstats.site^
 ||ph.kartverket.no^
 ||ph.linusprep.com^
 ||phltwhfd.sateno.bg^
@@ -109107,6 +109117,7 @@
 ||start.sharpclinical.com^
 ||startupanalytics.in^
 ||startupfluence.com^
+||startup-mobile.ap.yandex-net.ru^
 ||startup.mobile.yandex.net^
 ||startus-insights.com^
 ||sta.secourspopulaire.fr^
@@ -127470,6 +127481,7 @@
 ||umami.upokusaev.com^
 ||umami.uuuu.org.ua^
 ||umami.valolink.fi^
+||umami.velofill.com^
 ||umami.ververv.com^
 ||umami.victorprouff.fr^
 ||umami.vidcore.net^

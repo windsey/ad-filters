@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-18T20:25:11.564Z
+! Last modified: 2026-11-19T07:13:30.415Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -10,6 +10,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||cognitivlabs.com^
 ||bianopixel.com^
 ||connect.liblynx.com^
 ||badge.dimensions.ai^
@@ -109975,6 +109976,7 @@
 ||r.melius.com^
 ||r.planerange.com^
 ||r.typesafe.ai^
+||rainbow.sheepesports.com^
 ||ramen.nomorenames.studio^
 ||relay.artdecoded.app^
 ||relay.talking-avatar.dev^
@@ -115482,6 +115484,7 @@ dlsdk.appsflyer.com^
 ||beginnerpancake.com^
 ||beholdthyson.com^
 ||benchlamp.com^
+||benefitboys.com^
 ||benefitssense.com^
 ||bentengine.com^
 ||berserkhydrant.com^
@@ -115616,6 +115619,7 @@ dlsdk.appsflyer.com^
 ||buttonladybug.com^
 ||buzzaoutlet.com^
 ||buzzfry.com^
+||cabstrategy.com^
 ||cafefrench.com^
 ||cafejunior.net^
 ||cafescampfires.com^
@@ -115750,6 +115754,7 @@ dlsdk.appsflyer.com^
 ||coffeesidehustle.com^
 ||coldbalance.com^
 ||coldcallpro.com^
+||coldcrucible.com^
 ||coloradoserves.com^
 ||colorandnoise.com^
 ||colorfulneon.com^
@@ -116906,6 +116911,7 @@ dlsdk.appsflyer.com^
 ||outdoorthingy.com^
 ||outerwords.com^
 ||outletpeople.com^
+||outpro.net^
 ||outsidevibe.com^
 ||overconfidentfood.com^
 ||overkick.com^
@@ -117966,6 +117972,7 @@ dlsdk.appsflyer.com^
 ||websitesdude.com^
 ||webspa.net^
 ||webspires.net^
+||webworksworld.com^
 ||weeklycurrents.com^
 ||wellbeingforce.com^
 ||wellgroomedapparel.com^
@@ -118042,6 +118049,7 @@ dlsdk.appsflyer.com^
 ||yellowscissors.com^
 ||yetiminis.com^
 ||yieldingwoman.com^
+||youanonymous.com^
 ||youcandrawanything.com^
 ||yourgiftedbaby.com^
 ||yourlifedream.com^

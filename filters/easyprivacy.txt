@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-18T20:24:59.239Z
+! Last modified: 2026-11-19T07:13:15.444Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -820,6 +820,7 @@
 ||beginnerpancake.com^
 ||beholdthyson.com^
 ||benchlamp.com^
+||benefitboys.com^
 ||benefitssense.com^
 ||bentengine.com^
 ||berserkhydrant.com^
@@ -954,6 +955,7 @@
 ||buttonladybug.com^
 ||buzzaoutlet.com^
 ||buzzfry.com^
+||cabstrategy.com^
 ||cafefrench.com^
 ||cafejunior.net^
 ||cafescampfires.com^
@@ -1088,6 +1090,7 @@
 ||coffeesidehustle.com^
 ||coldbalance.com^
 ||coldcallpro.com^
+||coldcrucible.com^
 ||coloradoserves.com^
 ||colorandnoise.com^
 ||colorfulneon.com^
@@ -2245,6 +2248,7 @@
 ||outdoorthingy.com^
 ||outerwords.com^
 ||outletpeople.com^
+||outpro.net^
 ||outsidevibe.com^
 ||overconfidentfood.com^
 ||overkick.com^
@@ -3307,6 +3311,7 @@
 ||websitesdude.com^
 ||webspa.net^
 ||webspires.net^
+||webworksworld.com^
 ||weeklycurrents.com^
 ||wellbeingforce.com^
 ||wellgroomedapparel.com^
@@ -3383,6 +3388,7 @@
 ||yellowscissors.com^
 ||yetiminis.com^
 ||yieldingwoman.com^
+||youanonymous.com^
 ||youcandrawanything.com^
 ||yourgiftedbaby.com^
 ||yourlifedream.com^
@@ -6136,6 +6142,7 @@
 ||ingest.make.rvohealth.com^
 ||ingress.linktr.ee^
 ||insights-mxp-cdn.coursecareers.com^
+||insights.builderprofile.aws.dev^
 ||intent.cmo.com.au^
 ||intent.goodgearguide.com.au^
 ||intent.macworld.co.uk^
@@ -6267,6 +6274,7 @@
 ||p.midbound.net^
 ||p.minds.com^
 ||p.spotidownloader.com^
+||p.teamily.ai^
 ||pac.thescottishsun.co.uk^
 ||pac.thesun.co.uk^
 ||pac.thetimes.com^
@@ -6375,6 +6383,7 @@
 ||rvo-cohesion.healthline.com^
 ||s.gofile.io^
 ||s.infogram.com^
+||s.sintra.ai^
 ||s.wayfair.com^
 ||s4vrsde.www.arturia.com^
 ||sa.uswitch.com^
