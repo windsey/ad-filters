@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-19T20:28:40.149Z
+! Last modified: 2026-11-20T07:01:10.404Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -107881,6 +107881,7 @@
 ||a.famorigins.com^
 ||a.gigl.ist^
 ||a.meloja.com.br^
+||a.menards.com^
 ||a.setup.moe^
 ||a3.mtindex.top^
 ||anal.ytics.de^
@@ -116454,6 +116455,7 @@ dlsdk.appsflyer.com^
 ||hystericalcloth.com^
 ||hystericalfinger.com^
 ||icywinter.com^
+||ideamornings.com^
 ||idlecollect.com^
 ||idsmodules.com^
 ||illinvention.com^
@@ -116593,6 +116595,7 @@ dlsdk.appsflyer.com^
 ||lessonsnetwork.com^
 ||libraryfacts.com^
 ||libraryvalue.com^
+||lidsmarket.com^
 ||lifecoverdirect.com^
 ||liftedknowledge.com^
 ||lightenafterthought.com^
