@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-20T07:00:58.484Z
+! Last modified: 2026-11-20T20:00:28.150Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -3263,7 +3263,6 @@
 ||etsbois-de-chaufage.com^
 ||etsyshield.com^
 ||ettern24.de^
-||etvgozkl.shop^
 ||eu-meds.net^
 ||eu-pharmacy-online.com^
 ||eu-pillstore.com^
@@ -3857,6 +3856,7 @@
 ||gamingmadarin.org^
 ||gamingmarkt.de^
 ||gamingonline.store^
+||gannioutlet.de^
 ||gap-outlet.de^
 ||gapde.de^
 ||garage-autosteve.com^
@@ -6110,6 +6110,7 @@
 ||lottonorway.net^
 ||lottoportugal.net^
 ||lottoslovakia.sk^
+||lottosouthafrica.net^
 ||lotusgaminglive.com^
 ||lotz-container.com^
 ||louise-perrin.de^
@@ -6882,6 +6883,7 @@
 ||muskangaming.com^
 ||muskanonline.com^
 ||mustang-parts-shop.de^
+||muvastore.com^
 ||muzam.de^
 ||mvleingarten.de^
 ||mxdara.com^
@@ -7542,6 +7544,7 @@
 ||pankratiusgarten.de^
 ||panonlineshop.com^
 ||panura.de^
+||papabau.com^
 ||papageienzuchtheim.de^
 ||parabound.de^
 ||paragonixedge.app^
@@ -9793,6 +9796,7 @@
 ||tritoncapitalmarkets.com^
 ||tritonmarkets.com^
 ||trivanode.com^
+||trivio-handel.de^
 ||trivona.de^
 ||trockenes-brennholz.com^
 ||trockenesholz.de^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-20T07:01:10.404Z
+! Last modified: 2026-11-20T20:00:39.863Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -290,7 +290,7 @@
 ||api.eventbus.me^
 ||rumt-sg.com^
 ||gm.mmstat.com^
-||yazio-analytics.com^
+||event-ingestion.yazio-analytics.com^
 ||hightouch-events.com^
 ||rtbuniverse.com^
 ||gw-usa-tracker.zmaticoo.com^
@@ -111082,7 +111082,6 @@ prd.api.bleacherreport.com^
 ||fxgate.baidu.com^
 ||p.controld.com^
 ||collector.bsg.brave.com^
-||sy.ameba.jp^
 ||tracker.uira.live^
 ||col.surfside.io^
 ||tsn.dmcmedia.co.kr^
@@ -116691,6 +116690,7 @@ dlsdk.appsflyer.com^
 ||marsnextdoor.com^
 ||mascguys.com^
 ||maskedadmin.com^
+||masondown.com^
 ||masseurexpress.com^
 ||massivemark.com^
 ||masterenter.com^
@@ -116907,6 +116907,7 @@ dlsdk.appsflyer.com^
 ||orangebirdie.com^
 ||orchidgenius.com^
 ||orderjumper.com^
+||ordinalzero.com^
 ||orgbackups.com^
 ||orientedargument.com^
 ||originblocks.com^
@@ -117140,6 +117141,7 @@ dlsdk.appsflyer.com^
 ||rangeplayground.com^
 ||rangergustav.com^
 ||rankaddict.com^
+||rapidscraper.com^
 ||rarelyfans.com^
 ||raresummer.com^
 ||razzweb.com^

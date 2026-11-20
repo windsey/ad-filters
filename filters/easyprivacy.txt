@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-20T07:00:58.251Z
+! Last modified: 2026-11-20T20:00:27.937Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -2033,6 +2033,7 @@
 ||marsnextdoor.com^
 ||mascguys.com^
 ||maskedadmin.com^
+||masondown.com^
 ||masseurexpress.com^
 ||massivemark.com^
 ||masterenter.com^
@@ -2250,6 +2251,7 @@
 ||orangebirdie.com^
 ||orchidgenius.com^
 ||orderjumper.com^
+||ordinalzero.com^
 ||orgbackups.com^
 ||orientedargument.com^
 ||originblocks.com^
@@ -2484,6 +2486,7 @@
 ||rangeplayground.com^
 ||rangergustav.com^
 ||rankaddict.com^
+||rapidscraper.com^
 ||rarelyfans.com^
 ||raresummer.com^
 ||razzweb.com^
@@ -43340,9 +43343,6 @@
 ||rtm-tracking.zozo.jp^
 ||sgtm.cmoa.jp^
 ||stats.nhk.or.jp^
-||sy.ameba.jp^
-||sy.amebame.com^
-||sy.ameblo.jp^
 ||t.rentio.jp^
 ||t.syosetu.org^
 ||temp.twicomi.com^
