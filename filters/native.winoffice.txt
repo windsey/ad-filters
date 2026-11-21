@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-20T20:00:41.535Z
+! Last modified: 2026-11-21T06:56:49.475Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -66,6 +66,7 @@
 ||noc-visio-telemetry.officeapps.live.com^
 ||pgtbr1-excel-telemetry-vip.officeapps.live.com^
 ||pgtbr2-excel-telemetry-vip.officeapps.live.com^
+||pgtca1-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgteu1-excel-telemetry-vip.officeapps.live.com^
 ||pgteu1-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgteu1-word-telemetry-vip.officeapps.live.com^
@@ -79,8 +80,8 @@
 ||pgteu4-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgteu4-word-telemetry-vip.officeapps.live.com^
 ||pgteu5-excel-telemetry-vip.officeapps.live.com^
-||pgteu5-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgteu5-word-telemetry-vip.officeapps.live.com^
+||pgtmx1-excel-telemetry-vip.officeapps.live.com^
 ||pgtus1-excel-telemetry-vip.officeapps.live.com^
 ||pgtus1-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgtus1-word-telemetry-vip.officeapps.live.com^
@@ -213,11 +214,9 @@
 ||s-ring-fallback.msedge.net^
 ||t-ring.msedge.net^
 ||t-ring-fallback.msedge.net^
-||t-ring-fallback-s2.msedge.net^
 ||t-ring-fallbacks1.msedge.net^
 ||t-ring-s2.msedge.net^
 ||t-ring-trafficshield.msedge.net^
-||t-s2-ring.msedge.net^
 ||win10-trt.msedge.net^
 ||metric.appex-rf.msn.com^
 ||c.ar.msn.com^
@@ -228,6 +227,7 @@
 ||c.cl.msn.com^
 ||events.data.msn.cn^
 ||events.data.msn.com^
+||events-sandbox.data.msn.cn^
 ||events-sandbox.data.msn.com^
 ||c.de.msn.com^
 ||c.dk.msn.com^
@@ -299,11 +299,11 @@
 ||toolbar.msn.com^
 ||udc.msn.com^
 ||zmetrics.msn.com^
-||adsyndication.msn.com.nsatc.net^
 ||diagnostics.office.com^
 ||diagnostics-eudb.office.com^
 ||measure.office.com^
 ||measure.office.net^
+||identity.nel.measure.office.net.intern.schreinereistumpf.de^
 ||prod.editor.ads.trafficmanager.net^
 ||tracker.flightview.com.trafficmanager.net^
 ||events.data.trafficmanager.net^
@@ -333,7 +333,6 @@
 ||ghochv3eng.trafficmanager.net^
 ||glance-analytics.trafficmanager.net^
 ||hk-tracker.trafficmanager.net^
-||icmskillevents.trafficmanager.net^
 ||inference-location-livenet.trafficmanager.net^
 ||ir-tracking.trafficmanager.net^
 ||irreverselookuptm.trafficmanager.net^
@@ -352,7 +351,6 @@
 ||telemetry-lcp.trafficmanager.net^
 ||tm-analytics-pr.trafficmanager.net^
 ||tm-enrollment-telemetry-datacore.trafficmanager.net^
-||us-mesh-events-data-leafs.trafficmanager.net^
 ||vstelemetry.trafficmanager.net^
 ||watsoncab.trafficmanager.net^
 ||win-global-asimov-leafs-events-data.trafficmanager.net^
@@ -368,7 +366,6 @@
 ||analytics-dev-lleap-events.servicebus.windows.net^
 ||analytics-dev-simpad-events.servicebus.windows.net^
 ||analyticsehnwe.servicebus.windows.net^
-||analyticsiot-prod-mobileapps-ehn.servicebus.windows.net^
 ||citrixanalyticseh.servicebus.windows.net^
 ||citrixanalyticseh-alias.servicebus.windows.net^
 ||citrixanalyticseh2.servicebus.windows.net^

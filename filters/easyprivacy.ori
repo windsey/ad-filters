@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611201954
+! Version: 202611210632
 ! Title: EasyPrivacy
-! Last modified: 20 Nov 2026 19:54 UTC
+! Last modified: 21 Nov 2026 06:32 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 417b2885e21d7b5fceca44817765ce8843f0ed36
+! Commit: 88ba93b9c3b2643a7eb88cefa5da4510ae7a0fd6
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -7268,6 +7268,7 @@ omni.soundestlink.com$image
 ||coldcrucible.com^
 ||coloradoserves.com^
 ||colorandnoise.com^
+||colorfilter.net^
 ||colorfulneon.com^
 ||colorfulpet.com^
 ||coloroptimizer.com^
@@ -7948,6 +7949,7 @@ omni.soundestlink.com$image
 ||hospitablehall.com^
 ||hospitablehat.com^
 ||hostchutney.com^
+||housewheels.com^
 ||howdoesthislook.com^
 ||hubcapcafe.net^
 ||humbleroots.net^
@@ -8349,6 +8351,7 @@ omni.soundestlink.com$image
 ||nimbleplot.com^
 ||nimbuswatersystem.com^
 ||ninjatravels.com^
+||nitrojiveband.com^
 ||noblecables.com^
 ||noblefellow.com^
 ||nodenotify.com^
@@ -17566,7 +17569,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||theblock.co/api/analytics
 ||thebookseller.com/AfoSiteAnalysis/
 ||theconversation.com/javascripts/lib/content_tracker_hook.js
-||thedailybeast.com/static/js/thirdparty.
+||thedailybeast.com/metrics/
 ||thefreedictionary.com/_/tr.ashx?
 ||thehackernews.com/ga/c
 ||thehackernews.com/ga4/c

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-20T20:00:27.937Z
+! Last modified: 2026-11-21T06:56:32.552Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -1100,6 +1100,7 @@
 ||coldcrucible.com^
 ||coloradoserves.com^
 ||colorandnoise.com^
+||colorfilter.net^
 ||colorfulneon.com^
 ||colorfulpet.com^
 ||coloroptimizer.com^
@@ -1780,6 +1781,7 @@
 ||hospitablehall.com^
 ||hospitablehat.com^
 ||hostchutney.com^
+||housewheels.com^
 ||howdoesthislook.com^
 ||hubcapcafe.net^
 ||humbleroots.net^
@@ -2181,6 +2183,7 @@
 ||nimbleplot.com^
 ||nimbuswatersystem.com^
 ||ninjatravels.com^
+||nitrojiveband.com^
 ||noblecables.com^
 ||noblefellow.com^
 ||nodenotify.com^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-20T20:00:39.863Z
+! Last modified: 2026-11-21T06:56:47.202Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -115757,6 +115757,7 @@ dlsdk.appsflyer.com^
 ||coldcrucible.com^
 ||coloradoserves.com^
 ||colorandnoise.com^
+||colorfilter.net^
 ||colorfulneon.com^
 ||colorfulpet.com^
 ||coloroptimizer.com^
@@ -116437,6 +116438,7 @@ dlsdk.appsflyer.com^
 ||hospitablehall.com^
 ||hospitablehat.com^
 ||hostchutney.com^
+||housewheels.com^
 ||howdoesthislook.com^
 ||hubcapcafe.net^
 ||humbleroots.net^
@@ -116837,6 +116839,7 @@ dlsdk.appsflyer.com^
 ||nimbleplot.com^
 ||nimbuswatersystem.com^
 ||ninjatravels.com^
+||nitrojiveband.com^
 ||noblecables.com^
 ||noblefellow.com^
 ||nodenotify.com^

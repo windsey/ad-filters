@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-20T20:00:28.150Z
+! Last modified: 2026-11-21T06:56:32.858Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -33,7 +33,6 @@
 ||burton.co.at^
 ||cdlp.co.at^
 ||champion.co.at^
-||comme-des-garcons.co.at^
 ||damsonmadder.co.at^
 ||diesel.co.at^
 ||digitalinfo.co.kr^
@@ -1802,7 +1801,6 @@
 ||brennholz-brennstoff.com^
 ||brennholz-forstservice-gilbert.de^
 ||brennholz-friedrich.com^
-||brennholz-goignerog.at^
 ||brennholz-hans.de^
 ||brennholz-haus.de^
 ||brennholz-hofmann.de^
@@ -3593,6 +3591,7 @@
 ||finrally.com^
 ||finrocketpro.com^
 ||fintessxpert.com^
+||fintevex.io^
 ||fintrexia.org^
 ||finvestai.org^
 ||finvoire.com^
@@ -3816,7 +3815,6 @@
 ||gabbian.de^
 ||gabelglanz.de^
 ||gaborberlin.com^
-||gaborosterreich.at^
 ||gaborshoesoutlet.shop^
 ||gahas24.de^
 ||gaiabeautyproducts.com^
@@ -4495,6 +4493,7 @@
 ||haushaltsheld.com^
 ||haushaltsreich.de^
 ||haushaltswarendiscount.shop^
+||hausmarkt24.com^
 ||hausmobel-de.com^
 ||hausofvedashop.com^
 ||hausonline24.com^
@@ -4610,6 +4609,7 @@
 ||heizoel-kalkulator.de^
 ||heizoel-lieferung.com^
 ||heizoel-tankstelle.de^
+||heizoel24.shop^
 ||heizoel24-aktuell.com^
 ||heizoel24-preise.com^
 ||heizoelbp.de^
@@ -5679,6 +5679,7 @@
 ||konsolenladen.com^
 ||konsolenland.de^
 ||konsolenmarkt.com^
+||konsolenplatz.com^
 ||kontaktlinsenshopping.de^
 ||kontano.de^
 ||kopfsacheonline.de^
@@ -5948,6 +5949,7 @@
 ||lenaskunst.de^
 ||lennys-autoteile.at^
 ||leobabyjordanbjj.com^
+||leomans.com^
 ||leopold-mode.com^
 ||leoswc.com^
 ||leqaa-store.com^
@@ -7290,6 +7292,7 @@
 ||omnedealslab.online^
 ||omniluxaustria.com^
 ||on-at.com^
+||on-outlet.shop^
 ||on-runningdeutschland.de^
 ||onbestsellprods.com^
 ||oncloudoutlet.at^
@@ -8419,7 +8422,6 @@
 ||salmingsuomi.com^
 ||salomon-deutschland.de^
 ||salomondeutschlandsale.de^
-||salomonosterreich.at^
 ||salomonoutletgermany.de^
 ||salomonoutletireland.com^
 ||salomonoutletstoresusa.com^
