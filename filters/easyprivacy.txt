@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-21T19:06:10.092Z
+! Last modified: 2026-11-22T06:33:47.658Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -2337,6 +2337,7 @@
 ||piquantpigs.com^
 ||piquantprice.com^
 ||piquantvortex.com^
+||pitmanmusic.com^
 ||pixeledhub.com^
 ||pixelmoonstudio.com^
 ||pixeltrouble.com^
@@ -2527,6 +2528,7 @@
 ||redbasketball.com^
 ||redbricksoap.com^
 ||redexecs.com^
+||redmaceta.com^
 ||redmillgroup.com^
 ||reelboat.com^
 ||reelcombat.com^
@@ -2633,6 +2635,7 @@
 ||samplesamba.com^
 ||samuraibots.com^
 ||sandboxbid.com^
+||sandshredder.com^
 ||sandstrophies.com^
 ||sandypocket.com^
 ||sandytaco.com^
@@ -2952,6 +2955,7 @@
 ||steepsister.com^
 ||steepsquirrel.com^
 ||stellarbalms.com^
+||stellarcoded.com^
 ||stellarduel.com^
 ||stepcattle.com^
 ||stepwisevideo.com^
@@ -5806,7 +5810,6 @@
 ||acjs.aliyun.com^
 ||activity.fiverr.com^
 ||adc-js.nine.com.au^
-||adl.bankofthewest.com^
 ||adtech-events.bookmyshow.com^
 ||adv.drtuber.com^
 ||aegis.trovo.live^
@@ -5832,7 +5835,6 @@
 ||analytics.3c5.com^
 ||analytics.academy.com^
 ||analytics.ahrefs.dev^
-||analytics.archive.org^
 ||analytics.atom.com^
 ||analytics.bitchute.com^
 ||analytics.brave.com^
@@ -5896,6 +5898,7 @@
 ||aptoide-mmp.aptoide.com^
 ||arc.msn.com^
 ||asanalytics.booking.com^
+||athena.archive.org^
 ||ats.alot.com^
 ||aurum.tirto.id^
 ||aviasales.*-analytics.
@@ -6112,7 +6115,11 @@
 ||fp.uncensored.com^
 ||fpa-cdn.adweek.com^
 ||fpa-cdn.arstechnica.com^
+||fpa-cdn.nbcnews.com^
+||fpa-cdn.today.com^
+||fpa-events.nbcnews.com^
 ||fpa-events.theintercept.com^
+||fpa-events.today.com^
 ||fpc.fingerprint.com^
 ||fpt.microsoft.com^
 ||fresnel-events.vimeocdn.com^
@@ -6422,6 +6429,7 @@
 ||sherlock-events-sampler.ebay.com^
 ||shopmetric.rediff.com^
 ||sid.nordstrom.com^
+||sink.archive.org^
 ||sink.gw.booking.com^
 ||sjc.cloud.optable.co^
 ||slipstream.skyscanner.net^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-21T19:06:23.702Z
+! Last modified: 2026-11-22T06:33:59.881Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -116993,6 +116993,7 @@ dlsdk.appsflyer.com^
 ||piquantpigs.com^
 ||piquantprice.com^
 ||piquantvortex.com^
+||pitmanmusic.com^
 ||pixeledhub.com^
 ||pixelmoonstudio.com^
 ||pixeltrouble.com^
@@ -117182,6 +117183,7 @@ dlsdk.appsflyer.com^
 ||redbasketball.com^
 ||redbricksoap.com^
 ||redexecs.com^
+||redmaceta.com^
 ||redmillgroup.com^
 ||reelboat.com^
 ||reelcombat.com^
@@ -117288,6 +117290,7 @@ dlsdk.appsflyer.com^
 ||samplesamba.com^
 ||samuraibots.com^
 ||sandboxbid.com^
+||sandshredder.com^
 ||sandstrophies.com^
 ||sandypocket.com^
 ||sandytaco.com^
@@ -117606,6 +117609,7 @@ dlsdk.appsflyer.com^
 ||steepsister.com^
 ||steepsquirrel.com^
 ||stellarbalms.com^
+||stellarcoded.com^
 ||stellarduel.com^
 ||stepcattle.com^
 ||stepwisevideo.com^
