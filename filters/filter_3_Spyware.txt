@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-22T06:33:59.881Z
+! Last modified: 2026-11-22T19:28:48.446Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -117278,6 +117278,7 @@ dlsdk.appsflyer.com^
 ||sadloaf.com^
 ||safercarsearch.com^
 ||saffronrefuge.com^
+||sagemosaicart.com^
 ||sagetrack.net^
 ||saladbarrel.com^
 ||saladfuel.com^
@@ -117488,6 +117489,7 @@ dlsdk.appsflyer.com^
 ||snoresmile.com^
 ||snowmentor.com^
 ||snowpeaksoftware.com^
+||socialbackyard.com^
 ||sociallyscared.com^
 ||socialsend.net^
 ||sockpacks.com^
@@ -117692,6 +117694,7 @@ dlsdk.appsflyer.com^
 ||sustaindenim.com^
 ||swankysquare.com^
 ||swanwebcreations.com^
+||sweetbeat.net^
 ||sweetslope.com^
 ||sweetsoul.net^
 ||swellstocking.com^
@@ -117707,8 +117710,10 @@ dlsdk.appsflyer.com^
 ||synccache.com^
 ||synonymoussticks.com^
 ||synthesizescarecrow.com^
+||systemone.net^
 ||systemssummit.com^
 ||tabcarts.com^
+||tableheads.com^
 ||tableleaders.com^
 ||tackytrains.com^
 ||tacojournal.com^
@@ -117799,6 +117804,7 @@ dlsdk.appsflyer.com^
 ||timecrossed.com^
 ||timelessyes.com^
 ||tinybluewhale.com^
+||tinybodega.com^
 ||tinyswans.com^
 ||tinytendency.com^
 ||tireinside.com^

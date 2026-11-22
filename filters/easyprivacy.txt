@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-22T06:33:47.658Z
+! Last modified: 2026-11-22T19:28:39.443Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -2623,6 +2623,7 @@
 ||sadloaf.com^
 ||safercarsearch.com^
 ||saffronrefuge.com^
+||sagemosaicart.com^
 ||sagetrack.net^
 ||saladbarrel.com^
 ||saladfuel.com^
@@ -2834,6 +2835,7 @@
 ||snoresmile.com^
 ||snowmentor.com^
 ||snowpeaksoftware.com^
+||socialbackyard.com^
 ||sociallyscared.com^
 ||socialsend.net^
 ||sockpacks.com^
@@ -3038,6 +3040,7 @@
 ||sustaindenim.com^
 ||swankysquare.com^
 ||swanwebcreations.com^
+||sweetbeat.net^
 ||sweetslope.com^
 ||sweetsoul.net^
 ||swellstocking.com^
@@ -3053,8 +3056,10 @@
 ||synccache.com^
 ||synonymoussticks.com^
 ||synthesizescarecrow.com^
+||systemone.net^
 ||systemssummit.com^
 ||tabcarts.com^
+||tableheads.com^
 ||tableleaders.com^
 ||tackytrains.com^
 ||tacojournal.com^
@@ -3145,6 +3150,7 @@
 ||timecrossed.com^
 ||timelessyes.com^
 ||tinybluewhale.com^
+||tinybodega.com^
 ||tinyswans.com^
 ||tinytendency.com^
 ||tireinside.com^
