@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-22T19:28:39.443Z
+! Last modified: 2026-11-23T07:23:42.995Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -61,9 +61,11 @@
 ||4tm4ezb2lqlx.com^
 ||5gtb.com^
 ||6dp0i7.ru^
+||6s83mz9kbtrj.com^
 ||a3kvau184uea.com^
 ||a47b.com^
 ||a8723.com^
+||a9f3k7z2m1.com^
 ||acsbapp.com^
 ||adcontroll.com^
 ||addefend-platform.com^
@@ -106,6 +108,7 @@
 ||australiarevival.com^
 ||avads.net^
 ||awmonitor.com^
+||ayc0zsm69431gfebd.info.com^
 ||b3mxnuvcer.com^
 ||bfmio.com^
 ||bgalytics.com^
@@ -131,18 +134,14 @@
 ||bx-cloud.com^
 ||bxtag.com^
 ||bydst.com^
+||bytes.media^
 ||c-stat.eu^
 ||cadsuta.net^
 ||cafirebreather.com^
 ||cbdatatracker.com^
 ||cdjbf8trk.com^
 ||cdn-vitals.com^
-||cdn.a9f3k7z2m1.com^
-||cdn.m2z7r9k4p1.com^
-||cdn.q4x8n6b2t5.com^
 ||cdn.sy-d.io^
-||cdn.t2037ulzqct5.com^
-||cdn.x7k9m2q4z8r1.com^
 ||cdnhst.xyz^
 ||cdnlogs.org^
 ||cdnwidget.com^
@@ -337,6 +336,7 @@
 ||itsstats.wp1.site^
 ||jcpclick.com^
 ||jubbie.de^
+||jzkdrpijw30voy0.club^
 ||kit22.com^
 ||klarinsights.net^
 ||krxd.net^
@@ -359,6 +359,7 @@
 ||lrkt-in.com^
 ||lsdm.co^
 ||lyfnh.io^
+||m2z7r9k4p1.com^
 ||maggieeatstheangel.com^
 ||mapixl.com^
 ||markadver.com^
@@ -447,6 +448,7 @@
 ||pzapi-kg.com^
 ||pzimff.com^
 ||q0losid.com^
+||q4x8n6b2t5.com^
 ||qntm.pro^
 ||qovani.com^
 ||queen-one.net^
@@ -515,6 +517,7 @@
 ||sy57d8wi.com^
 ||syncingbridge.com^
 ||t13.io^
+||t2037ulzqct5.com^
 ||takingbackjuly.com^
 ||targetemsecure.blob.core.windows.net^
 ||tatpek.com^
@@ -577,6 +580,7 @@
 ||wlt-jupiter.de^
 ||wmgroup.us^
 ||woodpeckerlog.com^
+||x7k9m2q4z8r1.com^
 ||xanalytics.vip^
 ||y5kvsuy8wr7c.com^
 ||yardianalytics.com^
@@ -1600,6 +1604,7 @@
 ||fumblingform.com^
 ||functionalcrown.com^
 ||functionalfeather.com^
+||funkpit.com^
 ||funoverbored.com^
 ||funoverflow.com^
 ||funtoyplanet.com^
@@ -2939,6 +2944,7 @@
 ||stakingsmile.com^
 ||staleshow.com^
 ||stalesummer.com^
+||staradmiral.com^
 ||starfurniture.net^
 ||starrynets.com^
 ||starsmarter.com^
@@ -3100,6 +3106,7 @@
 ||tendertest.com^
 ||tenhourweek.com^
 ||tennistie.com^
+||tentpick.com^
 ||terriblethumb.com^
 ||test2.uat.mundi.work^
 ||testadmiral.com^
@@ -3157,6 +3164,7 @@
 ||tiresomethunder.com^
 ||titangods.com^
 ||toasttutor.com^
+||toffeetribe.com^
 ||tofusquirrel.com^
 ||tomatobarrel.com^
 ||toolaward.com^
@@ -3408,6 +3416,7 @@
 ||worriedwine.com^
 ||wowboosters.com^
 ||wowfunnow.com^
+||wrathsecrets.com^
 ||wretchedfloor.com^
 ||writerhubs.com^
 ||writewealth.com^
@@ -3624,6 +3633,7 @@
 ||analytics.sayprimer.com^
 ||analytics.scorpion.co^
 ||analytics.shareaholic.com^
+||analytics.shelbyklein.com^
 ||analytics.shorte.st^
 ||analytics.shorthand.com^
 ||analytics.sitewit.com^
@@ -4039,6 +4049,7 @@
 ||fcmatch.youtube.com^
 ||fgip.rosehosting.com^
 ||filament-stats.herokuapp.com^
+||fingerprint.blockifyapp.com^
 ||fingerprinter-production.herokuapp.com^
 ||firebaselogging-pa.googleapis.com^
 ||fkrkkmxsqeb5bj9r.s3.amazonaws.com^
@@ -4128,6 +4139,7 @@
 ||ingesteer.services-prod.nsvcs.net^
 ||ingress.trendii.com^
 ||ins.connatix.com^
+||insights-tag.convertkit.com^
 ||insights.algolia.io^
 ||insights.playpilot.net^
 ||insights.sitesearch360.com^
