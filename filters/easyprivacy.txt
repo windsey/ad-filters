@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-23T07:23:42.995Z
+! Last modified: 2026-11-23T23:48:06.199Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -3225,6 +3225,7 @@
 ||tuxedocard.com^
 ||twelvedawn.com^
 ||twentyerr.com^
+||twistboat.com^
 ||twistloss.com^
 ||twisty.net^
 ||twochihuahuas.com^
@@ -3333,6 +3334,7 @@
 ||warnwing.com^
 ||warpedwaffle.com^
 ||washbanana.com^
+||watchbighead.com^
 ||waterloco.com^
 ||waterywave.com^
 ||waveinverter.com^
@@ -3353,6 +3355,7 @@
 ||webspires.net^
 ||webworksworld.com^
 ||weeklycurrents.com^
+||weirdknight.com^
 ||wellbeingforce.com^
 ||wellgroomedapparel.com^
 ||wellgroomedhydrant.com^
@@ -3429,11 +3432,13 @@
 ||yellowscissors.com^
 ||yetiminis.com^
 ||yieldingwoman.com^
+||yogatryout.com^
 ||youanonymous.com^
 ||youcandrawanything.com^
 ||yourgiftedbaby.com^
 ||yourlifedream.com^
 ||yourownexpert.com^
+||yummymacaroni.com^
 ||zanyapps.com^
 ||zapandmake.com^
 ||zephyrcatalyst.com^
@@ -3448,6 +3453,7 @@
 ||zipperxray.com^
 ||zipthelake.com^
 ||zlp6s.pw^
+||zodiacglass.com^
 ||zonegroove.com^
 ||zonewedgeshaft.com^
 ||aswpsdkus.com^
