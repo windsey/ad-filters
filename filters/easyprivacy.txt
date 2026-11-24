@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-23T23:48:06.199Z
+! Last modified: 2026-11-24T09:44:44.257Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -1950,6 +1950,7 @@
 ||liftedknowledge.com^
 ||lightenafterthought.com^
 ||lighttalon.com^
+||lightwars.com^
 ||likethedog.com^
 ||lilydreamer.com^
 ||limecodesign.com^

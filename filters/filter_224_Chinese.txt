@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-23T23:48:09.192Z
+! Last modified: 2026-11-24T09:44:47.188Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -173,6 +173,10 @@
 ||hash.trafficmanager.net^
 ||j31pozck4v.com^
 ||remainder22.com^
+||a6j9wqsyq6.com^
+||dyv86qq19o.com^
+||fps3xggxro.com^
+||fqfhznr3qn.com^
 ||4eyn3s9wj.com^
 ||semicircle59.com^
 ||4vzi54g47.com^

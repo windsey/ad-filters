@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-23T23:48:21.289Z
+! Last modified: 2026-11-24T09:44:59.582Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -119501,6 +119501,7 @@ dlsdk.appsflyer.com^
 ||liftedknowledge.com^
 ||lightenafterthought.com^
 ||lighttalon.com^
+||lightwars.com^
 ||likethedog.com^
 ||lilydreamer.com^
 ||limecodesign.com^
@@ -120882,6 +120883,7 @@ dlsdk.appsflyer.com^
 ||warnwing.com^
 ||warpedwaffle.com^
 ||washbanana.com^
+||watchbighead.com^
 ||waterloco.com^
 ||waterywave.com^
 ||waveinverter.com^
