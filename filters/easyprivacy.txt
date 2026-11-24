@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-24T09:44:44.257Z
+! Last modified: 2026-11-24T22:19:52.696Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -6747,7 +6747,7 @@
 ||rba-screen.healthsafe-id.com^
 ||rsx.afterpay.com^
 ||svc2.sc.com^
-||tips.delt.io
+||tips.delt.io^
 ||tm-eps.neutrino.nu^
 ||tmetrix.my.chick-fil-a.com^
 ||tmx.bestbuy.com^

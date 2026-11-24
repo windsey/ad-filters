@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-24T09:44:59.582Z
+! Last modified: 2026-11-24T22:20:01.756Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -110761,6 +110761,7 @@
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||ingest.t3.codes^
 ||stats.proxypurity.com^
 ||cast-imp.jtbc.co.kr^
 ||beacon.viafoura.io^
