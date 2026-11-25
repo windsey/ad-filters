@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-25T08:17:45.408Z
+! Last modified: 2026-11-25T21:36:13.428Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -151,6 +151,7 @@
 ||cookies.tanke-guenstig.de^
 ||cp.staedte-info.net^
 ||fc.vodafone.de^
+||privacy.diepresse.com^
 ||up-cookiemon.wavecdn.net^
 ||cmp.histoire-et-civilisations.com^
 ||consent.prismamedia.com^
@@ -161,6 +162,7 @@
 ||privacy.heidi.news^
 ||privacy.letemps.ch^
 ||privacy.luxair.lu^
+||privacy.maison-travaux.fr^
 ||cookie-consent.etisalat.ae^
 ||cmp.vizus.cz^
 ||consent.t-mobile.cz^
