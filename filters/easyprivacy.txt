@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-24T22:19:52.696Z
+! Last modified: 2026-11-25T08:17:44.508Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -1855,6 +1855,7 @@
 ||itsdonelist.com^
 ||itsmatchtime.com^
 ||itsviral.net^
+||ivoryandcrow.com^
 ||ivykiosk.com^
 ||j93557g.com^
 ||jackalsmovie.com^
@@ -6676,6 +6677,7 @@
 ||umami.spencerdevs.xyz^
 ||umami.vidfast.pro^
 ||umami.wakarimasen.moe^
+||uniqueness.greenmangaming.com^
 ||unl1zvy2zuyn.franchiseplus.nl^
 ||urs.metacritic.com^
 ||use.hetzner.com^

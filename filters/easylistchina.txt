@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-24T22:19:51.975Z
+! Last modified: 2026-11-25T08:17:43.506Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -16,6 +16,11 @@
 ||51tongji.trafficmanager.net^
 ||cnzz.trafficmanager.net^
 ||hash.trafficmanager.net^
+||0jbyj9d2l.com^
+||umd8dz8x9.com^
+||uaazwczowtfswj.com^
+||mn3hdpe1y.com^
+||9xxne23lm.com^
 ||j31pozck4v.com^
 ||remainder22.com^
 ||a6j9wqsyq6.com^
@@ -26,6 +31,7 @@
 ||d9zkof.com^
 ||4hg1oddm34.com^
 ||ajc1d0k4nr.com^
+||rectangle20.com^
 ||4eyn3s9wj.com^
 ||semicircle59.com^
 ||4vzi54g47.com^

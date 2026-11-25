@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-24T22:19:52.885Z
+! Last modified: 2026-11-25T08:17:44.738Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -181,7 +181,6 @@
 ||shop.garten-forst-technik-demmel.de^
 ||shop.gertab.de^
 ||impact-am.gestion-espace.com^
-||vignetten.gettookun.com^
 ||nss.gevestor.de^
 ||market.glenleigha.com^
 ||eu.goldengoosediscount.com^
@@ -1745,6 +1744,7 @@
 ||brennholz-forstservice-gilbert.de^
 ||brennholz-friedrich.com^
 ||brennholz-hans.de^
+||brennholz-haus.com^
 ||brennholz-hofmann.de^
 ||brennholz-konig.de^
 ||brennholz-land.com^
@@ -3214,7 +3214,6 @@
 ||evoqueebikeshop.shop^
 ||evoragaming.com^
 ||ewigerbund.org^
-||ewigesleder.com^
 ||ewzmvasz.shop^
 ||exakubusinessclub.com^
 ||excelia.net^
@@ -4038,6 +4037,7 @@
 ||goball.de^
 ||goelitemarketing.com^
 ||gogumus.com^
+||goia-direkt.de^
 ||goillo.com^
 ||gokoelectricinc.com^
 ||golaschuhewebsite.de^
@@ -4328,7 +4328,6 @@
 ||haushaltland.de^
 ||haushaltmarkt.de^
 ||haushaltofficial.com^
-||haushalts.store^
 ||haushaltsgeraete-profis.de^
 ||haushaltsgeratemarkt.com^
 ||haushaltsheld.com^
@@ -5317,7 +5316,6 @@
 ||kazoomba.com^
 ||kbetake.com^
 ||kbs-management.cc^
-||kedejo.com^
 ||kedros-zeklant.de^
 ||kedssuomi.com^
 ||keen--shoes.com^
@@ -9100,6 +9098,7 @@
 ||thaisawadee.de^
 ||thanesar.com^
 ||the-bitcoin-bank.com^
+||the-ethereumcode-pro.com^
 ||the-immediateconnect.com^
 ||the-portable-monitor.tech^
 ||theautodaily.com^
