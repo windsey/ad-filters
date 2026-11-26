@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-25T21:36:12.774Z
+! Last modified: 2026-11-26T08:04:40.207Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -361,7 +361,6 @@
 ||shop.tegeler.com^
 ||dg.tgvgxa.shop^
 ||ge.thebloomcar.com^
-||de.thereverselookup.com^
 ||miginvestgr.tiiny.site^
 ||adl.tlhqca.shop^
 ||get-airzuma.topashopo.com^
@@ -1003,7 +1002,6 @@
 ||aura-epargne.com^
 ||auraboutique-shop.com^
 ||auradeals.shop^
-||auraterraplaza.com^
 ||aurenbridge.com^
 ||aurendal.com^
 ||aureoncorevix.net^
@@ -1447,6 +1445,7 @@
 ||bfmvip.com^
 ||bforbinary.com^
 ||bforex.com^
+||bftb.org^
 ||bfxoption.com^
 ||bgmbgroupe.com^
 ||bh-shop-online.com^
@@ -4582,6 +4581,7 @@
 ||hochwertigerwein.com^
 ||hofasudtransport.com^
 ||hoffmannholz.com^
+||hoffmannwelpen.de^
 ||hofkammerpro.at^
 ||hofkammerpro-de.live^
 ||hofman.com^
@@ -10268,7 +10268,6 @@
 ||zeitgeschenen.de^
 ||zeitlosliebe.de^
 ||zelono.de^
-||zeloriacore.com^
 ||zelterabatt.com^
 ||zeltneu.com^
 ||zen-online.com^

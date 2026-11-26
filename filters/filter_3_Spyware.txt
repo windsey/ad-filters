@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-25T21:36:25.222Z
+! Last modified: 2026-11-26T08:04:55.290Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -110767,6 +110767,7 @@
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||telemetry.*.oci.oraclecloud.com^
 ||dsh-otel-collector.deepseeksvc.com^
 ||tag.atom.gamedistribution.com^
 ||ingest.t3.codes^
@@ -118621,6 +118622,7 @@ dlsdk.appsflyer.com^
 ||chipperisle.com^
 ||chivalrouscord.com^
 ||choicebump.com^
+||choosehobby.com^
 ||chubbycreature.com^
 ||chunkycactus.com^
 ||cicdserver.com^
