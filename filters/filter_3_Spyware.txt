@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-26T08:04:55.290Z
+! Last modified: 2026-11-26T21:25:38.741Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -110767,6 +110767,7 @@
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||pan.pazarama.com^
 ||telemetry.*.oci.oraclecloud.com^
 ||dsh-otel-collector.deepseeksvc.com^
 ||tag.atom.gamedistribution.com^
@@ -117083,6 +117084,7 @@ dlsdk.appsflyer.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||appmetrica.sovcombank.ru^
 ||pp3-sdkdata-v2.profilepassport.jp^
 ||lw-c-log.lastwarapp.net^
 ||mkt.supercell.com^
@@ -118398,6 +118400,7 @@ dlsdk.appsflyer.com^
 ||benefitboys.com^
 ||benefitssense.com^
 ||bentengine.com^
+||berrytots.com^
 ||berserkhydrant.com^
 ||bestboundary.com^
 ||bestclimbers.net^
@@ -119308,6 +119311,7 @@ dlsdk.appsflyer.com^
 ||healthyclad.com^
 ||heartbreakingmind.com^
 ||hearthow.com^
+||heathstyle.com^
 ||heatrave.com^
 ||heavydetail.com^
 ||heavyplayground.com^
@@ -119355,6 +119359,7 @@ dlsdk.appsflyer.com^
 ||hostchutney.com^
 ||housewheels.com^
 ||howdoesthislook.com^
+||howglam.com^
 ||hubcapcafe.net^
 ||humbleroots.net^
 ||humdrumhobbies.com^
@@ -119610,6 +119615,7 @@ dlsdk.appsflyer.com^
 ||marriedvalue.com^
 ||marsnextdoor.com^
 ||mascguys.com^
+||maskdomains.com^
 ||maskedadmin.com^
 ||masondown.com^
 ||masseurexpress.com^
