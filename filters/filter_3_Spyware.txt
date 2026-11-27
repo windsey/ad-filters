@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-27T08:11:12.315Z
+! Last modified: 2026-11-27T21:06:26.403Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -10,6 +10,7 @@
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||cdn.diginetica.net^
 ||clerk-telemetry.com^
 ||ghtinc.com^
 ||download.gameanalytics.com^
@@ -110767,6 +110768,10 @@
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||telemetry.*.oraclecloud.com^
+||events.*.oci.oraclecloud.com^
+||logging.*.oci.oraclecloud.com^
+||ac.avito.ru^
 ||ap-prd-edge-clientlog.nexon.com^
 ||toy.log.nexon.io^
 ||pan.pazarama.com^
@@ -119628,6 +119633,7 @@ dlsdk.appsflyer.com^
 ||materialisticmoon.com^
 ||materialmilk.com^
 ||materialparcel.com^
+||mathrevolt.com^
 ||maxcruisers.com^
 ||maybetony.com^
 ||meadowlullaby.com^
@@ -119643,6 +119649,7 @@ dlsdk.appsflyer.com^
 ||melodiousharmony.com^
 ||melodioussymphony.com^
 ||melodyglobe.com^
+||melodyivory.com^
 ||meltmilk.com^
 ||membernook.com^
 ||memeorigin.com^
@@ -119661,6 +119668,7 @@ dlsdk.appsflyer.com^
 ||mesaviewlodge.com^
 ||messagelists.com^
 ||messmonster.com^
+||messrod.com^
 ||messyoranges.com^
 ||metajaws.com^
 ||metalsfactory.com^
@@ -119921,6 +119929,7 @@ dlsdk.appsflyer.com^
 ||piquantprice.com^
 ||piquantvortex.com^
 ||pitmanmusic.com^
+||pivotfresh.com^
 ||pixeledhub.com^
 ||pixelmoonstudio.com^
 ||pixeltrouble.com^
@@ -120845,6 +120854,7 @@ dlsdk.appsflyer.com^
 ||usabilitybook.com^
 ||uselesslumber.com^
 ||userballot.com^
+||usersays.com^
 ||utopiaband.net^
 ||vacationsgolf.com^
 ||validmemo.com^

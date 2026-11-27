@@ -66,6 +66,7 @@ rxgo.com,alfastrah.ru,turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepe
 !
 !
 !
+backmarket.com##div[role="dialog"][aria-labelledby="lead-collection-aria-title-id"]
 cozycozy.com##joli-phone-smartbanner
 mall.kinarino.jp###app-features-band
 bird.rent#%#//scriptlet('trusted-click-element', 'div.redirector > dialog.modal button.svelte-ccmpno')
@@ -1975,7 +1976,7 @@ tmailor.com##.noti-download-app
 lifestyleasia.com##.btt-top-add-section
 hatarako.net,askdoctors.jp##.top-app-area
 povo.jp###sectionApp
-xlcountry.com,my1035.com##.branded-app-shortcode-inarticle
+wgna.com,xlcountry.com,my1035.com##.branded-app-shortcode-inarticle
 threads.net#?#div[class*=" "][style^="width:"] > div + div[class*=" "]:has(> div:last-child > a[href^="/download"])
 gpfans.com###androidDownload
 ctinews.com#?#.promote-items > li:has(> a[href="https://deep.ctinews.com/app-cti117"])
@@ -4624,6 +4625,10 @@ m.tokopedia.com#$#div[data-testid="divOverlay"] { display: none!important; }
 ! causes some issues: https://github.com/AdguardTeam/AdguardForMac/issues/550
 ~odaibako.net,~lineup.withgoogle.com,~vert.sh,~search.brave.com,~status.im,~lafenice.io,~kurer-sreda.ru,~chorki.com,~zattoo.com,~zaycev.net,~hitta.se,~mail.ru,~facebook.com,~instagram.com,~drive.google.com$$link[rel="manifest"]
 !
+gumtree.com.au##.footer__app-section
+hayatpay.com.tr##main > div.bottomBanner_container__oI2IU
+hayatpay.com.tr##body > div.wrapper > a[href^="https://hayatpay.go.link/"]
+tomshardware.com###article-body > figure.pull-left + p[id^="elk-"]:has(> a[href^="https://play.google.com/store/apps/details?id=com.futureplc.peregrine.tomshardware"])
 chouseisan.com###open_app_banner
 17.live#$#div[data-testid="mobileBlock"]:has(> div > div > button[data-ga-event-label="download_app_msite"]) { display: none !important; }
 17.live#$#div[data-testid="mobileBlock"]:has(> div > div > button[data-ga-event-label="download_app_msite"]) + div { min-height: 100% !important; }
