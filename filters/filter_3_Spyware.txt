@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-26T21:25:38.741Z
+! Last modified: 2026-11-27T08:11:12.315Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -110767,6 +110767,8 @@
 ||countly-
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||ap-prd-edge-clientlog.nexon.com^
+||toy.log.nexon.io^
 ||pan.pazarama.com^
 ||telemetry.*.oci.oraclecloud.com^
 ||dsh-otel-collector.deepseeksvc.com^
@@ -111014,6 +111016,7 @@
 ||aura.fairyaura.com^
 ||b.csquaregrc.com^
 ||b.dora.work^
+||beam.denikn.cz^
 ||beats.churchdesk.com^
 ||blog-analytics.hskl.me^
 ||bmf7ct7jmk.baronrojolapelicula.com^
@@ -119536,6 +119539,7 @@ dlsdk.appsflyer.com^
 ||littlesun.net^
 ||livelumber.com^
 ||livelylaugh.com^
+||livingoff.com^
 ||livingsleet.com^
 ||lizardslaugh.com^
 ||llamavoice.com^

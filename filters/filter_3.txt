@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-26T21:25:34.715Z
+! Last modified: 2026-11-27T08:11:09.278Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -1146,6 +1146,7 @@
 ||calypsocapsule.com^
 ||campaign.bharatmatrimony.com^
 ||caniamedia.com^
+||capablepotato.com^
 ||capitalopera.com^
 ||capriciouscorn.com^
 ||captainbicycle.com^

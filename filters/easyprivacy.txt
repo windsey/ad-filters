@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-26T21:25:26.080Z
+! Last modified: 2026-11-27T08:11:02.791Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -1971,6 +1971,7 @@
 ||littlesun.net^
 ||livelumber.com^
 ||livelylaugh.com^
+||livingoff.com^
 ||livingsleet.com^
 ||lizardslaugh.com^
 ||llamavoice.com^

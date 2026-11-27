@@ -114589,6 +114589,8 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1) { remove: true; }
 !
 ! NOTE: Regular rules
 !
+||ap-prd-edge-clientlog.nexon.com^
+||toy.log.nexon.io^
 ||pan.pazarama.com^
 ||telemetry.*.oci.oraclecloud.com^
 ||dsh-otel-collector.deepseeksvc.com^
@@ -114836,6 +114838,7 @@ biteki.com#$?#.slick-slide > div[id] + script:upward(1) { remove: true; }
 ||aura.fairyaura.com^
 ||b.csquaregrc.com^
 ||b.dora.work^
+||beam.denikn.cz^
 ||beats.churchdesk.com^
 ||bhs.alpha-peptides.com^
 ||blog-analytics.hskl.me^
@@ -453963,6 +453966,8 @@ naver.com#%#//scriptlet('trusted-json-set', 'JSON.stringify', '$.env.br_sr', '38
 !
 ! NOTE: Specific rules
 !
+||streamvsmov.com/api/embed-hit|
+||daophim.*/metrics/
 ||cdn.tmtarget.com/tracking/
 ||pazarama.com/event-collector-worker.js
 ||busbud.com/metrics/
@@ -470174,6 +470179,7 @@ kizi.com#%#window.google_trackConversion = function() {};
 ||littlesun.net^
 ||livelumber.com^
 ||livelylaugh.com^
+||livingoff.com^
 ||livingsleet.com^
 ||lizardslaugh.com^
 ||llamavoice.com^

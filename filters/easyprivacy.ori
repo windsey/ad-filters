@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611262121
+! Version: 202611270803
 ! Title: EasyPrivacy
-! Last modified: 26 Nov 2026 21:21 UTC
+! Last modified: 27 Nov 2026 08:03 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 60501f5f07ac87d18c50965699d8032f233ffe6f
+! Commit: 35f61eb2e50e4a4e21c271c58df4246c1b0e4687
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -8147,6 +8147,7 @@ omni.soundestlink.com$image
 ||littlesun.net^
 ||livelumber.com^
 ||livelylaugh.com^
+||livingoff.com^
 ||livingsleet.com^
 ||lizardslaugh.com^
 ||llamavoice.com^
@@ -13788,6 +13789,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trygravity.ai/ack?
 ||ts.tradetracker.net^
 ||turnto.com/event
+||tvid.in/api/track
 ||tvpage.com/tvpa.min.js
 ||tvpage.com^*/__tvpa.gif?
 ||twitter.com/jot.html
@@ -18180,6 +18182,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ss.partner.life360.com/bwcrqwpxgng.js
 ||svc2.sc.com^
 ||taboola.com/gtm/
+||techbarrista.com/api/event
 ||theverge.com/metrics/
 ||tips.delt.io^
 ||tm-eps.neutrino.nu^
