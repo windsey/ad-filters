@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-27T21:06:28.854Z
+! Last modified: 2026-11-28T07:36:07.435Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -33,6 +33,7 @@
 ||mistat.intl.xiaomi.com.ksyna.net^
 ||mistat.rus.xiaomi.com.ksyna.net^
 ||ad.intl.xiaomi.com.mgslb.com^
+||ad.xiaomi.com.mgslb.com^
 ||mistat.xiaomi.com.mgslb.com^
 ||video.kts.g.mi.com^
 ||d.g.mi.com^

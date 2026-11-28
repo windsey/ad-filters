@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-27T21:06:28.133Z
+! Last modified: 2026-11-28T07:36:06.855Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -281,6 +281,7 @@
 ||log3-normal-c-alisg.tiktokv.com.w.kunlunsl.com^
 ||log3-normal-c-useast1a.tiktokv.com.w.kunlunsl.com^
 ||tiktok-perf.mncdn.com^
+||rtlog16-normal-useastred.tiktokv.eu.intern.schreinereistumpf.de^
 ||abtest-ch.snssdk.com^
 ||analytics.snssdk.com^
 ||applog.snssdk.com^
@@ -317,6 +318,7 @@
 ||vas-hl-x.snssdk.com^
 ||vcl-brain.snssdk.com^
 ||xlog.snssdk.com^
+||mon16-normal-alisg.tiktokv.com.www.sterenwifi.com^
 ||ads.in.tiktok.com^
 ||ads.us.tiktok.com^
 ||ads-ttp2.us.tiktok.com^
@@ -353,6 +355,7 @@
 ||analytics16-normal-alisg.tiktok.com^
 ||business-api.tiktok.com^
 ||location.tiktok.com^
+||location-i18n.tiktok.com^
 ||mcs-i18n.tiktok.com^
 ||mcs-sg.tiktok.com^
 ||mcs-va.tiktok.com^

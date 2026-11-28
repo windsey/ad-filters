@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-27T21:06:27.057Z
+! Last modified: 2026-11-28T07:36:05.965Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -15,7 +15,6 @@
 ||prod-event-relay-sports-api.v.aaplimg.com^
 ||prod-event-relay-stocks-api.v.aaplimg.com^
 ||prod-event-relay-weather-api.v.aaplimg.com^
-||prod-event-relay-web-api.v.aaplimg.com^
 ||prod-iwork-events.v.aaplimg.com^
 ||prod-news-notification-events.v.aaplimg.com^
 ||securemetrics.v.aaplimg.com^
@@ -83,12 +82,7 @@
 ||xp.apple.com^
 ||xp-cdn.apple.com^
 ||feedbackws.fe.apple-dns.cn^
-||feedbackws.fe.apple-dns.net^
 ||feedbackws.fe2.apple-dns.net^
-||books-analytics-events.news.apple-dns.net^
-||notes-analytics-events.news.apple-dns.net^
-||stocks-analytics-events.news.apple-dns.net^
-||weather-analytics-events.news.apple-dns.net^
 ||me.apple-dns.net^
 ||cstat.cdn-apple.com^
 ||securemetrics.apple.com.cn^

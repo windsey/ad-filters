@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-27T21:06:27.766Z
+! Last modified: 2026-11-28T07:36:06.552Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -26,9 +26,6 @@
 ||ads-us-west-2.delivery.roku.com^
 ||ads.gcp.roku.com^
 ||logs.prod.ap.int.roku.com^
-||ad.usw2.qa.ap.int.roku.com^
-||ad.qa.ap.int.roku.com^
-||logs.qa.ap.int.roku.com^
 ||ad-eng.prod.rpay.int.roku.com^
 ||ad-eng.staging.rpay.int.roku.com^
 ||advertising.qa.us-east-1.dev.msc.roku.com^

@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-27T21:06:26.403Z
+! Last modified: 2026-11-28T07:36:05.439Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -119731,6 +119731,7 @@ dlsdk.appsflyer.com^
 ||mutualdocs.com^
 ||mysketchpad.com^
 ||mysticalagoon.com^
+||mythweaver.net^
 ||nablounge.com^
 ||naillearn.com^
 ||naivestatement.com^
@@ -119901,6 +119902,7 @@ dlsdk.appsflyer.com^
 ||pedropanther.com^
 ||peeringhost.net^
 ||pegsbuttons.com^
+||penbuzz.com^
 ||peoplebrain.net^
 ||pepperrun.com^
 ||perfectfetch.com^

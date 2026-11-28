@@ -1,6 +1,6 @@
 !
 ! Title: Blocklist
-! Last modified: 2026-11-27T21:06:27.942Z
+! Last modified: 2026-11-28T07:36:06.699Z
 !
 ! Compiled by @adguard/hostlist-compiler v3.0.0
 !
@@ -199,7 +199,6 @@
 ||moai-dev-samsung.com^
 ||qmds-dev-samsung.com^
 ||samsungacr.com^
-||samsungadhub.com^
 ||samsungads.com^
 ||samsungallstore.com^
 ||samsungr.com^
